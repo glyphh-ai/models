@@ -32,15 +32,21 @@ Intent extraction (action, target, domain, keywords) is built into the SDK —
 no separate model required:
 
 ```python
-from glyphh.intent import IntentExtractor
+from glyphh import LinguisticIntentParser
 
-extractor = IntentExtractor()
-result = extractor.extract("Send a message to #general on Slack")
-# {"action": "send", "target": "channel", "domain": "messaging", "keywords": "..."}
+parser = LinguisticIntentParser()
+parser.seed_actions(["send", "create", "delete", "search"])
+parser.seed_targets(["message", "channel", "file"])
+parser.seed_domains(["messaging", "filesystem"])
+
+result = parser.extract_intent("Send a message to #general on Slack")
+# {"action": "send", "target": "message", "domain": "messaging", "keywords": [...]}
 ```
 
-Domain packs (filesystem, trading, travel, social, math, vehicle) are bundled
-with the SDK. See [docs](https://glyphh.ai/docs) for details.
+The linguistic parser uses pure HDC (no LLM) with character-level encoding,
+morphology normalization, POS tagging, and syntax parsing. Each model can also
+define its own domain-specific `intent.py` for hand-tuned extraction.
+See [docs](https://glyphh.ai/docs) for details.
 
 ## Contributing a Model
 
