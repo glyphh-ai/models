@@ -25,3 +25,6 @@
 [submodule "code"]
 	path = code
 	url = https://github.com/glyphh-ai/model-code.git
+[submodule "voice"]
+	path = voice
+	url = https://github.com/glyphh-ai/model-voice.git
