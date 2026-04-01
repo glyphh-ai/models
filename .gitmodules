@@ -28,3 +28,6 @@
 [submodule "voice"]
 	path = voice
 	url = https://github.com/glyphh-ai/model-voice.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/glyphh-ai/model-firewall.git
