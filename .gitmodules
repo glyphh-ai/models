@@ -31,3 +31,6 @@
 [submodule "firewall"]
 	path = firewall
 	url = https://github.com/glyphh-ai/model-firewall.git
+[submodule "sentinel"]
+	path = sentinel
+	url = https://github.com/glyphh-ai/model-sentinel.git
