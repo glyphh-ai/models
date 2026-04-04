@@ -1,0 +1,117 @@
+{"query":"Update a Post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Update a Post in Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence update a post","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"update post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"update the post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"edit the post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"modify the post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"change the post on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"update post in Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"update post via Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"update post using Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"update post with Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Confluence update post","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence update the post","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence edit the post","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"update status update on Confluence","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"Confluence update status update","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"update a confluence post","expected_action_key":"confluence-update-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"contextual"}
+{"query":"Search Content on Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Search Content in Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence search content","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"search for content on Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence search for content","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"find content on Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence find content","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"look for content on Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence look for content","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"search for content in Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"search for content via Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"search for content using Confluence","expected_action_key":"confluence-search-content","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Get Pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Get Pages in Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence get pages","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"get the pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"retrieve pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"fetch pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"show me the pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"pull pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"check pages on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"get pages via Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get pages using Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get pages with Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Confluence get the pages","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence retrieve pages","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"get document on Confluence","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"Confluence get document","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"get a confluence pages","expected_action_key":"confluence-get-pages","expected_app_slug":"confluence","app_name":"Confluence","test_type":"contextual"}
+{"query":"Get Pages in Space on Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Get Pages in Space in Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence get pages in space","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"get pages space on Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence get pages space","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"get the pages space on Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence get the pages space","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"retrieve pages space on Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence retrieve pages space","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"get pages space in Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get pages space via Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get pages space using Confluence","expected_action_key":"confluence-get-pages-in-space","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Get Page by ID on Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Get Page by ID in Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence get page by id","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"get page id on Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence get page id","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"get the page id on Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence get the page id","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"retrieve page id on Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"Confluence retrieve page id","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"get page id in Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get page id via Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"get page id using Confluence","expected_action_key":"confluence-get-page-by-id","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Delete Post on Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Delete Post in Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence delete post","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"delete the post on Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"remove the post on Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"destroy the post on Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"delete post via Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"delete post using Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"delete post with Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Confluence delete the post","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence remove the post","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"delete status update on Confluence","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"Confluence delete status update","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"delete a confluence post","expected_action_key":"confluence-delete-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"contextual"}
+{"query":"Create Post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Create Post in Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence create post","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"create a post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"make a post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"new post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"open a post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"start a post on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"create post via Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"create post using Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"create post with Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Confluence create a post","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence make a post","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"create status update on Confluence","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"Confluence create status update","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"create a confluence post","expected_action_key":"confluence-create-post","expected_app_slug":"confluence","app_name":"Confluence","test_type":"contextual"}
+{"query":"Create Page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Create Page in Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"Confluence create page","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"action_name"}
+{"query":"create a page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"make a page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"new page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"open a page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"start a page on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"canonical"}
+{"query":"create page via Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"create page using Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"create page with Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_prep"}
+{"query":"Confluence create a page","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"Confluence make a page","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"app_first"}
+{"query":"create document on Confluence","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"Confluence create document","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"alt_target"}
+{"query":"create a confluence page","expected_action_key":"confluence-create-page","expected_app_slug":"confluence","app_name":"Confluence","test_type":"contextual"}

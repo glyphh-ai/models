@@ -1,0 +1,16 @@
+{"query":"Create Customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"action_name"}
+{"query":"Create Customer in Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"action_name"}
+{"query":"Shoprocket create customer","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"action_name"}
+{"query":"create a customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"canonical"}
+{"query":"make a customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"canonical"}
+{"query":"new customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"canonical"}
+{"query":"open a customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"canonical"}
+{"query":"start a customer on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"canonical"}
+{"query":"create customer via Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"alt_prep"}
+{"query":"create customer using Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"alt_prep"}
+{"query":"create customer with Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"alt_prep"}
+{"query":"Shoprocket create a customer","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"app_first"}
+{"query":"Shoprocket make a customer","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"app_first"}
+{"query":"create account on Shoprocket","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"alt_target"}
+{"query":"Shoprocket create account","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"alt_target"}
+{"query":"create a shoprocket customer","expected_action_key":"shoprocket-create-customer","expected_app_slug":"shoprocket","app_name":"Shoprocket","test_type":"contextual"}

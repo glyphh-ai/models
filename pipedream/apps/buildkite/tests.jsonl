@@ -1,0 +1,10 @@
+{"query":"Get the current user on Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"action_name"}
+{"query":"Get the current user in Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"action_name"}
+{"query":"Buildkite get the current user","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"action_name"}
+{"query":"get current user on Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"canonical"}
+{"query":"Buildkite get current user","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"app_first"}
+{"query":"retrieve current user on Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"canonical"}
+{"query":"Buildkite retrieve current user","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"app_first"}
+{"query":"get current user in Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"alt_prep"}
+{"query":"get current user via Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"alt_prep"}
+{"query":"get current user using Buildkite","expected_action_key":"buildkite-get-user","expected_app_slug":"buildkite","app_name":"Buildkite","test_type":"alt_prep"}

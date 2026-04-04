@@ -1,0 +1,213 @@
+{"query":"Update Person on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Update Person in Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive update person","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"update the person on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"edit the person on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"modify the person on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"change the person on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"update person via Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update person using Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update person with Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive update the person","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive edit the person","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"update member on Pipedrive","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive update member","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"update a pipedrive person","expected_action_key":"pipedrive-update-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Update Lead on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Update Lead in Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive update lead","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"update the lead on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"edit the lead on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"modify the lead on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"change the lead on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"update lead via Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update lead using Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update lead with Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive update the lead","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive edit the lead","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"update contact record on Pipedrive","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive update contact record","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"update a pipedrive lead","expected_action_key":"pipedrive-update-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Update Deal on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Update Deal in Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive update deal","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"update the deal on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"edit the deal on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"modify the deal on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"change the deal on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"update deal via Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update deal using Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"update deal with Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive update the deal","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive edit the deal","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"update opportunity on Pipedrive","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive update opportunity","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"update a pipedrive deal","expected_action_key":"pipedrive-update-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Search persons on Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Search persons in Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive search persons","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"search for persons on Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive search for persons","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"find persons on Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive find persons","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"look for persons on Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive look for persons","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"search for persons in Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for persons via Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for persons using Pipedrive","expected_action_key":"pipedrive-search-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Search Notes on Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Search Notes in Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive search notes","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"search for notes on Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"find notes on Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"look for notes on Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"locate notes on Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"search for notes in Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for notes via Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for notes using Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for notes with Pipedrive","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive search for notes","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive find notes","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive look for notes","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"search for a pipedrive notes","expected_action_key":"pipedrive-search-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Search Leads on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Search Leads in Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive search leads","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"search for leads on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"find leads on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"look for leads on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"locate leads on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"search for leads in Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for leads via Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for leads using Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"search for leads with Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive search for leads","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive find leads","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive look for leads","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"search for contact record on Pipedrive","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive search for contact record","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"search for a pipedrive leads","expected_action_key":"pipedrive-search-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Remove Duplicate Notes on Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Remove Duplicate Notes in Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive remove duplicate notes","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"remove the duplicate notes on Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive remove the duplicate notes","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"take out duplicate notes on Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive take out duplicate notes","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"remove duplicate notes via Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"remove duplicate notes using Pipedrive","expected_action_key":"pipedrive-remove-duplicate-notes","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Merge Persons on Pipedrive","expected_action_key":"pipedrive-merge-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Merge Persons in Pipedrive","expected_action_key":"pipedrive-merge-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive merge persons","expected_action_key":"pipedrive-merge-persons","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Merge Deals on Pipedrive","expected_action_key":"pipedrive-merge-deals","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Merge Deals in Pipedrive","expected_action_key":"pipedrive-merge-deals","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive merge deals","expected_action_key":"pipedrive-merge-deals","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Get person details on Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Get person details in Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive get person details","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"get the person details on Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive get the person details","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"retrieve person details on Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive retrieve person details","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"get person details via Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"get person details using Pipedrive","expected_action_key":"pipedrive-get-person-details","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Get Lead by ID on Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Get Lead by ID in Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive get lead by id","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"get lead id on Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive get lead id","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"get the lead id on Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive get the lead id","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"retrieve lead id on Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive retrieve lead id","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"get lead id in Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"get lead id via Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"get lead id using Pipedrive","expected_action_key":"pipedrive-get-lead-by-id","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Get All Leads on Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Get All Leads in Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive get all leads","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"get the all leads on Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive get the all leads","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"retrieve all leads on Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive retrieve all leads","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"get all leads via Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"get all leads using Pipedrive","expected_action_key":"pipedrive-get-all-leads","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Add Person on Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Person in Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add person","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a person on Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add new person on Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add person via Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add person using Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add person with Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive add a person","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive add new person","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add member on Pipedrive","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive add member","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"add a pipedrive person","expected_action_key":"pipedrive-add-person","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Add Organization on Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Organization in Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add organization","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a organization on Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive add a organization","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add new organization on Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive add new organization","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add organization via Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add organization using Pipedrive","expected_action_key":"pipedrive-add-organization","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Add Note on Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Note in Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add note","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a note on Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add new note on Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add note via Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add note using Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add note with Pipedrive","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive add a note","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive add new note","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add a pipedrive note","expected_action_key":"pipedrive-add-note","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Add Lead on Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Lead in Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add lead","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a lead on Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add new lead on Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add lead via Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add lead using Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add lead with Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive add a lead","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive add new lead","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add contact record on Pipedrive","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive add contact record","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"add a pipedrive lead","expected_action_key":"pipedrive-add-lead","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Add Labels on Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Labels in Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add labels","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a labels on Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add new labels on Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add labels via Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add labels using Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add labels with Pipedrive","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive add a labels","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive add new labels","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add a pipedrive labels","expected_action_key":"pipedrive-add-labels","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Add Deal on Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Deal in Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add deal","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a deal on Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add new deal on Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"add deal via Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add deal using Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add deal with Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"Pipedrive add a deal","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"Pipedrive add new deal","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add opportunity on Pipedrive","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"Pipedrive add opportunity","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_target"}
+{"query":"add a pipedrive deal","expected_action_key":"pipedrive-add-deal","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"contextual"}
+{"query":"Add Activity on Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Add Activity in Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"Pipedrive add activity","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"action_name"}
+{"query":"add a activity on Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive add a activity","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add new activity on Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"canonical"}
+{"query":"Pipedrive add new activity","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"app_first"}
+{"query":"add activity via Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}
+{"query":"add activity using Pipedrive","expected_action_key":"pipedrive-add-activity","expected_app_slug":"pipedrive","app_name":"Pipedrive","test_type":"alt_prep"}

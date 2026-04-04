@@ -1,0 +1,179 @@
+{"query":"Create Project on Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Create Project in Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana create project","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"create a project on Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana create a project","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"make a project on Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana make a project","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create project via Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create project using Asana","expected_action_key":"asana-create-project","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Update Task on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Update Task in Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana update task","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"update the task on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"edit the task on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"modify the task on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"change the task on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"update task via Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"update task using Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"update task with Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Asana update the task","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"Asana edit the task","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"update story on Asana","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"Asana update story","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"update a asana task","expected_action_key":"asana-update-task","expected_app_slug":"asana","app_name":"Asana","test_type":"contextual"}
+{"query":"Get list of user projects on Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Get list of user projects in Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana get list of user projects","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"get the list of user projects on Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana get the list of user projects","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"retrieve list of user projects on Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana retrieve list of user projects","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"get list of user projects via Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"get list of user projects using Asana","expected_action_key":"asana-search-user-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Search Tasks on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Search Tasks in Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana search tasks","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"search for tasks on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"find tasks on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"look for tasks on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"locate tasks on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"search for tasks in Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for tasks via Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for tasks using Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for tasks with Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Asana search for tasks","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"Asana find tasks","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"Asana look for tasks","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"search for story on Asana","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"Asana search for story","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"search for a asana tasks","expected_action_key":"asana-search-tasks","expected_app_slug":"asana","app_name":"Asana","test_type":"contextual"}
+{"query":"Search Sections on Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Search Sections in Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana search sections","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"search for sections on Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana search for sections","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"find sections on Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana find sections","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"look for sections on Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana look for sections","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"search for sections in Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for sections via Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for sections using Asana","expected_action_key":"asana-search-sections","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Search Projects on Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Search Projects in Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana search projects","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"search for projects on Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana search for projects","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"find projects on Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana find projects","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"look for projects on Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana look for projects","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"search for projects in Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for projects via Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for projects using Asana","expected_action_key":"asana-search-projects","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"List Task Stories on Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"List Task Stories in Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana list task stories","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"list all task stories on Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana list all task stories","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"show all task stories on Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana show all task stories","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"list task stories via Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"list task stories using Asana","expected_action_key":"asana-list-task-stories","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Get Tasks From Task List on Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Get Tasks From Task List in Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana get tasks from task list","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"get tasks task list on Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana get tasks task list","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"get the tasks task list on Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana get the tasks task list","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"retrieve tasks task list on Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana retrieve tasks task list","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"get tasks task list in Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"get tasks task list via Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"get tasks task list using Asana","expected_action_key":"asana-get-tasks-from-task-list","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Find Task by ID on Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Find Task by ID in Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana find task by id","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"search for task id on Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana search for task id","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"find task id on Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana find task id","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"look for task id on Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana look for task id","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"search for task id in Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for task id via Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"search for task id using Asana","expected_action_key":"asana-find-task-by-id","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Delete Task on Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Delete Task in Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana delete task","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"delete the task on Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"remove the task on Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"destroy the task on Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"delete task via Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"delete task using Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"delete task with Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Asana delete the task","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"Asana remove the task","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"delete story on Asana","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"Asana delete story","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"delete a asana task","expected_action_key":"asana-delete-task","expected_app_slug":"asana","app_name":"Asana","test_type":"contextual"}
+{"query":"Create Task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Create Task in Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana create task","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"create a task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"make a task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"new task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"open a task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"start a task on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"create task via Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create task using Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create task with Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Asana create a task","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"Asana make a task","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create story on Asana","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"Asana create story","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_target"}
+{"query":"create a asana task","expected_action_key":"asana-create-task","expected_app_slug":"asana","app_name":"Asana","test_type":"contextual"}
+{"query":"Create Task from Template on Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Create Task from Template in Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana create task from template","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"create task template on Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana create task template","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create a task template on Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana create a task template","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"make a task template on Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana make a task template","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create task template in Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create task template via Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create task template using Asana","expected_action_key":"asana-create-task-from-template","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Create Task Comment on Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Create Task Comment in Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana create task comment","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"create a task comment on Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana create a task comment","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"make a task comment on Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana make a task comment","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create task comment via Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create task comment using Asana","expected_action_key":"asana-create-task-comment","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Create Subtask on Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Create Subtask in Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana create subtask","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"create a subtask on Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana create a subtask","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"make a subtask on Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana make a subtask","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"create subtask via Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"create subtask using Asana","expected_action_key":"asana-create-subtask","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"Add Task To Section on Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Add Task To Section in Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"Asana add task to section","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"action_name"}
+{"query":"add task section on Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana add task section","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"add a task section on Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana add a task section","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"add new task section on Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"canonical"}
+{"query":"Asana add new task section","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"app_first"}
+{"query":"add task section in Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"add task section via Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}
+{"query":"add task section using Asana","expected_action_key":"asana-add-task-to-section","expected_app_slug":"asana","app_name":"Asana","test_type":"alt_prep"}

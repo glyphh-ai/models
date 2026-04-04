@@ -1,0 +1,28 @@
+{"query":"Retrieve DBA on SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"Retrieve DBA in SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"SumUp retrieve dba","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"get dba on SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp get dba","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"get the dba on SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp get the dba","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"get dba in SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"get dba via SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"get dba using SumUp","expected_action_key":"sumup-retrieve-dba","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"List Transactions on SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"List Transactions in SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"SumUp list transactions","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"list all transactions on SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp list all transactions","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"show all transactions on SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp show all transactions","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"list transactions via SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"list transactions using SumUp","expected_action_key":"sumup-list-transactions","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"Get Merchant Profile on SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"Get Merchant Profile in SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"SumUp get merchant profile","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"action_name"}
+{"query":"get the merchant profile on SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp get the merchant profile","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"retrieve merchant profile on SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"canonical"}
+{"query":"SumUp retrieve merchant profile","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"app_first"}
+{"query":"get merchant profile via SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}
+{"query":"get merchant profile using SumUp","expected_action_key":"sumup-get-merchant-profile","expected_app_slug":"sumup","app_name":"SumUp","test_type":"alt_prep"}

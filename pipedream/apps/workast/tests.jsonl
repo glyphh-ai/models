@@ -1,0 +1,25 @@
+{"query":"Create Task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"Create Task in Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"Workast create task","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"create a task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"make a task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"new task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"open a task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"start a task on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"create task via Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_prep"}
+{"query":"create task using Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_prep"}
+{"query":"create task with Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_prep"}
+{"query":"Workast create a task","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"app_first"}
+{"query":"Workast make a task","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"app_first"}
+{"query":"create story on Workast","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_target"}
+{"query":"Workast create story","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_target"}
+{"query":"create a workast task","expected_action_key":"workast-create-task","expected_app_slug":"workast","app_name":"Workast","test_type":"contextual"}
+{"query":"Create Space on Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"Create Space in Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"Workast create space","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"action_name"}
+{"query":"create a space on Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"Workast create a space","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"app_first"}
+{"query":"make a space on Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"canonical"}
+{"query":"Workast make a space","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"app_first"}
+{"query":"create space via Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_prep"}
+{"query":"create space using Workast","expected_action_key":"workast-create-space","expected_app_slug":"workast","app_name":"Workast","test_type":"alt_prep"}

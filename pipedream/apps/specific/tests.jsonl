@@ -1,0 +1,19 @@
+{"query":"Find Company on Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"Find Company in Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"Specific find company","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"search for company on Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"canonical"}
+{"query":"Specific search for company","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"app_first"}
+{"query":"look for company on Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"canonical"}
+{"query":"Specific look for company","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"app_first"}
+{"query":"search for company in Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"alt_prep"}
+{"query":"search for company via Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"alt_prep"}
+{"query":"search for company using Specific","expected_action_key":"specific-find-company","expected_app_slug":"specific","app_name":"Specific","test_type":"alt_prep"}
+{"query":"Create Conversation on Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"Create Conversation in Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"Specific create conversation","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"action_name"}
+{"query":"create a conversation on Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"canonical"}
+{"query":"Specific create a conversation","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"app_first"}
+{"query":"make a conversation on Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"canonical"}
+{"query":"Specific make a conversation","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"app_first"}
+{"query":"create conversation via Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"alt_prep"}
+{"query":"create conversation using Specific","expected_action_key":"specific-create-conversation","expected_app_slug":"specific","app_name":"Specific","test_type":"alt_prep"}

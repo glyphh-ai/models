@@ -1,0 +1,18 @@
+{"query":"Verify OTP on Myotp App","expected_action_key":"myotp_app-verify-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Verify OTP in Myotp App","expected_action_key":"myotp_app-verify-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Myotp App verify otp","expected_action_key":"myotp_app-verify-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Verify OTP on myotp.app","expected_action_key":"myotp_app-verify-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Verify OTP on myotp_app","expected_action_key":"myotp_app-verify-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Send OTP on Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Send OTP in Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Myotp App send otp","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Send OTP on myotp.app","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"Send OTP on myotp_app","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"action_name"}
+{"query":"send a otp on Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"canonical"}
+{"query":"Myotp App send a otp","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"app_first"}
+{"query":"post a otp on Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"canonical"}
+{"query":"Myotp App post a otp","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"app_first"}
+{"query":"send otp via Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"alt_prep"}
+{"query":"send otp using Myotp App","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"alt_prep"}
+{"query":"myotp.app send otp","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"alt_app_name"}
+{"query":"myotp_app send otp","expected_action_key":"myotp_app-send-otp","expected_app_slug":"myotp_app","app_name":"MyOTP.App","test_type":"alt_app_name"}

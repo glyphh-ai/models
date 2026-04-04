@@ -1,0 +1,9 @@
+{"query":"List Donations on Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"action_name"}
+{"query":"List Donations in Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"action_name"}
+{"query":"Raisely list donations","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"action_name"}
+{"query":"list all donations on Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"canonical"}
+{"query":"Raisely list all donations","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"app_first"}
+{"query":"show all donations on Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"canonical"}
+{"query":"Raisely show all donations","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"app_first"}
+{"query":"list donations via Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"alt_prep"}
+{"query":"list donations using Raisely","expected_action_key":"raisely-list-donations","expected_app_slug":"raisely","app_name":"Raisely","test_type":"alt_prep"}

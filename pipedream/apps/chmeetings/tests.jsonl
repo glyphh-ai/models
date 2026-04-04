@@ -1,0 +1,34 @@
+{"query":"Get Contributions on ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"Get Contributions in ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"ChMeetings get contributions","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"get the contributions on ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"ChMeetings get the contributions","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"retrieve contributions on ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"ChMeetings retrieve contributions","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"get contributions via ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"get contributions using ChMeetings","expected_action_key":"chmeetings-get-contributions","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"Create Person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"Create Person in ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"ChMeetings create person","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"create a person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"make a person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"new person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"open a person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"start a person on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"create person via ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"create person using ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"create person with ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"ChMeetings create a person","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"ChMeetings make a person","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"create member on ChMeetings","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_target"}
+{"query":"ChMeetings create member","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_target"}
+{"query":"create a chmeetings person","expected_action_key":"chmeetings-create-person","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"contextual"}
+{"query":"Create Contribution on ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"Create Contribution in ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"ChMeetings create contribution","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"action_name"}
+{"query":"create a contribution on ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"ChMeetings create a contribution","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"make a contribution on ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"canonical"}
+{"query":"ChMeetings make a contribution","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"app_first"}
+{"query":"create contribution via ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}
+{"query":"create contribution using ChMeetings","expected_action_key":"chmeetings-create-contribution","expected_app_slug":"chmeetings","app_name":"ChMeetings","test_type":"alt_prep"}

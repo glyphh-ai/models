@@ -1,0 +1,58 @@
+{"query":"Update Table Name on Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Update Table Name in Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola update table name","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"update the table name on Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola update the table name","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"edit the table name on Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola edit the table name","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"update table name via Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"update table name using Keboola","expected_action_key":"keboola-update-table-name","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"Update Bucket on Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Update Bucket in Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola update bucket","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"update the bucket on Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola update the bucket","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"edit the bucket on Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola edit the bucket","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"update bucket via Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"update bucket using Keboola","expected_action_key":"keboola-update-bucket","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"Retrieve Buckets on Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Retrieve Buckets in Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola retrieve buckets","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"get buckets on Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola get buckets","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"get the buckets on Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola get the buckets","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"get buckets in Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"get buckets via Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"get buckets using Keboola","expected_action_key":"keboola-retrieve-buckets","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"List Tables In Bucket on Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"List Tables In Bucket in Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola list tables in bucket","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"list tables bucket on Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola list tables bucket","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"list all tables bucket on Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola list all tables bucket","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"show all tables bucket on Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola show all tables bucket","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"list tables bucket in Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"list tables bucket via Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"list tables bucket using Keboola","expected_action_key":"keboola-retrieve-bucket-tables","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"Get Table Detail on Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Get Table Detail in Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola get table detail","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"get the table detail on Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola get the table detail","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"retrieve table detail on Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola retrieve table detail","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"get table detail via Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"get table detail using Keboola","expected_action_key":"keboola-get-table-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"Get Bucket Detail on Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Get Bucket Detail in Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"Keboola get bucket detail","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"action_name"}
+{"query":"get the bucket detail on Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola get the bucket detail","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"retrieve bucket detail on Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"canonical"}
+{"query":"Keboola retrieve bucket detail","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"app_first"}
+{"query":"get bucket detail via Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}
+{"query":"get bucket detail using Keboola","expected_action_key":"keboola-get-bucket-detail","expected_app_slug":"keboola","app_name":"Keboola","test_type":"alt_prep"}

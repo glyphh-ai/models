@@ -1,0 +1,49 @@
+{"query":"Update Customer on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Update Customer in Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Kustomer update customer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"update the customer on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"edit the customer on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"modify the customer on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"change the customer on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"update customer via Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"update customer using Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"update customer with Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"Kustomer update the customer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"Kustomer edit the customer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"update account on Kustomer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_target"}
+{"query":"Kustomer update account","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_target"}
+{"query":"update a kustomer customer","expected_action_key":"kustomer-update-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"contextual"}
+{"query":"Update Conversation on Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Update Conversation in Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Kustomer update conversation","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"update the conversation on Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"Kustomer update the conversation","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"edit the conversation on Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"Kustomer edit the conversation","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"update conversation via Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"update conversation using Kustomer","expected_action_key":"kustomer-update-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"Create Customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Create Customer in Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Kustomer create customer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"create a customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"make a customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"new customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"open a customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"start a customer on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"create customer via Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"create customer using Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"create customer with Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"Kustomer create a customer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"Kustomer make a customer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"create account on Kustomer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_target"}
+{"query":"Kustomer create account","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_target"}
+{"query":"create a kustomer customer","expected_action_key":"kustomer-create-customer","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"contextual"}
+{"query":"Create Conversation on Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Create Conversation in Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"Kustomer create conversation","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"action_name"}
+{"query":"create a conversation on Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"Kustomer create a conversation","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"make a conversation on Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"canonical"}
+{"query":"Kustomer make a conversation","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"app_first"}
+{"query":"create conversation via Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}
+{"query":"create conversation using Kustomer","expected_action_key":"kustomer-create-conversation","expected_app_slug":"kustomer","app_name":"Kustomer","test_type":"alt_prep"}

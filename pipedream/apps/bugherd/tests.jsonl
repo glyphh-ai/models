@@ -1,0 +1,35 @@
+{"query":"Update Task on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"Update Task in BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"BugHerd update task","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"update the task on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"edit the task on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"modify the task on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"change the task on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"update task via BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"update task using BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"update task with BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"BugHerd update the task","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"BugHerd edit the task","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"update story on BugHerd","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_target"}
+{"query":"BugHerd update story","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_target"}
+{"query":"update a bugherd task","expected_action_key":"bugherd-update-task","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"contextual"}
+{"query":"Create Project on BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"Create Project in BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"BugHerd create project","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"create a project on BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"BugHerd create a project","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"make a project on BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"BugHerd make a project","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"create project via BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"create project using BugHerd","expected_action_key":"bugherd-create-project","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"Add Attachment on BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"Add Attachment in BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"BugHerd add attachment","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"action_name"}
+{"query":"add a attachment on BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"add new attachment on BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"canonical"}
+{"query":"add attachment via BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"add attachment using BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"add attachment with BugHerd","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"alt_prep"}
+{"query":"BugHerd add a attachment","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"BugHerd add new attachment","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"app_first"}
+{"query":"add a bugherd attachment","expected_action_key":"bugherd-add-attachment","expected_app_slug":"bugherd","app_name":"BugHerd","test_type":"contextual"}

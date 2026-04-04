@@ -1,0 +1,33 @@
+{"query":"Execute Query on Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Execute Query in Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Nile Database execute query","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Execute Query on nile_database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"trigger query on Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"Nile Database trigger query","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"app_first"}
+{"query":"run query on Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"Nile Database run query","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"app_first"}
+{"query":"trigger query in Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"trigger query via Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"trigger query using Nile Database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"trigger query on nile_database","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_app_name"}
+{"query":"nile_database trigger query","expected_action_key":"nile_database-execute-query","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_app_name"}
+{"query":"Create User on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Create User in Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Nile Database create user","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"Create User on nile_database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"action_name"}
+{"query":"create a user on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"make a user on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"new user on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"open a user on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"start a user on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"canonical"}
+{"query":"create user via Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"create user using Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"create user with Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_prep"}
+{"query":"Nile Database create a user","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"app_first"}
+{"query":"Nile Database make a user","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"app_first"}
+{"query":"create member on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_target"}
+{"query":"Nile Database create member","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_target"}
+{"query":"create person on Nile Database","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_target"}
+{"query":"Nile Database create person","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_target"}
+{"query":"nile_database create user","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"alt_app_name"}
+{"query":"create a nile database user","expected_action_key":"nile_database-create-user","expected_app_slug":"nile_database","app_name":"Nile Database","test_type":"contextual"}

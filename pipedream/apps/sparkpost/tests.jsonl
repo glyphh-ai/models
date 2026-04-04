@@ -1,0 +1,15 @@
+{"query":"Send Email on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"action_name"}
+{"query":"Send Email in SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"action_name"}
+{"query":"SparkPost send email","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"action_name"}
+{"query":"send a email on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"canonical"}
+{"query":"post a email on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"canonical"}
+{"query":"send out email on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"canonical"}
+{"query":"fire off email on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"canonical"}
+{"query":"send email via SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"alt_prep"}
+{"query":"send email using SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"alt_prep"}
+{"query":"send email with SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"alt_prep"}
+{"query":"SparkPost send a email","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"app_first"}
+{"query":"SparkPost post a email","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"app_first"}
+{"query":"send mail on SparkPost","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"alt_target"}
+{"query":"SparkPost send mail","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"alt_target"}
+{"query":"send a sparkpost email","expected_action_key":"sparkpost-send-email","expected_app_slug":"sparkpost","app_name":"SparkPost","test_type":"contextual"}

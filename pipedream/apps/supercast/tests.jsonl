@@ -1,0 +1,22 @@
+{"query":"Create an Episode on Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"Create an Episode in Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"Supercast create an episode","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"create episode on Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"canonical"}
+{"query":"Supercast create episode","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"app_first"}
+{"query":"create a episode on Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"canonical"}
+{"query":"Supercast create a episode","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"app_first"}
+{"query":"make a episode on Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"canonical"}
+{"query":"Supercast make a episode","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"app_first"}
+{"query":"create episode in Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}
+{"query":"create episode via Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}
+{"query":"create episode using Supercast","expected_action_key":"supercast-create-episode","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}
+{"query":"Create a Channel Creator on Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"Create a Channel Creator in Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"Supercast create a channel creator","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"action_name"}
+{"query":"create channel creator on Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"canonical"}
+{"query":"Supercast create channel creator","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"app_first"}
+{"query":"make a channel creator on Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"canonical"}
+{"query":"Supercast make a channel creator","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"app_first"}
+{"query":"create channel creator in Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}
+{"query":"create channel creator via Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}
+{"query":"create channel creator using Supercast","expected_action_key":"supercast-create-creator","expected_app_slug":"supercast","app_name":"Supercast","test_type":"alt_prep"}

@@ -1,0 +1,27 @@
+{"query":"Send Transaction on Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"Send Transaction in Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"Poof send transaction","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"send a transaction on Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof send a transaction","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"post a transaction on Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof post a transaction","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"send transaction via Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}
+{"query":"send transaction using Poof","expected_action_key":"poof-send-transaction","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}
+{"query":"List Transactions on Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"List Transactions in Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"Poof list transactions","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"list all transactions on Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof list all transactions","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"show all transactions on Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof show all transactions","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"list transactions via Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}
+{"query":"list transactions using Poof","expected_action_key":"poof-list-transactions","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}
+{"query":"Create Deposit Address on Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"Create Deposit Address in Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"Poof create deposit address","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"action_name"}
+{"query":"create a deposit address on Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof create a deposit address","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"make a deposit address on Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"canonical"}
+{"query":"Poof make a deposit address","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"app_first"}
+{"query":"create deposit address via Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}
+{"query":"create deposit address using Poof","expected_action_key":"poof-create-deposit-address","expected_app_slug":"poof","app_name":"Poof","test_type":"alt_prep"}

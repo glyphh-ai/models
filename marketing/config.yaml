@@ -1,0 +1,62 @@
+name: marketing
+version: 0.1.0
+description: Marketing intelligence — campaigns, posts, and audiences as HDC glyphs
+
+encoder:
+  dimensions: 2000
+  seed: 42
+
+layers:
+  identity:
+    weight: 0.10
+    roles:
+      entity_type:
+        type: categorical
+        values: [campaign, post, audience]
+      entity_id:
+        type: symbolic
+        key_part: true
+  strategy:
+    weight: 0.25
+    roles:
+      goal:
+        type: categorical
+        values: [awareness, conversion, engagement, retention, acquisition, branding]
+      audience_segment:
+        type: bag_of_words
+      platform:
+        type: bag_of_words
+      content_type:
+        type: categorical
+        values: [article, video, social_post, email, webinar, case_study, ad, podcast, whitepaper, infographic]
+  content:
+    weight: 0.30
+    roles:
+      themes:
+        type: bag_of_words
+      tone:
+        type: categorical
+        values: [professional, casual, technical, inspirational, educational, urgent, conversational, formal]
+      keywords:
+        type: bag_of_words
+        weight: 0.8
+  performance:
+    weight: 0.35
+    roles:
+      engagement_metrics:
+        type: continuous
+        source_dim: 5
+      conversion_metrics:
+        type: continuous
+        source_dim: 5
+      reach_metrics:
+        type: continuous
+        source_dim: 4
+
+similarity:
+  threshold: 0.40
+  top_k: 5
+
+temporal:
+  enabled: true
+  source: auto

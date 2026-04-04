@@ -1,0 +1,40 @@
+{"query":"List Employees on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"List Employees in Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"Personio list employees","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"list all employees on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"show all employees on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"get all employees on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"show me all employees on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"list employees via Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"list employees using Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"list employees with Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"Personio list all employees","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"Personio show all employees","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"list staff member on Personio","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_target"}
+{"query":"Personio list staff member","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_target"}
+{"query":"list a personio employees","expected_action_key":"personio-list-employees","expected_app_slug":"personio","app_name":"Personio","test_type":"contextual"}
+{"query":"Create Employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"Create Employee in Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"Personio create employee","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"create a employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"make a employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"new employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"open a employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"start a employee on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"create employee via Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"create employee using Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"create employee with Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"Personio create a employee","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"Personio make a employee","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"create staff member on Personio","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_target"}
+{"query":"Personio create staff member","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_target"}
+{"query":"create a personio employee","expected_action_key":"personio-create-employee","expected_app_slug":"personio","app_name":"Personio","test_type":"contextual"}
+{"query":"Create Application on Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"Create Application in Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"Personio create application","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"action_name"}
+{"query":"create a application on Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"Personio create a application","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"make a application on Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"canonical"}
+{"query":"Personio make a application","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"app_first"}
+{"query":"create application via Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}
+{"query":"create application using Personio","expected_action_key":"personio-create-application","expected_app_slug":"personio","app_name":"Personio","test_type":"alt_prep"}

@@ -1,0 +1,21 @@
+{"query":"Post feed on Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"Post feed in Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"Blink post feed","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"send feed on Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"canonical"}
+{"query":"Blink send feed","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"app_first"}
+{"query":"send a feed on Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"canonical"}
+{"query":"Blink send a feed","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"app_first"}
+{"query":"post a feed on Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"canonical"}
+{"query":"Blink post a feed","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"app_first"}
+{"query":"send feed in Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"alt_prep"}
+{"query":"send feed via Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"alt_prep"}
+{"query":"send feed using Blink","expected_action_key":"blink-post-feed","expected_app_slug":"blink","app_name":"Blink","test_type":"alt_prep"}
+{"query":"Get Feed Event on Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"Get Feed Event in Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"Blink get feed event","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"action_name"}
+{"query":"get the feed event on Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"canonical"}
+{"query":"Blink get the feed event","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"app_first"}
+{"query":"retrieve feed event on Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"canonical"}
+{"query":"Blink retrieve feed event","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"app_first"}
+{"query":"get feed event via Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"alt_prep"}
+{"query":"get feed event using Blink","expected_action_key":"blink-get-feed-event","expected_app_slug":"blink","app_name":"Blink","test_type":"alt_prep"}

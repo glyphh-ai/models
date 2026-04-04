@@ -1,0 +1,51 @@
+{"query":"List Teams on YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"List Teams in YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"YoPlanning list teams","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"list all teams on YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning list all teams","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"show all teams on YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning show all teams","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"list teams via YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list teams using YoPlanning","expected_action_key":"yoplanning-list-teams","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"List Payments on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"List Payments in YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"YoPlanning list payments","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"list all payments on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"show all payments on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"get all payments on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"show me all payments on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"list payments via YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list payments using YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list payments with YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"YoPlanning list all payments","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"YoPlanning show all payments","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"list charge on YoPlanning","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_target"}
+{"query":"YoPlanning list charge","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_target"}
+{"query":"list a yoplanning payments","expected_action_key":"yoplanning-list-payments","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"contextual"}
+{"query":"List Orders on YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"List Orders in YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"YoPlanning list orders","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"list all orders on YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning list all orders","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"show all orders on YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning show all orders","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"list orders via YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list orders using YoPlanning","expected_action_key":"yoplanning-list-orders","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"List Clients on YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"List Clients in YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"YoPlanning list clients","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"list all clients on YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning list all clients","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"show all clients on YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning show all clients","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"list clients via YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list clients using YoPlanning","expected_action_key":"yoplanning-list-clients","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"List Categories on YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"List Categories in YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"YoPlanning list categories","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"action_name"}
+{"query":"list all categories on YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning list all categories","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"show all categories on YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"canonical"}
+{"query":"YoPlanning show all categories","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"app_first"}
+{"query":"list categories via YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}
+{"query":"list categories using YoPlanning","expected_action_key":"yoplanning-list-categories","expected_app_slug":"yoplanning","app_name":"YoPlanning","test_type":"alt_prep"}

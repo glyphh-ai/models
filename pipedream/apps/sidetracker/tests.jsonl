@@ -1,0 +1,51 @@
+{"query":"List Sessions for Domain on Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"List Sessions for Domain in Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Sidetracker list sessions for domain","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"list sessions domain on Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker list sessions domain","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"list all sessions domain on Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker list all sessions domain","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"show all sessions domain on Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker show all sessions domain","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"list sessions domain in Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"list sessions domain via Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"list sessions domain using Sidetracker","expected_action_key":"sidetracker-list-sessions-for-domain","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"Get Row from List on Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Get Row from List in Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Sidetracker get row from list","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"get row list on Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker get row list","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"get the row list on Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker get the row list","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"retrieve row list on Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker retrieve row list","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"get row list in Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"get row list via Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"get row list using Sidetracker","expected_action_key":"sidetracker-get-row-from-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"Get List on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Get List in Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Sidetracker get list","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"get the list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"retrieve list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"fetch list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"show me the list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"pull list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"check list on Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"get list via Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"get list using Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"get list with Sidetracker","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"Sidetracker get the list","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"Sidetracker retrieve list","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"get a sidetracker list","expected_action_key":"sidetracker-get-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"contextual"}
+{"query":"Add Row to List on Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Add Row to List in Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"Sidetracker add row to list","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"action_name"}
+{"query":"add row list on Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker add row list","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"add a row list on Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker add a row list","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"add new row list on Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"canonical"}
+{"query":"Sidetracker add new row list","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"app_first"}
+{"query":"add row list in Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"add row list via Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}
+{"query":"add row list using Sidetracker","expected_action_key":"sidetracker-add-row-to-list","expected_app_slug":"sidetracker","app_name":"Sidetracker","test_type":"alt_prep"}

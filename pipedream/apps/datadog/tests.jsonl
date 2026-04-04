@@ -1,0 +1,12 @@
+{"query":"Post Metric Data on Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"action_name"}
+{"query":"Post Metric Data in Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"action_name"}
+{"query":"Datadog post metric data","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"action_name"}
+{"query":"send metric data on Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"canonical"}
+{"query":"Datadog send metric data","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"app_first"}
+{"query":"send a metric data on Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"canonical"}
+{"query":"Datadog send a metric data","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"app_first"}
+{"query":"post a metric data on Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"canonical"}
+{"query":"Datadog post a metric data","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"app_first"}
+{"query":"send metric data in Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"alt_prep"}
+{"query":"send metric data via Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"alt_prep"}
+{"query":"send metric data using Datadog","expected_action_key":"datadog-post-metric-data","expected_app_slug":"datadog","app_name":"Datadog","test_type":"alt_prep"}

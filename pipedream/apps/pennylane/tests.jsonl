@@ -1,0 +1,34 @@
+{"query":"Create Customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Create Customer in Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Pennylane create customer","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"create a customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"make a customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"new customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"open a customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"start a customer on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"create customer via Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"create customer using Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"create customer with Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"Pennylane create a customer","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"Pennylane make a customer","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"create account on Pennylane","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_target"}
+{"query":"Pennylane create account","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_target"}
+{"query":"create a pennylane customer","expected_action_key":"pennylane-create-customer","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"contextual"}
+{"query":"Create Customer Invoice on Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Create Customer Invoice in Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Pennylane create customer invoice","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"create a customer invoice on Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"Pennylane create a customer invoice","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"make a customer invoice on Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"Pennylane make a customer invoice","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"create customer invoice via Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"create customer invoice using Pennylane","expected_action_key":"pennylane-create-customer-invoice","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"Create Billing Subscription on Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Create Billing Subscription in Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"Pennylane create billing subscription","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"action_name"}
+{"query":"create a billing subscription on Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"Pennylane create a billing subscription","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"make a billing subscription on Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"canonical"}
+{"query":"Pennylane make a billing subscription","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"app_first"}
+{"query":"create billing subscription via Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}
+{"query":"create billing subscription using Pennylane","expected_action_key":"pennylane-create-billing-subscription","expected_app_slug":"pennylane","app_name":"Pennylane","test_type":"alt_prep"}

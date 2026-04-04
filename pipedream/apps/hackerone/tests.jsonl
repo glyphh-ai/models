@@ -1,0 +1,38 @@
+{"query":"Get Members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"Get Members in HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"HackerOne get members","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"get the members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"retrieve members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"fetch members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"show me the members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"pull members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"check members on HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"get members via HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"get members using HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"get members with HackerOne","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"HackerOne get the members","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"HackerOne retrieve members","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"get a hackerone members","expected_action_key":"hackerone-get-members","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"contextual"}
+{"query":"Create Invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"Create Invitation in HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"HackerOne create invitation","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"create a invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"make a invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"new invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"open a invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"start a invitation on HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"create invitation via HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"create invitation using HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"create invitation with HackerOne","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"HackerOne create a invitation","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"HackerOne make a invitation","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"create a hackerone invitation","expected_action_key":"hackerone-create-invitation","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"contextual"}
+{"query":"Create Group on HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"Create Group in HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"HackerOne create group","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"action_name"}
+{"query":"create a group on HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"HackerOne create a group","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"make a group on HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"canonical"}
+{"query":"HackerOne make a group","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"app_first"}
+{"query":"create group via HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}
+{"query":"create group using HackerOne","expected_action_key":"hackerone-create-group","expected_app_slug":"hackerone","app_name":"HackerOne","test_type":"alt_prep"}

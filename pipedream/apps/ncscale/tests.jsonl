@@ -1,0 +1,12 @@
+{"query":"Push Log on ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"action_name"}
+{"query":"Push Log in ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"action_name"}
+{"query":"ncScale push log","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"action_name"}
+{"query":"track log on ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"canonical"}
+{"query":"ncScale track log","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"app_first"}
+{"query":"track a log on ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"canonical"}
+{"query":"ncScale track a log","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"app_first"}
+{"query":"log log on ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"canonical"}
+{"query":"ncScale log log","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"app_first"}
+{"query":"track log in ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"alt_prep"}
+{"query":"track log via ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"alt_prep"}
+{"query":"track log using ncScale","expected_action_key":"ncscale-push-log","expected_app_slug":"ncscale","app_name":"ncScale","test_type":"alt_prep"}

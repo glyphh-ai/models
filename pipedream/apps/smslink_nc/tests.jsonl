@@ -1,0 +1,45 @@
+{"query":"Delete SMS Campaign on SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Delete SMS Campaign in SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"SMSlink nc delete sms campaign","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Delete SMS Campaign on smslink_nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"delete the sms campaign on SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"SMSlink nc delete the sms campaign","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"remove the sms campaign on SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"SMSlink nc remove the sms campaign","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"delete sms campaign via SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"delete sms campaign using SMSlink nc","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"smslink_nc delete sms campaign","expected_action_key":"smslink_nc-delete-sms-campaign","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_app_name"}
+{"query":"Delete Contact on SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Delete Contact in SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"SMSlink nc delete contact","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Delete Contact on smslink_nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"delete the contact on SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"remove the contact on SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"destroy the contact on SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"delete contact via SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"delete contact using SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"delete contact with SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"SMSlink nc delete the contact","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"SMSlink nc remove the contact","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"delete contact record on SMSlink nc","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_target"}
+{"query":"SMSlink nc delete contact record","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_target"}
+{"query":"smslink_nc delete contact","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_app_name"}
+{"query":"delete a smslink nc contact","expected_action_key":"smslink_nc-delete-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"contextual"}
+{"query":"Create Contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Create Contact in SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"SMSlink nc create contact","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"Create Contact on smslink_nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"action_name"}
+{"query":"create a contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"make a contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"new contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"open a contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"start a contact on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"canonical"}
+{"query":"create contact via SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"create contact using SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"create contact with SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_prep"}
+{"query":"SMSlink nc create a contact","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"SMSlink nc make a contact","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"app_first"}
+{"query":"create contact record on SMSlink nc","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_target"}
+{"query":"SMSlink nc create contact record","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_target"}
+{"query":"smslink_nc create contact","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"alt_app_name"}
+{"query":"create a smslink nc contact","expected_action_key":"smslink_nc-create-contact","expected_app_slug":"smslink_nc","app_name":"SMSlink nc","test_type":"contextual"}

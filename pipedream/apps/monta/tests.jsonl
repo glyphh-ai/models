@@ -1,0 +1,35 @@
+{"query":"List Order Events on Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"List Order Events in Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"Monta list order events","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"list all order events on Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"Monta list all order events","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"show all order events on Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"Monta show all order events","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"list order events via Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"list order events using Monta","expected_action_key":"monta-list-order-events","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"Get Return on Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"Get Return in Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"Monta get return","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"get the return on Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"Monta get the return","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"retrieve return on Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"Monta retrieve return","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"get return via Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"get return using Monta","expected_action_key":"monta-get-return","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"Get Order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"Get Order in Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"Monta get order","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"action_name"}
+{"query":"get the order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"retrieve order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"fetch order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"show me the order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"pull order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"check order on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"canonical"}
+{"query":"get order via Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"get order using Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"get order with Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_prep"}
+{"query":"Monta get the order","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"Monta retrieve order","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"app_first"}
+{"query":"get purchase on Monta","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_target"}
+{"query":"Monta get purchase","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"alt_target"}
+{"query":"get a monta order","expected_action_key":"monta-get-order","expected_app_slug":"monta","app_name":"Monta","test_type":"contextual"}

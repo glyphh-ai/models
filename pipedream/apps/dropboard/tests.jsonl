@@ -1,0 +1,25 @@
+{"query":"Create Job on Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"Create Job in Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"Dropboard create job","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"create a job on Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"Dropboard create a job","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"app_first"}
+{"query":"make a job on Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"Dropboard make a job","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"app_first"}
+{"query":"create job via Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_prep"}
+{"query":"create job using Dropboard","expected_action_key":"dropboard-create-job","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_prep"}
+{"query":"Create Client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"Create Client in Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"Dropboard create client","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"action_name"}
+{"query":"create a client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"make a client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"new client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"open a client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"start a client on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"canonical"}
+{"query":"create client via Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_prep"}
+{"query":"create client using Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_prep"}
+{"query":"create client with Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_prep"}
+{"query":"Dropboard create a client","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"app_first"}
+{"query":"Dropboard make a client","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"app_first"}
+{"query":"create account on Dropboard","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_target"}
+{"query":"Dropboard create account","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"alt_target"}
+{"query":"create a dropboard client","expected_action_key":"dropboard-create-client","expected_app_slug":"dropboard","app_name":"Dropboard","test_type":"contextual"}

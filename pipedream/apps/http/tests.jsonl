@@ -1,0 +1,56 @@
+{"query":"Verify HMAC Signature on HTTP / Webhook","expected_action_key":"http-verify-hmac-signature","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Verify HMAC Signature in HTTP / Webhook","expected_action_key":"http-verify-hmac-signature","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook verify hmac signature","expected_action_key":"http-verify-hmac-signature","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Verify HMAC Signature on Http","expected_action_key":"http-verify-hmac-signature","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Validate Webhook Auth on HTTP / Webhook","expected_action_key":"http-validate-webhook-auth","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Validate Webhook Auth in HTTP / Webhook","expected_action_key":"http-validate-webhook-auth","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook validate webhook auth","expected_action_key":"http-validate-webhook-auth","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Validate Webhook Auth on Http","expected_action_key":"http-validate-webhook-auth","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Return HTTP Response on HTTP / Webhook","expected_action_key":"http-return-http-response","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Return HTTP Response in HTTP / Webhook","expected_action_key":"http-return-http-response","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook return http response","expected_action_key":"http-return-http-response","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Return HTTP Response on Http","expected_action_key":"http-return-http-response","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send PUT Request on HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send PUT Request in HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook send put request","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send PUT Request on Http","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"send a put request on HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook send a put request","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"post a put request on HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook post a put request","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"send put request via HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"send put request using HTTP / Webhook","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"Http send put request","expected_action_key":"http-put-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_app_name"}
+{"query":"Send POST Request on HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send POST Request in HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook send post request","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send POST Request on Http","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"send a post request on HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook send a post request","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"post a post request on HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook post a post request","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"send post request via HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"send post request using HTTP / Webhook","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"Http send post request","expected_action_key":"http-post-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_app_name"}
+{"query":"Send GET Request on HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send GET Request in HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook send get request","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send GET Request on Http","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"send a get request on HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook send a get request","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"post a get request on HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook post a get request","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"send get request via HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"send get request using HTTP / Webhook","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"Http send get request","expected_action_key":"http-get-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_app_name"}
+{"query":"Send any HTTP Request on HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send any HTTP Request in HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"HTTP / Webhook send any http request","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"Send any HTTP Request on Http","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"action_name"}
+{"query":"send a any http request on HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook send a any http request","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"post a any http request on HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"canonical"}
+{"query":"HTTP / Webhook post a any http request","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"app_first"}
+{"query":"send any http request via HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"send any http request using HTTP / Webhook","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_prep"}
+{"query":"Http send any http request","expected_action_key":"http-custom-request","expected_app_slug":"http","app_name":"HTTP / Webhook","test_type":"alt_app_name"}

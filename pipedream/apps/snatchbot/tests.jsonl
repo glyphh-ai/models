@@ -1,0 +1,39 @@
+{"query":"Post Message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"Post Message in SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"SnatchBot post message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"send message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"send a message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"post a message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"send out message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"fire off message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"send message in SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"send message via SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"send message using SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"send message with SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"SnatchBot send message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"app_first"}
+{"query":"SnatchBot send a message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"app_first"}
+{"query":"SnatchBot post a message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"app_first"}
+{"query":"send msg on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"SnatchBot send msg","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"send chat message on SnatchBot","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"SnatchBot send chat message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"send a snatchbot message","expected_action_key":"snatchbot-post-message","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"contextual"}
+{"query":"Get Messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"Get Messages in SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"SnatchBot get messages","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"action_name"}
+{"query":"get the messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"retrieve messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"fetch messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"show me the messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"pull messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"check messages on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"canonical"}
+{"query":"get messages via SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"get messages using SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"get messages with SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_prep"}
+{"query":"SnatchBot get the messages","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"app_first"}
+{"query":"SnatchBot retrieve messages","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"app_first"}
+{"query":"get msg on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"SnatchBot get msg","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"get chat message on SnatchBot","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"SnatchBot get chat message","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"alt_target"}
+{"query":"get a snatchbot messages","expected_action_key":"snatchbot-get-messages","expected_app_slug":"snatchbot","app_name":"SnatchBot","test_type":"contextual"}

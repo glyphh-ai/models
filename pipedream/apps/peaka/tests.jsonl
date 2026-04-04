@@ -1,0 +1,22 @@
+{"query":"Search Query on Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"Search Query in Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"Peaka search query","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"search for query on Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"canonical"}
+{"query":"Peaka search for query","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"app_first"}
+{"query":"find query on Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"canonical"}
+{"query":"Peaka find query","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"app_first"}
+{"query":"look for query on Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"canonical"}
+{"query":"Peaka look for query","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"app_first"}
+{"query":"search for query in Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}
+{"query":"search for query via Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}
+{"query":"search for query using Peaka","expected_action_key":"peaka-search-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}
+{"query":"Run Query on Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"Run Query in Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"Peaka run query","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"action_name"}
+{"query":"trigger query on Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"canonical"}
+{"query":"Peaka trigger query","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"app_first"}
+{"query":"execute query on Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"canonical"}
+{"query":"Peaka execute query","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"app_first"}
+{"query":"trigger query in Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}
+{"query":"trigger query via Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}
+{"query":"trigger query using Peaka","expected_action_key":"peaka-run-query","expected_app_slug":"peaka","app_name":"Peaka","test_type":"alt_prep"}

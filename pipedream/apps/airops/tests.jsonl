@@ -1,0 +1,14 @@
+{"query":"Run Workflow on AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"action_name"}
+{"query":"Run Workflow in AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"action_name"}
+{"query":"AirOps run workflow","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"action_name"}
+{"query":"trigger workflow on AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"canonical"}
+{"query":"execute workflow on AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"canonical"}
+{"query":"start workflow on AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"canonical"}
+{"query":"launch workflow on AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"canonical"}
+{"query":"trigger workflow in AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"alt_prep"}
+{"query":"trigger workflow via AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"alt_prep"}
+{"query":"trigger workflow using AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"alt_prep"}
+{"query":"trigger workflow with AirOps","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"alt_prep"}
+{"query":"AirOps trigger workflow","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"app_first"}
+{"query":"AirOps execute workflow","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"app_first"}
+{"query":"trigger a airops workflow","expected_action_key":"airops-run-workflow","expected_app_slug":"airops","app_name":"AirOps","test_type":"contextual"}

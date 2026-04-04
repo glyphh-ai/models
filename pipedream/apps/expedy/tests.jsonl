@@ -1,0 +1,9 @@
+{"query":"Create Print Job on Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"action_name"}
+{"query":"Create Print Job in Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"action_name"}
+{"query":"Expedy create print job","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"action_name"}
+{"query":"create a print job on Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"canonical"}
+{"query":"Expedy create a print job","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"app_first"}
+{"query":"make a print job on Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"canonical"}
+{"query":"Expedy make a print job","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"app_first"}
+{"query":"create print job via Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"alt_prep"}
+{"query":"create print job using Expedy","expected_action_key":"expedy-create-print-job","expected_app_slug":"expedy","app_name":"Expedy","test_type":"alt_prep"}

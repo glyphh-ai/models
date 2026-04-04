@@ -1,0 +1,41 @@
+{"query":"Create Project on Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Create Project in Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Agiled create project","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"create a project on Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"Agiled create a project","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"make a project on Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"Agiled make a project","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"create project via Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"create project using Agiled","expected_action_key":"agiled-create-project","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"Create Invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Create Invoice in Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Agiled create invoice","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"create a invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"make a invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"new invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"open a invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"start a invoice on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"create invoice via Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"create invoice using Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"create invoice with Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"Agiled create a invoice","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"Agiled make a invoice","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"create bill on Agiled","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_target"}
+{"query":"Agiled create bill","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_target"}
+{"query":"create a agiled invoice","expected_action_key":"agiled-create-invoice","expected_app_slug":"agiled","app_name":"Agiled","test_type":"contextual"}
+{"query":"Create Contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Create Contact in Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"Agiled create contact","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"action_name"}
+{"query":"create a contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"make a contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"new contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"open a contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"start a contact on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"canonical"}
+{"query":"create contact via Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"create contact using Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"create contact with Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_prep"}
+{"query":"Agiled create a contact","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"Agiled make a contact","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"app_first"}
+{"query":"create contact record on Agiled","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_target"}
+{"query":"Agiled create contact record","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"alt_target"}
+{"query":"create a agiled contact","expected_action_key":"agiled-create-contact","expected_app_slug":"agiled","app_name":"Agiled","test_type":"contextual"}

@@ -1,0 +1,34 @@
+{"query":"List Orders on OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"List Orders in OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"OTO list orders","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"list all orders on OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"OTO list all orders","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"show all orders on OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"OTO show all orders","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"list orders via OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"list orders using OTO","expected_action_key":"oto-list-orders","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"Get Order Details on OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"Get Order Details in OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"OTO get order details","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"get the order details on OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"OTO get the order details","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"retrieve order details on OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"OTO retrieve order details","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"get order details via OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"get order details using OTO","expected_action_key":"oto-get-order-details","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"Create Product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"Create Product in OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"OTO create product","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"action_name"}
+{"query":"create a product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"make a product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"new product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"open a product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"start a product on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"canonical"}
+{"query":"create product via OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"create product using OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"create product with OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_prep"}
+{"query":"OTO create a product","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"OTO make a product","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"app_first"}
+{"query":"create item on OTO","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_target"}
+{"query":"OTO create item","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"alt_target"}
+{"query":"create a oto product","expected_action_key":"oto-create-product","expected_app_slug":"oto","app_name":"OTO","test_type":"contextual"}

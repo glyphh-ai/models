@@ -1,0 +1,55 @@
+{"query":"Update Contact on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"Update Contact in BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"BenchmarkONE update contact","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"update the contact on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"edit the contact on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"modify the contact on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"change the contact on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"update contact via BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"update contact using BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"update contact with BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"BenchmarkONE update the contact","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"BenchmarkONE edit the contact","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"update contact record on BenchmarkONE","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_target"}
+{"query":"BenchmarkONE update contact record","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_target"}
+{"query":"update a benchmarkone contact","expected_action_key":"benchmarkone-update-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"contextual"}
+{"query":"Create Contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"Create Contact in BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"BenchmarkONE create contact","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"create a contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"make a contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"new contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"open a contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"start a contact on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"create contact via BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"create contact using BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"create contact with BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"BenchmarkONE create a contact","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"BenchmarkONE make a contact","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"create contact record on BenchmarkONE","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_target"}
+{"query":"BenchmarkONE create contact record","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_target"}
+{"query":"create a benchmarkone contact","expected_action_key":"benchmarkone-create-contact","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"contextual"}
+{"query":"Add Tag to Contact on BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"Add Tag to Contact in BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"BenchmarkONE add tag to contact","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"add tag contact on BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add tag contact","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add a tag contact on BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add a tag contact","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add new tag contact on BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add new tag contact","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add tag contact in BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"add tag contact via BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"add tag contact using BenchmarkONE","expected_action_key":"benchmarkone-add-tag","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"Add Note to Contact on BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"Add Note to Contact in BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"BenchmarkONE add note to contact","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"action_name"}
+{"query":"add note contact on BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add note contact","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add a note contact on BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add a note contact","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add new note contact on BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"canonical"}
+{"query":"BenchmarkONE add new note contact","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"app_first"}
+{"query":"add note contact in BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"add note contact via BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}
+{"query":"add note contact using BenchmarkONE","expected_action_key":"benchmarkone-add-note","expected_app_slug":"benchmarkone","app_name":"BenchmarkONE","test_type":"alt_prep"}

@@ -1,0 +1,27 @@
+{"query":"Get Shipment Info on shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"Get Shipment Info in shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"shipcloud get shipment info","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"get the shipment info on shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud get the shipment info","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"retrieve shipment info on shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud retrieve shipment info","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"get shipment info via shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}
+{"query":"get shipment info using shipcloud","expected_action_key":"shipcloud-get-shipment-info","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}
+{"query":"Create Shipment on shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"Create Shipment in shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"shipcloud create shipment","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"create a shipment on shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud create a shipment","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"make a shipment on shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud make a shipment","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"create shipment via shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}
+{"query":"create shipment using shipcloud","expected_action_key":"shipcloud-create-shipment","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}
+{"query":"Create Shipment Quote on shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"Create Shipment Quote in shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"shipcloud create shipment quote","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"action_name"}
+{"query":"create a shipment quote on shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud create a shipment quote","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"make a shipment quote on shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"canonical"}
+{"query":"shipcloud make a shipment quote","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"app_first"}
+{"query":"create shipment quote via shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}
+{"query":"create shipment quote using shipcloud","expected_action_key":"shipcloud-create-shipment-quote","expected_app_slug":"shipcloud","app_name":"shipcloud","test_type":"alt_prep"}

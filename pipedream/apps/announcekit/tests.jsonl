@@ -1,0 +1,16 @@
+{"query":"Create Post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"action_name"}
+{"query":"Create Post in AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"action_name"}
+{"query":"AnnounceKit create post","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"action_name"}
+{"query":"create a post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"canonical"}
+{"query":"make a post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"canonical"}
+{"query":"new post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"canonical"}
+{"query":"open a post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"canonical"}
+{"query":"start a post on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"canonical"}
+{"query":"create post via AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"alt_prep"}
+{"query":"create post using AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"alt_prep"}
+{"query":"create post with AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"alt_prep"}
+{"query":"AnnounceKit create a post","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"app_first"}
+{"query":"AnnounceKit make a post","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"app_first"}
+{"query":"create status update on AnnounceKit","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"alt_target"}
+{"query":"AnnounceKit create status update","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"alt_target"}
+{"query":"create a announcekit post","expected_action_key":"announcekit-create-post","expected_app_slug":"announcekit","app_name":"AnnounceKit","test_type":"contextual"}

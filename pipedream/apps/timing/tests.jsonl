@@ -1,0 +1,15 @@
+{"query":"Stop Timer on Timing","expected_action_key":"timing-stop-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Stop Timer in Timing","expected_action_key":"timing-stop-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Timing stop timer","expected_action_key":"timing-stop-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Start Timer on Timing","expected_action_key":"timing-start-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Start Timer in Timing","expected_action_key":"timing-start-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Timing start timer","expected_action_key":"timing-start-timer","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Create Time Entry on Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Create Time Entry in Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"Timing create time entry","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"action_name"}
+{"query":"create a time entry on Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"canonical"}
+{"query":"Timing create a time entry","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"app_first"}
+{"query":"make a time entry on Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"canonical"}
+{"query":"Timing make a time entry","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"app_first"}
+{"query":"create time entry via Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"alt_prep"}
+{"query":"create time entry using Timing","expected_action_key":"timing-create-time-entry","expected_app_slug":"timing","app_name":"Timing","test_type":"alt_prep"}

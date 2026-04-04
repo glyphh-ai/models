@@ -1,0 +1,213 @@
+{"query":"Update Product on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Update Product in WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce update product","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"update the product on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"edit the product on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"modify the product on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"change the product on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"update product via WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"update product using WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"update product with WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce update the product","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce edit the product","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"update item on WooCommerce","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce update item","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"update a woocommerce product","expected_action_key":"woocommerce-update-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Update Order Status on WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Update Order Status in WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce update order status","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"update the order status on WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce update the order status","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"edit the order status on WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce edit the order status","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"update order status via WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"update order status using WooCommerce","expected_action_key":"woocommerce-update-order-status","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"Search Customers on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Search Customers in WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce search customers","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"search for customers on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"find customers on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"look for customers on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"locate customers on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"search for customers in WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"search for customers via WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"search for customers using WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"search for customers with WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce search for customers","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce find customers","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce look for customers","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"search for account on WooCommerce","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce search for account","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"search for a woocommerce customers","expected_action_key":"woocommerce-search-customers","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"List Products on WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"List Products in WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce list products","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"list all products on WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce list all products","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"show all products on WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce show all products","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"list products via WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"list products using WooCommerce","expected_action_key":"woocommerce-list-products","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"List Orders on WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"List Orders in WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce list orders","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"list all orders on WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce list all orders","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"show all orders on WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce show all orders","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"list orders via WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"list orders using WooCommerce","expected_action_key":"woocommerce-list-orders","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"List Order Notes on WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"List Order Notes in WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce list order notes","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"list all order notes on WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce list all order notes","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"show all order notes on WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce show all order notes","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"list order notes via WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"list order notes using WooCommerce","expected_action_key":"woocommerce-list-order-notes","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"Get Product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Get Product in WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce get product","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"get the product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"retrieve product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"fetch product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"show me the product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"pull product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"check product on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"get product via WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get product using WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get product with WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce get the product","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce retrieve product","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"get item on WooCommerce","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce get item","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"get a woocommerce product","expected_action_key":"woocommerce-get-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Get Order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Get Order in WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce get order","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"get the order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"retrieve order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"fetch order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"show me the order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"pull order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"check order on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"get order via WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get order using WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get order with WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce get the order","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce retrieve order","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"get purchase on WooCommerce","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce get purchase","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"get a woocommerce order","expected_action_key":"woocommerce-get-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Get Order Note on WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Get Order Note in WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce get order note","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"get the order note on WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce get the order note","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"retrieve order note on WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce retrieve order note","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"get order note via WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get order note using WooCommerce","expected_action_key":"woocommerce-get-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"Get Customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Get Customer in WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce get customer","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"get the customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"retrieve customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"fetch customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"show me the customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"pull customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"check customer on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"get customer via WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get customer using WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"get customer with WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce get the customer","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce retrieve customer","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"get account on WooCommerce","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce get account","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"get a woocommerce customer","expected_action_key":"woocommerce-get-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Delete Order on WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Delete Order in WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce delete order","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"delete the order on WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"remove the order on WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"destroy the order on WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"delete order via WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"delete order using WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"delete order with WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce delete the order","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce remove the order","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"delete purchase on WooCommerce","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce delete purchase","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"delete a woocommerce order","expected_action_key":"woocommerce-delete-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Create Refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Create Refund in WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce create refund","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"create a refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"make a refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"new refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"open a refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"start a refund on WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"create refund via WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create refund using WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create refund with WooCommerce","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce create a refund","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce make a refund","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"create a woocommerce refund","expected_action_key":"woocommerce-create-refund","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Create Product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Create Product in WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce create product","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"create a product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"make a product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"new product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"open a product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"start a product on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"create product via WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create product using WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create product with WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce create a product","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce make a product","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"create item on WooCommerce","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce create item","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"create a woocommerce product","expected_action_key":"woocommerce-create-product","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Create Order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Create Order in WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce create order","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"create a order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"make a order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"new order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"open a order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"start a order on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"create order via WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create order using WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create order with WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce create a order","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce make a order","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"create purchase on WooCommerce","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce create purchase","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"create a woocommerce order","expected_action_key":"woocommerce-create-order","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Create Customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Create Customer in WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce create customer","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"create a customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"make a customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"new customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"open a customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"start a customer on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"create customer via WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create customer using WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"create customer with WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"WooCommerce create a customer","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"WooCommerce make a customer","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"create account on WooCommerce","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"WooCommerce create account","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_target"}
+{"query":"create a woocommerce customer","expected_action_key":"woocommerce-create-customer","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"contextual"}
+{"query":"Add Order Note on WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"Add Order Note in WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"WooCommerce add order note","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"action_name"}
+{"query":"add a order note on WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce add a order note","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"add new order note on WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"canonical"}
+{"query":"WooCommerce add new order note","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"app_first"}
+{"query":"add order note via WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}
+{"query":"add order note using WooCommerce","expected_action_key":"woocommerce-add-order-note","expected_app_slug":"woocommerce","app_name":"WooCommerce","test_type":"alt_prep"}

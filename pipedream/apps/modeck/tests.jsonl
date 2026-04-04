@@ -1,0 +1,9 @@
+{"query":"Create Render on MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"action_name"}
+{"query":"Create Render in MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"action_name"}
+{"query":"MoDeck create render","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"action_name"}
+{"query":"create a render on MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"canonical"}
+{"query":"MoDeck create a render","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"app_first"}
+{"query":"make a render on MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"canonical"}
+{"query":"MoDeck make a render","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"app_first"}
+{"query":"create render via MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"alt_prep"}
+{"query":"create render using MoDeck","expected_action_key":"modeck-create-render","expected_app_slug":"modeck","app_name":"MoDeck","test_type":"alt_prep"}

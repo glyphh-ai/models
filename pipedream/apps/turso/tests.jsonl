@@ -1,0 +1,65 @@
+{"query":"Get Organizations on Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Get Organizations in Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso get organizations","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"get the organizations on Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso get the organizations","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"retrieve organizations on Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso retrieve organizations","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"get organizations via Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"get organizations using Turso","expected_action_key":"turso-get-organizations","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"Get Groups on Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Get Groups in Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso get groups","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"get the groups on Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso get the groups","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"retrieve groups on Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso retrieve groups","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"get groups via Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"get groups using Turso","expected_action_key":"turso-get-groups","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"Get Databases on Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Get Databases in Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso get databases","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"get the databases on Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso get the databases","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"retrieve databases on Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso retrieve databases","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"get databases via Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"get databases using Turso","expected_action_key":"turso-get-databases","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"Execute SQL Query on Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Execute SQL Query in Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso execute sql query","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"trigger sql query on Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso trigger sql query","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"run sql query on Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso run sql query","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"trigger sql query in Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"trigger sql query via Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"trigger sql query using Turso","expected_action_key":"turso-execute-query","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"Create Database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Create Database in Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso create database","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"create a database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"make a database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"new database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"open a database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"start a database on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"create database via Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"create database using Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"create database with Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"Turso create a database","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"Turso make a database","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"create db on Turso","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_target"}
+{"query":"Turso create db","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_target"}
+{"query":"create a turso database","expected_action_key":"turso-create-database","expected_app_slug":"turso","app_name":"Turso","test_type":"contextual"}
+{"query":"Query SQL Database on Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Query SQL Database in Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"Turso query sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"action_name"}
+{"query":"get sql database on Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"get the sql database on Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso get the sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"retrieve sql database on Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"canonical"}
+{"query":"Turso retrieve sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"app_first"}
+{"query":"get sql database in Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"get sql database via Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}
+{"query":"get sql database using Turso","expected_action_key":"database-query-sql-database","expected_app_slug":"turso","app_name":"Turso","test_type":"alt_prep"}

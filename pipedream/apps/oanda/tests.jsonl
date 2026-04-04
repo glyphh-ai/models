@@ -1,0 +1,38 @@
+{"query":"List Trades on OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"List Trades in OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"OANDA list trades","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"list all trades on OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"show all trades on OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"get all trades on OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"show me all trades on OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"list trades via OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"list trades using OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"list trades with OANDA","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"OANDA list all trades","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"OANDA show all trades","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"list a oanda trades","expected_action_key":"oanda-list-trades","expected_app_slug":"oanda","app_name":"OANDA","test_type":"contextual"}
+{"query":"Get Historical Prices on OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"Get Historical Prices in OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"OANDA get historical prices","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"get the historical prices on OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"OANDA get the historical prices","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"retrieve historical prices on OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"OANDA retrieve historical prices","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"get historical prices via OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"get historical prices using OANDA","expected_action_key":"oanda-get-historical-prices","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"Create Order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"Create Order in OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"OANDA create order","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"action_name"}
+{"query":"create a order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"make a order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"new order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"open a order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"start a order on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"canonical"}
+{"query":"create order via OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"create order using OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"create order with OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_prep"}
+{"query":"OANDA create a order","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"OANDA make a order","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"app_first"}
+{"query":"create purchase on OANDA","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_target"}
+{"query":"OANDA create purchase","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"alt_target"}
+{"query":"create a oanda order","expected_action_key":"oanda-create-order","expected_app_slug":"oanda","app_name":"OANDA","test_type":"contextual"}

@@ -1,0 +1,17 @@
+{"query":"Send Message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"action_name"}
+{"query":"Send Message in TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"action_name"}
+{"query":"TopMessage send message","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"action_name"}
+{"query":"send a message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"canonical"}
+{"query":"post a message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"canonical"}
+{"query":"send out message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"canonical"}
+{"query":"fire off message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"canonical"}
+{"query":"send message via TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_prep"}
+{"query":"send message using TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_prep"}
+{"query":"send message with TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_prep"}
+{"query":"TopMessage send a message","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"app_first"}
+{"query":"TopMessage post a message","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"app_first"}
+{"query":"send msg on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_target"}
+{"query":"TopMessage send msg","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_target"}
+{"query":"send chat message on TopMessage","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_target"}
+{"query":"TopMessage send chat message","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"alt_target"}
+{"query":"send a topmessage message","expected_action_key":"topmessage-send-message","expected_app_slug":"topmessage","app_name":"TopMessage","test_type":"contextual"}

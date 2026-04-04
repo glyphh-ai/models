@@ -1,0 +1,38 @@
+{"query":"Unsubscribe on Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Unsubscribe in Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Smoove unsubscribe","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"unsubscribe from contact on Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"unsubscribe contact on Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"unsubscribe from contact in Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"unsubscribe from contact via Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"unsubscribe from contact using Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"unsubscribe from contact with Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"Smoove unsubscribe from contact","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"Smoove unsubscribe contact","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"unsubscribe from contact record on Smoove","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_target"}
+{"query":"Smoove unsubscribe from contact record","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_target"}
+{"query":"unsubscribe from a smoove contact","expected_action_key":"smoove-unsubscribe-contact","expected_app_slug":"smoove","app_name":"Smoove","test_type":"contextual"}
+{"query":"Find Subscriber on Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Find Subscriber in Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Smoove find subscriber","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"search for subscriber on Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"Smoove search for subscriber","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"look for subscriber on Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"Smoove look for subscriber","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"search for subscriber in Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"search for subscriber via Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"search for subscriber using Smoove","expected_action_key":"smoove-find-subscriber","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"Create List on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Create List in Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"Smoove create list","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"action_name"}
+{"query":"create a list on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"make a list on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"new list on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"open a list on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"start a list on Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"canonical"}
+{"query":"create list via Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"create list using Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"create list with Smoove","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"alt_prep"}
+{"query":"Smoove create a list","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"Smoove make a list","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"app_first"}
+{"query":"create a smoove list","expected_action_key":"smoove-create-list","expected_app_slug":"smoove","app_name":"Smoove","test_type":"contextual"}

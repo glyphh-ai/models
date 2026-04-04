@@ -1,0 +1,16 @@
+{"query":"Create Task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"action_name"}
+{"query":"Create Task in Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"action_name"}
+{"query":"Taskade create task","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"action_name"}
+{"query":"create a task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"canonical"}
+{"query":"make a task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"canonical"}
+{"query":"new task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"canonical"}
+{"query":"open a task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"canonical"}
+{"query":"start a task on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"canonical"}
+{"query":"create task via Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"alt_prep"}
+{"query":"create task using Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"alt_prep"}
+{"query":"create task with Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"alt_prep"}
+{"query":"Taskade create a task","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"app_first"}
+{"query":"Taskade make a task","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"app_first"}
+{"query":"create story on Taskade","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"alt_target"}
+{"query":"Taskade create story","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"alt_target"}
+{"query":"create a taskade task","expected_action_key":"taskade-create-task","expected_app_slug":"taskade","app_name":"Taskade","test_type":"contextual"}

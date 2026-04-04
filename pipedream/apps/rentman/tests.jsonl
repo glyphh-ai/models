@@ -1,0 +1,37 @@
+{"query":"Update Rentman Item on Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Update Rentman Item in Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Rentman update rentman item","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"update the rentman item on Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"Rentman update the rentman item","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"edit the rentman item on Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"Rentman edit the rentman item","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"update rentman item via Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"update rentman item using Rentman","expected_action_key":"rentman-update-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"Find Item on Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Find Item in Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Rentman find item","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"search for item on Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"look for item on Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"search item on Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"locate item on Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"search for item in Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"search for item via Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"search for item using Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"search for item with Rentman","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"Rentman search for item","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"Rentman look for item","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"search for a rentman item","expected_action_key":"rentman-find-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"contextual"}
+{"query":"Create Item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Create Item in Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"Rentman create item","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"action_name"}
+{"query":"create a item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"make a item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"new item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"open a item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"start a item on Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"canonical"}
+{"query":"create item via Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"create item using Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"create item with Rentman","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"alt_prep"}
+{"query":"Rentman create a item","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"Rentman make a item","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"app_first"}
+{"query":"create a rentman item","expected_action_key":"rentman-create-item","expected_app_slug":"rentman","app_name":"Rentman","test_type":"contextual"}

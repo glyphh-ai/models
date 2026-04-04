@@ -1,0 +1,47 @@
+{"query":"Update Invoice on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Update Invoice in Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Quaderno update invoice","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"update the invoice on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"edit the invoice on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"modify the invoice on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"change the invoice on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"update invoice via Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"update invoice using Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"update invoice with Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"Quaderno update the invoice","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"Quaderno edit the invoice","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"update bill on Quaderno","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"Quaderno update bill","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"update a quaderno invoice","expected_action_key":"quaderno-update-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"contextual"}
+{"query":"Create Invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Create Invoice in Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Quaderno create invoice","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"create a invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"make a invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"new invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"open a invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"start a invoice on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"create invoice via Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"create invoice using Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"create invoice with Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"Quaderno create a invoice","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"Quaderno make a invoice","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"create bill on Quaderno","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"Quaderno create bill","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"create a quaderno invoice","expected_action_key":"quaderno-create-invoice","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"contextual"}
+{"query":"Create Contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Create Contact in Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"Quaderno create contact","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"action_name"}
+{"query":"create a contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"make a contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"new contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"open a contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"start a contact on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"canonical"}
+{"query":"create contact via Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"create contact using Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"create contact with Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_prep"}
+{"query":"Quaderno create a contact","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"Quaderno make a contact","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"app_first"}
+{"query":"create contact record on Quaderno","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"Quaderno create contact record","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"alt_target"}
+{"query":"create a quaderno contact","expected_action_key":"quaderno-create-contact","expected_app_slug":"quaderno","app_name":"Quaderno","test_type":"contextual"}

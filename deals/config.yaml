@@ -1,0 +1,120 @@
+# Deal Intelligence
+# Encodes sales deals as HDC glyphs with continuous pipeline metrics.
+# Matches deal data against known patterns via similarity.
+# Temporal: daily snapshots keyed by deal_id for velocity tracking.
+
+name: deal-intelligence
+version: 0.1.0
+description: |
+  Predicts deal outcomes by encoding pipeline metrics and deal context
+  into high-dimensional vectors and matching against known patterns.
+  Semantic layer handles NL queries; metrics layer handles raw deal data.
+  Outcome (won/lost/stalled) is derived from similarity, not inferred.
+
+author: Glyphh AI
+license: MIT
+
+encoder:
+  dimensions: 2000
+  seed: 42
+  temporal_source: auto
+
+auto_load_concepts: true
+
+tests:
+  directory: tests/
+
+layers:
+  identity:
+    weight: 0.10
+    roles:
+      deal_id:
+        type: text
+        key_part: true
+        weight: 0.1
+
+      account_name:
+        type: text
+        weight: 0.3
+
+  profile:
+    weight: 0.20
+    roles:
+      industry:
+        type: text
+        weight: 1.0
+
+      company_size:
+        type: text
+        weight: 0.8
+
+      region:
+        type: text
+        weight: 0.6
+
+      source:
+        type: text
+        weight: 0.7
+
+  strategy:
+    weight: 0.30
+    roles:
+      description:
+        type: bag_of_words
+        weight: 1.0
+
+      keywords:
+        type: bag_of_words
+        weight: 0.8
+
+      stage:
+        type: text
+        weight: 0.9
+
+      deal_type:
+        type: text
+        weight: 0.7
+
+  metrics:
+    weight: 0.40
+    roles:
+      deal_value:
+        type: numeric
+        bin_width: 25000.0
+        min_value: 0.0
+        max_value: 500000.0
+
+      days_in_stage:
+        type: numeric
+        bin_width: 10.0
+        min_value: 0.0
+        max_value: 120.0
+
+      activity_count:
+        type: numeric
+        bin_width: 5.0
+        min_value: 0.0
+        max_value: 50.0
+
+      email_response_rate:
+        type: numeric
+        bin_width: 15.0
+        min_value: 0.0
+        max_value: 100.0
+
+      meetings_held:
+        type: numeric
+        bin_width: 3.0
+        min_value: 0.0
+        max_value: 20.0
+
+similarity:
+  threshold: 0.45
+  top_k: 3
+  query_scope: strategy
+  store_hierarchical_vectors: true
+  default_filter:
+    record_type: pattern
+
+disambiguation:
+  min_gap: 0.008

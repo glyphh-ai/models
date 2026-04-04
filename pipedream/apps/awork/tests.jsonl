@@ -1,0 +1,37 @@
+{"query":"Find Users By Email on awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"Find Users By Email in awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"awork find users by email","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"search for users email on awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"awork search for users email","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"find users email on awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"awork find users email","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"look for users email on awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"awork look for users email","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"search for users email in awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"search for users email via awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"search for users email using awork","expected_action_key":"awork-find-users-by-email","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"Create Project on awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"Create Project in awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"awork create project","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"create a project on awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"awork create a project","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"make a project on awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"awork make a project","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"create project via awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"create project using awork","expected_action_key":"awork-create-project","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"Create Client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"Create Client in awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"awork create client","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"action_name"}
+{"query":"create a client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"make a client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"new client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"open a client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"start a client on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"canonical"}
+{"query":"create client via awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"create client using awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"create client with awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"alt_prep"}
+{"query":"awork create a client","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"awork make a client","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"app_first"}
+{"query":"create account on awork","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"alt_target"}
+{"query":"awork create account","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"alt_target"}
+{"query":"create a awork client","expected_action_key":"awork-create-client","expected_app_slug":"awork","app_name":"awork","test_type":"contextual"}

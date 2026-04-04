@@ -1,0 +1,15 @@
+{"query":"Withdraw Funds on Coinbase","expected_action_key":"coinbase-withdraw-funds","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"Withdraw Funds in Coinbase","expected_action_key":"coinbase-withdraw-funds","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"Coinbase withdraw funds","expected_action_key":"coinbase-withdraw-funds","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"Place Buy Order on Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"Place Buy Order in Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"Coinbase place buy order","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"action_name"}
+{"query":"create buy order on Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"canonical"}
+{"query":"Coinbase create buy order","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"app_first"}
+{"query":"create a buy order on Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"canonical"}
+{"query":"Coinbase create a buy order","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"app_first"}
+{"query":"make a buy order on Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"canonical"}
+{"query":"Coinbase make a buy order","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"app_first"}
+{"query":"create buy order in Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"alt_prep"}
+{"query":"create buy order via Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"alt_prep"}
+{"query":"create buy order using Coinbase","expected_action_key":"coinbase-place-buy-order","expected_app_slug":"coinbase","app_name":"Coinbase","test_type":"alt_prep"}

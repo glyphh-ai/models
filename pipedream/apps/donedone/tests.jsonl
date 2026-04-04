@@ -1,0 +1,28 @@
+{"query":"Create Task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"Create Task in DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"DoneDone create task","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"create a task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"make a task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"new task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"open a task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"start a task on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"create task via DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}
+{"query":"create task using DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}
+{"query":"create task with DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}
+{"query":"DoneDone create a task","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"app_first"}
+{"query":"DoneDone make a task","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"app_first"}
+{"query":"create story on DoneDone","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_target"}
+{"query":"DoneDone create story","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_target"}
+{"query":"create a donedone task","expected_action_key":"donedone-create-task","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"contextual"}
+{"query":"Add People to Project on DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"Add People to Project in DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"DoneDone add people to project","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"action_name"}
+{"query":"add people project on DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"DoneDone add people project","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"app_first"}
+{"query":"add a people project on DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"DoneDone add a people project","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"app_first"}
+{"query":"add new people project on DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"canonical"}
+{"query":"DoneDone add new people project","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"app_first"}
+{"query":"add people project in DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}
+{"query":"add people project via DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}
+{"query":"add people project using DoneDone","expected_action_key":"donedone-add-people-to-project","expected_app_slug":"donedone","app_name":"DoneDone","test_type":"alt_prep"}

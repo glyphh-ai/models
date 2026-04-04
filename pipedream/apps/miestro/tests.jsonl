@@ -1,0 +1,24 @@
+{"query":"Unroll User To Course on Miestro","expected_action_key":"miestro-unroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Unroll User To Course in Miestro","expected_action_key":"miestro-unroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Miestro unroll user to course","expected_action_key":"miestro-unroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Enroll User To Course on Miestro","expected_action_key":"miestro-enroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Enroll User To Course in Miestro","expected_action_key":"miestro-enroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Miestro enroll user to course","expected_action_key":"miestro-enroll-user-to-course","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Create User on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Create User in Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"Miestro create user","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"action_name"}
+{"query":"create a user on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"canonical"}
+{"query":"make a user on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"canonical"}
+{"query":"new user on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"canonical"}
+{"query":"open a user on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"canonical"}
+{"query":"start a user on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"canonical"}
+{"query":"create user via Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_prep"}
+{"query":"create user using Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_prep"}
+{"query":"create user with Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_prep"}
+{"query":"Miestro create a user","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"app_first"}
+{"query":"Miestro make a user","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"app_first"}
+{"query":"create member on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_target"}
+{"query":"Miestro create member","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_target"}
+{"query":"create person on Miestro","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_target"}
+{"query":"Miestro create person","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"alt_target"}
+{"query":"create a miestro user","expected_action_key":"miestro-create-user","expected_app_slug":"miestro","app_name":"Miestro","test_type":"contextual"}

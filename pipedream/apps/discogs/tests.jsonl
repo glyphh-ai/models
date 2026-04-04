@@ -1,0 +1,18 @@
+{"query":"Update Order Status on Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"Update Order Status in Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"Discogs update order status","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"update the order status on Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"canonical"}
+{"query":"Discogs update the order status","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"app_first"}
+{"query":"edit the order status on Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"canonical"}
+{"query":"Discogs edit the order status","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"app_first"}
+{"query":"update order status via Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"alt_prep"}
+{"query":"update order status using Discogs","expected_action_key":"discogs-update-order","expected_app_slug":"discogs","app_name":"Discogs","test_type":"alt_prep"}
+{"query":"Create Marketplace Listing on Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"Create Marketplace Listing in Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"Discogs create marketplace listing","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"action_name"}
+{"query":"create a marketplace listing on Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"canonical"}
+{"query":"Discogs create a marketplace listing","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"app_first"}
+{"query":"make a marketplace listing on Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"canonical"}
+{"query":"Discogs make a marketplace listing","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"app_first"}
+{"query":"create marketplace listing via Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"alt_prep"}
+{"query":"create marketplace listing using Discogs","expected_action_key":"discogs-create-marketplace-listing","expected_app_slug":"discogs","app_name":"Discogs","test_type":"alt_prep"}

@@ -1,0 +1,87 @@
+{"query":"Update Contact on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Update Contact in Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Google Contacts update contact","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Update Contact on google_contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"update the contact on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"edit the contact on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"modify the contact on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"change the contact on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"update contact via Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"update contact using Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"update contact with Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"Google Contacts update the contact","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"Google Contacts edit the contact","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"update contact record on Google Contacts","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"Google Contacts update contact record","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"google_contacts update contact","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_app_name"}
+{"query":"update a google contacts contact","expected_action_key":"google_contacts-update-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"contextual"}
+{"query":"List Contacts on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"List Contacts in Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Google Contacts list contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"List Contacts on google_contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"list all contacts on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"show all contacts on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"get all contacts on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"show me all contacts on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"list contacts via Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"list contacts using Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"list contacts with Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"Google Contacts list all contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"Google Contacts show all contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"list contact record on Google Contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"Google Contacts list contact record","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"google_contacts list contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_app_name"}
+{"query":"list a google contacts contacts","expected_action_key":"google_contacts-list-contacts","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"contextual"}
+{"query":"Get Contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Get Contact in Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Google Contacts get contact","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Get Contact on google_contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"get the contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"retrieve contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"fetch contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"show me the contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"pull contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"check contact on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"get contact via Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"get contact using Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"get contact with Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"Google Contacts get the contact","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"Google Contacts retrieve contact","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"get contact record on Google Contacts","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"Google Contacts get contact record","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"google_contacts get contact","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_app_name"}
+{"query":"get a google contacts contact","expected_action_key":"google_contacts-get-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"contextual"}
+{"query":"Delete Contact on Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Delete Contact in Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Google Contacts delete contact","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Delete Contact on google_contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"delete the contact on Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"remove the contact on Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"destroy the contact on Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"delete contact via Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"delete contact using Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"delete contact with Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"Google Contacts delete the contact","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"Google Contacts remove the contact","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"delete contact record on Google Contacts","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"Google Contacts delete contact record","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"google_contacts delete contact","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_app_name"}
+{"query":"delete a google contacts contact","expected_action_key":"google_contacts-delete-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"contextual"}
+{"query":"Create Contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Create Contact in Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Google Contacts create contact","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"Create Contact on google_contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"action_name"}
+{"query":"create a contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"make a contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"new contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"open a contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"start a contact on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"canonical"}
+{"query":"create contact via Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"create contact using Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"create contact with Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_prep"}
+{"query":"Google Contacts create a contact","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"Google Contacts make a contact","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"app_first"}
+{"query":"create contact record on Google Contacts","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"Google Contacts create contact record","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_target"}
+{"query":"google_contacts create contact","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"alt_app_name"}
+{"query":"create a google contacts contact","expected_action_key":"google_contacts-create-contact","expected_app_slug":"google_contacts","app_name":"Google Contacts","test_type":"contextual"}

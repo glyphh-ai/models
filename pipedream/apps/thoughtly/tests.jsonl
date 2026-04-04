@@ -1,0 +1,28 @@
+{"query":"Trigger a Call on Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"Trigger a Call in Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"Thoughtly trigger a call","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"trigger call on Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"Thoughtly trigger call","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"app_first"}
+{"query":"run call on Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"Thoughtly run call","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"app_first"}
+{"query":"execute call on Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"Thoughtly execute call","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"app_first"}
+{"query":"trigger call in Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"trigger call via Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"trigger call using Thoughtly","expected_action_key":"thoughtly-trigger-call","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"Create Contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"Create Contact in Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"Thoughtly create contact","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"action_name"}
+{"query":"create a contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"make a contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"new contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"open a contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"start a contact on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"canonical"}
+{"query":"create contact via Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"create contact using Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"create contact with Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_prep"}
+{"query":"Thoughtly create a contact","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"app_first"}
+{"query":"Thoughtly make a contact","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"app_first"}
+{"query":"create contact record on Thoughtly","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_target"}
+{"query":"Thoughtly create contact record","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"alt_target"}
+{"query":"create a thoughtly contact","expected_action_key":"thoughtly-create-contact","expected_app_slug":"thoughtly","app_name":"Thoughtly","test_type":"contextual"}

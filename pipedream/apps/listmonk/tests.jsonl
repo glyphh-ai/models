@@ -1,0 +1,37 @@
+{"query":"Create Subscriber on listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"Create Subscriber in listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"listmonk create subscriber","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"create a subscriber on listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"listmonk create a subscriber","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"make a subscriber on listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"listmonk make a subscriber","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"create subscriber via listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"create subscriber using listmonk","expected_action_key":"listmonk-create-subscriber","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"Create List on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"Create List in listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"listmonk create list","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"create a list on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"make a list on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"new list on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"open a list on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"start a list on listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"create list via listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"create list using listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"create list with listmonk","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"listmonk create a list","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"listmonk make a list","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"create a listmonk list","expected_action_key":"listmonk-create-list","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"contextual"}
+{"query":"Create Campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"Create Campaign in listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"listmonk create campaign","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"action_name"}
+{"query":"create a campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"make a campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"new campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"open a campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"start a campaign on listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"canonical"}
+{"query":"create campaign via listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"create campaign using listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"create campaign with listmonk","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"alt_prep"}
+{"query":"listmonk create a campaign","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"listmonk make a campaign","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"app_first"}
+{"query":"create a listmonk campaign","expected_action_key":"listmonk-create-campaign","expected_app_slug":"listmonk","app_name":"listmonk","test_type":"contextual"}

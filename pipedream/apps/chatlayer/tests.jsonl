@@ -1,0 +1,35 @@
+{"query":"List Messages on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"List Messages in Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"Chatlayer list messages","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"list all messages on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"show all messages on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"get all messages on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"show me all messages on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"list messages via Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"list messages using Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"list messages with Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"Chatlayer list all messages","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"Chatlayer show all messages","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"list msg on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_target"}
+{"query":"Chatlayer list msg","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_target"}
+{"query":"list chat message on Chatlayer","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_target"}
+{"query":"Chatlayer list chat message","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_target"}
+{"query":"list a chatlayer messages","expected_action_key":"chatlayer-list-messages","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"contextual"}
+{"query":"Get Session Data on Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"Get Session Data in Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"Chatlayer get session data","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"get the session data on Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"Chatlayer get the session data","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"retrieve session data on Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"Chatlayer retrieve session data","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"get session data via Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"get session data using Chatlayer","expected_action_key":"chatlayer-get-session-data","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"Get Conversations on Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"Get Conversations in Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"Chatlayer get conversations","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"action_name"}
+{"query":"get the conversations on Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"Chatlayer get the conversations","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"retrieve conversations on Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"canonical"}
+{"query":"Chatlayer retrieve conversations","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"app_first"}
+{"query":"get conversations via Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}
+{"query":"get conversations using Chatlayer","expected_action_key":"chatlayer-get-conversations","expected_app_slug":"chatlayer","app_name":"Chatlayer","test_type":"alt_prep"}

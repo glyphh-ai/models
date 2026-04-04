@@ -1,0 +1,68 @@
+{"query":"Create User on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Create User in Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Tick create user","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"create a user on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"make a user on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"new user on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"open a user on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"start a user on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"create user via Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create user using Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create user with Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"Tick create a user","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"Tick make a user","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"create member on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"Tick create member","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"create person on Tick","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"Tick create person","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"create a tick user","expected_action_key":"tick-create-user","expected_app_slug":"tick","app_name":"Tick","test_type":"contextual"}
+{"query":"Create Time Entry on Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Create Time Entry in Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Tick create time entry","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"create a time entry on Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"Tick create a time entry","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"make a time entry on Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"Tick make a time entry","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"create time entry via Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create time entry using Tick","expected_action_key":"tick-create-time-entry","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"Create Task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Create Task in Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Tick create task","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"create a task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"make a task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"new task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"open a task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"start a task on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"create task via Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create task using Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create task with Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"Tick create a task","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"Tick make a task","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"create story on Tick","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"Tick create story","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"create a tick task","expected_action_key":"tick-create-task","expected_app_slug":"tick","app_name":"Tick","test_type":"contextual"}
+{"query":"Create Project on Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Create Project in Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Tick create project","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"create a project on Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"Tick create a project","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"make a project on Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"Tick make a project","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"create project via Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create project using Tick","expected_action_key":"tick-create-project","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"Create Client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Create Client in Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"Tick create client","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"action_name"}
+{"query":"create a client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"make a client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"new client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"open a client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"start a client on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"canonical"}
+{"query":"create client via Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create client using Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"create client with Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_prep"}
+{"query":"Tick create a client","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"Tick make a client","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"app_first"}
+{"query":"create account on Tick","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"Tick create account","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"alt_target"}
+{"query":"create a tick client","expected_action_key":"tick-create-client","expected_app_slug":"tick","app_name":"Tick","test_type":"contextual"}

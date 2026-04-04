@@ -1,0 +1,40 @@
+{"query":"Update Task on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Update Task in Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Jooto update task","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"update the task on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"edit the task on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"modify the task on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"change the task on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"update task via Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"update task using Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"update task with Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"Jooto update the task","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"Jooto edit the task","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"update story on Jooto","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_target"}
+{"query":"Jooto update story","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_target"}
+{"query":"update a jooto task","expected_action_key":"jooto-update-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"contextual"}
+{"query":"Get Projects on Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Get Projects in Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Jooto get projects","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"get the projects on Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"Jooto get the projects","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"retrieve projects on Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"Jooto retrieve projects","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"get projects via Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"get projects using Jooto","expected_action_key":"jooto-get-projects","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"Create Task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Create Task in Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"Jooto create task","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"action_name"}
+{"query":"create a task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"make a task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"new task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"open a task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"start a task on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"canonical"}
+{"query":"create task via Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"create task using Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"create task with Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_prep"}
+{"query":"Jooto create a task","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"Jooto make a task","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"app_first"}
+{"query":"create story on Jooto","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_target"}
+{"query":"Jooto create story","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"alt_target"}
+{"query":"create a jooto task","expected_action_key":"jooto-create-task","expected_app_slug":"jooto","app_name":"Jooto","test_type":"contextual"}

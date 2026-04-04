@@ -1,0 +1,35 @@
+{"query":"Send Message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"Send Message in CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"CustomGPT send message","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"send a message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"post a message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"send out message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"fire off message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"send message via CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"send message using CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"send message with CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"CustomGPT send a message","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"CustomGPT post a message","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"send msg on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_target"}
+{"query":"CustomGPT send msg","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_target"}
+{"query":"send chat message on CustomGPT","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_target"}
+{"query":"CustomGPT send chat message","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_target"}
+{"query":"send a customgpt message","expected_action_key":"customgpt-send-message","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"contextual"}
+{"query":"Create Project on CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"Create Project in CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"CustomGPT create project","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"create a project on CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"CustomGPT create a project","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"make a project on CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"CustomGPT make a project","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"create project via CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"create project using CustomGPT","expected_action_key":"customgpt-create-project","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"Create Conversation on CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"Create Conversation in CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"CustomGPT create conversation","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"action_name"}
+{"query":"create a conversation on CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"CustomGPT create a conversation","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"make a conversation on CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"canonical"}
+{"query":"CustomGPT make a conversation","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"app_first"}
+{"query":"create conversation via CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}
+{"query":"create conversation using CustomGPT","expected_action_key":"customgpt-create-conversation","expected_app_slug":"customgpt","app_name":"CustomGPT","test_type":"alt_prep"}

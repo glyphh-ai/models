@@ -1,0 +1,76 @@
+{"query":"Upload a File on Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Upload a File in Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box upload a file","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"upload file on Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"upload the file on Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"upload file in Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"upload file via Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"upload file using Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"upload file with Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"Box upload file","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"Box upload the file","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"upload document on Box","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"Box upload document","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"upload a box file","expected_action_key":"box-upload-file","expected_app_slug":"box","app_name":"Box","test_type":"contextual"}
+{"query":"Upload File Version on Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Upload File Version in Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box upload file version","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"upload a file version on Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box upload a file version","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"upload the file version on Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box upload the file version","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"upload file version via Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"upload file version using Box","expected_action_key":"box-upload-file-version","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"Search Content on Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Search Content in Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box search content","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"search for content on Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box search for content","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"find content on Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box find content","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"look for content on Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box look for content","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"search for content in Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"search for content via Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"search for content using Box","expected_action_key":"box-search-content","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"Get Comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Get Comments in Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box get comments","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"get the comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"retrieve comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"fetch comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"show me the comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"pull comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"check comments on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"get comments via Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"get comments using Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"get comments with Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"Box get the comments","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"Box retrieve comments","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"get note on Box","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"Box get note","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"get a box comments","expected_action_key":"box-get-comments","expected_app_slug":"box","app_name":"Box","test_type":"contextual"}
+{"query":"Download File on Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Download File in Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box download file","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"export file on Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"export the file on Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"download the file on Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"export file in Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"export file via Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"export file using Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"export file with Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"Box export file","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"Box export the file","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"export document on Box","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"Box export document","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"alt_target"}
+{"query":"export a box file","expected_action_key":"box-download-file","expected_app_slug":"box","app_name":"Box","test_type":"contextual"}
+{"query":"Create Box Sign Request on Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Create Box Sign Request in Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"Box create box sign request","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"action_name"}
+{"query":"create a box sign request on Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box create a box sign request","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"make a box sign request on Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"canonical"}
+{"query":"Box make a box sign request","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"app_first"}
+{"query":"create box sign request via Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}
+{"query":"create box sign request using Box","expected_action_key":"box-create-sign-request","expected_app_slug":"box","app_name":"Box","test_type":"alt_prep"}

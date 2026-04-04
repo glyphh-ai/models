@@ -1,0 +1,9 @@
+{"query":"Create Wall Post on Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"action_name"}
+{"query":"Create Wall Post in Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"action_name"}
+{"query":"Snappy create wall post","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"action_name"}
+{"query":"create a wall post on Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"canonical"}
+{"query":"Snappy create a wall post","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"app_first"}
+{"query":"make a wall post on Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"canonical"}
+{"query":"Snappy make a wall post","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"app_first"}
+{"query":"create wall post via Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"alt_prep"}
+{"query":"create wall post using Snappy","expected_action_key":"snappy-create-wall-post","expected_app_slug":"snappy","app_name":"Snappy","test_type":"alt_prep"}

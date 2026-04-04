@@ -1,0 +1,9 @@
+{"query":"Create Link on Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"action_name"}
+{"query":"Create Link in Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"action_name"}
+{"query":"Curated create link","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"action_name"}
+{"query":"create a link on Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"canonical"}
+{"query":"Curated create a link","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"app_first"}
+{"query":"make a link on Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"canonical"}
+{"query":"Curated make a link","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"app_first"}
+{"query":"create link via Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"alt_prep"}
+{"query":"create link using Curated","expected_action_key":"curated-create-link","expected_app_slug":"curated","app_name":"Curated","test_type":"alt_prep"}

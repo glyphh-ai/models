@@ -1,0 +1,12 @@
+{"query":"Update User Info on Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}
+{"query":"Update User Info in Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}
+{"query":"Lucca update user info","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}
+{"query":"update the user info on Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"canonical"}
+{"query":"Lucca update the user info","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"app_first"}
+{"query":"edit the user info on Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"canonical"}
+{"query":"Lucca edit the user info","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"app_first"}
+{"query":"update user info via Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"alt_prep"}
+{"query":"update user info using Lucca","expected_action_key":"lucca-update-user-info","expected_app_slug":"lucca","app_name":"Lucca","test_type":"alt_prep"}
+{"query":"Approve Or Deny Leave Request on Lucca","expected_action_key":"lucca-approve-leave-request","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}
+{"query":"Approve Or Deny Leave Request in Lucca","expected_action_key":"lucca-approve-leave-request","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}
+{"query":"Lucca approve or deny leave request","expected_action_key":"lucca-approve-leave-request","expected_app_slug":"lucca","app_name":"Lucca","test_type":"action_name"}

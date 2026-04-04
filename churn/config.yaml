@@ -1,0 +1,86 @@
+# Customer Churn Predictor
+# Encodes customer usage metrics + behavioral descriptions into HDC vectors.
+# Matches customer data against known churn exemplars via similarity.
+# Temporal: daily snapshots keyed by customer_id for drift detection.
+
+name: churn-predictor
+version: 0.2.0
+description: |
+  Predicts customer churn risk by encoding usage metrics and behavioral
+  descriptions into high-dimensional vectors and matching against known
+  exemplars. Semantic layer handles NL queries; metrics layer handles
+  raw customer data. Risk level is derived from similarity, not inferred.
+
+author: Glyphh AI
+license: MIT
+
+encoder:
+  dimensions: 10000
+  seed: 42
+  temporal_source: auto
+
+auto_load_concepts: true
+
+tests:
+  file: tests.py
+  directory: tests/
+  data: tests/test-concepts.json
+
+layers:
+  semantic:
+    weight: 0.3
+    roles:
+      customer_id:
+        type: text
+        key_part: true
+        weight: 0.1
+
+      description:
+        type: bag_of_words
+
+      keywords:
+        type: bag_of_words
+        weight: 0.8
+
+  metrics:
+    weight: 0.7
+    roles:
+      logins:
+        type: numeric
+        bin_width: 25.0
+        min_value: 0.0
+        max_value: 200.0
+
+      support_cases:
+        type: numeric
+        bin_width: 4.0
+        min_value: 0.0
+        max_value: 20.0
+
+      defects:
+        type: numeric
+        bin_width: 3.0
+        min_value: 0.0
+        max_value: 15.0
+
+      feature_adoption:
+        type: numeric
+        bin_width: 15.0
+        min_value: 0.0
+        max_value: 100.0
+
+similarity:
+  threshold: 0.45
+  top_k: 3
+  query_scope: semantic
+  store_hierarchical_vectors: true
+  default_filter:
+    record_type: pattern
+
+disambiguation:
+  min_gap: 0.008
+
+# Two-stage query: when an exemplar matches, execute this GQL procedure
+# to find matching customer records.  References a procedure ID in gql.json.
+# Can also be inline GQL (backwards compatible).
+gql_query_default: find_similar_customers

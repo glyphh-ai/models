@@ -1,0 +1,9 @@
+{"query":"Send SMS on LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"action_name"}
+{"query":"Send SMS in LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"action_name"}
+{"query":"LabsMobile send sms","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"action_name"}
+{"query":"send a sms on LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"canonical"}
+{"query":"LabsMobile send a sms","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"app_first"}
+{"query":"post a sms on LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"canonical"}
+{"query":"LabsMobile post a sms","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"app_first"}
+{"query":"send sms via LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"alt_prep"}
+{"query":"send sms using LabsMobile","expected_action_key":"labsmobile-send-sms","expected_app_slug":"labsmobile","app_name":"LabsMobile","test_type":"alt_prep"}

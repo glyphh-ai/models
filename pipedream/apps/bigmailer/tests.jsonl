@@ -1,0 +1,9 @@
+{"query":"Send Transactional Email on BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"action_name"}
+{"query":"Send Transactional Email in BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"action_name"}
+{"query":"BigMailer send transactional email","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"action_name"}
+{"query":"send a transactional email on BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"canonical"}
+{"query":"BigMailer send a transactional email","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"app_first"}
+{"query":"post a transactional email on BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"canonical"}
+{"query":"BigMailer post a transactional email","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"app_first"}
+{"query":"send transactional email via BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"alt_prep"}
+{"query":"send transactional email using BigMailer","expected_action_key":"bigmailer-send-transactional-email","expected_app_slug":"bigmailer","app_name":"BigMailer","test_type":"alt_prep"}

@@ -1,0 +1,102 @@
+{"query":"Update Incident on TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Update Incident in TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk update incident","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"update the incident on TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk update the incident","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"edit the incident on TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk edit the incident","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"update incident via TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"update incident using TOPdesk","expected_action_key":"topdesk-update-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Knowledge Items on TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Knowledge Items in TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get knowledge items","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get the knowledge items on TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the knowledge items","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve knowledge items on TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve knowledge items","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get knowledge items via TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get knowledge items using TOPdesk","expected_action_key":"topdesk-get-knowledge-items","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Knowledge Item Statuses on TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Knowledge Item Statuses in TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get knowledge item statuses","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get the knowledge item statuses on TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the knowledge item statuses","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve knowledge item statuses on TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve knowledge item statuses","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get knowledge item statuses via TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get knowledge item statuses using TOPdesk","expected_action_key":"topdesk-get-knowledge-item-statuses","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incidents on TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incidents in TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incidents","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get the incidents on TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incidents","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incidents on TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incidents","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incidents via TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incidents using TOPdesk","expected_action_key":"topdesk-get-incidents","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incident on TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incident in TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incident","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get the incident on TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incident","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incident on TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incident","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incident via TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident using TOPdesk","expected_action_key":"topdesk-get-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incident Progress Trail By Number on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incident Progress Trail By Number in TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incident progress trail by number","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get incident progress trail number on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get incident progress trail number","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get the incident progress trail number on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incident progress trail number","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incident progress trail number on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incident progress trail number","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incident progress trail number in TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident progress trail number via TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident progress trail number using TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incident Progress Trail By ID on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incident Progress Trail By ID in TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incident progress trail by id","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get incident progress trail id on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get incident progress trail id","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get the incident progress trail id on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incident progress trail id","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incident progress trail id on TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incident progress trail id","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incident progress trail id in TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident progress trail id via TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident progress trail id using TOPdesk","expected_action_key":"topdesk-get-incident-progress-trail-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incident Actions By Number on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incident Actions By Number in TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incident actions by number","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get incident actions number on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get incident actions number","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get the incident actions number on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incident actions number","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incident actions number on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incident actions number","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incident actions number in TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident actions number via TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident actions number using TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-number","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Get Incident Actions By ID on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Get Incident Actions By ID in TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk get incident actions by id","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"get incident actions id on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get incident actions id","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get the incident actions id on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk get the incident actions id","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"retrieve incident actions id on TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk retrieve incident actions id","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"get incident actions id in TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident actions id via TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"get incident actions id using TOPdesk","expected_action_key":"topdesk-get-incident-actions-by-id","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"Create Incident on TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"Create Incident in TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"TOPdesk create incident","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"action_name"}
+{"query":"create a incident on TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk create a incident","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"make a incident on TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"canonical"}
+{"query":"TOPdesk make a incident","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"app_first"}
+{"query":"create incident via TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}
+{"query":"create incident using TOPdesk","expected_action_key":"topdesk-create-incident","expected_app_slug":"topdesk","app_name":"TOPdesk","test_type":"alt_prep"}

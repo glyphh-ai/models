@@ -1,0 +1,22 @@
+{"query":"Stop Timer on Everhour","expected_action_key":"everhour-stop-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Stop Timer in Everhour","expected_action_key":"everhour-stop-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Everhour stop timer","expected_action_key":"everhour-stop-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Start Timer on Everhour","expected_action_key":"everhour-start-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Start Timer in Everhour","expected_action_key":"everhour-start-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Everhour start timer","expected_action_key":"everhour-start-timer","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Create Task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Create Task in Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"Everhour create task","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"action_name"}
+{"query":"create a task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"canonical"}
+{"query":"make a task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"canonical"}
+{"query":"new task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"canonical"}
+{"query":"open a task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"canonical"}
+{"query":"start a task on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"canonical"}
+{"query":"create task via Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"alt_prep"}
+{"query":"create task using Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"alt_prep"}
+{"query":"create task with Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"alt_prep"}
+{"query":"Everhour create a task","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"app_first"}
+{"query":"Everhour make a task","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"app_first"}
+{"query":"create story on Everhour","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"alt_target"}
+{"query":"Everhour create story","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"alt_target"}
+{"query":"create a everhour task","expected_action_key":"everhour-create-task","expected_app_slug":"everhour","app_name":"Everhour","test_type":"contextual"}

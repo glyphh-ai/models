@@ -1,0 +1,19 @@
+{"query":"Revoke Credential on Dock Certs","expected_action_key":"dock_certs-revoke-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Revoke Credential in Dock Certs","expected_action_key":"dock_certs-revoke-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Dock Certs revoke credential","expected_action_key":"dock_certs-revoke-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Revoke Credential on dock_certs","expected_action_key":"dock_certs-revoke-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"List Credentials on Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"List Credentials in Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Dock Certs list credentials","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"List Credentials on dock_certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"list all credentials on Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"canonical"}
+{"query":"Dock Certs list all credentials","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"app_first"}
+{"query":"show all credentials on Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"canonical"}
+{"query":"Dock Certs show all credentials","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"app_first"}
+{"query":"list credentials via Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"alt_prep"}
+{"query":"list credentials using Dock Certs","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"alt_prep"}
+{"query":"dock_certs list credentials","expected_action_key":"dock_certs-list-credentials","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"alt_app_name"}
+{"query":"Issue Credential on Dock Certs","expected_action_key":"dock_certs-issue-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Issue Credential in Dock Certs","expected_action_key":"dock_certs-issue-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Dock Certs issue credential","expected_action_key":"dock_certs-issue-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}
+{"query":"Issue Credential on dock_certs","expected_action_key":"dock_certs-issue-credential","expected_app_slug":"dock_certs","app_name":"Dock Certs","test_type":"action_name"}

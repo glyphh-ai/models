@@ -1,0 +1,27 @@
+{"query":"Speak Text on Plivo","expected_action_key":"plivo-speak-text","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Speak Text in Plivo","expected_action_key":"plivo-speak-text","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plivo speak text","expected_action_key":"plivo-speak-text","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Send SMS on Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Send SMS in Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plivo send sms","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"send a sms on Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"canonical"}
+{"query":"Plivo send a sms","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"app_first"}
+{"query":"post a sms on Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"canonical"}
+{"query":"Plivo post a sms","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"app_first"}
+{"query":"send sms via Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"alt_prep"}
+{"query":"send sms using Plivo","expected_action_key":"plivo-send-sms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"alt_prep"}
+{"query":"Send MMS on Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Send MMS in Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plivo send mms","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"send a mms on Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"canonical"}
+{"query":"Plivo send a mms","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"app_first"}
+{"query":"post a mms on Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"canonical"}
+{"query":"Plivo post a mms","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"app_first"}
+{"query":"send mms via Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"alt_prep"}
+{"query":"send mms using Plivo","expected_action_key":"plivo-send-mms","expected_app_slug":"plivo","app_name":"Plivo","test_type":"alt_prep"}
+{"query":"Plays An Audio on Plivo","expected_action_key":"plivo-play-audio","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plays An Audio in Plivo","expected_action_key":"plivo-play-audio","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plivo plays an audio","expected_action_key":"plivo-play-audio","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Make A Call on Plivo","expected_action_key":"plivo-make-call","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Make A Call in Plivo","expected_action_key":"plivo-make-call","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}
+{"query":"Plivo make a call","expected_action_key":"plivo-make-call","expected_app_slug":"plivo","app_name":"Plivo","test_type":"action_name"}

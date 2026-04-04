@@ -1,0 +1,43 @@
+{"query":"Create Task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"Create Task in morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"morningmate create task","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"create a task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"make a task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"new task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"open a task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"start a task on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"create task via morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"create task using morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"create task with morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"morningmate create a task","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"morningmate make a task","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"create story on morningmate","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"morningmate create story","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"create a morningmate task","expected_action_key":"morningmate-create-task","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"contextual"}
+{"query":"Create Schedule on morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"Create Schedule in morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"morningmate create schedule","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"create a schedule on morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"morningmate create a schedule","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"make a schedule on morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"morningmate make a schedule","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"create schedule via morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"create schedule using morningmate","expected_action_key":"morningmate-create-schedule","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"Create Notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"Create Notification in morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"morningmate create notification","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"action_name"}
+{"query":"create a notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"make a notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"new notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"open a notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"start a notification on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"canonical"}
+{"query":"create notification via morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"create notification using morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"create notification with morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_prep"}
+{"query":"morningmate create a notification","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"morningmate make a notification","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"app_first"}
+{"query":"create msg on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"morningmate create msg","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"create chat message on morningmate","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"morningmate create chat message","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"alt_target"}
+{"query":"create a morningmate notification","expected_action_key":"morningmate-create-notification","expected_app_slug":"morningmate","app_name":"morningmate","test_type":"contextual"}

@@ -1,0 +1,27 @@
+{"query":"Post Comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"Post Comment in Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"Qntrl post comment","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"send comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"send a comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"post a comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"send out comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"fire off comment on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"send comment in Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}
+{"query":"send comment via Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}
+{"query":"send comment using Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}
+{"query":"send comment with Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}
+{"query":"Qntrl send comment","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"app_first"}
+{"query":"Qntrl send a comment","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"app_first"}
+{"query":"Qntrl post a comment","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"app_first"}
+{"query":"send note on Qntrl","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_target"}
+{"query":"Qntrl send note","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_target"}
+{"query":"send a qntrl comment","expected_action_key":"qntrl-post-comment","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"contextual"}
+{"query":"Create Job on Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"Create Job in Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"Qntrl create job","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"action_name"}
+{"query":"create a job on Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"Qntrl create a job","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"app_first"}
+{"query":"make a job on Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"canonical"}
+{"query":"Qntrl make a job","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"app_first"}
+{"query":"create job via Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}
+{"query":"create job using Qntrl","expected_action_key":"qntrl-create-job","expected_app_slug":"qntrl","app_name":"Qntrl","test_type":"alt_prep"}

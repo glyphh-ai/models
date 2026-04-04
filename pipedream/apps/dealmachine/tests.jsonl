@@ -1,0 +1,39 @@
+{"query":"Create Note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"Create Note in DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"DealMachine create note","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"create a note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"make a note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"new note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"open a note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"start a note on DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"create note via DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"create note using DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"create note with DealMachine","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"DealMachine create a note","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"DealMachine make a note","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"create a dealmachine note","expected_action_key":"dealmachine-create-note","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"contextual"}
+{"query":"Add Tags to Lead on DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"Add Tags to Lead in DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"DealMachine add tags to lead","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"add tags lead on DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"DealMachine add tags lead","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"add a tags lead on DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"DealMachine add a tags lead","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"add new tags lead on DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"DealMachine add new tags lead","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"add tags lead in DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"add tags lead via DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"add tags lead using DealMachine","expected_action_key":"dealmachine-add-tag-to-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"Add Lead on DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"Add Lead in DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"DealMachine add lead","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"action_name"}
+{"query":"add a lead on DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"add new lead on DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"canonical"}
+{"query":"add lead via DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"add lead using DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"add lead with DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_prep"}
+{"query":"DealMachine add a lead","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"DealMachine add new lead","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"app_first"}
+{"query":"add contact record on DealMachine","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_target"}
+{"query":"DealMachine add contact record","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"alt_target"}
+{"query":"add a dealmachine lead","expected_action_key":"dealmachine-add-lead","expected_app_slug":"dealmachine","app_name":"DealMachine","test_type":"contextual"}

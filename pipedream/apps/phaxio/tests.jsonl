@@ -1,0 +1,9 @@
+{"query":"Send Fax on Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"action_name"}
+{"query":"Send Fax in Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"action_name"}
+{"query":"Phaxio send fax","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"action_name"}
+{"query":"send a fax on Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"canonical"}
+{"query":"Phaxio send a fax","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"app_first"}
+{"query":"post a fax on Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"canonical"}
+{"query":"Phaxio post a fax","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"app_first"}
+{"query":"send fax via Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"alt_prep"}
+{"query":"send fax using Phaxio","expected_action_key":"phaxio-send-fax","expected_app_slug":"phaxio","app_name":"Phaxio","test_type":"alt_prep"}

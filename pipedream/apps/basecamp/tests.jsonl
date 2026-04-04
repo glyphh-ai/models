@@ -1,0 +1,72 @@
+{"query":"Create To-do Item on Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create To-do Item in Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create to-do item","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create a to-do item on Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp create a to-do item","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"make a to-do item on Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp make a to-do item","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create to-do item via Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create to-do item using Basecamp","expected_action_key":"basecamp-create-todo-item","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"Create Message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create Message in Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create message","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create a message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"make a message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"new message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"open a message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"start a message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"create message via Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create message using Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create message with Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"Basecamp create a message","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"Basecamp make a message","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create msg on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"Basecamp create msg","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"create chat message on Basecamp","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"Basecamp create chat message","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"create a basecamp message","expected_action_key":"basecamp-create-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"contextual"}
+{"query":"Create a Comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create a Comment in Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create a comment","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"make a comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"new comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"open a comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"start a comment on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"create comment in Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create comment via Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create comment using Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create comment with Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"Basecamp create comment","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"Basecamp make a comment","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create note on Basecamp","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"Basecamp create note","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_target"}
+{"query":"create a basecamp comment","expected_action_key":"basecamp-create-comment","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"contextual"}
+{"query":"Create a Card on Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create a Card in Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create a card","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create card on Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp create card","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"make a card on Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp make a card","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create card in Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create card via Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create card using Basecamp","expected_action_key":"basecamp-create-card","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"Create Campfire Message on Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create Campfire Message in Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create campfire message","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create a campfire message on Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp create a campfire message","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"make a campfire message on Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp make a campfire message","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create campfire message via Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create campfire message using Basecamp","expected_action_key":"basecamp-create-campfire-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"Create Campfire Chatbot Message on Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Create Campfire Chatbot Message in Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"Basecamp create campfire chatbot message","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"action_name"}
+{"query":"create a campfire chatbot message on Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp create a campfire chatbot message","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"make a campfire chatbot message on Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"canonical"}
+{"query":"Basecamp make a campfire chatbot message","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"app_first"}
+{"query":"create campfire chatbot message via Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}
+{"query":"create campfire chatbot message using Basecamp","expected_action_key":"basecamp-create-campfire-chatbot-message","expected_app_slug":"basecamp","app_name":"Basecamp","test_type":"alt_prep"}

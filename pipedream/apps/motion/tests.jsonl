@@ -1,0 +1,76 @@
+{"query":"Update Task on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Update Task in Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion update task","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"update the task on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"edit the task on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"modify the task on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"change the task on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"update task via Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"update task using Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"update task with Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"Motion update the task","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"Motion edit the task","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"update story on Motion","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"Motion update story","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"update a motion task","expected_action_key":"motion-update-task","expected_app_slug":"motion","app_name":"Motion","test_type":"contextual"}
+{"query":"Move Workspace on Motion","expected_action_key":"motion-move-workspace","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Move Workspace in Motion","expected_action_key":"motion-move-workspace","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion move workspace","expected_action_key":"motion-move-workspace","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Retrieve Task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Retrieve Task in Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion retrieve task","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"get task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"get the task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"fetch task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"show me the task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"pull task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"check task on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"get task in Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"get task via Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"get task using Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"get task with Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"Motion get task","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"Motion get the task","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"get story on Motion","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"Motion get story","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"get a motion task","expected_action_key":"motion-get-task","expected_app_slug":"motion","app_name":"Motion","test_type":"contextual"}
+{"query":"Retrieve Schedules on Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Retrieve Schedules in Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion retrieve schedules","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"get schedules on Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"Motion get schedules","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"get the schedules on Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"Motion get the schedules","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"get schedules in Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"get schedules via Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"get schedules using Motion","expected_action_key":"motion-get-schedules","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"Delete Task on Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Delete Task in Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion delete task","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"delete the task on Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"remove the task on Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"destroy the task on Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"delete task via Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"delete task using Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"delete task with Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"Motion delete the task","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"Motion remove the task","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"delete story on Motion","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"Motion delete story","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"delete a motion task","expected_action_key":"motion-delete-task","expected_app_slug":"motion","app_name":"Motion","test_type":"contextual"}
+{"query":"Create Task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Create Task in Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"Motion create task","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"action_name"}
+{"query":"create a task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"make a task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"new task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"open a task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"start a task on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"canonical"}
+{"query":"create task via Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"create task using Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"create task with Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_prep"}
+{"query":"Motion create a task","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"Motion make a task","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"app_first"}
+{"query":"create story on Motion","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"Motion create story","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"alt_target"}
+{"query":"create a motion task","expected_action_key":"motion-create-task","expected_app_slug":"motion","app_name":"Motion","test_type":"contextual"}

@@ -1,0 +1,34 @@
+{"query":"Insert Single Row on Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Insert Single Row in Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Snowflake insert single row","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"create single row on Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake create single row","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"create a single row on Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake create a single row","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"make a single row on Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake make a single row","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"create single row in Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"create single row via Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"create single row using Snowflake","expected_action_key":"snowflake-insert-row","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"Execute SQL Query on Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Execute SQL Query in Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Snowflake execute sql query","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"trigger sql query on Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake trigger sql query","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"run sql query on Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake run sql query","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"trigger sql query in Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"trigger sql query via Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"trigger sql query using Snowflake","expected_action_key":"snowflake-execute-sql-query","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"Query SQL Database on Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Query SQL Database in Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"Snowflake query sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"action_name"}
+{"query":"get sql database on Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"get the sql database on Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake get the sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"retrieve sql database on Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"canonical"}
+{"query":"Snowflake retrieve sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"app_first"}
+{"query":"get sql database in Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"get sql database via Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}
+{"query":"get sql database using Snowflake","expected_action_key":"database-query-sql-database","expected_app_slug":"snowflake","app_name":"Snowflake","test_type":"alt_prep"}

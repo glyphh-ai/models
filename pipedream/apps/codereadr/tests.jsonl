@@ -1,0 +1,19 @@
+{"query":"Generate QR Code on CodeREADr","expected_action_key":"codereadr-generate-qr-code","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"Generate QR Code in CodeREADr","expected_action_key":"codereadr-generate-qr-code","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"CodeREADr generate qr code","expected_action_key":"codereadr-generate-qr-code","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"Create Database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"Create Database in CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"CodeREADr create database","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"action_name"}
+{"query":"create a database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"canonical"}
+{"query":"make a database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"canonical"}
+{"query":"new database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"canonical"}
+{"query":"open a database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"canonical"}
+{"query":"start a database on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"canonical"}
+{"query":"create database via CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"alt_prep"}
+{"query":"create database using CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"alt_prep"}
+{"query":"create database with CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"alt_prep"}
+{"query":"CodeREADr create a database","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"app_first"}
+{"query":"CodeREADr make a database","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"app_first"}
+{"query":"create db on CodeREADr","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"alt_target"}
+{"query":"CodeREADr create db","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"alt_target"}
+{"query":"create a codereadr database","expected_action_key":"codereadr-create-database","expected_app_slug":"codereadr","app_name":"CodeREADr","test_type":"contextual"}

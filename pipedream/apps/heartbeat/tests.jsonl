@@ -1,0 +1,39 @@
+{"query":"Send Direct Message on Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Send Direct Message in Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Heartbeat send direct message","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"send a direct message on Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"Heartbeat send a direct message","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"post a direct message on Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"Heartbeat post a direct message","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"send direct message via Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"send direct message using Heartbeat","expected_action_key":"heartbeat-send-direct-message","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"Create Event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Create Event in Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Heartbeat create event","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"create a event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"make a event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"new event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"open a event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"start a event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"create event via Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"create event using Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"create event with Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"Heartbeat create a event","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"Heartbeat make a event","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"create meeting on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_target"}
+{"query":"Heartbeat create meeting","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_target"}
+{"query":"create calendar event on Heartbeat","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_target"}
+{"query":"Heartbeat create calendar event","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_target"}
+{"query":"create a heartbeat event","expected_action_key":"heartbeat-create-event","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"contextual"}
+{"query":"Add To Group on Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Add To Group in Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"Heartbeat add to group","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"action_name"}
+{"query":"add group on Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"Heartbeat add group","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"add a group on Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"Heartbeat add a group","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"add new group on Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"canonical"}
+{"query":"Heartbeat add new group","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"app_first"}
+{"query":"add group in Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"add group via Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}
+{"query":"add group using Heartbeat","expected_action_key":"heartbeat-add-to-group","expected_app_slug":"heartbeat","app_name":"Heartbeat","test_type":"alt_prep"}

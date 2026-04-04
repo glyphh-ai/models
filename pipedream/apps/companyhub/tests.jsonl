@@ -1,0 +1,41 @@
+{"query":"Create Deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"Create Deal in CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"CompanyHub create deal","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"create a deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"make a deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"new deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"open a deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"start a deal on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"create deal via CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"create deal using CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"create deal with CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"CompanyHub create a deal","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"CompanyHub make a deal","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"create opportunity on CompanyHub","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_target"}
+{"query":"CompanyHub create opportunity","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_target"}
+{"query":"create a companyhub deal","expected_action_key":"companyhub-create-deal","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"contextual"}
+{"query":"Create Contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"Create Contact in CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"CompanyHub create contact","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"create a contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"make a contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"new contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"open a contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"start a contact on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"create contact via CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"create contact using CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"create contact with CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"CompanyHub create a contact","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"CompanyHub make a contact","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"create contact record on CompanyHub","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_target"}
+{"query":"CompanyHub create contact record","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_target"}
+{"query":"create a companyhub contact","expected_action_key":"companyhub-create-contact","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"contextual"}
+{"query":"Create Company on CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"Create Company in CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"CompanyHub create company","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"action_name"}
+{"query":"create a company on CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"CompanyHub create a company","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"make a company on CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"canonical"}
+{"query":"CompanyHub make a company","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"app_first"}
+{"query":"create company via CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}
+{"query":"create company using CompanyHub","expected_action_key":"companyhub-create-company","expected_app_slug":"companyhub","app_name":"CompanyHub","test_type":"alt_prep"}

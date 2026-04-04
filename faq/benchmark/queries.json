@@ -1,0 +1,39 @@
+{
+  "queries": [
+    {"id": "clr_01", "category": "clear", "query": "I forgot my password", "expected_id": "acct_reset_password", "expected_category": "account"},
+    {"id": "clr_02", "category": "clear", "query": "where can I see my invoices", "expected_id": "bill_view_invoice", "expected_category": "billing"},
+    {"id": "clr_03", "category": "clear", "query": "how do I cancel my subscription", "expected_id": "bill_cancel_sub", "expected_category": "billing"},
+    {"id": "clr_04", "category": "clear", "query": "where is my order", "expected_id": "ship_track", "expected_category": "shipping"},
+    {"id": "clr_05", "category": "clear", "query": "what is your return policy", "expected_id": "ret_policy", "expected_category": "returns"},
+    {"id": "clr_06", "category": "clear", "query": "the app is running very slow", "expected_id": "tech_slow", "expected_category": "technical"},
+    {"id": "clr_07", "category": "clear", "query": "where do I find my API key", "expected_id": "prod_api_key", "expected_category": "product"},
+    {"id": "clr_08", "category": "clear", "query": "how do I contact support", "expected_id": "gen_contact", "expected_category": "general"},
+    {"id": "clr_09", "category": "clear", "query": "how do I enable two-factor authentication", "expected_id": "acct_2fa", "expected_category": "account"},
+    {"id": "clr_10", "category": "clear", "query": "how do I delete my account permanently", "expected_id": "acct_delete", "expected_category": "account"},
+
+    {"id": "nc_01", "category": "near_collision", "query": "I want my money back", "expected_id": "bill_refund", "expected_category": "billing"},
+    {"id": "nc_02", "category": "near_collision", "query": "I can't access my account", "expected_id": "tech_login_fail", "expected_category": "technical"},
+    {"id": "nc_03", "category": "near_collision", "query": "how long does it take for my order to arrive", "expected_id": "ship_time", "expected_category": "shipping"},
+    {"id": "nc_04", "category": "near_collision", "query": "I need to update my payment method", "expected_id": "bill_update_card", "expected_category": "billing"},
+    {"id": "nc_05", "category": "near_collision", "query": "I need to change the email on my account", "expected_id": "acct_change_email", "expected_category": "account"},
+    {"id": "nc_06", "category": "near_collision", "query": "I was billed twice this month", "expected_id": "bill_refund", "expected_category": "billing"},
+    {"id": "nc_07", "category": "near_collision", "query": "my password keeps not working", "expected_id": "acct_reset_password", "expected_category": "account"},
+    {"id": "nc_08", "category": "near_collision", "query": "do you ship to other countries", "expected_id": "ship_international", "expected_category": "shipping"},
+    {"id": "nc_09", "category": "near_collision", "query": "I received the wrong product", "expected_id": "ret_damaged", "expected_category": "returns"},
+    {"id": "nc_10", "category": "near_collision", "query": "what integrations do you support", "expected_id": "prod_integrations", "expected_category": "product"},
+
+    {"id": "adv_01", "category": "adversarial", "query": "pw reset plz", "expected_id": "acct_reset_password", "expected_category": "account"},
+    {"id": "adv_02", "category": "adversarial", "query": "wtf why is everything broken", "expected_id": "tech_slow", "expected_category": "technical"},
+    {"id": "adv_03", "category": "adversarial", "query": "can I undo my purchase", "expected_id": "ret_policy", "expected_category": "returns"},
+    {"id": "adv_04", "category": "adversarial", "query": "my stuff never showed up", "expected_id": "ship_track", "expected_category": "shipping"},
+    {"id": "adv_05", "category": "adversarial", "query": "need a human asap", "expected_id": "gen_contact", "expected_category": "general"},
+    {"id": "adv_06", "category": "adversarial", "query": "logging in keeps failing for me", "expected_id": "tech_login_fail", "expected_category": "technical"},
+    {"id": "adv_07", "category": "adversarial", "query": "getting 500 errors all the time", "expected_id": "tech_error_500", "expected_category": "technical"},
+
+    {"id": "oos_01", "category": "open_set", "query": "what programming languages do you support", "expected_id": null, "expected_category": null},
+    {"id": "oos_02", "category": "open_set", "query": "is there a mobile app", "expected_id": null, "expected_category": null},
+    {"id": "oos_03", "category": "open_set", "query": "what is your uptime SLA", "expected_id": null, "expected_category": null},
+    {"id": "oos_04", "category": "open_set", "query": "can I export my data to CSV", "expected_id": null, "expected_category": null},
+    {"id": "oos_05", "category": "open_set", "query": "how many users can I add to my team", "expected_id": null, "expected_category": null}
+  ]
+}

@@ -1,0 +1,16 @@
+model_id: model-pipedream
+name: Pipedream Action Router
+description: HDC tool router for 3,000+ APIs via Pipedream Connect. Routes NL queries to actions with confidence gates. Zero LLM at runtime.
+version: 0.7.2
+author: Glyphh AI
+license: MIT
+icon: "\U0001F50C"
+category: routing
+public: true
+tags:
+  - tool-routing
+  - pipedream
+  - api-orchestration
+  - agent-backend
+  - dynamic-model
+  - saas

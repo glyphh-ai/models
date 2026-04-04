@@ -1,0 +1,34 @@
+{"query":"Send Text Message on SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"Send Text Message in SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"SMSAPI send text message","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"send a text message on SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"SMSAPI send a text message","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"post a text message on SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"SMSAPI post a text message","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"send text message via SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"send text message using SMSAPI","expected_action_key":"smsapi-send-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"Send Group Text Message on SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"Send Group Text Message in SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"SMSAPI send group text message","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"send a group text message on SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"SMSAPI send a group text message","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"post a group text message on SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"SMSAPI post a group text message","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"send group text message via SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"send group text message using SMSAPI","expected_action_key":"smsapi-send-group-text-message","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"Create Contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"Create Contact in SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"SMSAPI create contact","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"action_name"}
+{"query":"create a contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"make a contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"new contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"open a contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"start a contact on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"canonical"}
+{"query":"create contact via SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"create contact using SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"create contact with SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_prep"}
+{"query":"SMSAPI create a contact","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"SMSAPI make a contact","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"app_first"}
+{"query":"create contact record on SMSAPI","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_target"}
+{"query":"SMSAPI create contact record","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"alt_target"}
+{"query":"create a smsapi contact","expected_action_key":"smsapi-create-contact","expected_app_slug":"smsapi","app_name":"SMSAPI","test_type":"contextual"}

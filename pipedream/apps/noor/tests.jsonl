@@ -1,0 +1,9 @@
+{"query":"Send Text Message on Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"action_name"}
+{"query":"Send Text Message in Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"action_name"}
+{"query":"Noor send text message","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"action_name"}
+{"query":"send a text message on Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"canonical"}
+{"query":"Noor send a text message","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"app_first"}
+{"query":"post a text message on Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"canonical"}
+{"query":"Noor post a text message","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"app_first"}
+{"query":"send text message via Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"alt_prep"}
+{"query":"send text message using Noor","expected_action_key":"noor-send-text-message","expected_app_slug":"noor","app_name":"Noor","test_type":"alt_prep"}

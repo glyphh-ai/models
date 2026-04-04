@@ -1,0 +1,37 @@
+{"query":"Send Message to Group Chat on Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Send Message to Group Chat in Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Beekeeper send message to group chat","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"send message group chat on Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"Beekeeper send message group chat","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"send a message group chat on Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"Beekeeper send a message group chat","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"post a message group chat on Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"Beekeeper post a message group chat","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"send message group chat in Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"send message group chat via Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"send message group chat using Beekeeper","expected_action_key":"beekeeper-send-message-group-chat","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"Get User Profile on Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Get User Profile in Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Beekeeper get user profile","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"get the user profile on Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"Beekeeper get the user profile","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"retrieve user profile on Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"Beekeeper retrieve user profile","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"get user profile via Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"get user profile using Beekeeper","expected_action_key":"beekeeper-get-profile","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"Create Post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Create Post in Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"Beekeeper create post","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"action_name"}
+{"query":"create a post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"make a post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"new post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"open a post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"start a post on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"canonical"}
+{"query":"create post via Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"create post using Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"create post with Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_prep"}
+{"query":"Beekeeper create a post","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"Beekeeper make a post","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"app_first"}
+{"query":"create status update on Beekeeper","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_target"}
+{"query":"Beekeeper create status update","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"alt_target"}
+{"query":"create a beekeeper post","expected_action_key":"beekeeper-create-post","expected_app_slug":"beekeeper","app_name":"Beekeeper","test_type":"contextual"}

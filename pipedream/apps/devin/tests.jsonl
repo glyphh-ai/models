@@ -1,0 +1,97 @@
+{"query":"Upload File on Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Upload File in Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin upload file","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"upload a file on Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"upload the file on Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"upload file via Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"upload file using Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"upload file with Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Devin upload a file","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"Devin upload the file","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"upload document on Devin","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_target"}
+{"query":"Devin upload document","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_target"}
+{"query":"upload a devin file","expected_action_key":"devin-upload-file","expected_app_slug":"devin","app_name":"Devin","test_type":"contextual"}
+{"query":"Update Session Tags on Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Update Session Tags in Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin update session tags","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"update the session tags on Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin update the session tags","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"edit the session tags on Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin edit the session tags","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"update session tags via Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"update session tags using Devin","expected_action_key":"devin-update-session-tags","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Update Knowledge on Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Update Knowledge in Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin update knowledge","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"update the knowledge on Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin update the knowledge","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"edit the knowledge on Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin edit the knowledge","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"update knowledge via Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"update knowledge using Devin","expected_action_key":"devin-update-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Send Message to Session on Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Send Message to Session in Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin send message to session","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"send message session on Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin send message session","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"send a message session on Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin send a message session","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"post a message session on Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin post a message session","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"send message session in Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"send message session via Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"send message session using Devin","expected_action_key":"devin-send-message-to-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"List Sessions on Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"List Sessions in Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin list sessions","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"list all sessions on Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin list all sessions","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"show all sessions on Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin show all sessions","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"list sessions via Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"list sessions using Devin","expected_action_key":"devin-list-sessions","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"List Knowledge on Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"List Knowledge in Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin list knowledge","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"list all knowledge on Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin list all knowledge","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"show all knowledge on Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin show all knowledge","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"list knowledge via Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"list knowledge using Devin","expected_action_key":"devin-list-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Get Session on Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Get Session in Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin get session","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"get the session on Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin get the session","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"retrieve session on Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin retrieve session","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"get session via Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"get session using Devin","expected_action_key":"devin-get-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Delete Knowledge on Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Delete Knowledge in Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin delete knowledge","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"delete the knowledge on Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin delete the knowledge","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"remove the knowledge on Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin remove the knowledge","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"delete knowledge via Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"delete knowledge using Devin","expected_action_key":"devin-delete-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Create Session on Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Create Session in Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin create session","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"create a session on Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin create a session","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"make a session on Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin make a session","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"create session via Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"create session using Devin","expected_action_key":"devin-create-session","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"Create Knowledge on Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Create Knowledge in Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"Devin create knowledge","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"action_name"}
+{"query":"create a knowledge on Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin create a knowledge","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"make a knowledge on Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"canonical"}
+{"query":"Devin make a knowledge","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"app_first"}
+{"query":"create knowledge via Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}
+{"query":"create knowledge using Devin","expected_action_key":"devin-create-knowledge","expected_app_slug":"devin","app_name":"Devin","test_type":"alt_prep"}

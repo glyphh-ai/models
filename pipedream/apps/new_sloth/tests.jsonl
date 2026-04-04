@@ -1,0 +1,37 @@
+{"query":"List Sources on New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"List Sources in New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"New Sloth list sources","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"List Sources on new_sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"list all sources on New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"show all sources on New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"get all sources on New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"show me all sources on New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"list sources via New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"list sources using New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"list sources with New Sloth","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"New Sloth list all sources","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"New Sloth show all sources","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"new_sloth list sources","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_app_name"}
+{"query":"list a new sloth sources","expected_action_key":"new_sloth-list-sources","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"contextual"}
+{"query":"Delete Source on New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"Delete Source in New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"New Sloth delete source","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"Delete Source on new_sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"delete the source on New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"New Sloth delete the source","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"remove the source on New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"New Sloth remove the source","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"delete source via New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"delete source using New Sloth","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"new_sloth delete source","expected_action_key":"new_sloth-delete-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_app_name"}
+{"query":"Create Source on New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"Create Source in New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"New Sloth create source","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"Create Source on new_sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"action_name"}
+{"query":"create a source on New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"New Sloth create a source","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"make a source on New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"canonical"}
+{"query":"New Sloth make a source","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"app_first"}
+{"query":"create source via New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"create source using New Sloth","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_prep"}
+{"query":"new_sloth create source","expected_action_key":"new_sloth-create-source","expected_app_slug":"new_sloth","app_name":"New Sloth","test_type":"alt_app_name"}

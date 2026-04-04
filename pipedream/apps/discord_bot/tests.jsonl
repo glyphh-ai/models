@@ -1,0 +1,336 @@
+{"query":"Send message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send message in Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot send message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send message on discord_bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"send a message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"post a message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"send out message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"fire off message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"send message via Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message using Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message with Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot send a message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot post a message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send msg on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot send msg","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"send chat message on Discord Bot","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot send chat message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"discord_bot send message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"send a discord bot message","expected_action_key":"discord_bot-send-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Send Message With File on Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send Message With File in Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot send message with file","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send Message With File on discord_bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"send message file on Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send message file","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send a message file on Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send a message file","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"post a message file on Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot post a message file","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send message file in Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message file via Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message file using Discord Bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message file on discord_bot","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot send message file","expected_action_key":"discord_bot-send-message-with-file","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Send Message to Forum Post on Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send Message to Forum Post in Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot send message to forum post","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Send Message to Forum Post on discord_bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"send message forum post on Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send message forum post","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send a message forum post on Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send a message forum post","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"post a message forum post on Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot post a message forum post","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send message forum post in Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message forum post via Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message forum post using Discord Bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send message forum post on discord_bot","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot send message forum post","expected_action_key":"discord_bot-send-message-to-forum-post","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Rename Channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Rename Channel in Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot rename channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Rename Channel on discord_bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"update channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update the channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"edit the channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"modify the channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"change the channel on Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update channel in Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel via Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel using Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel with Discord Bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot update channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot update the channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot edit the channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"update channel on discord_bot","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot update channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"update a discord bot channel","expected_action_key":"discord_bot-rename-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Remove User Role on Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Remove User Role in Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot remove user role","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Remove User Role on discord_bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"remove the user role on Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot remove the user role","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"take out user role on Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot take out user role","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"remove user role via Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"remove user role using Discord Bot","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot remove user role","expected_action_key":"discord_bot-remove-user-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Post Reaction with Emoji on Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Post Reaction with Emoji in Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot post reaction with emoji","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Post Reaction with Emoji on discord_bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"send reaction emoji on Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send reaction emoji","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send a reaction emoji on Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot send a reaction emoji","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"post a reaction emoji on Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot post a reaction emoji","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"send reaction emoji in Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send reaction emoji via Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send reaction emoji using Discord Bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"send reaction emoji on discord_bot","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot send reaction emoji","expected_action_key":"discord_bot-post-reaction-with-emoji","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Modify Guild Member on Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Modify Guild Member in Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot modify guild member","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Modify Guild Member on discord_bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"update guild member on Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot update guild member","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"update the guild member on Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot update the guild member","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"edit the guild member on Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot edit the guild member","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"update guild member in Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update guild member via Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update guild member using Discord Bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update guild member on discord_bot","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot update guild member","expected_action_key":"discord_bot-modify-guild-member","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Modify Channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Modify Channel in Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot modify channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Modify Channel on discord_bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"update channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update the channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"edit the channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"modify the channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"change the channel on Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update channel in Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel via Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel using Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update channel with Discord Bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot update channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot update the channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot edit the channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"update channel on discord_bot","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot update channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"update a discord bot channel","expected_action_key":"discord_bot-modify-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"List Users that Reacted with Emoji on Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Users that Reacted with Emoji in Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot list users that reacted with emoji","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Users that Reacted with Emoji on discord_bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"list users that reacted emoji on Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot list users that reacted emoji","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"list all users that reacted emoji on Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot list all users that reacted emoji","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"show all users that reacted emoji on Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot show all users that reacted emoji","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"list users that reacted emoji in Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list users that reacted emoji via Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list users that reacted emoji using Discord Bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list users that reacted emoji on discord_bot","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot list users that reacted emoji","expected_action_key":"discord_bot-list-users-with-emoji-reactions","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"List Guild Members on Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Guild Members in Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot list guild members","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Guild Members on discord_bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"list all guild members on Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot list all guild members","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"show all guild members on Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot show all guild members","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"list guild members via Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list guild members using Discord Bot","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot list guild members","expected_action_key":"discord_bot-list-guild-members","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"List Channels on Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channels in Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot list channels","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channels on discord_bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"list all channels on Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"show all channels on Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"get all channels on Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"show me all channels on Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"list channels via Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list channels using Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list channels with Discord Bot","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot list all channels","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot show all channels","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"discord_bot list channels","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"list a discord bot channels","expected_action_key":"discord_bot-list-channels","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"List Channel Messages on Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channel Messages in Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot list channel messages","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channel Messages on discord_bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"list all channel messages on Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot list all channel messages","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"show all channel messages on Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot show all channel messages","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"list channel messages via Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list channel messages using Discord Bot","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot list channel messages","expected_action_key":"discord_bot-list-channel-messages","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"List Channel Invites on Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channel Invites in Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot list channel invites","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"List Channel Invites on discord_bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"list all channel invites on Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot list all channel invites","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"show all channel invites on Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot show all channel invites","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"list channel invites via Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"list channel invites using Discord Bot","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot list channel invites","expected_action_key":"discord_bot-list-channel-invites","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Get message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Get message in Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot get message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Get message on discord_bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"get the message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"retrieve message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"fetch message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"show me the message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"pull message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"check message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"get message via Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"get message using Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"get message with Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot get the message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot retrieve message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"get msg on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot get msg","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"get chat message on Discord Bot","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot get chat message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"discord_bot get message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"get a discord bot message","expected_action_key":"discord_bot-get-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Find User on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Find User in Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot find user","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Find User on discord_bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"search for user on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"look for user on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"search user on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"locate user on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"search for user in Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for user via Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for user using Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for user with Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot search for user","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot look for user","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"search for member on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot search for member","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"search for person on Discord Bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot search for person","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"search for user on discord_bot","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot search for user","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"search for a discord bot user","expected_action_key":"discord_bot-find-user","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Find Channel on Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Find Channel in Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot find channel","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Find Channel on discord_bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"search for channel on Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"look for channel on Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"search channel on Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"locate channel on Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"search for channel in Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for channel via Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for channel using Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"search for channel with Discord Bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot search for channel","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot look for channel","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"search for channel on discord_bot","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot search for channel","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"search for a discord bot channel","expected_action_key":"discord_bot-find-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Delete message on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Delete message in Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot delete message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Delete message on discord_bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"delete the message on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"remove the message on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"destroy the message on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"delete message via Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"delete message using Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"delete message with Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot delete the message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot remove the message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"delete msg on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot delete msg","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"delete chat message on Discord Bot","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"Discord Bot delete chat message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_target"}
+{"query":"discord_bot delete message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"delete a discord bot message","expected_action_key":"discord_bot-delete-message","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Delete Channel on Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Delete Channel in Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot delete channel","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Delete Channel on discord_bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"delete the channel on Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"remove the channel on Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"destroy the channel on Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"delete channel via Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"delete channel using Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"delete channel with Discord Bot","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot delete the channel","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot remove the channel","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"discord_bot delete channel","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"delete a discord bot channel","expected_action_key":"discord_bot-delete-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Create Guild Channel on Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Create Guild Channel in Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot create guild channel","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Create Guild Channel on discord_bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"create a guild channel on Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot create a guild channel","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"make a guild channel on Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot make a guild channel","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"create guild channel via Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"create guild channel using Discord Bot","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot create guild channel","expected_action_key":"discord_bot-create-guild-channel","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Create Channel Invite on Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Create Channel Invite in Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot create channel invite","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Create Channel Invite on discord_bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"create a channel invite on Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot create a channel invite","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"make a channel invite on Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"Discord Bot make a channel invite","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"create channel invite via Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"create channel invite using Discord Bot","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"discord_bot create channel invite","expected_action_key":"discord_bot-create-channel-invite","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"Change Nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Change Nickname in Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot change nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Change Nickname on discord_bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"update nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update the nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"edit the nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"modify the nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"change the nickname on Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"update nickname in Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update nickname via Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update nickname using Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"update nickname with Discord Bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot update nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot update the nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot edit the nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"update nickname on discord_bot","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"discord_bot update nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"update a discord bot nickname","expected_action_key":"discord_bot-change-nickname","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}
+{"query":"Add Role on Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Add Role in Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Discord Bot add role","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"Add Role on discord_bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"action_name"}
+{"query":"add a role on Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"add new role on Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"canonical"}
+{"query":"add role via Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"add role using Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"add role with Discord Bot","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_prep"}
+{"query":"Discord Bot add a role","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"Discord Bot add new role","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"app_first"}
+{"query":"discord_bot add role","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"alt_app_name"}
+{"query":"add a discord bot role","expected_action_key":"discord_bot-add-role","expected_app_slug":"discord_bot","app_name":"Discord Bot","test_type":"contextual"}

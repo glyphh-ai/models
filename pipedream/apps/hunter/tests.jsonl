@@ -1,0 +1,131 @@
+{"query":"Update Lead on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Update Lead in Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter update lead","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"update the lead on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"edit the lead on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"modify the lead on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"change the lead on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"update lead via Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"update lead using Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"update lead with Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Hunter update the lead","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"Hunter edit the lead","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"update contact record on Hunter","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"Hunter update contact record","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"update a hunter lead","expected_action_key":"hunter-update-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"contextual"}
+{"query":"List Leads on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"List Leads in Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter list leads","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"list all leads on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"show all leads on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"get all leads on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"show me all leads on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"list leads via Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"list leads using Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"list leads with Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Hunter list all leads","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"Hunter show all leads","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"list contact record on Hunter","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"Hunter list contact record","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"list a hunter leads","expected_action_key":"hunter-list-leads","expected_app_slug":"hunter","app_name":"Hunter","test_type":"contextual"}
+{"query":"List Leads Lists on Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"List Leads Lists in Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter list leads lists","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"list all leads lists on Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter list all leads lists","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"show all leads lists on Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter show all leads lists","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"list leads lists via Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"list leads lists using Hunter","expected_action_key":"hunter-list-leads-lists","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Get Leads List on Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Get Leads List in Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter get leads list","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"get the leads list on Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter get the leads list","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"retrieve leads list on Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter retrieve leads list","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"get leads list via Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"get leads list using Hunter","expected_action_key":"hunter-get-leads-list","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Get Lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Get Lead in Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter get lead","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"get the lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"retrieve lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"fetch lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"show me the lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"pull lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"check lead on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"get lead via Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"get lead using Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"get lead with Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Hunter get the lead","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"Hunter retrieve lead","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"get contact record on Hunter","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"Hunter get contact record","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"get a hunter lead","expected_action_key":"hunter-get-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"contextual"}
+{"query":"Email Verifier on Hunter","expected_action_key":"hunter-email-verifier","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Email Verifier in Hunter","expected_action_key":"hunter-email-verifier","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter email verifier","expected_action_key":"hunter-email-verifier","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Email Finder on Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Email Finder in Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter email finder","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"search for finder on Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter search for finder","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"find finder on Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter find finder","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"look for finder on Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter look for finder","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"search for finder in Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"search for finder via Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"search for finder using Hunter","expected_action_key":"hunter-email-finder","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Email Count on Hunter","expected_action_key":"hunter-email-count","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Email Count in Hunter","expected_action_key":"hunter-email-count","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter email count","expected_action_key":"hunter-email-count","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Domain Search on Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Domain Search in Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter domain search","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"search for search on Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter search for search","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"find search on Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter find search","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"look for search on Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"Hunter look for search","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"search for search in Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"search for search via Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"search for search using Hunter","expected_action_key":"hunter-domain-search","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Delete Lead on Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Delete Lead in Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter delete lead","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"delete the lead on Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"remove the lead on Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"destroy the lead on Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"delete lead via Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"delete lead using Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"delete lead with Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Hunter delete the lead","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"Hunter remove the lead","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"delete contact record on Hunter","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"Hunter delete contact record","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"delete a hunter lead","expected_action_key":"hunter-delete-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"contextual"}
+{"query":"Create Lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Create Lead in Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter create lead","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"create a lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"make a lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"new lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"open a lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"start a lead on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"canonical"}
+{"query":"create lead via Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"create lead using Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"create lead with Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_prep"}
+{"query":"Hunter create a lead","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"Hunter make a lead","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"app_first"}
+{"query":"create contact record on Hunter","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"Hunter create contact record","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"alt_target"}
+{"query":"create a hunter lead","expected_action_key":"hunter-create-lead","expected_app_slug":"hunter","app_name":"Hunter","test_type":"contextual"}
+{"query":"Combined Enrichment on Hunter","expected_action_key":"hunter-combined-enrichment","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Combined Enrichment in Hunter","expected_action_key":"hunter-combined-enrichment","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter combined enrichment","expected_action_key":"hunter-combined-enrichment","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Account Information on Hunter","expected_action_key":"hunter-account-information","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Account Information in Hunter","expected_action_key":"hunter-account-information","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}
+{"query":"Hunter account information","expected_action_key":"hunter-account-information","expected_app_slug":"hunter","app_name":"Hunter","test_type":"action_name"}

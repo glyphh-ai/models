@@ -1,0 +1,18 @@
+{"query":"Send SMS on Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"Send SMS in Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"Acumbamail send sms","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"send a sms on Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"canonical"}
+{"query":"Acumbamail send a sms","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"app_first"}
+{"query":"post a sms on Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"canonical"}
+{"query":"Acumbamail post a sms","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"app_first"}
+{"query":"send sms via Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"alt_prep"}
+{"query":"send sms using Acumbamail","expected_action_key":"acumbamail-send-sms","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"alt_prep"}
+{"query":"Get Campaigns on Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"Get Campaigns in Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"Acumbamail get campaigns","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"action_name"}
+{"query":"get the campaigns on Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"canonical"}
+{"query":"Acumbamail get the campaigns","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"app_first"}
+{"query":"retrieve campaigns on Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"canonical"}
+{"query":"Acumbamail retrieve campaigns","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"app_first"}
+{"query":"get campaigns via Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"alt_prep"}
+{"query":"get campaigns using Acumbamail","expected_action_key":"acumbamail-get-campaigns","expected_app_slug":"acumbamail","app_name":"Acumbamail","test_type":"alt_prep"}

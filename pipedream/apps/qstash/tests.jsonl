@@ -1,0 +1,45 @@
+{"query":"Verify Webhook on QStash","expected_action_key":"qstash-verify-webhook","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Verify Webhook in QStash","expected_action_key":"qstash-verify-webhook","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash verify webhook","expected_action_key":"qstash-verify-webhook","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Publish Topic Message on QStash","expected_action_key":"qstash-publish-topic-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Publish Topic Message in QStash","expected_action_key":"qstash-publish-topic-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash publish topic message","expected_action_key":"qstash-publish-topic-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Publish Endpoint Message on QStash","expected_action_key":"qstash-publish-endpoint-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Publish Endpoint Message in QStash","expected_action_key":"qstash-publish-endpoint-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash publish endpoint message","expected_action_key":"qstash-publish-endpoint-message","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"List Topics on QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"List Topics in QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash list topics","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"list all topics on QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash list all topics","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"show all topics on QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash show all topics","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"list topics via QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"list topics using QStash","expected_action_key":"qstash-list-topics","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"List Endpoints on QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"List Endpoints in QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash list endpoints","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"list all endpoints on QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash list all endpoints","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"show all endpoints on QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash show all endpoints","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"list endpoints via QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"list endpoints using QStash","expected_action_key":"qstash-list-endpoints","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"Create Topic on QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Create Topic in QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash create topic","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"create a topic on QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash create a topic","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"make a topic on QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash make a topic","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"create topic via QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"create topic using QStash","expected_action_key":"qstash-create-topic","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"Create Endpoint on QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"Create Endpoint in QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"QStash create endpoint","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"action_name"}
+{"query":"create a endpoint on QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash create a endpoint","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"make a endpoint on QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"canonical"}
+{"query":"QStash make a endpoint","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"app_first"}
+{"query":"create endpoint via QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}
+{"query":"create endpoint using QStash","expected_action_key":"qstash-create-endpoint","expected_app_slug":"qstash","app_name":"QStash","test_type":"alt_prep"}

@@ -1,0 +1,16 @@
+{"query":"Create Customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"action_name"}
+{"query":"Create Customer in LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"action_name"}
+{"query":"LiveAgent create customer","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"action_name"}
+{"query":"create a customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"canonical"}
+{"query":"make a customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"canonical"}
+{"query":"new customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"canonical"}
+{"query":"open a customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"canonical"}
+{"query":"start a customer on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"canonical"}
+{"query":"create customer via LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"alt_prep"}
+{"query":"create customer using LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"alt_prep"}
+{"query":"create customer with LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"alt_prep"}
+{"query":"LiveAgent create a customer","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"app_first"}
+{"query":"LiveAgent make a customer","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"app_first"}
+{"query":"create account on LiveAgent","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"alt_target"}
+{"query":"LiveAgent create account","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"alt_target"}
+{"query":"create a liveagent customer","expected_action_key":"liveagent-create-customer","expected_app_slug":"liveagent","app_name":"LiveAgent","test_type":"contextual"}

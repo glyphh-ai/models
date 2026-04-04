@@ -1,0 +1,63 @@
+{"query":"Update Exhibitor on ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Update Exhibitor in ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP update exhibitor","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"update the exhibitor on ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP update the exhibitor","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"edit the exhibitor on ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP edit the exhibitor","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"update exhibitor via ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"update exhibitor using ExpoFP","expected_action_key":"expofp-update-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"Update Booth on ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Update Booth in ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP update booth","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"update the booth on ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP update the booth","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"edit the booth on ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP edit the booth","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"update booth via ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"update booth using ExpoFP","expected_action_key":"expofp-update-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"List All Events on ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"List All Events in ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP list all events","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"list all all events on ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP list all all events","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"show all all events on ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP show all all events","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"list all events via ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"list all events using ExpoFP","expected_action_key":"expofp-list-all-events","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"Get Exhibitor on ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Get Exhibitor in ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP get exhibitor","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"get the exhibitor on ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP get the exhibitor","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"retrieve exhibitor on ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP retrieve exhibitor","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"get exhibitor via ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"get exhibitor using ExpoFP","expected_action_key":"expofp-get-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"Get Booth on ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Get Booth in ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP get booth","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"get the booth on ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP get the booth","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"retrieve booth on ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP retrieve booth","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"get booth via ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"get booth using ExpoFP","expected_action_key":"expofp-get-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"Add Exhibitor on ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Add Exhibitor in ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP add exhibitor","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"add a exhibitor on ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP add a exhibitor","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"add new exhibitor on ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP add new exhibitor","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"add exhibitor via ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"add exhibitor using ExpoFP","expected_action_key":"expofp-add-exhibitor","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"Add Exhibitor Booth on ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"Add Exhibitor Booth in ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"ExpoFP add exhibitor booth","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"action_name"}
+{"query":"add a exhibitor booth on ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP add a exhibitor booth","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"add new exhibitor booth on ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"canonical"}
+{"query":"ExpoFP add new exhibitor booth","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"app_first"}
+{"query":"add exhibitor booth via ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}
+{"query":"add exhibitor booth using ExpoFP","expected_action_key":"expofp-add-exhibitor-booth","expected_app_slug":"expofp","app_name":"ExpoFP","test_type":"alt_prep"}

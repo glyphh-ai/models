@@ -1,0 +1,39 @@
+{"query":"Get Payment Status on Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Get Payment Status in Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Xendit get payment status","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"get the payment status on Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"Xendit get the payment status","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"retrieve payment status on Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"Xendit retrieve payment status","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"get payment status via Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"get payment status using Xendit","expected_action_key":"xendit-get-payment-status","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"Create Payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Create Payout in Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Xendit create payout","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"create a payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"make a payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"new payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"open a payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"start a payout on Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"create payout via Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"create payout using Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"create payout with Xendit","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"Xendit create a payout","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"Xendit make a payout","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"create a xendit payout","expected_action_key":"xendit-create-payout","expected_app_slug":"xendit","app_name":"Xendit","test_type":"contextual"}
+{"query":"Create Invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Create Invoice in Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"Xendit create invoice","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"action_name"}
+{"query":"create a invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"make a invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"new invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"open a invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"start a invoice on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"canonical"}
+{"query":"create invoice via Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"create invoice using Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"create invoice with Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_prep"}
+{"query":"Xendit create a invoice","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"Xendit make a invoice","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"app_first"}
+{"query":"create bill on Xendit","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_target"}
+{"query":"Xendit create bill","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"alt_target"}
+{"query":"create a xendit invoice","expected_action_key":"xendit-create-invoice","expected_app_slug":"xendit","app_name":"Xendit","test_type":"contextual"}

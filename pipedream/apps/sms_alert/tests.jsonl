@@ -1,0 +1,40 @@
+{"query":"Send SMS on SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Send SMS in SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"SMS Alert send sms","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Send SMS on sms_alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"send a sms on SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"SMS Alert send a sms","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"post a sms on SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"SMS Alert post a sms","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"send sms via SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"send sms using SMS Alert","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"sms_alert send sms","expected_action_key":"sms_alert-send-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_app_name"}
+{"query":"Schedule SMS on SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Schedule SMS in SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"SMS Alert schedule sms","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Schedule SMS on sms_alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"schedule a sms on SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"SMS Alert schedule a sms","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"book a sms on SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"SMS Alert book a sms","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"schedule sms via SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"schedule sms using SMS Alert","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"sms_alert schedule sms","expected_action_key":"sms_alert-schedule-sms","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_app_name"}
+{"query":"Create Contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Create Contact in SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"SMS Alert create contact","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"Create Contact on sms_alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"action_name"}
+{"query":"create a contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"make a contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"new contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"open a contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"start a contact on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"canonical"}
+{"query":"create contact via SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"create contact using SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"create contact with SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_prep"}
+{"query":"SMS Alert create a contact","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"SMS Alert make a contact","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"app_first"}
+{"query":"create contact record on SMS Alert","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_target"}
+{"query":"SMS Alert create contact record","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_target"}
+{"query":"sms_alert create contact","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"alt_app_name"}
+{"query":"create a sms alert contact","expected_action_key":"sms_alert-create-contact","expected_app_slug":"sms_alert","app_name":"SMS Alert","test_type":"contextual"}

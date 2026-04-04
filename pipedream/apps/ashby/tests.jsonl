@@ -1,0 +1,56 @@
+{"query":"Start Offer on Ashby","expected_action_key":"ashby-start-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Start Offer in Ashby","expected_action_key":"ashby-start-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby start offer","expected_action_key":"ashby-start-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Start Offer Process on Ashby","expected_action_key":"ashby-start-offer-process","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Start Offer Process in Ashby","expected_action_key":"ashby-start-offer-process","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby start offer process","expected_action_key":"ashby-start-offer-process","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"List Applications on Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"List Applications in Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby list applications","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"list all applications on Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby list all applications","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"show all applications on Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby show all applications","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"list applications via Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"list applications using Ashby","expected_action_key":"ashby-list-applications","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"Create Offer on Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Create Offer in Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby create offer","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"create a offer on Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby create a offer","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"make a offer on Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby make a offer","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"create offer via Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"create offer using Ashby","expected_action_key":"ashby-create-offer","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"Create Interview Schedule on Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Create Interview Schedule in Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby create interview schedule","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"create a interview schedule on Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby create a interview schedule","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"make a interview schedule on Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby make a interview schedule","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"create interview schedule via Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"create interview schedule using Ashby","expected_action_key":"ashby-create-interview-schedule","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"Create Candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Create Candidate in Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby create candidate","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"create a candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"make a candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"new candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"open a candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"start a candidate on Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"create candidate via Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"create candidate using Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"create candidate with Ashby","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"Ashby create a candidate","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"Ashby make a candidate","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"create a ashby candidate","expected_action_key":"ashby-create-candidate","expected_app_slug":"ashby","app_name":"Ashby","test_type":"contextual"}
+{"query":"Create Application on Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Create Application in Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"Ashby create application","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"action_name"}
+{"query":"create a application on Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby create a application","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"make a application on Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"canonical"}
+{"query":"Ashby make a application","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"app_first"}
+{"query":"create application via Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}
+{"query":"create application using Ashby","expected_action_key":"ashby-create-application","expected_app_slug":"ashby","app_name":"Ashby","test_type":"alt_prep"}

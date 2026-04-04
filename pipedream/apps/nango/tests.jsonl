@@ -1,0 +1,69 @@
+{"query":"Proxy Post Request on Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Proxy Post Request in Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango proxy post request","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"send post request on Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango send post request","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"send a post request on Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango send a post request","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"post a post request on Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango post a post request","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"send post request in Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"send post request via Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"send post request using Nango","expected_action_key":"nango-proxy-post","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"Proxy Get Request on Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Proxy Get Request in Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango proxy get request","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"get get request on Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango get get request","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"get the get request on Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango get the get request","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"retrieve get request on Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango retrieve get request","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"get get request in Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"get get request via Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"get get request using Nango","expected_action_key":"nango-proxy-get","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"List Integrations on Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"List Integrations in Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango list integrations","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"list all integrations on Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango list all integrations","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"show all integrations on Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango show all integrations","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"list integrations via Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"list integrations using Nango","expected_action_key":"nango-list-integrations","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"List Connections on Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"List Connections in Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango list connections","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"list all connections on Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango list all connections","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"show all connections on Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango show all connections","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"list connections via Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"list connections using Nango","expected_action_key":"nango-list-connections","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"Get Connection on Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Get Connection in Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango get connection","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"get the connection on Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango get the connection","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"retrieve connection on Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango retrieve connection","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"get connection via Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"get connection using Nango","expected_action_key":"nango-get-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"Delete Connection on Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Delete Connection in Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango delete connection","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"delete the connection on Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango delete the connection","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"remove the connection on Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango remove the connection","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"delete connection via Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"delete connection using Nango","expected_action_key":"nango-delete-connection","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"Create Integration on Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Create Integration in Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"Nango create integration","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"action_name"}
+{"query":"create a integration on Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango create a integration","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"make a integration on Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"canonical"}
+{"query":"Nango make a integration","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"app_first"}
+{"query":"create integration via Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}
+{"query":"create integration using Nango","expected_action_key":"nango-create-integration","expected_app_slug":"nango","app_name":"Nango","test_type":"alt_prep"}

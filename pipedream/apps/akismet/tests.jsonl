@@ -1,0 +1,22 @@
+{"query":"Submit Spam on Akismet","expected_action_key":"akismet-submit-spam","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Submit Spam in Akismet","expected_action_key":"akismet-submit-spam","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Akismet submit spam","expected_action_key":"akismet-submit-spam","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Submit Ham on Akismet","expected_action_key":"akismet-submit-ham","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Submit Ham in Akismet","expected_action_key":"akismet-submit-ham","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Akismet submit ham","expected_action_key":"akismet-submit-ham","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Check Comment on Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Check Comment in Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"Akismet check comment","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"action_name"}
+{"query":"comment on comment on Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"canonical"}
+{"query":"add a comment to comment on Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"canonical"}
+{"query":"leave a comment on comment on Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"canonical"}
+{"query":"comment on comment in Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_prep"}
+{"query":"comment on comment via Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_prep"}
+{"query":"comment on comment using Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_prep"}
+{"query":"comment on comment with Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_prep"}
+{"query":"Akismet comment on comment","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"app_first"}
+{"query":"Akismet add a comment to comment","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"app_first"}
+{"query":"Akismet leave a comment on comment","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"app_first"}
+{"query":"comment on note on Akismet","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_target"}
+{"query":"Akismet comment on note","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"alt_target"}
+{"query":"comment on a akismet comment","expected_action_key":"akismet-check-comment","expected_app_slug":"akismet","app_name":"Akismet","test_type":"contextual"}

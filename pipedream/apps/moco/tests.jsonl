@@ -1,0 +1,33 @@
+{"query":"Get Task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"Get Task in MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"MOCO get task","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"get the task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"retrieve task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"fetch task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"show me the task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"pull task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"check task on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"get task via MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"get task using MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"get task with MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"MOCO get the task","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"app_first"}
+{"query":"MOCO retrieve task","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"app_first"}
+{"query":"get story on MOCO","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_target"}
+{"query":"MOCO get story","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_target"}
+{"query":"get a moco task","expected_action_key":"moco-get-task","expected_app_slug":"moco","app_name":"MOCO","test_type":"contextual"}
+{"query":"Create Payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"Create Payment in MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"MOCO create payment","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"action_name"}
+{"query":"create a payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"make a payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"new payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"open a payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"start a payment on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"canonical"}
+{"query":"create payment via MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"create payment using MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"create payment with MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_prep"}
+{"query":"MOCO create a payment","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"app_first"}
+{"query":"MOCO make a payment","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"app_first"}
+{"query":"create charge on MOCO","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_target"}
+{"query":"MOCO create charge","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"alt_target"}
+{"query":"create a moco payment","expected_action_key":"moco-create-payment","expected_app_slug":"moco","app_name":"MOCO","test_type":"contextual"}

@@ -1,0 +1,32 @@
+{"query":"Update Record on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"Update Record in Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"Retable update record","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"update the record on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"edit the record on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"modify the record on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"change the record on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"update record via Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"update record using Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"update record with Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"Retable update the record","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"app_first"}
+{"query":"Retable edit the record","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"app_first"}
+{"query":"update row on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"Retable update row","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"update entry on Retable","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"Retable update entry","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"update a retable record","expected_action_key":"retable-update-record","expected_app_slug":"retable","app_name":"Retable","test_type":"contextual"}
+{"query":"Add Record on Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"Add Record in Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"Retable add record","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"action_name"}
+{"query":"add a record on Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"add new record on Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"canonical"}
+{"query":"add record via Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"add record using Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"add record with Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_prep"}
+{"query":"Retable add a record","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"app_first"}
+{"query":"Retable add new record","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"app_first"}
+{"query":"add row on Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"Retable add row","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"add entry on Retable","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"Retable add entry","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"alt_target"}
+{"query":"add a retable record","expected_action_key":"retable-add-record","expected_app_slug":"retable","app_name":"Retable","test_type":"contextual"}

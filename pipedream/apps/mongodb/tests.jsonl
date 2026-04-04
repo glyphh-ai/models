@@ -1,0 +1,97 @@
+{"query":"Update Documents on MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Update Documents in MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB update documents","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"update the documents on MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB update the documents","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"edit the documents on MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB edit the documents","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"update documents via MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"update documents using MongoDB","expected_action_key":"mongodb-update-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"Update a Document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Update a Document in MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB update a document","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"update document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"update the document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"edit the document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"modify the document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"change the document on MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"update document in MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"update document via MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"update document using MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"update document with MongoDB","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"MongoDB update document","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"MongoDB update the document","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"MongoDB edit the document","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"update a mongodb document","expected_action_key":"mongodb-update-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"contextual"}
+{"query":"Search Documents on MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Search Documents in MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB search documents","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"search for documents on MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB search for documents","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"find documents on MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB find documents","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"look for documents on MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB look for documents","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"search for documents in MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for documents via MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for documents using MongoDB","expected_action_key":"mongodb-search-documents","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"Find Document on MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Find Document in MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB find document","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"search for document on MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"look for document on MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"search document on MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"locate document on MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"search for document in MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for document via MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for document using MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for document with MongoDB","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"MongoDB search for document","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"MongoDB look for document","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"search for a mongodb document","expected_action_key":"mongodb-find-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"contextual"}
+{"query":"Find Document by Id on MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Find Document by Id in MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB find document by id","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"search for document id on MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB search for document id","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"find document id on MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB find document id","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"look for document id on MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB look for document id","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"search for document id in MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for document id via MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"search for document id using MongoDB","expected_action_key":"mongodb-find-document-by-id","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"Execute Aggregation on MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Execute Aggregation in MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB execute aggregation","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"trigger aggregation on MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB trigger aggregation","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"run aggregation on MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB run aggregation","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"trigger aggregation in MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"trigger aggregation via MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"trigger aggregation using MongoDB","expected_action_key":"mongodb-execute-aggregation","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"Delete a Document on MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Delete a Document in MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB delete a document","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"delete document on MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"delete the document on MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"remove the document on MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"destroy the document on MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"delete document in MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"delete document via MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"delete document using MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"delete document with MongoDB","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"MongoDB delete document","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"MongoDB delete the document","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"MongoDB remove the document","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"delete a mongodb document","expected_action_key":"mongodb-delete-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"contextual"}
+{"query":"Create New Document on MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"Create New Document in MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"MongoDB create new document","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"action_name"}
+{"query":"create a new document on MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB create a new document","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"make a new document on MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"canonical"}
+{"query":"MongoDB make a new document","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"app_first"}
+{"query":"create new document via MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}
+{"query":"create new document using MongoDB","expected_action_key":"mongodb-create-new-document","expected_app_slug":"mongodb","app_name":"MongoDB","test_type":"alt_prep"}

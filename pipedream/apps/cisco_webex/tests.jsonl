@@ -1,0 +1,57 @@
+{"query":"List Messages on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"List Messages in Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Cisco Webex list messages","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"List Messages on cisco_webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"list all messages on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"show all messages on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"get all messages on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"show me all messages on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"list messages via Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"list messages using Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"list messages with Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"Cisco Webex list all messages","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"Cisco Webex show all messages","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"list msg on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"Cisco Webex list msg","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"list chat message on Cisco Webex","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"Cisco Webex list chat message","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"cisco_webex list messages","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_app_name"}
+{"query":"list a cisco webex messages","expected_action_key":"cisco_webex-list-messages","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"contextual"}
+{"query":"Create a Room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Create a Room in Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Cisco Webex create a room","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Create a Room on cisco_webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"create room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"make a room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"new room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"open a room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"start a room on Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"create room in Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"create room via Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"create room using Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"create room with Cisco Webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"Cisco Webex create room","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"Cisco Webex make a room","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"create room on cisco_webex","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_app_name"}
+{"query":"cisco_webex create room","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_app_name"}
+{"query":"create a cisco webex room","expected_action_key":"cisco_webex-create-room","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"contextual"}
+{"query":"Create Message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Create Message in Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Cisco Webex create message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"Create Message on cisco_webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"action_name"}
+{"query":"create a message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"make a message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"new message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"open a message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"start a message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"canonical"}
+{"query":"create message via Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"create message using Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"create message with Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_prep"}
+{"query":"Cisco Webex create a message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"Cisco Webex make a message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"app_first"}
+{"query":"create msg on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"Cisco Webex create msg","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"create chat message on Cisco Webex","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"Cisco Webex create chat message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_target"}
+{"query":"cisco_webex create message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"alt_app_name"}
+{"query":"create a cisco webex message","expected_action_key":"cisco_webex-create-message","expected_app_slug":"cisco_webex","app_name":"Cisco Webex","test_type":"contextual"}

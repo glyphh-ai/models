@@ -1,0 +1,16 @@
+{"query":"Create Contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"action_name"}
+{"query":"Create Contact in Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"action_name"}
+{"query":"Ringover create contact","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"action_name"}
+{"query":"create a contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"canonical"}
+{"query":"make a contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"canonical"}
+{"query":"new contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"canonical"}
+{"query":"open a contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"canonical"}
+{"query":"start a contact on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"canonical"}
+{"query":"create contact via Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"alt_prep"}
+{"query":"create contact using Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"alt_prep"}
+{"query":"create contact with Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"alt_prep"}
+{"query":"Ringover create a contact","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"app_first"}
+{"query":"Ringover make a contact","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"app_first"}
+{"query":"create contact record on Ringover","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"alt_target"}
+{"query":"Ringover create contact record","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"alt_target"}
+{"query":"create a ringover contact","expected_action_key":"ringover-create-contact","expected_app_slug":"ringover","app_name":"Ringover","test_type":"contextual"}

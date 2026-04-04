@@ -1,0 +1,26 @@
+{"query":"Get Lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"Get Lead in CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"CINC get lead","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"get the lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"retrieve lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"fetch lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"show me the lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"pull lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"check lead on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"get lead via CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_prep"}
+{"query":"get lead using CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_prep"}
+{"query":"get lead with CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_prep"}
+{"query":"CINC get the lead","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"app_first"}
+{"query":"CINC retrieve lead","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"app_first"}
+{"query":"get contact record on CINC","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_target"}
+{"query":"CINC get contact record","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_target"}
+{"query":"get a cinc lead","expected_action_key":"cinc-get-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"contextual"}
+{"query":"Create New Lead on CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"Create New Lead in CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"CINC create new lead","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"action_name"}
+{"query":"create a new lead on CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"CINC create a new lead","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"app_first"}
+{"query":"make a new lead on CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"canonical"}
+{"query":"CINC make a new lead","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"app_first"}
+{"query":"create new lead via CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_prep"}
+{"query":"create new lead using CINC","expected_action_key":"cinc-create-lead","expected_app_slug":"cinc","app_name":"CINC","test_type":"alt_prep"}

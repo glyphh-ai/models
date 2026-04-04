@@ -1,0 +1,408 @@
+{"query":"Search Markets on Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Search Markets in Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum search markets","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"search for markets on Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum search for markets","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"find markets on Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum find markets","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"look for markets on Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum look for markets","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"search for markets in Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"search for markets via Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"search for markets using Mboum","expected_action_key":"mboum-search","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Unusual Options Activity on Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Unusual Options Activity in Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get unusual options activity","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the unusual options activity on Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the unusual options activity","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve unusual options activity on Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve unusual options activity","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get unusual options activity via Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get unusual options activity using Mboum","expected_action_key":"mboum-get-unusual-options-activity","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Market Tickers on Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Market Tickers in Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get market tickers","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the market tickers on Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the market tickers","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve market tickers on Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve market tickers","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get market tickers via Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get market tickers using Mboum","expected_action_key":"mboum-get-tickers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Ticker Summary on Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Ticker Summary in Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get ticker summary","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the ticker summary on Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the ticker summary","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve ticker summary on Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve ticker summary","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get ticker summary via Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get ticker summary using Mboum","expected_action_key":"mboum-get-ticker-summary","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Stock Splits on Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Stock Splits in Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get stock splits","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the stock splits on Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the stock splits","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve stock splits on Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve stock splits","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get stock splits via Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get stock splits using Mboum","expected_action_key":"mboum-get-stock-splits","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Stochastic Oscillator on Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Stochastic Oscillator in Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get stochastic oscillator","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the stochastic oscillator on Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the stochastic oscillator","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve stochastic oscillator on Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve stochastic oscillator","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get stochastic oscillator via Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get stochastic oscillator using Mboum","expected_action_key":"mboum-get-stoch","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Simple Moving Average on Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Simple Moving Average in Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get simple moving average","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the simple moving average on Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the simple moving average","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve simple moving average on Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve simple moving average","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get simple moving average via Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get simple moving average using Mboum","expected_action_key":"mboum-get-sma","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Short Interest on Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Short Interest in Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get short interest","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the short interest on Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the short interest","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve short interest on Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve short interest","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get short interest via Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get short interest using Mboum","expected_action_key":"mboum-get-short-interest","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get SEC Filings on Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get SEC Filings in Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get sec filings","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the sec filings on Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the sec filings","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve sec filings on Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve sec filings","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get sec filings via Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get sec filings using Mboum","expected_action_key":"mboum-get-sec-filings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Stock Screener Results on Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Stock Screener Results in Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get stock screener results","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the stock screener results on Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the stock screener results","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve stock screener results on Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve stock screener results","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get stock screener results via Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get stock screener results using Mboum","expected_action_key":"mboum-get-screener","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Relative Strength Index on Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Relative Strength Index in Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get relative strength index","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the relative strength index on Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the relative strength index","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve relative strength index on Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve relative strength index","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get relative strength index via Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get relative strength index using Mboum","expected_action_key":"mboum-get-rsi","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Revenue Data on Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Revenue Data in Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get revenue data","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the revenue data on Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the revenue data","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve revenue data on Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve revenue data","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get revenue data via Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get revenue data using Mboum","expected_action_key":"mboum-get-revenue","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Realtime Quote on Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Realtime Quote in Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get realtime quote","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the realtime quote on Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the realtime quote","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve realtime quote on Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve realtime quote","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get realtime quote via Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get realtime quote using Mboum","expected_action_key":"mboum-get-realtime-quote","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Public Offerings on Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Public Offerings in Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get public offerings","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the public offerings on Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the public offerings","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve public offerings on Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve public offerings","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get public offerings via Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get public offerings using Mboum","expected_action_key":"mboum-get-public-offerings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Price Targets on Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Price Targets in Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get price targets","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the price targets on Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the price targets","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve price targets on Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve price targets","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get price targets via Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get price targets using Mboum","expected_action_key":"mboum-get-price-targets","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Options Data on Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Options Data in Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get options data","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the options data on Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the options data","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve options data on Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve options data","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get options data via Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get options data using Mboum","expected_action_key":"mboum-get-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Options Flow on Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Options Flow in Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get options flow","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the options flow on Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the options flow","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve options flow on Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve options flow","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get options flow via Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get options flow using Mboum","expected_action_key":"mboum-get-options-flow","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Financial News on Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Financial News in Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get financial news","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the financial news on Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the financial news","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve financial news on Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve financial news","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get financial news via Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get financial news using Mboum","expected_action_key":"mboum-get-news","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Market Movers on Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Market Movers in Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get market movers","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the market movers on Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the market movers","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve market movers on Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve market movers","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get market movers via Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get market movers using Mboum","expected_action_key":"mboum-get-movers","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Most Active Options on Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Most Active Options in Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get most active options","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the most active options on Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the most active options","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve most active options on Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve most active options","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get most active options via Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get most active options using Mboum","expected_action_key":"mboum-get-most-active-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Stock Modules on Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Stock Modules in Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get stock modules","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the stock modules on Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the stock modules","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve stock modules on Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve stock modules","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get stock modules via Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get stock modules using Mboum","expected_action_key":"mboum-get-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Market Information on Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Market Information in Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get market information","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the market information on Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the market information","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve market information on Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve market information","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get market information via Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get market information using Mboum","expected_action_key":"mboum-get-market-info","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get MACD on Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get MACD in Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get macd","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the macd on Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the macd","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve macd on Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve macd","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get macd via Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get macd using Mboum","expected_action_key":"mboum-get-macd","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get IV Rank Percentile on Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get IV Rank Percentile in Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get iv rank percentile","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the iv rank percentile on Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the iv rank percentile","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve iv rank percentile on Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve iv rank percentile","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get iv rank percentile via Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get iv rank percentile using Mboum","expected_action_key":"mboum-get-iv-rank-percentile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get IV Change on Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get IV Change in Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get iv change","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the iv change on Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the iv change","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve iv change on Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve iv change","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get iv change via Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get iv change using Mboum","expected_action_key":"mboum-get-iv-change","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get IPO Data on Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get IPO Data in Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get ipo data","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the ipo data on Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the ipo data","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve ipo data on Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve ipo data","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get ipo data via Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get ipo data using Mboum","expected_action_key":"mboum-get-ipo-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Institutional Holdings on Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Institutional Holdings in Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get institutional holdings","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the institutional holdings on Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the institutional holdings","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve institutional holdings on Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve institutional holdings","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get institutional holdings via Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get institutional holdings using Mboum","expected_action_key":"mboum-get-institutional-holdings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Insider Trading Data on Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Insider Trading Data in Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get insider trading data","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the insider trading data on Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the insider trading data","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve insider trading data on Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve insider trading data","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get insider trading data via Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get insider trading data using Mboum","expected_action_key":"mboum-get-insider-trading","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Stock History on Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Stock History in Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get stock history","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the stock history on Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the stock history","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve stock history on Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve stock history","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get stock history via Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get stock history using Mboum","expected_action_key":"mboum-get-history","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Historical Data on Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Historical Data in Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get historical data","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the historical data on Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the historical data","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve historical data on Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve historical data","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get historical data via Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get historical data using Mboum","expected_action_key":"mboum-get-historical-data","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Highest IV Options on Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Highest IV Options in Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get highest iv options","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the highest iv options on Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the highest iv options","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve highest iv options on Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve highest iv options","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get highest iv options via Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get highest iv options using Mboum","expected_action_key":"mboum-get-highest-iv-options","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Financial Statements on Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Financial Statements in Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get financial statements","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the financial statements on Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the financial statements","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve financial statements on Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve financial statements","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get financial statements via Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get financial statements using Mboum","expected_action_key":"mboum-get-financials","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Economic Events on Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Economic Events in Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get economic events","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the economic events on Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the economic events","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve economic events on Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve economic events","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get economic events via Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get economic events using Mboum","expected_action_key":"mboum-get-economic-events","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Earnings Calendar on Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Earnings Calendar in Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get earnings calendar","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the earnings calendar on Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the earnings calendar","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve earnings calendar on Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve earnings calendar","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get earnings calendar via Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get earnings calendar using Mboum","expected_action_key":"mboum-get-earnings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Dividends Calendar on Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Dividends Calendar in Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get dividends calendar","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the dividends calendar on Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the dividends calendar","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve dividends calendar on Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve dividends calendar","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get dividends calendar via Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get dividends calendar using Mboum","expected_action_key":"mboum-get-dividends","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Crypto Quotes on Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Crypto Quotes in Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get crypto quotes","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the crypto quotes on Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the crypto quotes","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve crypto quotes on Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve crypto quotes","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get crypto quotes via Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get crypto quotes using Mboum","expected_action_key":"mboum-get-crypto-quotes","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Crypto Profile on Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Crypto Profile in Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get crypto profile","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the crypto profile on Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the crypto profile","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve crypto profile on Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve crypto profile","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get crypto profile via Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get crypto profile using Mboum","expected_action_key":"mboum-get-crypto-profile","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Crypto Modules on Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Crypto Modules in Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get crypto modules","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the crypto modules on Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the crypto modules","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve crypto modules on Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve crypto modules","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get crypto modules via Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get crypto modules using Mboum","expected_action_key":"mboum-get-crypto-modules","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Crypto Holders on Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Crypto Holders in Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get crypto holders","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the crypto holders on Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the crypto holders","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve crypto holders on Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve crypto holders","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get crypto holders via Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get crypto holders using Mboum","expected_action_key":"mboum-get-crypto-holders","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Crypto Currencies on Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Crypto Currencies in Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get crypto currencies","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the crypto currencies on Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the crypto currencies","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve crypto currencies on Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve crypto currencies","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get crypto currencies via Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get crypto currencies using Mboum","expected_action_key":"mboum-get-crypto-currencies","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Commodity Channel Index on Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Commodity Channel Index in Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get commodity channel index","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the commodity channel index on Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the commodity channel index","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve commodity channel index on Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve commodity channel index","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get commodity channel index via Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get commodity channel index using Mboum","expected_action_key":"mboum-get-cci","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Analyst Ratings on Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Analyst Ratings in Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get analyst ratings","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the analyst ratings on Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the analyst ratings","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve analyst ratings on Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve analyst ratings","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get analyst ratings via Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get analyst ratings using Mboum","expected_action_key":"mboum-get-analyst-ratings","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Average Directional Index on Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Average Directional Index in Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get average directional index","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the average directional index on Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the average directional index","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve average directional index on Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve average directional index","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get average directional index via Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get average directional index using Mboum","expected_action_key":"mboum-get-adx","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Accumulation/Distribution Oscillator on Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Accumulation/Distribution Oscillator in Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get accumulation/distribution oscillator","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the accumulation/distribution oscillator on Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the accumulation/distribution oscillator","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve accumulation/distribution oscillator on Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve accumulation/distribution oscillator","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get accumulation/distribution oscillator via Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get accumulation/distribution oscillator using Mboum","expected_action_key":"mboum-get-adosc","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"Get Accumulation/Distribution Line on Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Get Accumulation/Distribution Line in Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"Mboum get accumulation/distribution line","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"action_name"}
+{"query":"get the accumulation/distribution line on Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum get the accumulation/distribution line","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"retrieve accumulation/distribution line on Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"canonical"}
+{"query":"Mboum retrieve accumulation/distribution line","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"app_first"}
+{"query":"get accumulation/distribution line via Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}
+{"query":"get accumulation/distribution line using Mboum","expected_action_key":"mboum-get-ad","expected_app_slug":"mboum","app_name":"Mboum","test_type":"alt_prep"}

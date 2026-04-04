@@ -1,0 +1,40 @@
+{"query":"Save Records on Algolia","expected_action_key":"algolia-save-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Save Records in Algolia","expected_action_key":"algolia-save-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Algolia save records","expected_action_key":"algolia-save-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Delete Records on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Delete Records in Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Algolia delete records","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"delete the records on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"remove the records on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"destroy the records on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"delete records via Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"delete records using Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"delete records with Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"Algolia delete the records","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"Algolia remove the records","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"delete row on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_target"}
+{"query":"Algolia delete row","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_target"}
+{"query":"delete entry on Algolia","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_target"}
+{"query":"Algolia delete entry","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_target"}
+{"query":"delete a algolia records","expected_action_key":"algolia-delete-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"contextual"}
+{"query":"Browse Records on Algolia","expected_action_key":"algolia-browse-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Browse Records in Algolia","expected_action_key":"algolia-browse-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Algolia browse records","expected_action_key":"algolia-browse-records","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Delete Objects on Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Delete Objects in Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Algolia delete objects","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"delete the objects on Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"Algolia delete the objects","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"remove the objects on Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"Algolia remove the objects","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"delete objects via Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"delete objects using Algolia","expected_action_key":"algolia-delete-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"Create Objects on Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Create Objects in Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"Algolia create objects","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"action_name"}
+{"query":"create a objects on Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"Algolia create a objects","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"make a objects on Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"canonical"}
+{"query":"Algolia make a objects","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"app_first"}
+{"query":"create objects via Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}
+{"query":"create objects using Algolia","expected_action_key":"algolia-create-objects","expected_app_slug":"algolia","app_name":"Algolia","test_type":"alt_prep"}

@@ -1,0 +1,15 @@
+{"query":"Schedule Meeting on Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"action_name"}
+{"query":"Schedule Meeting in Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"action_name"}
+{"query":"Google Meet schedule meeting","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"action_name"}
+{"query":"Schedule Meeting on google_meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"action_name"}
+{"query":"schedule a meeting on Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"canonical"}
+{"query":"book a meeting on Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"canonical"}
+{"query":"schedule meeting via Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_prep"}
+{"query":"schedule meeting using Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_prep"}
+{"query":"schedule meeting with Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_prep"}
+{"query":"Google Meet schedule a meeting","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"app_first"}
+{"query":"Google Meet book a meeting","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"app_first"}
+{"query":"schedule calendar event on Google Meet","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_target"}
+{"query":"Google Meet schedule calendar event","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_target"}
+{"query":"google_meet schedule meeting","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"alt_app_name"}
+{"query":"schedule a google meet meeting","expected_action_key":"google_meet-schedule-meeting","expected_app_slug":"google_meet","app_name":"Google Meet","test_type":"contextual"}

@@ -1,0 +1,49 @@
+{"query":"Search Contacts on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Search Contacts in Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Moxie search contacts","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"search for contacts on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"find contacts on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"look for contacts on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"locate contacts on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"search for contacts in Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"search for contacts via Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"search for contacts using Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"search for contacts with Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"Moxie search for contacts","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"Moxie find contacts","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"Moxie look for contacts","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"search for contact record on Moxie","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"Moxie search for contact record","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"search for a moxie contacts","expected_action_key":"moxie-search-contacts","expected_app_slug":"moxie","app_name":"Moxie","test_type":"contextual"}
+{"query":"Create Task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Create Task in Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Moxie create task","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"create a task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"make a task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"new task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"open a task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"start a task on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"create task via Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"create task using Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"create task with Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"Moxie create a task","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"Moxie make a task","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"create story on Moxie","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"Moxie create story","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"create a moxie task","expected_action_key":"moxie-create-task","expected_app_slug":"moxie","app_name":"Moxie","test_type":"contextual"}
+{"query":"Create Client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Create Client in Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"Moxie create client","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"action_name"}
+{"query":"create a client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"make a client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"new client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"open a client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"start a client on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"canonical"}
+{"query":"create client via Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"create client using Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"create client with Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_prep"}
+{"query":"Moxie create a client","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"Moxie make a client","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"app_first"}
+{"query":"create account on Moxie","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"Moxie create account","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"alt_target"}
+{"query":"create a moxie client","expected_action_key":"moxie-create-client","expected_app_slug":"moxie","app_name":"Moxie","test_type":"contextual"}

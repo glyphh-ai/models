@@ -1,0 +1,10 @@
+{"query":"Create a PDF document on Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"action_name"}
+{"query":"Create a PDF document in Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"action_name"}
+{"query":"Pdfless create a pdf document","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"action_name"}
+{"query":"create pdf document on Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"canonical"}
+{"query":"Pdfless create pdf document","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"app_first"}
+{"query":"make a pdf document on Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"canonical"}
+{"query":"Pdfless make a pdf document","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"app_first"}
+{"query":"create pdf document in Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"alt_prep"}
+{"query":"create pdf document via Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"alt_prep"}
+{"query":"create pdf document using Pdfless","expected_action_key":"pdfless-generate-pdf","expected_app_slug":"pdfless","app_name":"Pdfless","test_type":"alt_prep"}

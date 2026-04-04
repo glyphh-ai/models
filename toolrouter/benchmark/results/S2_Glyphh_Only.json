@@ -1,0 +1,3025 @@
+{
+  "name": "S2: Glyphh Only",
+  "total": 95,
+  "tool_accuracy": 0.9894736842105263,
+  "tool_correct": 94,
+  "invalid_tool_rate": 0.0,
+  "invalid_tools": 0,
+  "schema_validity": null,
+  "schema_valid": 0,
+  "schema_total": 0,
+  "skip_schema": true,
+  "e2e_accuracy": null,
+  "e2e_correct": 0,
+  "e2e_total": 0,
+  "abstain_accuracy": 0.9583333333333334,
+  "abstain_correct": 23,
+  "abstain_total": 24,
+  "in_scope_accuracy": 1.0,
+  "in_scope_correct": 71,
+  "in_scope_total": 71,
+  "latency_mean_ms": 6.97343115400719,
+  "latency_p50_ms": 6.806897989008576,
+  "latency_p95_ms": 8.898973988834769,
+  "tokens_total": 0,
+  "tokens_mean": 0.0,
+  "categories": {
+    "adversarial": {
+      "total": 15,
+      "correct": 15,
+      "accuracy": 1.0,
+      "invalid_tools": 0,
+      "schema_valid": 0,
+      "schema_total": 0,
+      "e2e_correct": 0,
+      "e2e_total": 0
+    },
+    "clear": {
+      "total": 20,
+      "correct": 20,
+      "accuracy": 1.0,
+      "invalid_tools": 0,
+      "schema_valid": 0,
+      "schema_total": 0,
+      "e2e_correct": 0,
+      "e2e_total": 0
+    },
+    "near_collision": {
+      "total": 35,
+      "correct": 35,
+      "accuracy": 1.0,
+      "invalid_tools": 0,
+      "schema_valid": 0,
+      "schema_total": 0,
+      "e2e_correct": 0,
+      "e2e_total": 0
+    },
+    "open_set": {
+      "total": 15,
+      "correct": 14,
+      "accuracy": 0.9333333333333333,
+      "invalid_tools": 0,
+      "schema_valid": 0,
+      "schema_total": 0,
+      "e2e_correct": 0,
+      "e2e_total": 0
+    },
+    "schema_trap": {
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0,
+      "invalid_tools": 0,
+      "schema_valid": 0,
+      "schema_total": 0,
+      "e2e_correct": 0,
+      "e2e_total": 0
+    }
+  },
+  "raw_results": [
+    {
+      "query_id": "clear_01",
+      "category": "clear",
+      "query": "Send a message to #engineering saying the deploy is done",
+      "expected_tool": "slack_send_message",
+      "result_tool": "slack_send_message",
+      "result_args": {},
+      "confidence": 0.6669,
+      "latency_ms": 7.450614997651428,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.6669
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6616
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.645
+        }
+      ]
+    },
+    {
+      "query_id": "clear_02",
+      "category": "clear",
+      "query": "Email the quarterly report to finance@acme.com with subject Q4 Results",
+      "expected_tool": "email_send",
+      "result_tool": "email_send",
+      "result_args": {},
+      "confidence": 0.4393,
+      "latency_ms": 7.307711988687515,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_send",
+          "score": 0.4393
+        },
+        {
+          "tool": "email_send",
+          "score": 0.4389
+        },
+        {
+          "tool": "email_send",
+          "score": 0.4197
+        }
+      ]
+    },
+    {
+      "query_id": "clear_03",
+      "category": "clear",
+      "query": "Look up the contact record for sarah@bigcorp.com in the CRM",
+      "expected_tool": "crm_get_contact",
+      "result_tool": "crm_get_contact",
+      "result_args": {},
+      "confidence": 0.7593,
+      "latency_ms": 6.087750021833926,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.7593
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.7466
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.7337
+        }
+      ]
+    },
+    {
+      "query_id": "clear_04",
+      "category": "clear",
+      "query": "Refund charge ch_3abc123 for the full amount",
+      "expected_tool": "stripe_refund",
+      "result_tool": "stripe_refund",
+      "result_args": {},
+      "confidence": 0.7653,
+      "latency_ms": 5.873257992789149,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_refund",
+          "score": 0.7653
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.7266
+        },
+        {
+          "tool": "stripe_charge",
+          "score": 0.2902
+        }
+      ]
+    },
+    {
+      "query_id": "clear_05",
+      "category": "clear",
+      "query": "Create a meeting called Sprint Planning on Monday at 10am to 11am",
+      "expected_tool": "calendar_create_event",
+      "result_tool": "calendar_create_event",
+      "result_args": {},
+      "confidence": 0.6583,
+      "latency_ms": 7.668721955269575,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "calendar_create_event",
+          "score": 0.6583
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.6482
+        },
+        {
+          "tool": "calendar_list_events",
+          "score": 0.3545
+        }
+      ]
+    },
+    {
+      "query_id": "clear_06",
+      "category": "clear",
+      "query": "Upload the design mockup to the shared Drive folder",
+      "expected_tool": "gdrive_upload",
+      "result_tool": "gdrive_upload",
+      "result_args": {},
+      "confidence": 0.7168,
+      "latency_ms": 7.1759040001779795,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "gdrive_upload",
+          "score": 0.7168
+        },
+        {
+          "tool": "gdrive_search",
+          "score": 0.4304
+        },
+        {
+          "tool": "gdrive_share",
+          "score": 0.4094
+        }
+      ]
+    },
+    {
+      "query_id": "clear_07",
+      "category": "clear",
+      "query": "Create a bug ticket in the ENG project: login page crashes on Safari",
+      "expected_tool": "jira_create_ticket",
+      "result_tool": "jira_create_ticket",
+      "result_args": {},
+      "confidence": 0.7053,
+      "latency_ms": 8.898973988834769,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.7053
+        },
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.6867
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.3836
+        }
+      ]
+    },
+    {
+      "query_id": "clear_08",
+      "category": "clear",
+      "query": "Track a signup_completed event for user u_12345",
+      "expected_tool": "analytics_track_event",
+      "result_tool": "analytics_track_event",
+      "result_args": {},
+      "confidence": 0.5578,
+      "latency_ms": 7.07733997842297,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5578
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5305
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5217
+        }
+      ]
+    },
+    {
+      "query_id": "clear_09",
+      "category": "clear",
+      "query": "Search Slack for messages about the outage last Friday",
+      "expected_tool": "slack_search_messages",
+      "result_tool": "slack_search_messages",
+      "result_args": {},
+      "confidence": 0.5519,
+      "latency_ms": 7.660285977181047,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_search_messages",
+          "score": 0.5519
+        },
+        {
+          "tool": "email_search",
+          "score": 0.2991
+        },
+        {
+          "tool": "crm_search_contacts",
+          "score": 0.2915
+        }
+      ]
+    },
+    {
+      "query_id": "clear_10",
+      "category": "clear",
+      "query": "Cancel subscription sub_xyz789 at the end of the billing period",
+      "expected_tool": "stripe_cancel_subscription",
+      "result_tool": "stripe_cancel_subscription",
+      "result_args": {},
+      "confidence": 0.7966,
+      "latency_ms": 7.235377037432045,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.7966
+        },
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.7723
+        },
+        {
+          "tool": "stripe_create_subscription",
+          "score": 0.3954
+        }
+      ]
+    },
+    {
+      "query_id": "clear_11",
+      "category": "clear",
+      "query": "Set my Slack status to 'In a meeting' with the :calendar: emoji",
+      "expected_tool": "slack_set_status",
+      "result_tool": "slack_set_status",
+      "result_args": {},
+      "confidence": 0.579,
+      "latency_ms": 6.582521018572152,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_set_status",
+          "score": 0.579
+        },
+        {
+          "tool": "slack_set_status",
+          "score": 0.5769
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.3087
+        }
+      ]
+    },
+    {
+      "query_id": "clear_12",
+      "category": "clear",
+      "query": "Find all open bugs assigned to me in Jira",
+      "expected_tool": "jira_search",
+      "result_tool": "jira_search",
+      "result_args": {},
+      "confidence": 0.719,
+      "latency_ms": 6.284483999479562,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_search",
+          "score": 0.719
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.4368
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.4359
+        }
+      ]
+    },
+    {
+      "query_id": "clear_13",
+      "category": "clear",
+      "query": "Show me the conversion funnel from page_view to signup to purchase this month",
+      "expected_tool": "analytics_get_funnel",
+      "result_tool": "analytics_get_funnel",
+      "result_args": {},
+      "confidence": 0.6707,
+      "latency_ms": 7.263526029419154,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.6707
+        },
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.4513
+        },
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.4346
+        }
+      ]
+    },
+    {
+      "query_id": "clear_14",
+      "category": "clear",
+      "query": "List all my upcoming calendar events for next week",
+      "expected_tool": "calendar_list_events",
+      "result_tool": "calendar_list_events",
+      "result_args": {},
+      "confidence": 0.7743,
+      "latency_ms": 6.996030977461487,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "calendar_list_events",
+          "score": 0.7743
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.3964
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.395
+        }
+      ]
+    },
+    {
+      "query_id": "clear_15",
+      "category": "clear",
+      "query": "Share the Q4 budget spreadsheet with maria@acme.com as an editor",
+      "expected_tool": "gdrive_share",
+      "result_tool": "gdrive_share",
+      "result_args": {},
+      "confidence": 0.6208,
+      "latency_ms": 8.499633986502886,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "gdrive_share",
+          "score": 0.6208
+        },
+        {
+          "tool": "gdrive_share",
+          "score": 0.6208
+        },
+        {
+          "tool": "gdrive_search",
+          "score": 0.3471
+        }
+      ]
+    },
+    {
+      "query_id": "clear_16",
+      "category": "clear",
+      "query": "Reply to the email from Jake about the contract \u2014 tell him we accept the terms",
+      "expected_tool": "email_reply",
+      "result_tool": "email_reply",
+      "result_args": {},
+      "confidence": 0.6814,
+      "latency_ms": 8.42710497090593,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_reply",
+          "score": 0.6814
+        },
+        {
+          "tool": "email_send",
+          "score": 0.4171
+        },
+        {
+          "tool": "email_search",
+          "score": 0.4061
+        }
+      ]
+    },
+    {
+      "query_id": "clear_17",
+      "category": "clear",
+      "query": "Add a comment on ENG-4521 saying the fix is deployed to production",
+      "expected_tool": "jira_add_comment",
+      "result_tool": "jira_add_comment",
+      "result_args": {},
+      "confidence": 0.6793,
+      "latency_ms": 8.247021003626287,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_add_comment",
+          "score": 0.6793
+        },
+        {
+          "tool": "jira_add_comment",
+          "score": 0.6664
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.1922
+        }
+      ]
+    },
+    {
+      "query_id": "clear_18",
+      "category": "clear",
+      "query": "Get the Stripe customer record for cus_abc123",
+      "expected_tool": "stripe_get_customer",
+      "result_tool": "stripe_get_customer",
+      "result_args": {},
+      "confidence": 0.7943,
+      "latency_ms": 5.958007008302957,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.7943
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.5018
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.3472
+        }
+      ]
+    },
+    {
+      "query_id": "clear_19",
+      "category": "clear",
+      "query": "Create a new CRM deal called 'Acme Enterprise' worth $50,000 for contact con_789",
+      "expected_tool": "crm_create_deal",
+      "result_tool": "crm_create_deal",
+      "result_args": {},
+      "confidence": 0.6831,
+      "latency_ms": 7.141080975998193,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_create_deal",
+          "score": 0.6831
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.5615
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.5333
+        }
+      ]
+    },
+    {
+      "query_id": "clear_20",
+      "category": "clear",
+      "query": "DM alice@acme.com on Slack and ask if she's free for a sync",
+      "expected_tool": "slack_send_dm",
+      "result_tool": "slack_send_dm",
+      "result_args": {},
+      "confidence": 0.6701,
+      "latency_ms": 7.483250985387713,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6701
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6619
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6617
+        }
+      ]
+    },
+    {
+      "query_id": "coll_01",
+      "category": "near_collision",
+      "query": "Send a message to alice@acme.com about the project update",
+      "expected_tool": "slack_send_dm",
+      "result_tool": "slack_send_dm",
+      "result_args": {},
+      "confidence": 0.473,
+      "latency_ms": 6.034536985680461,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_dm",
+          "score": 0.473
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.4723
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.4691
+        }
+      ]
+    },
+    {
+      "query_id": "coll_02",
+      "category": "near_collision",
+      "query": "Search for the invoice email from Stripe",
+      "expected_tool": "email_search",
+      "result_tool": "email_search",
+      "result_args": {},
+      "confidence": 0.536,
+      "latency_ms": 5.891820997931063,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_search",
+          "score": 0.536
+        },
+        {
+          "tool": "crm_search_contacts",
+          "score": 0.3326
+        },
+        {
+          "tool": "crm_search_contacts",
+          "score": 0.3125
+        }
+      ]
+    },
+    {
+      "query_id": "coll_03",
+      "category": "near_collision",
+      "query": "Find the customer record for bob@startup.io",
+      "expected_tool": "crm_get_contact",
+      "result_tool": "crm_get_contact",
+      "result_args": {},
+      "confidence": 0.6781,
+      "latency_ms": 5.997366039082408,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6781
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.529
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.5211
+        }
+      ]
+    },
+    {
+      "query_id": "coll_04",
+      "category": "near_collision",
+      "query": "Cancel the subscription for customer cus_abc and let them know by email",
+      "expected_tool": "stripe_cancel_subscription",
+      "result_tool": "stripe_cancel_subscription",
+      "result_args": {},
+      "confidence": 0.6779,
+      "latency_ms": 6.9609409547410905,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.6779
+        },
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.6579
+        },
+        {
+          "tool": "stripe_create_subscription",
+          "score": 0.4258
+        }
+      ]
+    },
+    {
+      "query_id": "coll_05",
+      "category": "near_collision",
+      "query": "Update the ticket ENG-100 to assign it to dave@acme.com",
+      "expected_tool": "jira_assign_ticket",
+      "result_tool": "jira_assign_ticket",
+      "result_args": {},
+      "confidence": 0.7,
+      "latency_ms": 6.369249022100121,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.7
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.6836
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.4451
+        }
+      ]
+    },
+    {
+      "query_id": "coll_06",
+      "category": "near_collision",
+      "query": "Post in #general that the new feature is live",
+      "expected_tool": "slack_send_message",
+      "result_tool": "slack_send_message",
+      "result_args": {},
+      "confidence": 0.6493,
+      "latency_ms": 7.188438030425459,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.6493
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6298
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6033
+        }
+      ]
+    },
+    {
+      "query_id": "coll_07",
+      "category": "near_collision",
+      "query": "Search for files about the Q3 roadmap",
+      "expected_tool": "gdrive_search",
+      "result_tool": "gdrive_search",
+      "result_args": {},
+      "confidence": 0.7012,
+      "latency_ms": 6.65226299315691,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "gdrive_search",
+          "score": 0.7012
+        },
+        {
+          "tool": "gdrive_search",
+          "score": 0.7
+        },
+        {
+          "tool": "gdrive_upload",
+          "score": 0.3837
+        }
+      ]
+    },
+    {
+      "query_id": "coll_08",
+      "category": "near_collision",
+      "query": "Get the payment history for customer cus_xyz",
+      "expected_tool": "stripe_list_invoices",
+      "result_tool": "stripe_list_invoices",
+      "result_args": {},
+      "confidence": 0.7291,
+      "latency_ms": 6.526671000756323,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.7291
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.713
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.6818
+        }
+      ]
+    },
+    {
+      "query_id": "coll_09",
+      "category": "near_collision",
+      "query": "Create a new contact for Jamie Lee at Globex Corp, email jamie@globex.com",
+      "expected_tool": "crm_create_contact",
+      "result_tool": "crm_create_contact",
+      "result_args": {},
+      "confidence": 0.5308,
+      "latency_ms": 8.068463997915387,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_create_contact",
+          "score": 0.5308
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.526
+        },
+        {
+          "tool": "gdrive_create_folder",
+          "score": 0.3136
+        }
+      ]
+    },
+    {
+      "query_id": "coll_10",
+      "category": "near_collision",
+      "query": "Draft an email to the team about the upcoming release but don't send it yet",
+      "expected_tool": "email_create_draft",
+      "result_tool": "email_create_draft",
+      "result_args": {},
+      "confidence": 0.6819,
+      "latency_ms": 6.63569598691538,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_create_draft",
+          "score": 0.6819
+        },
+        {
+          "tool": "email_send",
+          "score": 0.2953
+        },
+        {
+          "tool": "email_send",
+          "score": 0.2747
+        }
+      ]
+    },
+    {
+      "query_id": "coll_11",
+      "category": "near_collision",
+      "query": "Find a time that works for me and sarah@acme.com for a 30-minute call next week",
+      "expected_tool": "calendar_find_free_time",
+      "result_tool": "calendar_find_free_time",
+      "result_args": {},
+      "confidence": 0.4937,
+      "latency_ms": 6.345911999233067,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "calendar_find_free_time",
+          "score": 0.4937
+        },
+        {
+          "tool": "calendar_find_free_time",
+          "score": 0.4755
+        },
+        {
+          "tool": "email_search",
+          "score": 0.2782
+        }
+      ]
+    },
+    {
+      "query_id": "coll_12",
+      "category": "near_collision",
+      "query": "Charge the customer cus_999 fifty dollars for the overage",
+      "expected_tool": "stripe_charge",
+      "result_tool": "stripe_charge",
+      "result_args": {},
+      "confidence": 0.6788,
+      "latency_ms": 6.668265967164189,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_charge",
+          "score": 0.6788
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.2453
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.2437
+        }
+      ]
+    },
+    {
+      "query_id": "coll_13",
+      "category": "near_collision",
+      "query": "Look up what channels are available in our Slack workspace",
+      "expected_tool": "slack_list_channels",
+      "result_tool": "slack_list_channels",
+      "result_args": {},
+      "confidence": 0.5681,
+      "latency_ms": 5.786188994534314,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_list_channels",
+          "score": 0.5681
+        },
+        {
+          "tool": "slack_list_channels",
+          "score": 0.5668
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.4098
+        }
+      ]
+    },
+    {
+      "query_id": "coll_14",
+      "category": "near_collision",
+      "query": "Log that user u_555 just upgraded to the pro plan",
+      "expected_tool": "analytics_identify_user",
+      "result_tool": "analytics_identify_user",
+      "result_args": {},
+      "confidence": 0.7206,
+      "latency_ms": 6.035243975929916,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.7206
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6996
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6644
+        }
+      ]
+    },
+    {
+      "query_id": "coll_15",
+      "category": "near_collision",
+      "query": "Remove the standup meeting from my calendar for tomorrow",
+      "expected_tool": "calendar_delete_event",
+      "result_tool": "calendar_delete_event",
+      "result_args": {},
+      "confidence": 0.6979,
+      "latency_ms": 6.1995500000193715,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "calendar_delete_event",
+          "score": 0.6979
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.4562
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.4486
+        }
+      ]
+    },
+    {
+      "query_id": "coll_16",
+      "category": "near_collision",
+      "query": "Pull up the customer record for lisa@bigcorp.com",
+      "expected_tool": "crm_get_contact",
+      "result_tool": "crm_get_contact",
+      "result_args": {},
+      "confidence": 0.6816,
+      "latency_ms": 7.002240978181362,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6816
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.5237
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.5031
+        }
+      ]
+    },
+    {
+      "query_id": "coll_17",
+      "category": "near_collision",
+      "query": "I need the customer record for cus_abc from Stripe",
+      "expected_tool": "stripe_get_customer",
+      "result_tool": "stripe_get_customer",
+      "result_args": {},
+      "confidence": 0.7353,
+      "latency_ms": 6.203321972861886,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.7353
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.4779
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.3242
+        }
+      ]
+    },
+    {
+      "query_id": "coll_18",
+      "category": "near_collision",
+      "query": "Show me the customer details for someone at Acme Corp",
+      "expected_tool": "crm_get_contact",
+      "result_tool": "crm_get_contact",
+      "result_args": {},
+      "confidence": 0.6254,
+      "latency_ms": 5.973503983113915,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6254
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.4525
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.4387
+        }
+      ]
+    },
+    {
+      "query_id": "coll_19",
+      "category": "near_collision",
+      "query": "Get the billing record for customer cus_xyz999",
+      "expected_tool": "stripe_get_customer",
+      "result_tool": "stripe_get_customer",
+      "result_args": {},
+      "confidence": 0.6088,
+      "latency_ms": 5.983661976642907,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.6088
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.5059
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.4996
+        }
+      ]
+    },
+    {
+      "query_id": "coll_20",
+      "category": "near_collision",
+      "query": "Look up the payment history for our enterprise client",
+      "expected_tool": "stripe_list_invoices",
+      "result_tool": "stripe_list_invoices",
+      "result_args": {},
+      "confidence": 0.4574,
+      "latency_ms": 5.808536021504551,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.4574
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.4496
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.4466
+        }
+      ]
+    },
+    {
+      "query_id": "coll_21",
+      "category": "near_collision",
+      "query": "Find the contact info for the Globex account",
+      "expected_tool": "crm_get_contact",
+      "result_tool": "crm_get_contact",
+      "result_args": {},
+      "confidence": 0.6568,
+      "latency_ms": 6.225203978829086,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6568
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6248
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.6233
+        }
+      ]
+    },
+    {
+      "query_id": "coll_22",
+      "category": "near_collision",
+      "query": "Log that user u_900 switched from free to premium",
+      "expected_tool": "analytics_identify_user",
+      "result_tool": "analytics_identify_user",
+      "result_args": {},
+      "confidence": 0.6777,
+      "latency_ms": 6.170684995595366,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6777
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6606
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6453
+        }
+      ]
+    },
+    {
+      "query_id": "coll_23",
+      "category": "near_collision",
+      "query": "Record a checkout_completed event for user u_900",
+      "expected_tool": "analytics_track_event",
+      "result_tool": "analytics_track_event",
+      "result_args": {},
+      "confidence": 0.5303,
+      "latency_ms": 5.746941023971885,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5303
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5289
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.523
+        }
+      ]
+    },
+    {
+      "query_id": "coll_24",
+      "category": "near_collision",
+      "query": "Log that user u_321 changed their email to new@acme.com",
+      "expected_tool": "analytics_identify_user",
+      "result_tool": "analytics_identify_user",
+      "result_args": {},
+      "confidence": 0.6766,
+      "latency_ms": 7.053067034576088,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6766
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6572
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.6415
+        }
+      ]
+    },
+    {
+      "query_id": "coll_25",
+      "category": "near_collision",
+      "query": "Track the button_click event on the pricing page",
+      "expected_tool": "analytics_track_event",
+      "result_tool": "analytics_track_event",
+      "result_args": {},
+      "confidence": 0.5295,
+      "latency_ms": 10.140201018657535,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5295
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5279
+        },
+        {
+          "tool": "analytics_track_event",
+          "score": 0.5178
+        }
+      ]
+    },
+    {
+      "query_id": "coll_26",
+      "category": "near_collision",
+      "query": "Message Alice on Slack about the deadline",
+      "expected_tool": "slack_send_dm",
+      "result_tool": "slack_send_dm",
+      "result_args": {},
+      "confidence": 0.5295,
+      "latency_ms": 11.234942998271435,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_dm",
+          "score": 0.5295
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.5279
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.527
+        }
+      ]
+    },
+    {
+      "query_id": "coll_27",
+      "category": "near_collision",
+      "query": "Send Alice an email about the deadline",
+      "expected_tool": "email_send",
+      "result_tool": "email_send",
+      "result_args": {},
+      "confidence": 0.7308,
+      "latency_ms": 6.815388973336667,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_send",
+          "score": 0.7308
+        },
+        {
+          "tool": "email_send",
+          "score": 0.7204
+        },
+        {
+          "tool": "email_send",
+          "score": 0.7163
+        }
+      ]
+    },
+    {
+      "query_id": "coll_28",
+      "category": "near_collision",
+      "query": "Ping bob@acme.com about the standup \u2014 just a quick Slack message",
+      "expected_tool": "slack_send_dm",
+      "result_tool": "slack_send_dm",
+      "result_args": {},
+      "confidence": 0.6746,
+      "latency_ms": 7.919703028164804,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6746
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6746
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.6675
+        }
+      ]
+    },
+    {
+      "query_id": "coll_29",
+      "category": "near_collision",
+      "query": "Notify the team in #releases that v2.0 shipped",
+      "expected_tool": "slack_send_message",
+      "result_tool": "slack_send_message",
+      "result_args": {},
+      "confidence": 0.6357,
+      "latency_ms": 7.845790998544544,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.6357
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6176
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6128
+        }
+      ]
+    },
+    {
+      "query_id": "coll_30",
+      "category": "near_collision",
+      "query": "Check the invoices for customer cus_abc to see if they paid",
+      "expected_tool": "stripe_list_invoices",
+      "result_tool": "stripe_list_invoices",
+      "result_args": {},
+      "confidence": 0.7081,
+      "latency_ms": 7.0879479753784835,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.7081
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.6715
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.6426
+        }
+      ]
+    },
+    {
+      "query_id": "coll_31",
+      "category": "near_collision",
+      "query": "Update the CRM record for contact con_456 with new phone number",
+      "expected_tool": "crm_update_contact",
+      "result_tool": "crm_update_contact",
+      "result_args": {},
+      "confidence": 0.7085,
+      "latency_ms": 10.174524039030075,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_update_contact",
+          "score": 0.7085
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.5055
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.495
+        }
+      ]
+    },
+    {
+      "query_id": "coll_32",
+      "category": "near_collision",
+      "query": "Find all the files shared with me in Drive",
+      "expected_tool": "gdrive_search",
+      "result_tool": "gdrive_search",
+      "result_args": {},
+      "confidence": 0.7335,
+      "latency_ms": 6.229416991118342,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "gdrive_search",
+          "score": 0.7335
+        },
+        {
+          "tool": "gdrive_search",
+          "score": 0.7321
+        },
+        {
+          "tool": "gdrive_upload",
+          "score": 0.4065
+        }
+      ]
+    },
+    {
+      "query_id": "coll_33",
+      "category": "near_collision",
+      "query": "Search Jira for all stories in the MOBILE project",
+      "expected_tool": "jira_search",
+      "result_tool": "jira_search",
+      "result_args": {},
+      "confidence": 0.7002,
+      "latency_ms": 6.32057199254632,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_search",
+          "score": 0.7002
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.4315
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.4259
+        }
+      ]
+    },
+    {
+      "query_id": "coll_34",
+      "category": "near_collision",
+      "query": "Create a task in Jira for the API migration and assign it to dave@acme.com",
+      "expected_tool": "jira_create_ticket",
+      "result_tool": "jira_create_ticket",
+      "result_args": {},
+      "confidence": 0.699,
+      "latency_ms": 6.912535987794399,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.699
+        },
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.6795
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.4841
+        }
+      ]
+    },
+    {
+      "query_id": "coll_35",
+      "category": "near_collision",
+      "query": "Email the invoice to billing@client.com and cc the account manager",
+      "expected_tool": "email_send",
+      "result_tool": "email_send",
+      "result_args": {},
+      "confidence": 0.4638,
+      "latency_ms": 8.060400024987757,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_send",
+          "score": 0.4638
+        },
+        {
+          "tool": "email_send",
+          "score": 0.4288
+        },
+        {
+          "tool": "email_reply",
+          "score": 0.4157
+        }
+      ]
+    },
+    {
+      "query_id": "oos_01",
+      "category": "open_set",
+      "query": "What's the weather like in San Francisco today?",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0449,
+      "latency_ms": 11.362925986759365,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "crm_create_contact",
+          "score": 0.0449
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.0431
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.0392
+        }
+      ]
+    },
+    {
+      "query_id": "oos_02",
+      "category": "open_set",
+      "query": "Translate this paragraph to French",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.2363,
+      "latency_ms": 6.986884982325137,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.2363
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2324
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2324
+        }
+      ]
+    },
+    {
+      "query_id": "oos_03",
+      "category": "open_set",
+      "query": "Deploy the application to production",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0098,
+      "latency_ms": 6.963554013054818,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "slack_search_messages",
+          "score": 0.0098
+        },
+        {
+          "tool": "slack_set_status",
+          "score": 0.0084
+        },
+        {
+          "tool": "slack_set_status",
+          "score": 0.0082
+        }
+      ]
+    },
+    {
+      "query_id": "oos_04",
+      "category": "open_set",
+      "query": "Run the CI pipeline on the main branch",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.1874,
+      "latency_ms": 7.156578998547047,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.1874
+        },
+        {
+          "tool": "crm_create_deal",
+          "score": 0.0967
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.0519
+        }
+      ]
+    },
+    {
+      "query_id": "oos_05",
+      "category": "open_set",
+      "query": "Generate a PDF report of last month's sales",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.2551,
+      "latency_ms": 7.252627983689308,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2551
+        },
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.2537
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2534
+        }
+      ]
+    },
+    {
+      "query_id": "oos_06",
+      "category": "open_set",
+      "query": "Merge the feature branch into main",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0092,
+      "latency_ms": 6.517764006275684,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "slack_set_status",
+          "score": 0.0092
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.0081
+        },
+        {
+          "tool": "slack_set_status",
+          "score": 0.008
+        }
+      ]
+    },
+    {
+      "query_id": "oos_07",
+      "category": "open_set",
+      "query": "Send a text message to +1-555-0123",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.3381,
+      "latency_ms": 6.1871830257587135,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.3381
+        },
+        {
+          "tool": "slack_send_dm",
+          "score": 0.3282
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.3279
+        }
+      ]
+    },
+    {
+      "query_id": "oos_08",
+      "category": "open_set",
+      "query": "What does our refund policy say about partial refunds?",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.2609,
+      "latency_ms": 7.174850034061819,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "stripe_refund",
+          "score": 0.2609
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.2255
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.0531
+        }
+      ]
+    },
+    {
+      "query_id": "oos_09",
+      "category": "open_set",
+      "query": "Summarize the last 5 support tickets",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.2668,
+      "latency_ms": 6.408697983715683,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.2668
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2585
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.258
+        }
+      ]
+    },
+    {
+      "query_id": "oos_10",
+      "category": "open_set",
+      "query": "Hello, how are you?",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0086,
+      "latency_ms": 6.518731999676675,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.0086
+        },
+        {
+          "tool": "jira_add_comment",
+          "score": 0.0078
+        },
+        {
+          "tool": "jira_add_comment",
+          "score": 0.0072
+        }
+      ]
+    },
+    {
+      "query_id": "oos_11",
+      "category": "open_set",
+      "query": "Approve the pending pull request from Sarah",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0085,
+      "latency_ms": 7.202933018561453,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "slack_set_status",
+          "score": 0.0085
+        },
+        {
+          "tool": "email_reply",
+          "score": 0.0076
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.0072
+        }
+      ]
+    },
+    {
+      "query_id": "oos_12",
+      "category": "open_set",
+      "query": "Restart the database server",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0083,
+      "latency_ms": 6.789458973798901,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "jira_add_comment",
+          "score": 0.0083
+        },
+        {
+          "tool": "jira_add_comment",
+          "score": 0.0076
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.0067
+        }
+      ]
+    },
+    {
+      "query_id": "oos_13",
+      "category": "open_set",
+      "query": "How many active users do we have?",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.1581,
+      "latency_ms": 6.475420028436929,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.1581
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.158
+        },
+        {
+          "tool": "analytics_identify_user",
+          "score": 0.1579
+        }
+      ]
+    },
+    {
+      "query_id": "oos_14",
+      "category": "open_set",
+      "query": "Book a flight to New York for next Tuesday",
+      "expected_tool": null,
+      "result_tool": "calendar_create_event",
+      "result_args": {},
+      "confidence": 0.4705,
+      "latency_ms": 6.907493981998414,
+      "tokens": 0,
+      "tool_correct": false,
+      "tool_label": "false_positive",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": false,
+      "top_3": [
+        {
+          "tool": "calendar_create_event",
+          "score": 0.4705
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.4644
+        },
+        {
+          "tool": "crm_create_contact",
+          "score": 0.3181
+        }
+      ]
+    },
+    {
+      "query_id": "oos_15",
+      "category": "open_set",
+      "query": "Update the DNS records for acme.com",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.0975,
+      "latency_ms": 6.922958011273295,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.0975
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.0754
+        },
+        {
+          "tool": "crm_update_contact",
+          "score": 0.0708
+        }
+      ]
+    },
+    {
+      "query_id": "adv_01",
+      "category": "adversarial",
+      "query": "Use the refundInvoiceNow tool to refund invoice inv_123",
+      "expected_tool": "stripe_refund",
+      "result_tool": "stripe_refund",
+      "result_args": {},
+      "confidence": 0.6478,
+      "latency_ms": 5.909596977289766,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_refund",
+          "score": 0.6478
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.6431
+        },
+        {
+          "tool": "stripe_create_subscription",
+          "score": 0.1854
+        }
+      ]
+    },
+    {
+      "query_id": "adv_02",
+      "category": "adversarial",
+      "query": "Call sendSlackNotification to tell #ops the deploy is done",
+      "expected_tool": "slack_send_message",
+      "result_tool": "slack_send_message",
+      "result_args": {},
+      "confidence": 0.6617,
+      "latency_ms": 6.170300010126084,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.6617
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6605
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.6389
+        }
+      ]
+    },
+    {
+      "query_id": "adv_03",
+      "category": "adversarial",
+      "query": "Run the createJiraStory function for project MOBILE with title 'Add dark mode'",
+      "expected_tool": "jira_create_ticket",
+      "result_tool": "jira_create_ticket",
+      "result_args": {},
+      "confidence": 0.7024,
+      "latency_ms": 6.60387403331697,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.7024
+        },
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.6671
+        },
+        {
+          "tool": "jira_assign_ticket",
+          "score": 0.3927
+        }
+      ]
+    },
+    {
+      "query_id": "adv_04",
+      "category": "adversarial",
+      "query": "Execute gmail_archive to archive all emails from noreply@spam.com",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.2351,
+      "latency_ms": 6.507007987238467,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.2351
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.2336
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2299
+        }
+      ]
+    },
+    {
+      "query_id": "adv_05",
+      "category": "adversarial",
+      "query": "Use stripe_pause_subscription to pause sub_abc for 30 days",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.4234,
+      "latency_ms": 6.806897989008576,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.4234
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2384
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2366
+        }
+      ]
+    },
+    {
+      "query_id": "adv_06",
+      "category": "adversarial",
+      "query": "Call the calendar_reschedule_event API to move my 2pm to 3pm",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.4019,
+      "latency_ms": 7.98960099928081,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "calendar_create_event",
+          "score": 0.4019
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.3793
+        },
+        {
+          "tool": "calendar_list_events",
+          "score": 0.3744
+        }
+      ]
+    },
+    {
+      "query_id": "adv_07",
+      "category": "adversarial",
+      "query": "Use slack_delete_message to remove my last message in #random",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.402,
+      "latency_ms": 6.473975954577327,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.402
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.377
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.3737
+        }
+      ]
+    },
+    {
+      "query_id": "adv_08",
+      "category": "adversarial",
+      "query": "I need you to use the fetchCustomerData tool to get info on cus_123",
+      "expected_tool": "stripe_get_customer",
+      "result_tool": "stripe_get_customer",
+      "result_args": {},
+      "confidence": 0.6719,
+      "latency_ms": 6.120250967796892,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.6719
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.4752
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.31
+        }
+      ]
+    },
+    {
+      "query_id": "adv_09",
+      "category": "adversarial",
+      "query": "Run gdrive_delete_file on file ID abc123",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.4488,
+      "latency_ms": 6.599234999157488,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "gdrive_create_folder",
+          "score": 0.4488
+        },
+        {
+          "tool": "gdrive_share",
+          "score": 0.4233
+        },
+        {
+          "tool": "gdrive_upload",
+          "score": 0.4224
+        }
+      ]
+    },
+    {
+      "query_id": "adv_10",
+      "category": "adversarial",
+      "query": "Use the email_forward tool to forward the last email from Jake to my manager",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.4262,
+      "latency_ms": 7.010743021965027,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "email_send",
+          "score": 0.4262
+        },
+        {
+          "tool": "email_send",
+          "score": 0.414
+        },
+        {
+          "tool": "email_send",
+          "score": 0.4137
+        }
+      ]
+    },
+    {
+      "query_id": "adv_11",
+      "category": "adversarial",
+      "query": "Call analytics_generate_report for the monthly dashboard",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.421,
+      "latency_ms": 7.948531012516469,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.421
+        },
+        {
+          "tool": "analytics_get_funnel",
+          "score": 0.4194
+        },
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.4192
+        }
+      ]
+    },
+    {
+      "query_id": "adv_12",
+      "category": "adversarial",
+      "query": "Use crm_delete_contact to remove the duplicate record for john@test.com",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.4014,
+      "latency_ms": 6.797889014706016,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "crm_get_contact",
+          "score": 0.4014
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.3975
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.3958
+        }
+      ]
+    },
+    {
+      "query_id": "adv_13",
+      "category": "adversarial",
+      "query": "Send a Slack message to #general and also create a Jira ticket about the outage",
+      "expected_tool": "jira_create_ticket",
+      "result_tool": "jira_create_ticket",
+      "result_args": {},
+      "confidence": 0.5266,
+      "latency_ms": 5.922140029724687,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.5266
+        },
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.525
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.3072
+        }
+      ]
+    },
+    {
+      "query_id": "adv_14",
+      "category": "adversarial",
+      "query": "Refund the customer and then send them a confirmation email and update the CRM",
+      "expected_tool": "stripe_refund",
+      "result_tool": "stripe_refund",
+      "result_args": {},
+      "confidence": 0.4431,
+      "latency_ms": 6.8324419553391635,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_refund",
+          "score": 0.4431
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.4374
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2757
+        }
+      ]
+    },
+    {
+      "query_id": "adv_15",
+      "category": "adversarial",
+      "query": "I think the tool is called stripe_void_invoice \u2014 void invoice inv_456",
+      "expected_tool": null,
+      "result_tool": null,
+      "result_args": {},
+      "confidence": 0.3451,
+      "latency_ms": 6.497519963886589,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct_abstain",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": true,
+      "top_3": [
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.3451
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.3445
+        },
+        {
+          "tool": "stripe_list_invoices",
+          "score": 0.3442
+        }
+      ]
+    },
+    {
+      "query_id": "schema_01",
+      "category": "schema_trap",
+      "query": "Charge $49.99 to customer cus_abc",
+      "expected_tool": "stripe_charge",
+      "result_tool": "stripe_charge",
+      "result_args": {},
+      "confidence": 0.6956,
+      "latency_ms": 5.810856004245579,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_charge",
+          "score": 0.6956
+        },
+        {
+          "tool": "stripe_get_customer",
+          "score": 0.2551
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.2523
+        }
+      ]
+    },
+    {
+      "query_id": "schema_02",
+      "category": "schema_trap",
+      "query": "Email the team at eng@acme.com, product@acme.com, and design@acme.com about the launch",
+      "expected_tool": "email_send",
+      "result_tool": "email_send",
+      "result_args": {},
+      "confidence": 0.4182,
+      "latency_ms": 7.849662972148508,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "email_send",
+          "score": 0.4182
+        },
+        {
+          "tool": "email_send",
+          "score": 0.3955
+        },
+        {
+          "tool": "email_send",
+          "score": 0.3946
+        }
+      ]
+    },
+    {
+      "query_id": "schema_03",
+      "category": "schema_trap",
+      "query": "Create a high-priority epic in PLATFORM project: 'Migrate to new auth system'",
+      "expected_tool": "jira_create_ticket",
+      "result_tool": "jira_create_ticket",
+      "result_args": {},
+      "confidence": 0.6706,
+      "latency_ms": 7.164780981838703,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.6706
+        },
+        {
+          "tool": "jira_create_ticket",
+          "score": 0.636
+        },
+        {
+          "tool": "jira_update_ticket",
+          "score": 0.3577
+        }
+      ]
+    },
+    {
+      "query_id": "schema_04",
+      "category": "schema_trap",
+      "query": "Give sarah@acme.com read-only access to the design folder",
+      "expected_tool": "gdrive_share",
+      "result_tool": "gdrive_share",
+      "result_args": {},
+      "confidence": 0.5095,
+      "latency_ms": 6.4046909683384,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "gdrive_share",
+          "score": 0.5095
+        },
+        {
+          "tool": "gdrive_share",
+          "score": 0.4812
+        },
+        {
+          "tool": "gdrive_create_folder",
+          "score": 0.4298
+        }
+      ]
+    },
+    {
+      "query_id": "schema_05",
+      "category": "schema_trap",
+      "query": "Schedule a meeting for tomorrow from 2pm to 2:30pm with bob@acme.com and carol@acme.com",
+      "expected_tool": "calendar_create_event",
+      "result_tool": "calendar_create_event",
+      "result_args": {},
+      "confidence": 0.6712,
+      "latency_ms": 6.372572970576584,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "calendar_create_event",
+          "score": 0.6712
+        },
+        {
+          "tool": "calendar_create_event",
+          "score": 0.6644
+        },
+        {
+          "tool": "calendar_list_events",
+          "score": 0.397
+        }
+      ]
+    },
+    {
+      "query_id": "schema_06",
+      "category": "schema_trap",
+      "query": "Refund $25 of the $100 charge ch_full123",
+      "expected_tool": "stripe_refund",
+      "result_tool": "stripe_refund",
+      "result_args": {},
+      "confidence": 0.6901,
+      "latency_ms": 7.272470975294709,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_refund",
+          "score": 0.6901
+        },
+        {
+          "tool": "stripe_refund",
+          "score": 0.6811
+        },
+        {
+          "tool": "stripe_charge",
+          "score": 0.2336
+        }
+      ]
+    },
+    {
+      "query_id": "schema_07",
+      "category": "schema_trap",
+      "query": "Start a subscription for cus_new on the price_pro plan with a 14-day trial",
+      "expected_tool": "stripe_create_subscription",
+      "result_tool": "stripe_create_subscription",
+      "result_args": {},
+      "confidence": 0.707,
+      "latency_ms": 7.515160017646849,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "stripe_create_subscription",
+          "score": 0.707
+        },
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.3936
+        },
+        {
+          "tool": "stripe_cancel_subscription",
+          "score": 0.3932
+        }
+      ]
+    },
+    {
+      "query_id": "schema_08",
+      "category": "schema_trap",
+      "query": "Get page views grouped by week for January 2025",
+      "expected_tool": "analytics_get_metrics",
+      "result_tool": "analytics_get_metrics",
+      "result_args": {},
+      "confidence": 0.5658,
+      "latency_ms": 6.3675809651613235,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.5658
+        },
+        {
+          "tool": "analytics_get_metrics",
+          "score": 0.5007
+        },
+        {
+          "tool": "crm_get_contact",
+          "score": 0.2896
+        }
+      ]
+    },
+    {
+      "query_id": "schema_09",
+      "category": "schema_trap",
+      "query": "Search the CRM for everyone at Globex Corporation",
+      "expected_tool": "crm_search_contacts",
+      "result_tool": "crm_search_contacts",
+      "result_args": {},
+      "confidence": 0.5407,
+      "latency_ms": 6.07738399412483,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "crm_search_contacts",
+          "score": 0.5407
+        },
+        {
+          "tool": "crm_search_contacts",
+          "score": 0.5094
+        },
+        {
+          "tool": "email_search",
+          "score": 0.2987
+        }
+      ]
+    },
+    {
+      "query_id": "schema_10",
+      "category": "schema_trap",
+      "query": "Send a threaded reply in #incidents about the resolution \u2014 thread ID is 1234567890.123456",
+      "expected_tool": "slack_send_message",
+      "result_tool": "slack_send_message",
+      "result_args": {},
+      "confidence": 0.4575,
+      "latency_ms": 7.034940004814416,
+      "tokens": 0,
+      "tool_correct": true,
+      "tool_label": "correct",
+      "invalid_tool": false,
+      "schema_valid": true,
+      "schema_errors": null,
+      "abstain_correct": null,
+      "top_3": [
+        {
+          "tool": "slack_send_message",
+          "score": 0.4575
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.3904
+        },
+        {
+          "tool": "slack_send_message",
+          "score": 0.3899
+        }
+      ]
+    }
+  ]
+}

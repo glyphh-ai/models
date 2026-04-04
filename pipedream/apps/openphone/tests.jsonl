@@ -1,0 +1,59 @@
+{"query":"Update Contact on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Update Contact in Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Quo update contact","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Update Contact on Openphone","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"update the contact on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"edit the contact on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"modify the contact on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"change the contact on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"update contact via Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"update contact using Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"update contact with Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"Quo update the contact","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"Quo edit the contact","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"update contact record on Quo","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_target"}
+{"query":"Quo update contact record","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_target"}
+{"query":"Openphone update contact","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_app_name"}
+{"query":"update a quo contact","expected_action_key":"openphone-update-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"contextual"}
+{"query":"Send a Text Message on Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Send a Text Message in Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Quo send a text message","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Send a Text Message on Openphone","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"send text message on Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"Quo send text message","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"post a text message on Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"Quo post a text message","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"send text message in Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"send text message via Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"send text message using Quo","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"send text message on Openphone","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_app_name"}
+{"query":"Openphone send text message","expected_action_key":"openphone-send-message","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_app_name"}
+{"query":"List Phone Numbers on Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"List Phone Numbers in Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Quo list phone numbers","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"List Phone Numbers on Openphone","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"list all phone numbers on Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"Quo list all phone numbers","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"show all phone numbers on Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"Quo show all phone numbers","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"list phone numbers via Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"list phone numbers using Quo","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"Openphone list phone numbers","expected_action_key":"openphone-list-phone-numbers","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_app_name"}
+{"query":"Create Contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Create Contact in Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Quo create contact","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"Create Contact on Openphone","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"action_name"}
+{"query":"create a contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"make a contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"new contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"open a contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"start a contact on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"canonical"}
+{"query":"create contact via Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"create contact using Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"create contact with Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_prep"}
+{"query":"Quo create a contact","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"Quo make a contact","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"app_first"}
+{"query":"create contact record on Quo","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_target"}
+{"query":"Quo create contact record","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_target"}
+{"query":"Openphone create contact","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"alt_app_name"}
+{"query":"create a quo contact","expected_action_key":"openphone-create-contact","expected_app_slug":"openphone","app_name":"Quo","test_type":"contextual"}

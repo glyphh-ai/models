@@ -1,0 +1,25 @@
+{"query":"Create Time Entry on TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"Create Time Entry in TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"TimeCamp create time entry","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"create a time entry on TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"TimeCamp create a time entry","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"app_first"}
+{"query":"make a time entry on TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"TimeCamp make a time entry","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"app_first"}
+{"query":"create time entry via TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_prep"}
+{"query":"create time entry using TimeCamp","expected_action_key":"timecamp-create-timeentry","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_prep"}
+{"query":"Create Task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"Create Task in TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"TimeCamp create task","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"action_name"}
+{"query":"create a task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"make a task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"new task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"open a task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"start a task on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"canonical"}
+{"query":"create task via TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_prep"}
+{"query":"create task using TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_prep"}
+{"query":"create task with TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_prep"}
+{"query":"TimeCamp create a task","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"app_first"}
+{"query":"TimeCamp make a task","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"app_first"}
+{"query":"create story on TimeCamp","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_target"}
+{"query":"TimeCamp create story","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"alt_target"}
+{"query":"create a timecamp task","expected_action_key":"timecamp-create-task","expected_app_slug":"timecamp","app_name":"TimeCamp","test_type":"contextual"}

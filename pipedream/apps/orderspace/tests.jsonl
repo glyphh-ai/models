@@ -1,0 +1,83 @@
+{"query":"Update Inventory Level on Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Update Inventory Level in Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace update inventory level","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"update the inventory level on Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace update the inventory level","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"edit the inventory level on Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace edit the inventory level","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"update inventory level via Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"update inventory level using Orderspace","expected_action_key":"orderspace-update-inventory-level","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"List Products on Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"List Products in Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace list products","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"list all products on Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace list all products","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"show all products on Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace show all products","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"list products via Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"list products using Orderspace","expected_action_key":"orderspace-list-products","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"List Orders on Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"List Orders in Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace list orders","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"list all orders on Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace list all orders","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"show all orders on Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace show all orders","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"list orders via Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"list orders using Orderspace","expected_action_key":"orderspace-list-orders","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"List Customers on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"List Customers in Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace list customers","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"list all customers on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"show all customers on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"get all customers on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"show me all customers on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"list customers via Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"list customers using Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"list customers with Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"Orderspace list all customers","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"Orderspace show all customers","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"list account on Orderspace","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"Orderspace list account","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"list a orderspace customers","expected_action_key":"orderspace-list-customers","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"contextual"}
+{"query":"Create Order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Create Order in Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace create order","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"create a order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"make a order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"new order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"open a order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"start a order on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"create order via Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"create order using Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"create order with Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"Orderspace create a order","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"Orderspace make a order","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"create purchase on Orderspace","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"Orderspace create purchase","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"create a orderspace order","expected_action_key":"orderspace-create-order","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"contextual"}
+{"query":"Create Dispatch on Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Create Dispatch in Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace create dispatch","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"create a dispatch on Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace create a dispatch","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"make a dispatch on Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"Orderspace make a dispatch","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"create dispatch via Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"create dispatch using Orderspace","expected_action_key":"orderspace-create-dispatch","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"Create Customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Create Customer in Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"Orderspace create customer","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"action_name"}
+{"query":"create a customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"make a customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"new customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"open a customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"start a customer on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"canonical"}
+{"query":"create customer via Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"create customer using Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"create customer with Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_prep"}
+{"query":"Orderspace create a customer","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"Orderspace make a customer","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"app_first"}
+{"query":"create account on Orderspace","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"Orderspace create account","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"alt_target"}
+{"query":"create a orderspace customer","expected_action_key":"orderspace-create-customer","expected_app_slug":"orderspace","app_name":"Orderspace","test_type":"contextual"}

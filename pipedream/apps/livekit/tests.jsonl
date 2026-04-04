@@ -1,0 +1,59 @@
+{"query":"Remove Participants on LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Remove Participants in LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit remove participants","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"remove the participants on LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit remove the participants","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"take out participants on LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit take out participants","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"remove participants via LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"remove participants using LiveKit","expected_action_key":"livekit-remove-participants","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"List Rooms on LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"List Rooms in LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit list rooms","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"list all rooms on LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit list all rooms","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"show all rooms on LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit show all rooms","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"list rooms via LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"list rooms using LiveKit","expected_action_key":"livekit-list-rooms","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"Generate Access Token on LiveKit","expected_action_key":"livekit-generate-access-token","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Generate Access Token in LiveKit","expected_action_key":"livekit-generate-access-token","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit generate access token","expected_action_key":"livekit-generate-access-token","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Delete Room on LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Delete Room in LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit delete room","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"delete the room on LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"remove the room on LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"destroy the room on LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"delete room via LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"delete room using LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"delete room with LiveKit","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"LiveKit delete the room","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"LiveKit remove the room","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"delete a livekit room","expected_action_key":"livekit-delete-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"contextual"}
+{"query":"Create Room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Create Room in LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit create room","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"create a room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"make a room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"new room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"open a room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"start a room on LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"create room via LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"create room using LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"create room with LiveKit","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"LiveKit create a room","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"LiveKit make a room","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"create a livekit room","expected_action_key":"livekit-create-room","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"contextual"}
+{"query":"Create Ingress From URL on LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"Create Ingress From URL in LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"LiveKit create ingress from url","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"action_name"}
+{"query":"create ingress url on LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit create ingress url","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"create a ingress url on LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit create a ingress url","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"make a ingress url on LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"canonical"}
+{"query":"LiveKit make a ingress url","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"app_first"}
+{"query":"create ingress url in LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"create ingress url via LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}
+{"query":"create ingress url using LiveKit","expected_action_key":"livekit-create-ingress-from-url","expected_app_slug":"livekit","app_name":"LiveKit","test_type":"alt_prep"}

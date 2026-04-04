@@ -1,0 +1,20 @@
+{"query":"Post Message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"action_name"}
+{"query":"Post Message in Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"action_name"}
+{"query":"Mattermost post message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"action_name"}
+{"query":"send message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"canonical"}
+{"query":"send a message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"canonical"}
+{"query":"post a message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"canonical"}
+{"query":"send out message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"canonical"}
+{"query":"fire off message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"canonical"}
+{"query":"send message in Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_prep"}
+{"query":"send message via Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_prep"}
+{"query":"send message using Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_prep"}
+{"query":"send message with Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_prep"}
+{"query":"Mattermost send message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"app_first"}
+{"query":"Mattermost send a message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"app_first"}
+{"query":"Mattermost post a message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"app_first"}
+{"query":"send msg on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_target"}
+{"query":"Mattermost send msg","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_target"}
+{"query":"send chat message on Mattermost","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_target"}
+{"query":"Mattermost send chat message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"alt_target"}
+{"query":"send a mattermost message","expected_action_key":"mattermost-post-message","expected_app_slug":"mattermost","app_name":"Mattermost","test_type":"contextual"}

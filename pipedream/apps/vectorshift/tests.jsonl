@@ -1,0 +1,40 @@
+{"query":"Run Pipeline on VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"Run Pipeline in VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"VectorShift run pipeline","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"trigger pipeline on VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"execute pipeline on VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"start pipeline on VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"launch pipeline on VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"trigger pipeline in VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"trigger pipeline via VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"trigger pipeline using VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"trigger pipeline with VectorShift","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"VectorShift trigger pipeline","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"VectorShift execute pipeline","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"trigger a vectorshift pipeline","expected_action_key":"vectorshift-run-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"contextual"}
+{"query":"Create Pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"Create Pipeline in VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"VectorShift create pipeline","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"create a pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"make a pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"new pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"open a pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"start a pipeline on VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"create pipeline via VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"create pipeline using VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"create pipeline with VectorShift","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"VectorShift create a pipeline","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"VectorShift make a pipeline","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"create a vectorshift pipeline","expected_action_key":"vectorshift-create-pipeline","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"contextual"}
+{"query":"Add Data to Knowledge Base on VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"Add Data to Knowledge Base in VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"VectorShift add data to knowledge base","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"action_name"}
+{"query":"add data knowledge base on VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"VectorShift add data knowledge base","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"add a data knowledge base on VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"VectorShift add a data knowledge base","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"add new data knowledge base on VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"canonical"}
+{"query":"VectorShift add new data knowledge base","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"app_first"}
+{"query":"add data knowledge base in VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"add data knowledge base via VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}
+{"query":"add data knowledge base using VectorShift","expected_action_key":"vectorshift-add-data-to-knowledge-base","expected_app_slug":"vectorshift","app_name":"VectorShift","test_type":"alt_prep"}

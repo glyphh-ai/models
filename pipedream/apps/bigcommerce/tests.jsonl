@@ -1,0 +1,93 @@
+{"query":"Update Product on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Update Product in BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce update product","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"update the product on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"edit the product on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"modify the product on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"change the product on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"update product via BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"update product using BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"update product with BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"BigCommerce update the product","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"BigCommerce edit the product","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"update item on BigCommerce","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"BigCommerce update item","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"update a bigcommerce product","expected_action_key":"bigcommerce-update-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"contextual"}
+{"query":"Get Product By Id on BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Get Product By Id in BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce get product by id","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"get product id on BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce get product id","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"get the product id on BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce get the product id","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"retrieve product id on BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce retrieve product id","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"get product id in BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"get product id via BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"get product id using BigCommerce","expected_action_key":"bigcommerce-get-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"Get Product Variants on BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Get Product Variants in BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce get product variants","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"get the product variants on BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce get the product variants","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"retrieve product variants on BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce retrieve product variants","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"get product variants via BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"get product variants using BigCommerce","expected_action_key":"bigcommerce-get-product-variants","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"Get All Products on BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Get All Products in BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce get all products","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"get the all products on BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce get the all products","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"retrieve all products on BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce retrieve all products","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"get all products via BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"get all products using BigCommerce","expected_action_key":"bigcommerce-get-all-products","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"Get All Products Sort Order on BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Get All Products Sort Order in BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce get all products sort order","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"get the all products sort order on BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce get the all products sort order","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"retrieve all products sort order on BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce retrieve all products sort order","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"get all products sort order via BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"get all products sort order using BigCommerce","expected_action_key":"bigcommerce-get-all-products-sort-order","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"Delete Product on BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Delete Product in BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce delete product","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"delete the product on BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"remove the product on BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"destroy the product on BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"delete product via BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"delete product using BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"delete product with BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"BigCommerce delete the product","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"BigCommerce remove the product","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"delete item on BigCommerce","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"BigCommerce delete item","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"delete a bigcommerce product","expected_action_key":"bigcommerce-delete-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"contextual"}
+{"query":"Create Product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Create Product in BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce create product","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"create a product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"make a product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"new product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"open a product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"start a product on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"create product via BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"create product using BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"create product with BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"BigCommerce create a product","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"BigCommerce make a product","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"create item on BigCommerce","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"BigCommerce create item","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_target"}
+{"query":"create a bigcommerce product","expected_action_key":"bigcommerce-create-product","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"contextual"}
+{"query":"Create Product Image on BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"Create Product Image in BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"BigCommerce create product image","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"action_name"}
+{"query":"create a product image on BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce create a product image","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"make a product image on BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"canonical"}
+{"query":"BigCommerce make a product image","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"app_first"}
+{"query":"create product image via BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}
+{"query":"create product image using BigCommerce","expected_action_key":"bigcommerce-create-product-image","expected_app_slug":"bigcommerce","app_name":"BigCommerce","test_type":"alt_prep"}

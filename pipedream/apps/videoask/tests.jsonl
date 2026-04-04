@@ -1,0 +1,39 @@
+{"query":"Create Question on VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"Create Question in VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"VideoAsk create question","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"create a question on VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"VideoAsk create a question","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"make a question on VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"VideoAsk make a question","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"create question via VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"create question using VideoAsk","expected_action_key":"videoask-create-question","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"Create Form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"Create Form in VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"VideoAsk create form","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"create a form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"make a form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"new form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"open a form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"start a form on VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"create form via VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"create form using VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"create form with VideoAsk","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"VideoAsk create a form","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"VideoAsk make a form","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"create a videoask form","expected_action_key":"videoask-create-form","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"contextual"}
+{"query":"Create Contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"Create Contact in VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"VideoAsk create contact","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"action_name"}
+{"query":"create a contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"make a contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"new contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"open a contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"start a contact on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"canonical"}
+{"query":"create contact via VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"create contact using VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"create contact with VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_prep"}
+{"query":"VideoAsk create a contact","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"VideoAsk make a contact","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"app_first"}
+{"query":"create contact record on VideoAsk","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_target"}
+{"query":"VideoAsk create contact record","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"alt_target"}
+{"query":"create a videoask contact","expected_action_key":"videoask-create-contact","expected_app_slug":"videoask","app_name":"VideoAsk","test_type":"contextual"}

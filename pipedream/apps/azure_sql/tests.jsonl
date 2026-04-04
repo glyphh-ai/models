@@ -1,0 +1,75 @@
+{"query":"Query SQL Database on Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Query SQL Database in Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Microsoft Azure SQL Database query sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Query SQL Database on Azure Sql","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Query SQL Database on azure_sql","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"get sql database on Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"get the sql database on Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database get the sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"retrieve sql database on Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database retrieve sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"get sql database in Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"get sql database via Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"get sql database using Microsoft Azure SQL Database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"get sql database on Azure Sql","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Azure Sql get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"get sql database on azure_sql","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"azure_sql get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Insert Row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Insert Row in Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Microsoft Azure SQL Database insert row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Insert Row on Azure Sql","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Insert Row on azure_sql","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"create row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"create a row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"make a row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"new row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"open a row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"start a row on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"create row in Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"create row via Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"create row using Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"create row with Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"Microsoft Azure SQL Database create row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"Microsoft Azure SQL Database create a row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"Microsoft Azure SQL Database make a row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"create entry on Microsoft Azure SQL Database","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_target"}
+{"query":"Microsoft Azure SQL Database create entry","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_target"}
+{"query":"create row on Azure Sql","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Azure Sql create row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"create row on azure_sql","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"azure_sql create row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"create a microsoft azure sql database row","expected_action_key":"azure_sql-insert-row","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"contextual"}
+{"query":"Execute SQL Query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute SQL Query in Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Microsoft Azure SQL Database execute sql query","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute SQL Query on Azure Sql","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute SQL Query on azure_sql","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"trigger sql query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database trigger sql query","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"run sql query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database run sql query","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"trigger sql query in Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger sql query via Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger sql query using Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger sql query on Azure Sql","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Azure Sql trigger sql query","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"trigger sql query on azure_sql","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"azure_sql trigger sql query","expected_action_key":"azure_sql-execute-raw-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Execute Query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute Query in Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Microsoft Azure SQL Database execute query","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute Query on Azure Sql","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"Execute Query on azure_sql","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"action_name"}
+{"query":"trigger query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database trigger query","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"run query on Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"canonical"}
+{"query":"Microsoft Azure SQL Database run query","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"app_first"}
+{"query":"trigger query in Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger query via Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger query using Microsoft Azure SQL Database","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_prep"}
+{"query":"trigger query on Azure Sql","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"Azure Sql trigger query","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"trigger query on azure_sql","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}
+{"query":"azure_sql trigger query","expected_action_key":"azure_sql-execute-query","expected_app_slug":"azure_sql","app_name":"Microsoft Azure SQL Database","test_type":"alt_app_name"}

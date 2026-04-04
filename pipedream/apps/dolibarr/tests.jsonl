@@ -1,0 +1,43 @@
+{"query":"Create User on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Create User in Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Dolibarr create user","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"create a user on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"make a user on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"new user on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"open a user on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"start a user on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"create user via Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"create user using Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"create user with Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"Dolibarr create a user","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"Dolibarr make a user","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"create member on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"Dolibarr create member","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"create person on Dolibarr","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"Dolibarr create person","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"create a dolibarr user","expected_action_key":"dolibarr-create-user","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"contextual"}
+{"query":"Create Third Party on Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Create Third Party in Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Dolibarr create third party","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"create a third party on Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"Dolibarr create a third party","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"make a third party on Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"Dolibarr make a third party","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"create third party via Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"create third party using Dolibarr","expected_action_key":"dolibarr-create-thirdparty","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"Create Order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Create Order in Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"Dolibarr create order","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"action_name"}
+{"query":"create a order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"make a order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"new order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"open a order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"start a order on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"canonical"}
+{"query":"create order via Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"create order using Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"create order with Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_prep"}
+{"query":"Dolibarr create a order","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"Dolibarr make a order","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"app_first"}
+{"query":"create purchase on Dolibarr","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"Dolibarr create purchase","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"alt_target"}
+{"query":"create a dolibarr order","expected_action_key":"dolibarr-create-order","expected_app_slug":"dolibarr","app_name":"Dolibarr","test_type":"contextual"}

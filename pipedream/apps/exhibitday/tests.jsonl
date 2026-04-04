@@ -1,0 +1,49 @@
+{"query":"Update Task on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"Update Task in ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"ExhibitDay update task","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"update the task on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"edit the task on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"modify the task on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"change the task on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"update task via ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"update task using ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"update task with ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"ExhibitDay update the task","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"ExhibitDay edit the task","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"update story on ExhibitDay","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"ExhibitDay update story","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"update a exhibitday task","expected_action_key":"exhibitday-update-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"contextual"}
+{"query":"Create Task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"Create Task in ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"ExhibitDay create task","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"create a task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"make a task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"new task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"open a task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"start a task on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"create task via ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"create task using ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"create task with ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"ExhibitDay create a task","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"ExhibitDay make a task","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"create story on ExhibitDay","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"ExhibitDay create story","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"create a exhibitday task","expected_action_key":"exhibitday-create-task","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"contextual"}
+{"query":"Create Event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"Create Event in ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"ExhibitDay create event","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"action_name"}
+{"query":"create a event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"make a event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"new event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"open a event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"start a event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"canonical"}
+{"query":"create event via ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"create event using ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"create event with ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_prep"}
+{"query":"ExhibitDay create a event","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"ExhibitDay make a event","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"app_first"}
+{"query":"create meeting on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"ExhibitDay create meeting","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"create calendar event on ExhibitDay","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"ExhibitDay create calendar event","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"alt_target"}
+{"query":"create a exhibitday event","expected_action_key":"exhibitday-create-event","expected_app_slug":"exhibitday","app_name":"ExhibitDay","test_type":"contextual"}

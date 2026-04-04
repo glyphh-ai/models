@@ -1,0 +1,38 @@
+{"query":"Update User on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"Update User in OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"OneLogin update user","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"update the user on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"edit the user on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"modify the user on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"change the user on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"update user via OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"update user using OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"update user with OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"OneLogin update the user","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"app_first"}
+{"query":"OneLogin edit the user","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"app_first"}
+{"query":"update member on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"OneLogin update member","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"update person on OneLogin","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"OneLogin update person","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"update a onelogin user","expected_action_key":"onelogin-update-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"contextual"}
+{"query":"Revoke User Sessions on OneLogin","expected_action_key":"onelogin-revoke-user-sessions","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"Revoke User Sessions in OneLogin","expected_action_key":"onelogin-revoke-user-sessions","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"OneLogin revoke user sessions","expected_action_key":"onelogin-revoke-user-sessions","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"Create User on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"Create User in OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"OneLogin create user","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"action_name"}
+{"query":"create a user on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"make a user on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"new user on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"open a user on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"start a user on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"canonical"}
+{"query":"create user via OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"create user using OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"create user with OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_prep"}
+{"query":"OneLogin create a user","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"app_first"}
+{"query":"OneLogin make a user","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"app_first"}
+{"query":"create member on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"OneLogin create member","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"create person on OneLogin","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"OneLogin create person","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"alt_target"}
+{"query":"create a onelogin user","expected_action_key":"onelogin-create-user","expected_app_slug":"onelogin","app_name":"OneLogin","test_type":"contextual"}

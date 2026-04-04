@@ -1,0 +1,28 @@
+{"query":"Start Shift on Deputy","expected_action_key":"deputy-start-shift","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Start Shift in Deputy","expected_action_key":"deputy-start-shift","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Deputy start shift","expected_action_key":"deputy-start-shift","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Create Location on Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Create Location in Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Deputy create location","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"create a location on Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"Deputy create a location","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"app_first"}
+{"query":"make a location on Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"Deputy make a location","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"app_first"}
+{"query":"create location via Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_prep"}
+{"query":"create location using Deputy","expected_action_key":"deputy-create-location","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_prep"}
+{"query":"Create Employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Create Employee in Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"Deputy create employee","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"action_name"}
+{"query":"create a employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"make a employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"new employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"open a employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"start a employee on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"canonical"}
+{"query":"create employee via Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_prep"}
+{"query":"create employee using Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_prep"}
+{"query":"create employee with Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_prep"}
+{"query":"Deputy create a employee","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"app_first"}
+{"query":"Deputy make a employee","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"app_first"}
+{"query":"create staff member on Deputy","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_target"}
+{"query":"Deputy create staff member","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"alt_target"}
+{"query":"create a deputy employee","expected_action_key":"deputy-create-employee","expected_app_slug":"deputy","app_name":"Deputy","test_type":"contextual"}

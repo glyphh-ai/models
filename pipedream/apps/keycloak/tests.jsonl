@@ -1,0 +1,70 @@
+{"query":"Update User on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Update User in Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Keycloak update user","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"update the user on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"edit the user on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"modify the user on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"change the user on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"update user via Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"update user using Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"update user with Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"Keycloak update the user","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"Keycloak edit the user","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"update member on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak update member","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"update person on Keycloak","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak update person","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"update a keycloak user","expected_action_key":"keycloak-update-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"contextual"}
+{"query":"Get User on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Get User in Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Keycloak get user","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"get the user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"retrieve user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"fetch user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"show me the user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"pull user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"check user on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"get user via Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"get user using Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"get user with Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"Keycloak get the user","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"Keycloak retrieve user","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"get member on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak get member","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"get person on Keycloak","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak get person","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"get a keycloak user","expected_action_key":"keycloak-get-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"contextual"}
+{"query":"Delete User on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Delete User in Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Keycloak delete user","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"delete the user on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"remove the user on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"destroy the user on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"delete user via Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"delete user using Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"delete user with Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"Keycloak delete the user","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"Keycloak remove the user","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"delete member on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak delete member","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"delete person on Keycloak","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak delete person","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"delete a keycloak user","expected_action_key":"keycloak-delete-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"contextual"}
+{"query":"Create User on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Create User in Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"Keycloak create user","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"action_name"}
+{"query":"create a user on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"make a user on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"new user on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"open a user on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"start a user on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"canonical"}
+{"query":"create user via Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"create user using Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"create user with Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_prep"}
+{"query":"Keycloak create a user","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"Keycloak make a user","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"app_first"}
+{"query":"create member on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak create member","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"create person on Keycloak","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"Keycloak create person","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"alt_target"}
+{"query":"create a keycloak user","expected_action_key":"keycloak-create-user","expected_app_slug":"keycloak","app_name":"Keycloak","test_type":"contextual"}

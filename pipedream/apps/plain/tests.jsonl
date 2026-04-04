@@ -1,0 +1,38 @@
+{"query":"Upsert Customer on Plain","expected_action_key":"plain-upsert-customer","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Upsert Customer in Plain","expected_action_key":"plain-upsert-customer","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Plain upsert customer","expected_action_key":"plain-upsert-customer","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Create Thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Create Thread in Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Plain create thread","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"create a thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"make a thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"new thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"open a thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"start a thread on Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"create thread via Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"create thread using Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"create thread with Plain","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"Plain create a thread","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"Plain make a thread","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"create a plain thread","expected_action_key":"plain-create-thread","expected_app_slug":"plain","app_name":"Plain","test_type":"contextual"}
+{"query":"Create Customer Event on Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Create Customer Event in Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Plain create customer event","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"create a customer event on Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"Plain create a customer event","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"make a customer event on Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"Plain make a customer event","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"create customer event via Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"create customer event using Plain","expected_action_key":"plain-create-customer-event","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"Add Customer to Group on Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Add Customer to Group in Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"Plain add customer to group","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"action_name"}
+{"query":"add customer group on Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"Plain add customer group","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"add a customer group on Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"Plain add a customer group","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"add new customer group on Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"canonical"}
+{"query":"Plain add new customer group","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"app_first"}
+{"query":"add customer group in Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"add customer group via Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}
+{"query":"add customer group using Plain","expected_action_key":"plain-add-customer-to-group","expected_app_slug":"plain","app_name":"Plain","test_type":"alt_prep"}

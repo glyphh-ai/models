@@ -1,0 +1,71 @@
+{"query":"Update Row on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Update Row in Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Baserow update row","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"update the row on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"edit the row on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"modify the row on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"change the row on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"update row via Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"update row using Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"update row with Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"Baserow update the row","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"Baserow edit the row","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"update entry on Baserow","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"Baserow update entry","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"update a baserow row","expected_action_key":"baserow-update-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"contextual"}
+{"query":"List Rows on Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"List Rows in Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Baserow list rows","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"list all rows on Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"Baserow list all rows","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"show all rows on Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"Baserow show all rows","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"list rows via Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"list rows using Baserow","expected_action_key":"baserow-list-rows","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"Get Row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Get Row in Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Baserow get row","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"get the row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"retrieve row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"fetch row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"show me the row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"pull row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"check row on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"get row via Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"get row using Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"get row with Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"Baserow get the row","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"Baserow retrieve row","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"get entry on Baserow","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"Baserow get entry","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"get a baserow row","expected_action_key":"baserow-get-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"contextual"}
+{"query":"Delete Row on Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Delete Row in Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Baserow delete row","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"delete the row on Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"remove the row on Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"destroy the row on Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"delete row via Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"delete row using Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"delete row with Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"Baserow delete the row","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"Baserow remove the row","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"delete entry on Baserow","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"Baserow delete entry","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"delete a baserow row","expected_action_key":"baserow-delete-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"contextual"}
+{"query":"Create Row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Create Row in Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"Baserow create row","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"action_name"}
+{"query":"create a row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"make a row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"new row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"open a row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"start a row on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"canonical"}
+{"query":"create row via Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"create row using Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"create row with Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_prep"}
+{"query":"Baserow create a row","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"Baserow make a row","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"app_first"}
+{"query":"create entry on Baserow","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"Baserow create entry","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"alt_target"}
+{"query":"create a baserow row","expected_action_key":"baserow-create-row","expected_app_slug":"baserow","app_name":"Baserow","test_type":"contextual"}

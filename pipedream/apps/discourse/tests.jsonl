@@ -1,0 +1,25 @@
+{"query":"Create Topic on Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"Create Topic in Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"Discourse create topic","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"create a topic on Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"Discourse create a topic","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"app_first"}
+{"query":"make a topic on Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"Discourse make a topic","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"app_first"}
+{"query":"create topic via Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_prep"}
+{"query":"create topic using Discourse","expected_action_key":"discourse-create-topic","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_prep"}
+{"query":"Create Post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"Create Post in Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"Discourse create post","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"action_name"}
+{"query":"create a post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"make a post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"new post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"open a post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"start a post on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"canonical"}
+{"query":"create post via Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_prep"}
+{"query":"create post using Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_prep"}
+{"query":"create post with Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_prep"}
+{"query":"Discourse create a post","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"app_first"}
+{"query":"Discourse make a post","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"app_first"}
+{"query":"create status update on Discourse","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_target"}
+{"query":"Discourse create status update","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"alt_target"}
+{"query":"create a discourse post","expected_action_key":"discourse-create-post","expected_app_slug":"discourse","app_name":"Discourse","test_type":"contextual"}

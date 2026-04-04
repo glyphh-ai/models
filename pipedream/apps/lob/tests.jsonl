@@ -1,0 +1,44 @@
+{"query":"Retrieve Postcard on Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Retrieve Postcard in Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Lob retrieve postcard","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"get postcard on Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob get postcard","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"get the postcard on Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob get the postcard","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"get postcard in Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"get postcard via Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"get postcard using Lob","expected_action_key":"lob-retrieve-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"List Postcards on Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"List Postcards in Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Lob list postcards","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"list all postcards on Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob list all postcards","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"show all postcards on Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob show all postcards","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"list postcards via Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"list postcards using Lob","expected_action_key":"lob-list-postcards","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"Create Postcard on Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Create Postcard in Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Lob create postcard","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"create a postcard on Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob create a postcard","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"make a postcard on Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob make a postcard","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"create postcard via Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"create postcard using Lob","expected_action_key":"lob-create-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"Create Letter on Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Create Letter in Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Lob create letter","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"create a letter on Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob create a letter","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"make a letter on Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob make a letter","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"create letter via Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"create letter using Lob","expected_action_key":"lob-create-letter","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"Cancel Postcard on Lob","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Cancel Postcard in Lob","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"Lob cancel postcard","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"action_name"}
+{"query":"cancel the postcard on Lob","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"canonical"}
+{"query":"Lob cancel the postcard","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"app_first"}
+{"query":"cancel postcard via Lob","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}
+{"query":"cancel postcard using Lob","expected_action_key":"lob-cancel-postcard","expected_app_slug":"lob","app_name":"Lob","test_type":"alt_prep"}

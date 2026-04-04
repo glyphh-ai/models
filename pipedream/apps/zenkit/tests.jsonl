@@ -1,0 +1,91 @@
+{"query":"Update Entry on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Update Entry in Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit update entry","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"update the entry on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"edit the entry on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"modify the entry on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"change the entry on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"update entry via Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"update entry using Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"update entry with Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"Zenkit update the entry","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"Zenkit edit the entry","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"update row on Zenkit","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"Zenkit update row","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"update a zenkit entry","expected_action_key":"zenkit-update-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"contextual"}
+{"query":"Get User on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Get User in Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit get user","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"get the user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"retrieve user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"fetch user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"show me the user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"pull user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"check user on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"get user via Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get user using Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get user with Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"Zenkit get the user","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"Zenkit retrieve user","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"get member on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"Zenkit get member","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"get person on Zenkit","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"Zenkit get person","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"get a zenkit user","expected_action_key":"zenkit-get-user","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"contextual"}
+{"query":"Get List on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Get List in Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit get list","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"get the list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"retrieve list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"fetch list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"show me the list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"pull list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"check list on Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"get list via Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get list using Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get list with Zenkit","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"Zenkit get the list","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"Zenkit retrieve list","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"get a zenkit list","expected_action_key":"zenkit-get-list","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"contextual"}
+{"query":"Get Entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Get Entry in Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit get entry","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"get the entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"retrieve entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"fetch entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"show me the entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"pull entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"check entry on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"get entry via Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get entry using Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"get entry with Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"Zenkit get the entry","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"Zenkit retrieve entry","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"get row on Zenkit","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"Zenkit get row","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"get a zenkit entry","expected_action_key":"zenkit-get-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"contextual"}
+{"query":"Create Entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Create Entry in Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit create entry","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"create a entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"make a entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"new entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"open a entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"start a entry on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"create entry via Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"create entry using Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"create entry with Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"Zenkit create a entry","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"Zenkit make a entry","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"create row on Zenkit","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"Zenkit create row","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_target"}
+{"query":"create a zenkit entry","expected_action_key":"zenkit-create-entry","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"contextual"}
+{"query":"Add Entry Comment on Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Add Entry Comment in Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"Zenkit add entry comment","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"action_name"}
+{"query":"add a entry comment on Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"Zenkit add a entry comment","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"add new entry comment on Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"canonical"}
+{"query":"Zenkit add new entry comment","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"app_first"}
+{"query":"add entry comment via Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}
+{"query":"add entry comment using Zenkit","expected_action_key":"zenkit-add-entry-comment","expected_app_slug":"zenkit","app_name":"Zenkit","test_type":"alt_prep"}

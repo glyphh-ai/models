@@ -1,0 +1,3 @@
+{"query":"mixpanel.track on Mixpanel","expected_action_key":"mixpanel-emit-event-to","expected_app_slug":"mixpanel","app_name":"Mixpanel","test_type":"action_name"}
+{"query":"mixpanel.track in Mixpanel","expected_action_key":"mixpanel-emit-event-to","expected_app_slug":"mixpanel","app_name":"Mixpanel","test_type":"action_name"}
+{"query":"Mixpanel mixpanel.track","expected_action_key":"mixpanel-emit-event-to","expected_app_slug":"mixpanel","app_name":"Mixpanel","test_type":"action_name"}

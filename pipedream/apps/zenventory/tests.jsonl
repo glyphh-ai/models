@@ -1,0 +1,32 @@
+{"query":"Create Purchase Order on Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Create Purchase Order in Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Zenventory create purchase order","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"create a purchase order on Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"Zenventory create a purchase order","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"make a purchase order on Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"Zenventory make a purchase order","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"create purchase order via Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"create purchase order using Zenventory","expected_action_key":"zenventory-create-purchase-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"Create Item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Create Item in Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Zenventory create item","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"create a item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"make a item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"new item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"open a item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"start a item on Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"create item via Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"create item using Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"create item with Zenventory","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"Zenventory create a item","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"Zenventory make a item","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"create a zenventory item","expected_action_key":"zenventory-create-item","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"contextual"}
+{"query":"Create Customer Order on Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Create Customer Order in Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"Zenventory create customer order","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"action_name"}
+{"query":"create a customer order on Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"Zenventory create a customer order","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"make a customer order on Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"canonical"}
+{"query":"Zenventory make a customer order","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"app_first"}
+{"query":"create customer order via Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}
+{"query":"create customer order using Zenventory","expected_action_key":"zenventory-create-customer-order","expected_app_slug":"zenventory","app_name":"Zenventory","test_type":"alt_prep"}

@@ -1,0 +1,29 @@
+{"query":"Generate Document on PDFMonkey","expected_action_key":"pdfmonkey-generate-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"Generate Document in PDFMonkey","expected_action_key":"pdfmonkey-generate-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"PDFMonkey generate document","expected_action_key":"pdfmonkey-generate-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"Find Document on PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"Find Document in PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"PDFMonkey find document","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"search for document on PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"look for document on PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"search document on PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"locate document on PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"search for document in PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"search for document via PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"search for document using PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"search for document with PDFMonkey","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"PDFMonkey search for document","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"app_first"}
+{"query":"PDFMonkey look for document","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"app_first"}
+{"query":"search for a pdfmonkey document","expected_action_key":"pdfmonkey-find-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"contextual"}
+{"query":"Delete Document on PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"Delete Document in PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"PDFMonkey delete document","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"action_name"}
+{"query":"delete the document on PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"remove the document on PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"destroy the document on PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"canonical"}
+{"query":"delete document via PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"delete document using PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"delete document with PDFMonkey","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"alt_prep"}
+{"query":"PDFMonkey delete the document","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"app_first"}
+{"query":"PDFMonkey remove the document","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"app_first"}
+{"query":"delete a pdfmonkey document","expected_action_key":"pdfmonkey-delete-document","expected_app_slug":"pdfmonkey","app_name":"PDFMonkey","test_type":"contextual"}

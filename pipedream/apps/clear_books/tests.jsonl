@@ -1,0 +1,40 @@
+{"query":"Create Supplier on Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Supplier in Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Clear Books create supplier","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Supplier on clear_books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"create a supplier on Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"Clear Books create a supplier","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"make a supplier on Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"Clear Books make a supplier","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"create supplier via Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"create supplier using Clear Books","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"clear_books create supplier","expected_action_key":"clear_books-create-supplier","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_app_name"}
+{"query":"Create Purchase Document on Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Purchase Document in Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Clear Books create purchase document","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Purchase Document on clear_books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"create a purchase document on Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"Clear Books create a purchase document","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"make a purchase document on Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"Clear Books make a purchase document","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"create purchase document via Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"create purchase document using Clear Books","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"clear_books create purchase document","expected_action_key":"clear_books-create-purchase-document","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_app_name"}
+{"query":"Create Customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Customer in Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Clear Books create customer","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"Create Customer on clear_books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"action_name"}
+{"query":"create a customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"make a customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"new customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"open a customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"start a customer on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"canonical"}
+{"query":"create customer via Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"create customer using Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"create customer with Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_prep"}
+{"query":"Clear Books create a customer","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"Clear Books make a customer","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"app_first"}
+{"query":"create account on Clear Books","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_target"}
+{"query":"Clear Books create account","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_target"}
+{"query":"clear_books create customer","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"alt_app_name"}
+{"query":"create a clear books customer","expected_action_key":"clear_books-create-customer","expected_app_slug":"clear_books","app_name":"Clear Books","test_type":"contextual"}

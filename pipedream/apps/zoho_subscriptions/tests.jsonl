@@ -1,0 +1,40 @@
+{"query":"Create Subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Subscription in Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Zoho Billing create subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Subscription on Zoho Subscriptions","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Subscription on zoho_subscriptions","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"create a subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"make a subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"new subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"open a subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"start a subscription on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"create subscription via Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"create subscription using Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"create subscription with Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"Zoho Billing create a subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"app_first"}
+{"query":"Zoho Billing make a subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"app_first"}
+{"query":"create plan on Zoho Billing","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_target"}
+{"query":"Zoho Billing create plan","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_target"}
+{"query":"Zoho Subscriptions create subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_app_name"}
+{"query":"zoho_subscriptions create subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_app_name"}
+{"query":"create a zoho billing subscription","expected_action_key":"zoho_subscriptions-create-subscription","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"contextual"}
+{"query":"Create Customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Customer in Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Zoho Billing create customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Customer on Zoho Subscriptions","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"Create Customer on zoho_subscriptions","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"action_name"}
+{"query":"create a customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"make a customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"new customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"open a customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"start a customer on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"canonical"}
+{"query":"create customer via Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"create customer using Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"create customer with Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_prep"}
+{"query":"Zoho Billing create a customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"app_first"}
+{"query":"Zoho Billing make a customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"app_first"}
+{"query":"create account on Zoho Billing","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_target"}
+{"query":"Zoho Billing create account","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_target"}
+{"query":"Zoho Subscriptions create customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_app_name"}
+{"query":"zoho_subscriptions create customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"alt_app_name"}
+{"query":"create a zoho billing customer","expected_action_key":"zoho_subscriptions-create-customer","expected_app_slug":"zoho_subscriptions","app_name":"Zoho Billing","test_type":"contextual"}

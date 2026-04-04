@@ -1,0 +1,151 @@
+{"query":"Send Document on PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Send Document in PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc send document","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"send a document on PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"post a document on PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"send out document on PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"fire off document on PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"send document via PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"send document using PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"send document with PandaDoc","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"PandaDoc send a document","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"PandaDoc post a document","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"send a pandadoc document","expected_action_key":"pandadoc-send-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"contextual"}
+{"query":"List Folders on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"List Folders in PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc list folders","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"list all folders on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"show all folders on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"get all folders on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"show me all folders on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"list folders via PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list folders using PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list folders with PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"PandaDoc list all folders","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"PandaDoc show all folders","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"list directory on PandaDoc","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"PandaDoc list directory","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"list a pandadoc folders","expected_action_key":"pandadoc-list-folders","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"contextual"}
+{"query":"List Documents on PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"List Documents in PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc list documents","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"list all documents on PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc list all documents","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"show all documents on PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc show all documents","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"list documents via PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list documents using PandaDoc","expected_action_key":"pandadoc-list-documents","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"List Document Attachments on PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"List Document Attachments in PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc list document attachments","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"list all document attachments on PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc list all document attachments","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"show all document attachments on PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc show all document attachments","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"list document attachments via PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list document attachments using PandaDoc","expected_action_key":"pandadoc-list-document-attachments","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"List Contacts on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"List Contacts in PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc list contacts","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"list all contacts on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"show all contacts on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"get all contacts on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"show me all contacts on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"list contacts via PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list contacts using PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"list contacts with PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"PandaDoc list all contacts","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"PandaDoc show all contacts","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"list contact record on PandaDoc","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"PandaDoc list contact record","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"list a pandadoc contacts","expected_action_key":"pandadoc-list-contacts","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"contextual"}
+{"query":"Get Document Status on PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Get Document Status in PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc get document status","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"get the document status on PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc get the document status","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"retrieve document status on PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc retrieve document status","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"get document status via PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"get document status using PandaDoc","expected_action_key":"pandadoc-get-document-status","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"Download Protected Document on PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Download Protected Document in PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc download protected document","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"export protected document on PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc export protected document","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"export the protected document on PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc export the protected document","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"export protected document in PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"export protected document via PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"export protected document using PandaDoc","expected_action_key":"pandadoc-download-protected-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"Download Document on PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Download Document in PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc download document","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"export document on PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"export the document on PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"download the document on PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"export document in PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"export document via PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"export document using PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"export document with PandaDoc","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"PandaDoc export document","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"PandaDoc export the document","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"export a pandadoc document","expected_action_key":"pandadoc-download-document","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"contextual"}
+{"query":"Get Document Details on PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Get Document Details in PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc get document details","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"get the document details on PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc get the document details","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"retrieve document details on PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc retrieve document details","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"get document details via PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"get document details using PandaDoc","expected_action_key":"pandadoc-document-details","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"Create Folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Create Folder in PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc create folder","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"create a folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"make a folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"new folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"open a folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"start a folder on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"create folder via PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create folder using PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create folder with PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"PandaDoc create a folder","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"PandaDoc make a folder","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create directory on PandaDoc","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"PandaDoc create directory","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_target"}
+{"query":"create a pandadoc folder","expected_action_key":"pandadoc-create-folder","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"contextual"}
+{"query":"Create Document From Template on PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Create Document From Template in PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc create document from template","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"create document template on PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc create document template","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create a document template on PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc create a document template","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"make a document template on PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc make a document template","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create document template in PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create document template via PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create document template using PandaDoc","expected_action_key":"pandadoc-create-document-from-template","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"Create Document From File on PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Create Document From File in PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc create document from file","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"create document file on PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc create document file","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create a document file on PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc create a document file","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"make a document file on PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc make a document file","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create document file in PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create document file via PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create document file using PandaDoc","expected_action_key":"pandadoc-create-document-from-file","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"Create Document Attachment on PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"Create Document Attachment in PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"PandaDoc create document attachment","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"action_name"}
+{"query":"create a document attachment on PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc create a document attachment","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"make a document attachment on PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"canonical"}
+{"query":"PandaDoc make a document attachment","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"app_first"}
+{"query":"create document attachment via PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}
+{"query":"create document attachment using PandaDoc","expected_action_key":"pandadoc-create-document-attachment","expected_app_slug":"pandadoc","app_name":"PandaDoc","test_type":"alt_prep"}

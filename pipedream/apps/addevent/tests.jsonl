@@ -1,0 +1,30 @@
+{"query":"Create RSVP For Attendee on addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"Create RSVP For Attendee in addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"addevent create rsvp for attendee","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"create rsvp attendee on addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"addevent create rsvp attendee","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"app_first"}
+{"query":"create a rsvp attendee on addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"addevent create a rsvp attendee","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"app_first"}
+{"query":"make a rsvp attendee on addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"addevent make a rsvp attendee","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"app_first"}
+{"query":"create rsvp attendee in addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"create rsvp attendee via addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"create rsvp attendee using addevent","expected_action_key":"addevent-create-rsvp-for-attendee","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"Create Event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"Create Event in addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"addevent create event","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"action_name"}
+{"query":"create a event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"make a event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"new event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"open a event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"start a event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"canonical"}
+{"query":"create event via addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"create event using addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"create event with addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_prep"}
+{"query":"addevent create a event","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"app_first"}
+{"query":"addevent make a event","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"app_first"}
+{"query":"create meeting on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_target"}
+{"query":"addevent create meeting","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_target"}
+{"query":"create calendar event on addevent","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_target"}
+{"query":"addevent create calendar event","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"alt_target"}
+{"query":"create a addevent event","expected_action_key":"addevent-create-event","expected_app_slug":"addevent","app_name":"addevent","test_type":"contextual"}

@@ -1,0 +1,94 @@
+{"query":"Place Order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Place Order in Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca place order","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"create order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"create a order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"make a order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"new order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"open a order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"start a order on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"create order in Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"create order via Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"create order using Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"create order with Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Alpaca create order","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"Alpaca create a order","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"Alpaca make a order","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"create purchase on Alpaca","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_target"}
+{"query":"Alpaca create purchase","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_target"}
+{"query":"create a alpaca order","expected_action_key":"alpaca-place-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"contextual"}
+{"query":"List Positions on Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"List Positions in Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca list positions","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"list all positions on Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"show all positions on Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"get all positions on Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"show me all positions on Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"list positions via Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"list positions using Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"list positions with Alpaca","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Alpaca list all positions","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"Alpaca show all positions","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"list a alpaca positions","expected_action_key":"alpaca-list-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"contextual"}
+{"query":"List Orders on Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"List Orders in Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca list orders","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"list all orders on Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca list all orders","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"show all orders on Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca show all orders","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"list orders via Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"list orders using Alpaca","expected_action_key":"alpaca-list-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Get Account Info on Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Get Account Info in Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca get account info","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"get the account info on Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca get the account info","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"retrieve account info on Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca retrieve account info","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"get account info via Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"get account info using Alpaca","expected_action_key":"alpaca-get-account-info","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Close Position on Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Close Position in Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca close position","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"archive position on Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"archive the position on Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"close the position on Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"archive position in Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"archive position via Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"archive position using Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"archive position with Alpaca","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Alpaca archive position","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"Alpaca archive the position","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"Alpaca close the position","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"archive a alpaca position","expected_action_key":"alpaca-close-position","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"contextual"}
+{"query":"Close All Positions on Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Close All Positions in Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca close all positions","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"archive all positions on Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca archive all positions","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"archive the all positions on Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca archive the all positions","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"close the all positions on Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca close the all positions","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"archive all positions in Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"archive all positions via Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"archive all positions using Alpaca","expected_action_key":"alpaca-close-all-positions","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Cancel Order on Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Cancel Order in Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca cancel order","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"cancel the order on Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"cancel order via Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"cancel order using Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"cancel order with Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"Alpaca cancel the order","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"cancel purchase on Alpaca","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_target"}
+{"query":"Alpaca cancel purchase","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_target"}
+{"query":"cancel a alpaca order","expected_action_key":"alpaca-cancel-order","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"contextual"}
+{"query":"Cancel All Orders on Alpaca","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Cancel All Orders in Alpaca","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"Alpaca cancel all orders","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"action_name"}
+{"query":"cancel the all orders on Alpaca","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"canonical"}
+{"query":"Alpaca cancel the all orders","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"app_first"}
+{"query":"cancel all orders via Alpaca","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}
+{"query":"cancel all orders using Alpaca","expected_action_key":"alpaca-cancel-all-orders","expected_app_slug":"alpaca","app_name":"Alpaca","test_type":"alt_prep"}

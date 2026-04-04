@@ -1,0 +1,186 @@
+{"query":"Update Person on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Update Person in Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline update person","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"update the person on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"edit the person on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"modify the person on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"change the person on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"update person via Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"update person using Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"update person with Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline update the person","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline edit the person","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"update member on Pipeline","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline update member","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"update a pipeline person","expected_action_key":"pipeline-update-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Update Deal on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Update Deal in Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline update deal","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"update the deal on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"edit the deal on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"modify the deal on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"change the deal on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"update deal via Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"update deal using Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"update deal with Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline update the deal","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline edit the deal","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"update opportunity on Pipeline","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline update opportunity","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"update a pipeline deal","expected_action_key":"pipeline-update-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Update Company on Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Update Company in Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline update company","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"update the company on Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline update the company","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"edit the company on Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline edit the company","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"update company via Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"update company using Pipeline","expected_action_key":"pipeline-update-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Move Deal Stage on Pipeline","expected_action_key":"pipeline-move-deal-stage","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Move Deal Stage in Pipeline","expected_action_key":"pipeline-move-deal-stage","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline move deal stage","expected_action_key":"pipeline-move-deal-stage","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Find User on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Find User in Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline find user","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"search for user on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"look for user on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search user on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"locate user on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search for user in Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for user via Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for user using Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for user with Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline search for user","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline look for user","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"search for member on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline search for member","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"search for person on Pipeline","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline search for person","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"search for a pipeline user","expected_action_key":"pipeline-find-user","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Find Person on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Find Person in Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline find person","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"search for person on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"look for person on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search person on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"locate person on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search for person in Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for person via Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for person using Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for person with Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline search for person","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline look for person","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"search for member on Pipeline","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline search for member","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"search for a pipeline person","expected_action_key":"pipeline-find-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Find Deal on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Find Deal in Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline find deal","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"search for deal on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"look for deal on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search deal on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"locate deal on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"search for deal in Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for deal via Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for deal using Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for deal with Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline search for deal","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline look for deal","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"search for opportunity on Pipeline","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline search for opportunity","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"search for a pipeline deal","expected_action_key":"pipeline-find-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Find Company on Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Find Company in Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline find company","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"search for company on Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline search for company","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"look for company on Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline look for company","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"search for company in Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for company via Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"search for company using Pipeline","expected_action_key":"pipeline-find-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Create Task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Task in Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create task","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"make a task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"new task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"open a task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"start a task on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"create task via Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create task using Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create task with Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline create a task","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline make a task","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create story on Pipeline","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline create story","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"create a pipeline task","expected_action_key":"pipeline-create-task","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Create Person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Person in Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create person","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"make a person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"new person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"open a person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"start a person on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"create person via Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create person using Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create person with Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline create a person","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline make a person","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create member on Pipeline","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline create member","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"create a pipeline person","expected_action_key":"pipeline-create-person","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Create Event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Event in Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create event","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"make a event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"new event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"open a event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"start a event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"create event via Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create event using Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create event with Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline create a event","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline make a event","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create meeting on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline create meeting","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"create calendar event on Pipeline","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline create calendar event","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"create a pipeline event","expected_action_key":"pipeline-create-event","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Create Deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Deal in Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create deal","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"make a deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"new deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"open a deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"start a deal on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"create deal via Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create deal using Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create deal with Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Pipeline create a deal","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"Pipeline make a deal","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create opportunity on Pipeline","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"Pipeline create opportunity","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_target"}
+{"query":"create a pipeline deal","expected_action_key":"pipeline-create-deal","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"contextual"}
+{"query":"Create Company on Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Company in Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create company","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a company on Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline create a company","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"make a company on Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline make a company","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create company via Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create company using Pipeline","expected_action_key":"pipeline-create-company","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"Create Activity on Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Create Activity in Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"Pipeline create activity","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"action_name"}
+{"query":"create a activity on Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline create a activity","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"make a activity on Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"canonical"}
+{"query":"Pipeline make a activity","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"app_first"}
+{"query":"create activity via Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}
+{"query":"create activity using Pipeline","expected_action_key":"pipeline-create-activity","expected_app_slug":"pipeline","app_name":"Pipeline","test_type":"alt_prep"}

@@ -1,0 +1,21 @@
+{"query":"Show Time Off Balance on Remote","expected_action_key":"remote-show-timeoff-balance","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"Show Time Off Balance in Remote","expected_action_key":"remote-show-timeoff-balance","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"Remote show time off balance","expected_action_key":"remote-show-timeoff-balance","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"List Employments on Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"List Employments in Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"Remote list employments","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"list all employments on Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"canonical"}
+{"query":"Remote list all employments","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"app_first"}
+{"query":"show all employments on Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"canonical"}
+{"query":"Remote show all employments","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"app_first"}
+{"query":"list employments via Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"alt_prep"}
+{"query":"list employments using Remote","expected_action_key":"remote-list-employments","expected_app_slug":"remote","app_name":"Remote","test_type":"alt_prep"}
+{"query":"Create Expense on Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"Create Expense in Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"Remote create expense","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"action_name"}
+{"query":"create a expense on Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"canonical"}
+{"query":"Remote create a expense","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"app_first"}
+{"query":"make a expense on Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"canonical"}
+{"query":"Remote make a expense","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"app_first"}
+{"query":"create expense via Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"alt_prep"}
+{"query":"create expense using Remote","expected_action_key":"remote-create-expense","expected_app_slug":"remote","app_name":"Remote","test_type":"alt_prep"}

@@ -1,0 +1,62 @@
+{"query":"Update Contact on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Update Contact in Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Drift update contact","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"update the contact on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"edit the contact on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"modify the contact on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"change the contact on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"update contact via Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"update contact using Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"update contact with Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"Drift update the contact","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"Drift edit the contact","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"update contact record on Drift","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"Drift update contact record","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"update a drift contact","expected_action_key":"drift-update-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"contextual"}
+{"query":"Get Contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Get Contact in Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Drift get contact","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"get the contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"retrieve contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"fetch contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"show me the contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"pull contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"check contact on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"get contact via Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"get contact using Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"get contact with Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"Drift get the contact","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"Drift retrieve contact","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"get contact record on Drift","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"Drift get contact record","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"get a drift contact","expected_action_key":"drift-get-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"contextual"}
+{"query":"Delete Contact on Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Delete Contact in Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Drift delete contact","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"delete the contact on Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"remove the contact on Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"destroy the contact on Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"delete contact via Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"delete contact using Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"delete contact with Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"Drift delete the contact","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"Drift remove the contact","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"delete contact record on Drift","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"Drift delete contact record","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"delete a drift contact","expected_action_key":"drift-delete-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"contextual"}
+{"query":"Create Contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Create Contact in Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"Drift create contact","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"action_name"}
+{"query":"create a contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"make a contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"new contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"open a contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"start a contact on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"canonical"}
+{"query":"create contact via Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"create contact using Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"create contact with Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_prep"}
+{"query":"Drift create a contact","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"Drift make a contact","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"app_first"}
+{"query":"create contact record on Drift","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"Drift create contact record","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"alt_target"}
+{"query":"create a drift contact","expected_action_key":"drift-create-contact","expected_app_slug":"drift","app_name":"Drift","test_type":"contextual"}

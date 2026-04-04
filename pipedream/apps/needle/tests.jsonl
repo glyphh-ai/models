@@ -1,0 +1,17 @@
+{"query":"Search Collection on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"action_name"}
+{"query":"Search Collection in Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"action_name"}
+{"query":"Needle search collection","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"action_name"}
+{"query":"search for collection on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"canonical"}
+{"query":"find collection on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"canonical"}
+{"query":"look for collection on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"canonical"}
+{"query":"locate collection on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"canonical"}
+{"query":"search for collection in Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_prep"}
+{"query":"search for collection via Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_prep"}
+{"query":"search for collection using Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_prep"}
+{"query":"search for collection with Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_prep"}
+{"query":"Needle search for collection","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"app_first"}
+{"query":"Needle find collection","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"app_first"}
+{"query":"Needle look for collection","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"app_first"}
+{"query":"search for database table on Needle","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_target"}
+{"query":"Needle search for database table","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"alt_target"}
+{"query":"search for a needle collection","expected_action_key":"needle-search-collection","expected_app_slug":"needle","app_name":"Needle","test_type":"contextual"}

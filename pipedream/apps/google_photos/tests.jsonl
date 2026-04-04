@@ -1,0 +1,72 @@
+{"query":"Upload Item on Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Upload Item in Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos upload item","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Upload Item on google_photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"upload a item on Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"upload the item on Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"upload item via Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"upload item using Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"upload item with Google Photos","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"Google Photos upload a item","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"Google Photos upload the item","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"google_photos upload item","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"upload a google photos item","expected_action_key":"google_photos-upload-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"contextual"}
+{"query":"Share Album on Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Share Album in Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos share album","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Share Album on google_photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"share the album on Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos share the album","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"share a album on Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos share a album","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"share album via Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"share album using Google Photos","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"google_photos share album","expected_action_key":"google_photos-share-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"List Library Contents on Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"List Library Contents in Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos list library contents","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"List Library Contents on google_photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"list all library contents on Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos list all library contents","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"show all library contents on Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos show all library contents","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"list library contents via Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"list library contents using Google Photos","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"google_photos list library contents","expected_action_key":"google_photos-list-library-contents","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"Get Media Item on Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Get Media Item in Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos get media item","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Get Media Item on google_photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"get the media item on Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos get the media item","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"retrieve media item on Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos retrieve media item","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"get media item via Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"get media item using Google Photos","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"google_photos get media item","expected_action_key":"google_photos-get-media-item","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"Create Album on Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Create Album in Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos create album","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Create Album on google_photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"create a album on Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos create a album","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"make a album on Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos make a album","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"create album via Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"create album using Google Photos","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"google_photos create album","expected_action_key":"google_photos-create-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"Add Items To Album on Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Add Items To Album in Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Google Photos add items to album","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"Add Items To Album on google_photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"action_name"}
+{"query":"add items album on Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos add items album","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"add a items album on Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos add a items album","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"add new items album on Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"canonical"}
+{"query":"Google Photos add new items album","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"app_first"}
+{"query":"add items album in Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"add items album via Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"add items album using Google Photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_prep"}
+{"query":"add items album on google_photos","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}
+{"query":"google_photos add items album","expected_action_key":"google_photos-add-items-to-album","expected_app_slug":"google_photos","app_name":"Google Photos","test_type":"alt_app_name"}

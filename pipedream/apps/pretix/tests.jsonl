@@ -1,0 +1,26 @@
+{"query":"Update Event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"Update Event in pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"pretix update event","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"update the event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"edit the event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"modify the event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"change the event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"update event via pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_prep"}
+{"query":"update event using pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_prep"}
+{"query":"update event with pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_prep"}
+{"query":"pretix update the event","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"app_first"}
+{"query":"pretix edit the event","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"app_first"}
+{"query":"update meeting on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_target"}
+{"query":"pretix update meeting","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_target"}
+{"query":"update calendar event on pretix","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_target"}
+{"query":"pretix update calendar event","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_target"}
+{"query":"update a pretix event","expected_action_key":"pretix-update-event","expected_app_slug":"pretix","app_name":"pretix","test_type":"contextual"}
+{"query":"Get Order Details on pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"Get Order Details in pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"pretix get order details","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"action_name"}
+{"query":"get the order details on pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"pretix get the order details","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"app_first"}
+{"query":"retrieve order details on pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"canonical"}
+{"query":"pretix retrieve order details","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"app_first"}
+{"query":"get order details via pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_prep"}
+{"query":"get order details using pretix","expected_action_key":"pretix-get-order-details","expected_app_slug":"pretix","app_name":"pretix","test_type":"alt_prep"}

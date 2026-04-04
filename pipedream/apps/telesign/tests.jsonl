@@ -1,0 +1,9 @@
+{"query":"Send SMS on TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"action_name"}
+{"query":"Send SMS in TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"action_name"}
+{"query":"TeleSign send sms","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"action_name"}
+{"query":"send a sms on TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"canonical"}
+{"query":"TeleSign send a sms","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"app_first"}
+{"query":"post a sms on TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"canonical"}
+{"query":"TeleSign post a sms","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"app_first"}
+{"query":"send sms via TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"alt_prep"}
+{"query":"send sms using TeleSign","expected_action_key":"telesign-send-sms","expected_app_slug":"telesign","app_name":"TeleSign","test_type":"alt_prep"}

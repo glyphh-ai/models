@@ -1,0 +1,34 @@
+{"query":"Send message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"Send message in Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"Sendbird send message","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"send a message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"post a message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"send out message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"fire off message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"send message via Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"send message using Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"send message with Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"Sendbird send a message","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"app_first"}
+{"query":"Sendbird post a message","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"app_first"}
+{"query":"send msg on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"Sendbird send msg","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"send chat message on Sendbird","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"Sendbird send chat message","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"send a sendbird message","expected_action_key":"sendbird-send-message","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"contextual"}
+{"query":"List messages on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"List messages in Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"Sendbird list messages","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"action_name"}
+{"query":"list all messages on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"show all messages on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"get all messages on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"show me all messages on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"canonical"}
+{"query":"list messages via Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"list messages using Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"list messages with Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_prep"}
+{"query":"Sendbird list all messages","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"app_first"}
+{"query":"Sendbird show all messages","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"app_first"}
+{"query":"list msg on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"Sendbird list msg","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"list chat message on Sendbird","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"Sendbird list chat message","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"alt_target"}
+{"query":"list a sendbird messages","expected_action_key":"sendbird-list-messages","expected_app_slug":"sendbird","app_name":"Sendbird","test_type":"contextual"}

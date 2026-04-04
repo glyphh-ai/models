@@ -1,0 +1,43 @@
+{"query":"Send SMS on SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Send SMS in SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"SMS Fusion send sms","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Send SMS on sms_fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"send a sms on SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"SMS Fusion send a sms","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"post a sms on SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"SMS Fusion post a sms","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"send sms via SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"send sms using SMS Fusion","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"sms_fusion send sms","expected_action_key":"sms_fusion-send-sms","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_app_name"}
+{"query":"Perform HLR Lookup on SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Perform HLR Lookup in SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"SMS Fusion perform hlr lookup","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Perform HLR Lookup on sms_fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"get hlr lookup on SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"SMS Fusion get hlr lookup","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"get the hlr lookup on SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"SMS Fusion get the hlr lookup","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"retrieve hlr lookup on SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"SMS Fusion retrieve hlr lookup","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"get hlr lookup in SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"get hlr lookup via SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"get hlr lookup using SMS Fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"get hlr lookup on sms_fusion","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_app_name"}
+{"query":"sms_fusion get hlr lookup","expected_action_key":"sms_fusion-perform-hlr-lookup","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_app_name"}
+{"query":"Get Balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Get Balance in SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"SMS Fusion get balance","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"Get Balance on sms_fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"action_name"}
+{"query":"get the balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"retrieve balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"fetch balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"show me the balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"pull balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"check balance on SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"canonical"}
+{"query":"get balance via SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"get balance using SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"get balance with SMS Fusion","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_prep"}
+{"query":"SMS Fusion get the balance","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"SMS Fusion retrieve balance","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"app_first"}
+{"query":"sms_fusion get balance","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"alt_app_name"}
+{"query":"get a sms fusion balance","expected_action_key":"sms_fusion-get-balance","expected_app_slug":"sms_fusion","app_name":"SMS Fusion","test_type":"contextual"}

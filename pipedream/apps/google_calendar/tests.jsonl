@@ -1,0 +1,211 @@
+{"query":"Update Following Event Instances on Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Following Event Instances in Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar update following event instances","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Following Event Instances on google_calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"update the following event instances on Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar update the following event instances","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"edit the following event instances on Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar edit the following event instances","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"update following event instances via Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"update following event instances using Google Calendar","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar update following event instances","expected_action_key":"google_calendar-update-following-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"List Events on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Events in Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar list events","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Events on google_calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"list all events on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"show all events on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"get all events on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"show me all events on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"list events via Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"list events using Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"list events with Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"Google Calendar list all events","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"Google Calendar show all events","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"list meeting on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar list meeting","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"list calendar event on Google Calendar","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar list calendar event","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"google_calendar list events","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"list a google calendar events","expected_action_key":"google_calendar-list-events","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"contextual"}
+{"query":"Update Event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Event in Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar update event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Event on google_calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"update the event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"edit the event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"modify the event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"change the event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"update event via Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"update event using Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"update event with Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"Google Calendar update the event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"Google Calendar edit the event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"update meeting on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar update meeting","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"update calendar event on Google Calendar","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar update calendar event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"google_calendar update event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"update a google calendar event","expected_action_key":"google_calendar-update-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"contextual"}
+{"query":"Update Event Instance on Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Event Instance in Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar update event instance","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Update Event Instance on google_calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"update the event instance on Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar update the event instance","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"edit the event instance on Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar edit the event instance","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"update event instance via Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"update event instance using Google Calendar","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar update event instance","expected_action_key":"google_calendar-update-event-instance","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Create Event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Create Event in Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar create event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Create Event on google_calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"create a event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"make a event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"new event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"open a event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"start a event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"create event via Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"create event using Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"create event with Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"Google Calendar create a event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"Google Calendar make a event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"create meeting on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar create meeting","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"create calendar event on Google Calendar","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar create calendar event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"google_calendar create event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"create a google calendar event","expected_action_key":"google_calendar-create-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"contextual"}
+{"query":"Retrieve Free/Busy Calendar Details on Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Free/Busy Calendar Details in Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar retrieve free/busy calendar details","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Free/Busy Calendar Details on google_calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"get free/busy calendar details on Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get free/busy calendar details","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get the free/busy calendar details on Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get the free/busy calendar details","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get free/busy calendar details in Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get free/busy calendar details via Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get free/busy calendar details using Google Calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get free/busy calendar details on google_calendar","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"google_calendar get free/busy calendar details","expected_action_key":"google_calendar-query-free-busy-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"List Event Instances on Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Event Instances in Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar list event instances","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Event Instances on google_calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"list all event instances on Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar list all event instances","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"show all event instances on Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar show all event instances","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"list event instances via Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"list event instances using Google Calendar","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar list event instances","expected_action_key":"google_calendar-list-event-instances","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Add Quick Event on Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Add Quick Event in Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar add quick event","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Add Quick Event on google_calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"add a quick event on Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar add a quick event","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"add new quick event on Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar add new quick event","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"add quick event via Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"add quick event using Google Calendar","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar add quick event","expected_action_key":"google_calendar-quick-add-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Add Attendees To Event on Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Add Attendees To Event in Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar add attendees to event","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Add Attendees To Event on google_calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"add attendees event on Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar add attendees event","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"add a attendees event on Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar add a attendees event","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"add new attendees event on Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar add new attendees event","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"add attendees event in Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"add attendees event via Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"add attendees event using Google Calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"add attendees event on google_calendar","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"google_calendar add attendees event","expected_action_key":"google_calendar-add-attendees-to-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Get Date Time on Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Get Date Time in Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar get date time","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Get Date Time on google_calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"get the date time on Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get the date time","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"retrieve date time on Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar retrieve date time","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get date time via Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get date time using Google Calendar","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar get date time","expected_action_key":"google_calendar-get-date-time","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"List Calendars on Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Calendars in Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar list calendars","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"List Calendars on google_calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"list all calendars on Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar list all calendars","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"show all calendars on Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar show all calendars","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"list calendars via Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"list calendars using Google Calendar","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar list calendars","expected_action_key":"google_calendar-list-calendars","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Retrieve Event Details on Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Event Details in Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar retrieve event details","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Event Details on google_calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"get event details on Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get event details","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get the event details on Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get the event details","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get event details in Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get event details via Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get event details using Google Calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get event details on google_calendar","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"google_calendar get event details","expected_action_key":"google_calendar-get-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Get Current User on Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Get Current User in Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar get current user","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Get Current User on google_calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"get the current user on Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get the current user","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"retrieve current user on Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar retrieve current user","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get current user via Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get current user using Google Calendar","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"google_calendar get current user","expected_action_key":"google_calendar-get-current-user","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Retrieve Calendar Details on Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Calendar Details in Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar retrieve calendar details","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Retrieve Calendar Details on google_calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"get calendar details on Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get calendar details","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get the calendar details on Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"Google Calendar get the calendar details","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"get calendar details in Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get calendar details via Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get calendar details using Google Calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"get calendar details on google_calendar","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"google_calendar get calendar details","expected_action_key":"google_calendar-get-calendar","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"Delete an Event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Delete an Event in Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Google Calendar delete an event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"Delete an Event on google_calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"action_name"}
+{"query":"delete event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"delete the event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"remove the event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"destroy the event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"canonical"}
+{"query":"delete event in Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"delete event via Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"delete event using Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"delete event with Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_prep"}
+{"query":"Google Calendar delete event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"Google Calendar delete the event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"Google Calendar remove the event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"app_first"}
+{"query":"delete meeting on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar delete meeting","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"delete calendar event on Google Calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"Google Calendar delete calendar event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_target"}
+{"query":"delete event on google_calendar","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"google_calendar delete event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"alt_app_name"}
+{"query":"delete a google calendar event","expected_action_key":"google_calendar-delete-event","expected_app_slug":"google_calendar","app_name":"Google Calendar","test_type":"contextual"}

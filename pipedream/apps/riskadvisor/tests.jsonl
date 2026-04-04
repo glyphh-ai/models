@@ -1,0 +1,40 @@
+{"query":"Update Client on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"Update Client in RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"RiskAdvisor update client","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"update the client on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"edit the client on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"modify the client on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"change the client on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"update client via RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"update client using RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"update client with RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"RiskAdvisor update the client","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"RiskAdvisor edit the client","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"update account on RiskAdvisor","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_target"}
+{"query":"RiskAdvisor update account","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_target"}
+{"query":"update a riskadvisor client","expected_action_key":"riskadvisor-update-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"contextual"}
+{"query":"Create Risk Profile on RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"Create Risk Profile in RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"RiskAdvisor create risk profile","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"create a risk profile on RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"RiskAdvisor create a risk profile","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"make a risk profile on RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"RiskAdvisor make a risk profile","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"create risk profile via RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"create risk profile using RiskAdvisor","expected_action_key":"riskadvisor-create-risk-profile","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"Create Client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"Create Client in RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"RiskAdvisor create client","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"action_name"}
+{"query":"create a client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"make a client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"new client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"open a client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"start a client on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"canonical"}
+{"query":"create client via RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"create client using RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"create client with RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_prep"}
+{"query":"RiskAdvisor create a client","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"RiskAdvisor make a client","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"app_first"}
+{"query":"create account on RiskAdvisor","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_target"}
+{"query":"RiskAdvisor create account","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"alt_target"}
+{"query":"create a riskadvisor client","expected_action_key":"riskadvisor-create-client","expected_app_slug":"riskadvisor","app_name":"RiskAdvisor","test_type":"contextual"}

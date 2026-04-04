@@ -1,0 +1,48 @@
+{"query":"Create Chat Session on Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chat Session in Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Gpt Trainer create chat session","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chat Session on gpt-trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chat Session on gpt_trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"create a chat session on Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"Gpt Trainer create a chat session","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"make a chat session on Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"Gpt Trainer make a chat session","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"create chat session via Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"create chat session using Gpt Trainer","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"gpt-trainer create chat session","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}
+{"query":"gpt_trainer create chat session","expected_action_key":"gpt_trainer-create-session","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}
+{"query":"Create Message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Message in Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Gpt Trainer create message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Message on gpt-trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Message on gpt_trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"create a message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"make a message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"new message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"open a message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"start a message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"create message via Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"create message using Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"create message with Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"Gpt Trainer create a message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"Gpt Trainer make a message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"create msg on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_target"}
+{"query":"Gpt Trainer create msg","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_target"}
+{"query":"create chat message on Gpt Trainer","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_target"}
+{"query":"Gpt Trainer create chat message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_target"}
+{"query":"gpt-trainer create message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}
+{"query":"gpt_trainer create message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}
+{"query":"create a gpt trainer message","expected_action_key":"gpt_trainer-create-message","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"contextual"}
+{"query":"Create Chatbot on Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chatbot in Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Gpt Trainer create chatbot","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chatbot on gpt-trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"Create Chatbot on gpt_trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"action_name"}
+{"query":"create a chatbot on Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"Gpt Trainer create a chatbot","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"make a chatbot on Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"canonical"}
+{"query":"Gpt Trainer make a chatbot","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"app_first"}
+{"query":"create chatbot via Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"create chatbot using Gpt Trainer","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_prep"}
+{"query":"gpt-trainer create chatbot","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}
+{"query":"gpt_trainer create chatbot","expected_action_key":"gpt_trainer-create-chatbot","expected_app_slug":"gpt_trainer","app_name":"gpt-trainer","test_type":"alt_app_name"}

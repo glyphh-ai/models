@@ -1,0 +1,9 @@
+{"query":"Send Query on Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"action_name"}
+{"query":"Send Query in Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"action_name"}
+{"query":"Tavily send query","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"action_name"}
+{"query":"send a query on Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"canonical"}
+{"query":"Tavily send a query","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"app_first"}
+{"query":"post a query on Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"canonical"}
+{"query":"Tavily post a query","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"app_first"}
+{"query":"send query via Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"alt_prep"}
+{"query":"send query using Tavily","expected_action_key":"tavily-send-query","expected_app_slug":"tavily","app_name":"Tavily","test_type":"alt_prep"}

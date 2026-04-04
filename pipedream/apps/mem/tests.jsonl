@@ -1,0 +1,12 @@
+{"query":"Create Mem on Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}
+{"query":"Create Mem in Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}
+{"query":"Mem create mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}
+{"query":"create a mem on Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"canonical"}
+{"query":"Mem create a mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"app_first"}
+{"query":"make a mem on Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"canonical"}
+{"query":"Mem make a mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"app_first"}
+{"query":"create mem via Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"alt_prep"}
+{"query":"create mem using Mem","expected_action_key":"mem-create-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"alt_prep"}
+{"query":"Append Mem on Mem","expected_action_key":"mem-append-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}
+{"query":"Append Mem in Mem","expected_action_key":"mem-append-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}
+{"query":"Mem append mem","expected_action_key":"mem-append-mem","expected_app_slug":"mem","app_name":"Mem","test_type":"action_name"}

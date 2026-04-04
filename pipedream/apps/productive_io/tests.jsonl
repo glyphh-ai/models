@@ -1,0 +1,53 @@
+{"query":"Create Task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Task in Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Productive Io create task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Task on productive.io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Task on productive_io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"create a task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"make a task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"new task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"open a task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"start a task on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"create task via Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"create task using Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"create task with Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"Productive Io create a task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"Productive Io make a task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"create story on Productive Io","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_target"}
+{"query":"Productive Io create story","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_target"}
+{"query":"productive.io create task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}
+{"query":"productive_io create task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}
+{"query":"create a productive io task","expected_action_key":"productive_io-create-task","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"contextual"}
+{"query":"Create Contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Contact in Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Productive Io create contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Contact on productive.io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Contact on productive_io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"create a contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"make a contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"new contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"open a contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"start a contact on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"create contact via Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"create contact using Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"create contact with Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"Productive Io create a contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"Productive Io make a contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"create contact record on Productive Io","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_target"}
+{"query":"Productive Io create contact record","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_target"}
+{"query":"productive.io create contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}
+{"query":"productive_io create contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}
+{"query":"create a productive io contact","expected_action_key":"productive_io-create-contact","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"contextual"}
+{"query":"Create Booking on Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Booking in Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Productive Io create booking","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Booking on productive.io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"Create Booking on productive_io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"action_name"}
+{"query":"create a booking on Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"Productive Io create a booking","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"make a booking on Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"canonical"}
+{"query":"Productive Io make a booking","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"app_first"}
+{"query":"create booking via Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"create booking using Productive Io","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_prep"}
+{"query":"productive.io create booking","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}
+{"query":"productive_io create booking","expected_action_key":"productive_io-create-booking","expected_app_slug":"productive_io","app_name":"Productive.io","test_type":"alt_app_name"}

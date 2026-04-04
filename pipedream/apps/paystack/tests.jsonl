@@ -1,0 +1,229 @@
+{"query":"Verify Transaction on Paystack","expected_action_key":"paystack-verify-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Verify Transaction in Paystack","expected_action_key":"paystack-verify-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack verify transaction","expected_action_key":"paystack-verify-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Validate Customer on Paystack","expected_action_key":"paystack-validate-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Validate Customer in Paystack","expected_action_key":"paystack-validate-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack validate customer","expected_action_key":"paystack-validate-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Update Virtual Terminal on Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Update Virtual Terminal in Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack update virtual terminal","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"update the virtual terminal on Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack update the virtual terminal","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"edit the virtual terminal on Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack edit the virtual terminal","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"update virtual terminal via Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"update virtual terminal using Paystack","expected_action_key":"paystack-update-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Update Customer on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Update Customer in Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack update customer","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"update the customer on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"edit the customer on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"modify the customer on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"change the customer on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"update customer via Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"update customer using Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"update customer with Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Paystack update the customer","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"Paystack edit the customer","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"update account on Paystack","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"Paystack update account","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"update a paystack customer","expected_action_key":"paystack-update-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"contextual"}
+{"query":"Unassign Destination from Virtual Terminal on Paystack","expected_action_key":"paystack-unassign-destination-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Unassign Destination from Virtual Terminal in Paystack","expected_action_key":"paystack-unassign-destination-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack unassign destination from virtual terminal","expected_action_key":"paystack-unassign-destination-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Set Customer Risk Action on Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Set Customer Risk Action in Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack set customer risk action","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"set the customer risk action on Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack set the customer risk action","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"configure the customer risk action on Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack configure the customer risk action","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"set customer risk action via Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"set customer risk action using Paystack","expected_action_key":"paystack-set-customer-risk-action","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Remove Split Code from Virtual Terminal on Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Remove Split Code from Virtual Terminal in Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack remove split code from virtual terminal","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"remove split code virtual terminal on Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack remove split code virtual terminal","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"remove the split code virtual terminal on Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack remove the split code virtual terminal","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"take out split code virtual terminal on Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack take out split code virtual terminal","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"remove split code virtual terminal in Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"remove split code virtual terminal via Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"remove split code virtual terminal using Paystack","expected_action_key":"paystack-remove-split-code-from-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"List Virtual Terminals on Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"List Virtual Terminals in Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack list virtual terminals","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"list all virtual terminals on Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack list all virtual terminals","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"show all virtual terminals on Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack show all virtual terminals","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"list virtual terminals via Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"list virtual terminals using Paystack","expected_action_key":"paystack-list-virtual-terminals","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"List Transactions on Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"List Transactions in Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack list transactions","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"list all transactions on Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack list all transactions","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"show all transactions on Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack show all transactions","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"list transactions via Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"list transactions using Paystack","expected_action_key":"paystack-list-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"List Customers on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"List Customers in Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack list customers","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"list all customers on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"show all customers on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"get all customers on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"show me all customers on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"list customers via Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"list customers using Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"list customers with Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Paystack list all customers","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"Paystack show all customers","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"list account on Paystack","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"Paystack list account","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"list a paystack customers","expected_action_key":"paystack-list-customers","expected_app_slug":"paystack","app_name":"Paystack","test_type":"contextual"}
+{"query":"Initialize Transaction on Paystack","expected_action_key":"paystack-initialize-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Initialize Transaction in Paystack","expected_action_key":"paystack-initialize-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack initialize transaction","expected_action_key":"paystack-initialize-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Initialize Direct Debit on Paystack","expected_action_key":"paystack-initialize-direct-debit","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Initialize Direct Debit in Paystack","expected_action_key":"paystack-initialize-direct-debit","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack initialize direct debit","expected_action_key":"paystack-initialize-direct-debit","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Fetch Virtual Terminal on Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Fetch Virtual Terminal in Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack fetch virtual terminal","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"get virtual terminal on Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get virtual terminal","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get the virtual terminal on Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get the virtual terminal","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"retrieve virtual terminal on Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack retrieve virtual terminal","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get virtual terminal in Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get virtual terminal via Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get virtual terminal using Paystack","expected_action_key":"paystack-fetch-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Fetch Transaction on Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Fetch Transaction in Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack fetch transaction","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"get transaction on Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get transaction","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get the transaction on Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get the transaction","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"retrieve transaction on Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack retrieve transaction","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get transaction in Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get transaction via Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get transaction using Paystack","expected_action_key":"paystack-fetch-transaction","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Fetch Mandate Authorizations on Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Fetch Mandate Authorizations in Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack fetch mandate authorizations","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"get mandate authorizations on Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get mandate authorizations","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get the mandate authorizations on Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack get the mandate authorizations","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"retrieve mandate authorizations on Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack retrieve mandate authorizations","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get mandate authorizations in Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get mandate authorizations via Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get mandate authorizations using Paystack","expected_action_key":"paystack-fetch-mandate-authorizations","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Fetch Customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Fetch Customer in Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack fetch customer","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"get customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"get the customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"retrieve customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"show me the customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"pull customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"check customer on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"get customer in Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get customer via Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get customer using Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"get customer with Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Paystack get customer","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"Paystack get the customer","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"Paystack retrieve customer","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"get account on Paystack","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"Paystack get account","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"get a paystack customer","expected_action_key":"paystack-fetch-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"contextual"}
+{"query":"Export Transactions on Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Export Transactions in Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack export transactions","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"export the transactions on Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack export the transactions","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"download transactions on Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack download transactions","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"export transactions via Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"export transactions using Paystack","expected_action_key":"paystack-export-transactions","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Direct Debit Activation Charge on Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Direct Debit Activation Charge in Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack direct debit activation charge","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"charge debit activation charge on Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack charge debit activation charge","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"charge the debit activation charge on Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack charge the debit activation charge","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"charge debit activation charge in Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"charge debit activation charge via Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"charge debit activation charge using Paystack","expected_action_key":"paystack-direct-debit-activation-charge","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Deactivate Virtual Terminal on Paystack","expected_action_key":"paystack-deactivate-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Deactivate Virtual Terminal in Paystack","expected_action_key":"paystack-deactivate-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack deactivate virtual terminal","expected_action_key":"paystack-deactivate-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Deactivate Authorization on Paystack","expected_action_key":"paystack-deactivate-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Deactivate Authorization in Paystack","expected_action_key":"paystack-deactivate-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack deactivate authorization","expected_action_key":"paystack-deactivate-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Create Virtual Terminal on Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Create Virtual Terminal in Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack create virtual terminal","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"create a virtual terminal on Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack create a virtual terminal","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"make a virtual terminal on Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack make a virtual terminal","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"create virtual terminal via Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"create virtual terminal using Paystack","expected_action_key":"paystack-create-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Create Customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Create Customer in Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack create customer","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"create a customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"make a customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"new customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"open a customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"start a customer on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"create customer via Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"create customer using Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"create customer with Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Paystack create a customer","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"Paystack make a customer","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"create account on Paystack","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"Paystack create account","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_target"}
+{"query":"create a paystack customer","expected_action_key":"paystack-create-customer","expected_app_slug":"paystack","app_name":"Paystack","test_type":"contextual"}
+{"query":"Charge Authorization on Paystack","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Charge Authorization in Paystack","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack charge authorization","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"charge the authorization on Paystack","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack charge the authorization","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"charge authorization via Paystack","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"charge authorization using Paystack","expected_action_key":"paystack-charge-authorization","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Assign Destination to Virtual Terminal on Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Assign Destination to Virtual Terminal in Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack assign destination to virtual terminal","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"assign destination virtual terminal on Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack assign destination virtual terminal","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"assign the destination virtual terminal on Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack assign the destination virtual terminal","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"assign a destination virtual terminal on Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack assign a destination virtual terminal","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"assign destination virtual terminal in Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"assign destination virtual terminal via Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"assign destination virtual terminal using Paystack","expected_action_key":"paystack-assign-destination-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"Add Split Code to Virtual Terminal on Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Add Split Code to Virtual Terminal in Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"Paystack add split code to virtual terminal","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"action_name"}
+{"query":"add split code virtual terminal on Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack add split code virtual terminal","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"add a split code virtual terminal on Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack add a split code virtual terminal","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"add new split code virtual terminal on Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"canonical"}
+{"query":"Paystack add new split code virtual terminal","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"app_first"}
+{"query":"add split code virtual terminal in Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"add split code virtual terminal via Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}
+{"query":"add split code virtual terminal using Paystack","expected_action_key":"paystack-add-split-code-to-virtual-terminal","expected_app_slug":"paystack","app_name":"Paystack","test_type":"alt_prep"}

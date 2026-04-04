@@ -1,0 +1,42 @@
+{"query":"Update Issue. on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"Update Issue. in Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"Sentry update issue.","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"update the issue. on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"edit the issue. on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"modify the issue. on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"change the issue. on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"update issue. via Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"update issue. using Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"update issue. with Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"Sentry update the issue.","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"Sentry edit the issue.","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"update issue on Sentry","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_target"}
+{"query":"Sentry update issue","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_target"}
+{"query":"update a sentry issue.","expected_action_key":"sentry-update-issue","expected_app_slug":"sentry","app_name":"Sentry","test_type":"contextual"}
+{"query":"List Project Issues. on Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"List Project Issues. in Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"Sentry list project issues.","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"list all project issues. on Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry list all project issues.","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"show all project issues. on Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry show all project issues.","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"list project issues. via Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"list project issues. using Sentry","expected_action_key":"sentry-list-project-issues","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"List Project Events. on Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"List Project Events. in Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"Sentry list project events.","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"list all project events. on Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry list all project events.","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"show all project events. on Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry show all project events.","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"list project events. via Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"list project events. using Sentry","expected_action_key":"sentry-list-project-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"List Issue Events on Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"List Issue Events in Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"Sentry list issue events","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"action_name"}
+{"query":"list all issue events on Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry list all issue events","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"show all issue events on Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"canonical"}
+{"query":"Sentry show all issue events","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"app_first"}
+{"query":"list issue events via Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}
+{"query":"list issue events using Sentry","expected_action_key":"sentry-list-issue-events","expected_app_slug":"sentry","app_name":"Sentry","test_type":"alt_prep"}

@@ -1,0 +1,27 @@
+{"query":"List Models on Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"List Models in Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"Cerebras list models","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"list all models on Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras list all models","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"show all models on Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras show all models","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"list models via Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}
+{"query":"list models using Cerebras","expected_action_key":"cerebras-list-models","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}
+{"query":"Create Completion on Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"Create Completion in Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"Cerebras create completion","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"create a completion on Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras create a completion","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"make a completion on Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras make a completion","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"create completion via Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}
+{"query":"create completion using Cerebras","expected_action_key":"cerebras-create-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}
+{"query":"Create Chat Completion on Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"Create Chat Completion in Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"Cerebras create chat completion","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"action_name"}
+{"query":"create a chat completion on Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras create a chat completion","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"make a chat completion on Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"canonical"}
+{"query":"Cerebras make a chat completion","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"app_first"}
+{"query":"create chat completion via Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}
+{"query":"create chat completion using Cerebras","expected_action_key":"cerebras-create-chat-completion","expected_app_slug":"cerebras","app_name":"Cerebras","test_type":"alt_prep"}

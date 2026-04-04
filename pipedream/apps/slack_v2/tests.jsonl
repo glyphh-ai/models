@@ -1,0 +1,473 @@
+{"query":"Verify Slack Signature on Slack V2","expected_action_key":"slack_v2-verify-slack-signature","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Verify Slack Signature in Slack V2","expected_action_key":"slack_v2-verify-slack-signature","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 verify slack signature","expected_action_key":"slack_v2-verify-slack-signature","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Verify Slack Signature on slack_v2","expected_action_key":"slack_v2-verify-slack-signature","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Upload File on Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Upload File in Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 upload file","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Upload File on slack_v2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"upload a file on Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"upload the file on Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"upload file via Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"upload file using Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"upload file with Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 upload a file","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 upload the file","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"upload document on Slack V2","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 upload document","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 upload file","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"upload a slack v2 file","expected_action_key":"slack_v2-upload-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Update Profile on Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Profile in Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 update profile","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Profile on slack_v2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"update the profile on Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 update the profile","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"edit the profile on Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 edit the profile","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"update profile via Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"update profile using Slack V2","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 update profile","expected_action_key":"slack_v2-update-profile","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Update Message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Message in Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 update message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Message on slack_v2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"update the message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"edit the message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"modify the message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"change the message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"update message via Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"update message using Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"update message with Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 update the message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 edit the message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"update msg on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 update msg","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"update chat message on Slack V2","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 update chat message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 update message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"update a slack v2 message","expected_action_key":"slack_v2-update-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Update Group Members on Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Group Members in Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 update group members","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Update Group Members on slack_v2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"update the group members on Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 update the group members","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"edit the group members on Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 edit the group members","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"update group members via Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"update group members using Slack V2","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 update group members","expected_action_key":"slack_v2-update-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Set Status on Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Status in Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 set status","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Status on slack_v2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"set the status on Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"configure the status on Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"configure status on Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"set status via Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"set status using Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"set status with Slack V2","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 set the status","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 configure the status","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"slack_v2 set status","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"set a slack v2 status","expected_action_key":"slack_v2-set-status","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Set Channel Topic on Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Channel Topic in Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 set channel topic","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Channel Topic on slack_v2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"set the channel topic on Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 set the channel topic","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"configure the channel topic on Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 configure the channel topic","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"set channel topic via Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"set channel topic using Slack V2","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 set channel topic","expected_action_key":"slack_v2-set-channel-topic","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Set Channel Description on Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Channel Description in Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 set channel description","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Set Channel Description on slack_v2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"set the channel description on Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 set the channel description","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"configure the channel description on Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 configure the channel description","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"set channel description via Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"set channel description using Slack V2","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 set channel description","expected_action_key":"slack_v2-set-channel-description","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Send Message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message in Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 send message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message on slack_v2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"send a message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"post a message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"send out message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"fire off message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"send message via Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message using Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message with Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 send a message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 post a message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"send msg on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 send msg","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"send chat message on Slack V2","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 send chat message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 send message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"send a slack v2 message","expected_action_key":"slack_v2-send-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Send Message to User or Group on Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message to User or Group in Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 send message to user or group","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message to User or Group on slack_v2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"send message user or group on Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 send message user or group","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"send a message user or group on Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 send a message user or group","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"post a message user or group on Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 post a message user or group","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"send message user or group in Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message user or group via Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message user or group using Slack V2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message user or group on slack_v2","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 send message user or group","expected_action_key":"slack_v2-send-message-to-user-or-group","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Send Message to Channel on Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message to Channel in Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 send message to channel","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Send Message to Channel on slack_v2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"send message channel on Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 send message channel","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"send a message channel on Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 send a message channel","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"post a message channel on Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 post a message channel","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"send message channel in Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message channel via Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message channel using Slack V2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"send message channel on slack_v2","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 send message channel","expected_action_key":"slack_v2-send-message-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Reply to a Message Thread on Slack V2","expected_action_key":"slack_v2-reply-to-a-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Reply to a Message Thread in Slack V2","expected_action_key":"slack_v2-reply-to-a-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 reply to a message thread","expected_action_key":"slack_v2-reply-to-a-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Reply to a Message Thread on slack_v2","expected_action_key":"slack_v2-reply-to-a-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Users on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Users in Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list users","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Users on slack_v2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all users on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show all users on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get all users on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me all users on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"list users via Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list users using Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list users with Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 list all users","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 show all users","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list member on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 list member","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"list person on Slack V2","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 list person","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 list users","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"list a slack v2 users","expected_action_key":"slack_v2-list-users","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"List Replies on Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Replies in Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list replies","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Replies on slack_v2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all replies on Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 list all replies","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"show all replies on Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 show all replies","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list replies via Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list replies using Slack V2","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 list replies","expected_action_key":"slack_v2-list-replies","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"List Messages on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Messages in Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list messages","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Messages on slack_v2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all messages on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show all messages on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get all messages on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me all messages on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"list messages via Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list messages using Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list messages with Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 list all messages","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 show all messages","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list msg on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 list msg","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"list chat message on Slack V2","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 list chat message","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 list messages","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"list a slack v2 messages","expected_action_key":"slack_v2-list-messages","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"List Members in Channel on Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Members in Channel in Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list members in channel","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Members in Channel on slack_v2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list members channel on Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 list members channel","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list all members channel on Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 list all members channel","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"show all members channel on Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 show all members channel","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list members channel in Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list members channel via Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list members channel using Slack V2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list members channel on slack_v2","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 list members channel","expected_action_key":"slack_v2-list-members-in-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"List Group Members on Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Group Members in Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list group members","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Group Members on slack_v2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all group members on Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 list all group members","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"show all group members on Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 show all group members","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list group members via Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list group members using Slack V2","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 list group members","expected_action_key":"slack_v2-list-group-members","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"List Files on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Files in Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list files","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Files on slack_v2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all files on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show all files on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get all files on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me all files on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"list files via Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list files using Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list files with Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 list all files","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 show all files","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"list document on Slack V2","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 list document","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 list files","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"list a slack v2 files","expected_action_key":"slack_v2-list-files","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"List Emojis on Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Emojis in Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list emojis","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Emojis on slack_v2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all emojis on Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show all emojis on Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get all emojis on Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me all emojis on Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"list emojis via Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list emojis using Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list emojis with Slack V2","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 list all emojis","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 show all emojis","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"slack_v2 list emojis","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"list a slack v2 emojis","expected_action_key":"slack_v2-list-emojis","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"List Channels on Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Channels in Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 list channels","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"List Channels on slack_v2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"list all channels on Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show all channels on Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get all channels on Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me all channels on Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"list channels via Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list channels using Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"list channels with Slack V2","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 list all channels","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 show all channels","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"slack_v2 list channels","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"list a slack v2 channels","expected_action_key":"slack_v2-list-channels","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Kick User on Slack V2","expected_action_key":"slack_v2-kick-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Kick User in Slack V2","expected_action_key":"slack_v2-kick-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 kick user","expected_action_key":"slack_v2-kick-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Kick User on slack_v2","expected_action_key":"slack_v2-kick-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Invite User to Channel on Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Invite User to Channel in Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 invite user to channel","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Invite User to Channel on slack_v2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"invite user channel on Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 invite user channel","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"invite a user channel on Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 invite a user channel","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"invite the user channel on Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 invite the user channel","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"invite user channel in Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"invite user channel via Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"invite user channel using Slack V2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"invite user channel on slack_v2","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 invite user channel","expected_action_key":"slack_v2-invite-user-to-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Get File on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get File in Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 get file","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get File on slack_v2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"get the file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"retrieve file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"fetch file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"show me the file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"pull file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"check file on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"get file via Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"get file using Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"get file with Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 get the file","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 retrieve file","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"get document on Slack V2","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 get document","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 get file","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"get a slack v2 file","expected_action_key":"slack_v2-get-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Get Current User on Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get Current User in Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 get current user","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get Current User on slack_v2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"get the current user on Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 get the current user","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"retrieve current user on Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 retrieve current user","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"get current user via Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"get current user using Slack V2","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 get current user","expected_action_key":"slack_v2-get-current-user","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Get Channel Details on Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get Channel Details in Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 get channel details","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Get Channel Details on slack_v2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"get the channel details on Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 get the channel details","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"retrieve channel details on Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 retrieve channel details","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"get channel details via Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"get channel details using Slack V2","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 get channel details","expected_action_key":"slack_v2-get-channel-details","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Find User by ID on Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find User by ID in Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 find user by id","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find User by ID on slack_v2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"search for user id on Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 search for user id","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"find user id on Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 find user id","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"look for user id on Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 look for user id","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"search for user id in Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user id via Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user id using Slack V2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user id on slack_v2","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 search for user id","expected_action_key":"slack_v2-find-user-by-id","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Find User by Email on Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find User by Email in Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 find user by email","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find User by Email on slack_v2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"search for user email on Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 search for user email","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"find user email on Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 find user email","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"look for user email on Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 look for user email","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"search for user email in Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user email via Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user email using Slack V2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for user email on slack_v2","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 search for user email","expected_action_key":"slack_v2-find-user-by-email","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Find Message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find Message in Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 find message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Find Message on slack_v2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"search for message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"look for message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"search message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"locate message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"search for message in Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for message via Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for message using Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"search for message with Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 search for message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 look for message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"search for msg on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 search for msg","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"search for chat message on Slack V2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 search for chat message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"search for message on slack_v2","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 search for message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"search for a slack v2 message","expected_action_key":"slack_v2-find-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Delete Message on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Delete Message in Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 delete message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Delete Message on slack_v2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"delete the message on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"remove the message on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"destroy the message on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"delete message via Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"delete message using Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"delete message with Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 delete the message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 remove the message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"delete msg on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 delete msg","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"delete chat message on Slack V2","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 delete chat message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 delete message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"delete a slack v2 message","expected_action_key":"slack_v2-delete-message","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Delete File on Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Delete File in Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 delete file","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Delete File on slack_v2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"delete the file on Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"remove the file on Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"destroy the file on Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"delete file via Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"delete file using Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"delete file with Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 delete the file","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 remove the file","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"delete document on Slack V2","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"Slack V2 delete document","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_target"}
+{"query":"slack_v2 delete file","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"delete a slack v2 file","expected_action_key":"slack_v2-delete-file","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Create Reminder on Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Create Reminder in Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 create reminder","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Create Reminder on slack_v2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"create a reminder on Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 create a reminder","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"make a reminder on Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 make a reminder","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"create reminder via Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"create reminder using Slack V2","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 create reminder","expected_action_key":"slack_v2-create-reminder","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"Create a Channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Create a Channel in Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 create a channel","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Create a Channel on slack_v2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"create channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"make a channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"new channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"open a channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"start a channel on Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"create channel in Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"create channel via Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"create channel using Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"create channel with Slack V2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 create channel","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 make a channel","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"create channel on slack_v2","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"slack_v2 create channel","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"create a slack v2 channel","expected_action_key":"slack_v2-create-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Archive Channel on Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Archive Channel in Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 archive channel","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Archive Channel on slack_v2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"archive the channel on Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"close the channel on Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"archive channel via Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"archive channel using Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"archive channel with Slack V2","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"Slack V2 archive the channel","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"Slack V2 close the channel","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"slack_v2 archive channel","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}
+{"query":"archive a slack v2 channel","expected_action_key":"slack_v2-archive-channel","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"contextual"}
+{"query":"Approve Workflow on Slack V2","expected_action_key":"slack_v2-approve-workflow","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Approve Workflow in Slack V2","expected_action_key":"slack_v2-approve-workflow","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 approve workflow","expected_action_key":"slack_v2-approve-workflow","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Approve Workflow on slack_v2","expected_action_key":"slack_v2-approve-workflow","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Add Emoji Reaction on Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Add Emoji Reaction in Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Slack V2 add emoji reaction","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"Add Emoji Reaction on slack_v2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"action_name"}
+{"query":"add a emoji reaction on Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 add a emoji reaction","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"add new emoji reaction on Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"canonical"}
+{"query":"Slack V2 add new emoji reaction","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"app_first"}
+{"query":"add emoji reaction via Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"add emoji reaction using Slack V2","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_prep"}
+{"query":"slack_v2 add emoji reaction","expected_action_key":"slack_v2-add-emoji-reaction","expected_app_slug":"slack_v2","app_name":"Slack","test_type":"alt_app_name"}

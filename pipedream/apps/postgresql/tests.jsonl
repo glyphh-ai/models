@@ -1,0 +1,84 @@
+{"query":"Upsert Row on PostgreSQL","expected_action_key":"postgresql-upsert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Upsert Row in PostgreSQL","expected_action_key":"postgresql-upsert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL upsert row","expected_action_key":"postgresql-upsert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Update Row on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Update Row in PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL update row","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"update the row on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"edit the row on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"modify the row on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"change the row on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"update row via PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"update row using PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"update row with PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"PostgreSQL update the row","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"PostgreSQL edit the row","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"update entry on PostgreSQL","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"PostgreSQL update entry","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"update a postgresql row","expected_action_key":"postgresql-update-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"contextual"}
+{"query":"Insert Row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Insert Row in PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL insert row","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"create row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"create a row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"make a row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"new row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"open a row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"start a row on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"create row in PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"create row via PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"create row using PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"create row with PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"PostgreSQL create row","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"PostgreSQL create a row","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"PostgreSQL make a row","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"create entry on PostgreSQL","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"PostgreSQL create entry","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"create a postgresql row","expected_action_key":"postgresql-insert-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"contextual"}
+{"query":"Find Row on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Find Row in PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL find row","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"search for row on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"look for row on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"search row on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"locate row on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"search for row in PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"search for row via PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"search for row using PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"search for row with PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"PostgreSQL search for row","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"PostgreSQL look for row","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"search for entry on PostgreSQL","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"PostgreSQL search for entry","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_target"}
+{"query":"search for a postgresql row","expected_action_key":"postgresql-find-row","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"contextual"}
+{"query":"Execute SQL Query on PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Execute SQL Query in PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL execute sql query","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"trigger sql query on PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL trigger sql query","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"run sql query on PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL run sql query","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"trigger sql query in PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"trigger sql query via PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"trigger sql query using PostgreSQL","expected_action_key":"postgresql-execute-custom-query","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"Delete Row on PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Delete Row in PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL delete row","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"delete the row on PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL delete the row","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"remove the row on PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL remove the row","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"delete row via PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"delete row using PostgreSQL","expected_action_key":"postgresql-delete-rows","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"Query SQL Database on PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"Query SQL Database in PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"PostgreSQL query sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"action_name"}
+{"query":"get sql database on PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"get the sql database on PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL get the sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"retrieve sql database on PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"canonical"}
+{"query":"PostgreSQL retrieve sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"app_first"}
+{"query":"get sql database in PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"get sql database via PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}
+{"query":"get sql database using PostgreSQL","expected_action_key":"database-query-sql-database","expected_app_slug":"postgresql","app_name":"PostgreSQL","test_type":"alt_prep"}

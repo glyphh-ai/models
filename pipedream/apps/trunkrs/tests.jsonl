@@ -1,0 +1,52 @@
+{"query":"List Time Slots on Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"List Time Slots in Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs list time slots","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"list all time slots on Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs list all time slots","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"show all time slots on Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs show all time slots","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"list time slots via Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"list time slots using Trunkrs","expected_action_key":"trunkrs-list-time-slots","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"List Shipments on Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"List Shipments in Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs list shipments","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"list all shipments on Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs list all shipments","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"show all shipments on Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs show all shipments","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"list shipments via Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"list shipments using Trunkrs","expected_action_key":"trunkrs-list-shipments","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"Get Shipment on Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Get Shipment in Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs get shipment","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"get the shipment on Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs get the shipment","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"retrieve shipment on Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs retrieve shipment","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"get shipment via Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"get shipment using Trunkrs","expected_action_key":"trunkrs-get-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"Get Shipment State on Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Get Shipment State in Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs get shipment state","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"get the shipment state on Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs get the shipment state","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"retrieve shipment state on Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs retrieve shipment state","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"get shipment state via Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"get shipment state using Trunkrs","expected_action_key":"trunkrs-get-shipment-state","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"Create Shipment on Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Create Shipment in Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs create shipment","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"create a shipment on Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs create a shipment","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"make a shipment on Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs make a shipment","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"create shipment via Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"create shipment using Trunkrs","expected_action_key":"trunkrs-create-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"Cancel Shipment on Trunkrs","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Cancel Shipment in Trunkrs","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"Trunkrs cancel shipment","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"action_name"}
+{"query":"cancel the shipment on Trunkrs","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"canonical"}
+{"query":"Trunkrs cancel the shipment","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"app_first"}
+{"query":"cancel shipment via Trunkrs","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}
+{"query":"cancel shipment using Trunkrs","expected_action_key":"trunkrs-cancel-shipment","expected_app_slug":"trunkrs","app_name":"Trunkrs","test_type":"alt_prep"}

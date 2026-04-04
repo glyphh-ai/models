@@ -1,0 +1,12 @@
+{"query":"Mark Invoice as Paid on Storeganise","expected_action_key":"storeganise-mark-invoice-paid","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"Mark Invoice as Paid in Storeganise","expected_action_key":"storeganise-mark-invoice-paid","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"Storeganise mark invoice as paid","expected_action_key":"storeganise-mark-invoice-paid","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"Add Invoice Payment on Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"Add Invoice Payment in Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"Storeganise add invoice payment","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"action_name"}
+{"query":"add a invoice payment on Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"canonical"}
+{"query":"Storeganise add a invoice payment","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"app_first"}
+{"query":"add new invoice payment on Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"canonical"}
+{"query":"Storeganise add new invoice payment","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"app_first"}
+{"query":"add invoice payment via Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"alt_prep"}
+{"query":"add invoice payment using Storeganise","expected_action_key":"storeganise-add-invoice-payment","expected_app_slug":"storeganise","app_name":"Storeganise","test_type":"alt_prep"}

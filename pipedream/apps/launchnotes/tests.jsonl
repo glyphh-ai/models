@@ -1,0 +1,25 @@
+{"query":"Create Subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"Create Subscription in LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"LaunchNotes create subscription","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"create a subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"make a subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"new subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"open a subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"start a subscription on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"create subscription via LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_prep"}
+{"query":"create subscription using LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_prep"}
+{"query":"create subscription with LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_prep"}
+{"query":"LaunchNotes create a subscription","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"app_first"}
+{"query":"LaunchNotes make a subscription","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"app_first"}
+{"query":"create plan on LaunchNotes","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_target"}
+{"query":"LaunchNotes create plan","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_target"}
+{"query":"create a launchnotes subscription","expected_action_key":"launchnotes-create-subscription","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"contextual"}
+{"query":"Create Announcement on LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"Create Announcement in LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"LaunchNotes create announcement","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"action_name"}
+{"query":"create a announcement on LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"LaunchNotes create a announcement","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"app_first"}
+{"query":"make a announcement on LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"canonical"}
+{"query":"LaunchNotes make a announcement","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"app_first"}
+{"query":"create announcement via LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_prep"}
+{"query":"create announcement using LaunchNotes","expected_action_key":"launchnotes-create-announcement","expected_app_slug":"launchnotes","app_name":"LaunchNotes","test_type":"alt_prep"}

@@ -1,0 +1,14 @@
+{"query":"Create Candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"action_name"}
+{"query":"Create Candidate in Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"action_name"}
+{"query":"Gem create candidate","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"action_name"}
+{"query":"create a candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"canonical"}
+{"query":"make a candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"canonical"}
+{"query":"new candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"canonical"}
+{"query":"open a candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"canonical"}
+{"query":"start a candidate on Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"canonical"}
+{"query":"create candidate via Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"alt_prep"}
+{"query":"create candidate using Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"alt_prep"}
+{"query":"create candidate with Gem","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"alt_prep"}
+{"query":"Gem create a candidate","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"app_first"}
+{"query":"Gem make a candidate","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"app_first"}
+{"query":"create a gem candidate","expected_action_key":"gem-create-candidate","expected_app_slug":"gem","app_name":"Gem","test_type":"contextual"}

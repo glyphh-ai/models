@@ -1,0 +1,57 @@
+{"query":"Wait Until Stopped on Daytona","expected_action_key":"daytona-wait-until-stopped","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Wait Until Stopped in Daytona","expected_action_key":"daytona-wait-until-stopped","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona wait until stopped","expected_action_key":"daytona-wait-until-stopped","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Stop Sandbox on Daytona","expected_action_key":"daytona-stop-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Stop Sandbox in Daytona","expected_action_key":"daytona-stop-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona stop sandbox","expected_action_key":"daytona-stop-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Start Sandbox on Daytona","expected_action_key":"daytona-start-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Start Sandbox in Daytona","expected_action_key":"daytona-start-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona start sandbox","expected_action_key":"daytona-start-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Revoke SSH Access on Daytona","expected_action_key":"daytona-revoke-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Revoke SSH Access in Daytona","expected_action_key":"daytona-revoke-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona revoke ssh access","expected_action_key":"daytona-revoke-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"List Snapshots on Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"List Snapshots in Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona list snapshots","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"list all snapshots on Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona list all snapshots","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"show all snapshots on Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona show all snapshots","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"list snapshots via Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"list snapshots using Daytona","expected_action_key":"daytona-list-snapshots","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"List Sandboxes on Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"List Sandboxes in Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona list sandboxes","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"list all sandboxes on Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona list all sandboxes","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"show all sandboxes on Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona show all sandboxes","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"list sandboxes via Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"list sandboxes using Daytona","expected_action_key":"daytona-list-sandboxes","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"Get Sandbox on Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Get Sandbox in Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona get sandbox","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"get the sandbox on Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona get the sandbox","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"retrieve sandbox on Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona retrieve sandbox","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"get sandbox via Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"get sandbox using Daytona","expected_action_key":"daytona-get-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"Create SSH Access on Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Create SSH Access in Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona create ssh access","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"create a ssh access on Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona create a ssh access","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"make a ssh access on Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona make a ssh access","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"create ssh access via Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"create ssh access using Daytona","expected_action_key":"daytona-create-ssh-access","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"Create Sandbox on Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Create Sandbox in Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"Daytona create sandbox","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"action_name"}
+{"query":"create a sandbox on Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona create a sandbox","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"make a sandbox on Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"canonical"}
+{"query":"Daytona make a sandbox","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"app_first"}
+{"query":"create sandbox via Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}
+{"query":"create sandbox using Daytona","expected_action_key":"daytona-create-sandbox","expected_app_slug":"daytona","app_name":"Daytona","test_type":"alt_prep"}

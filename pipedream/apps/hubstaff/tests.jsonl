@@ -1,0 +1,46 @@
+{"query":"Update Task on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"Update Task in Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"Hubstaff update task","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"update the task on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"edit the task on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"modify the task on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"change the task on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"update task via Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"update task using Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"update task with Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"Hubstaff update the task","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"Hubstaff edit the task","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"update story on Hubstaff","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"Hubstaff update story","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"update a hubstaff task","expected_action_key":"hubstaff-update-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"contextual"}
+{"query":"List Tasks on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"List Tasks in Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"Hubstaff list tasks","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"list all tasks on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"show all tasks on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"get all tasks on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"show me all tasks on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"list tasks via Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"list tasks using Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"list tasks with Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"Hubstaff list all tasks","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"Hubstaff show all tasks","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"list story on Hubstaff","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"Hubstaff list story","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"list a hubstaff tasks","expected_action_key":"hubstaff-list-tasks","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"contextual"}
+{"query":"Create Task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"Create Task in Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"Hubstaff create task","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"action_name"}
+{"query":"create a task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"make a task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"new task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"open a task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"start a task on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"canonical"}
+{"query":"create task via Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"create task using Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"create task with Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_prep"}
+{"query":"Hubstaff create a task","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"Hubstaff make a task","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"app_first"}
+{"query":"create story on Hubstaff","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"Hubstaff create story","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"alt_target"}
+{"query":"create a hubstaff task","expected_action_key":"hubstaff-create-task","expected_app_slug":"hubstaff","app_name":"Hubstaff","test_type":"contextual"}

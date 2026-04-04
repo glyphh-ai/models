@@ -1,0 +1,68 @@
+{"query":"Update Task on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Update Task in Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Microsoft To Do update task","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Update Task on Microsofttodo","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"update the task on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"edit the task on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"modify the task on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"change the task on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"update task via Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"update task using Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"update task with Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"Microsoft To Do update the task","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"Microsoft To Do edit the task","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"update story on Microsoft To Do","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsoft To Do update story","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsofttodo update task","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_app_name"}
+{"query":"update a microsoft to do task","expected_action_key":"microsofttodo-update-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"contextual"}
+{"query":"List Tasks on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"List Tasks in Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Microsoft To Do list tasks","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"List Tasks on Microsofttodo","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"list all tasks on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"show all tasks on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"get all tasks on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"show me all tasks on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"list tasks via Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"list tasks using Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"list tasks with Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"Microsoft To Do list all tasks","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"Microsoft To Do show all tasks","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"list story on Microsoft To Do","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsoft To Do list story","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsofttodo list tasks","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_app_name"}
+{"query":"list a microsoft to do tasks","expected_action_key":"microsofttodo-list-tasks","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"contextual"}
+{"query":"Create Task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Create Task in Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Microsoft To Do create task","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Create Task on Microsofttodo","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"create a task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"make a task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"new task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"open a task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"start a task on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"create task via Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"create task using Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"create task with Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"Microsoft To Do create a task","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"Microsoft To Do make a task","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"create story on Microsoft To Do","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsoft To Do create story","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_target"}
+{"query":"Microsofttodo create task","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_app_name"}
+{"query":"create a microsoft to do task","expected_action_key":"microsofttodo-create-task","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"contextual"}
+{"query":"Create List on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Create List in Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Microsoft To Do create list","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"Create List on Microsofttodo","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"action_name"}
+{"query":"create a list on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"make a list on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"new list on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"open a list on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"start a list on Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"canonical"}
+{"query":"create list via Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"create list using Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"create list with Microsoft To Do","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_prep"}
+{"query":"Microsoft To Do create a list","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"Microsoft To Do make a list","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"app_first"}
+{"query":"Microsofttodo create list","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"alt_app_name"}
+{"query":"create a microsoft to do list","expected_action_key":"microsofttodo-create-list","expected_app_slug":"microsofttodo","app_name":"Microsoft To Do","test_type":"contextual"}

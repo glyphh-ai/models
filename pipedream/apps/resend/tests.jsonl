@@ -1,0 +1,33 @@
+{"query":"Send Email on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"Send Email in Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"Resend send email","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"send a email on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"post a email on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"send out email on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"fire off email on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"send email via Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"send email using Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"send email with Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"Resend send a email","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"app_first"}
+{"query":"Resend post a email","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"app_first"}
+{"query":"send mail on Resend","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_target"}
+{"query":"Resend send mail","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_target"}
+{"query":"send a resend email","expected_action_key":"resend-send-email","expected_app_slug":"resend","app_name":"Resend","test_type":"contextual"}
+{"query":"Retrieve Email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"Retrieve Email in Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"Resend retrieve email","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"action_name"}
+{"query":"get email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"get the email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"fetch email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"show me the email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"pull email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"check email on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"canonical"}
+{"query":"get email in Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"get email via Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"get email using Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"get email with Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_prep"}
+{"query":"Resend get email","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"app_first"}
+{"query":"Resend get the email","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"app_first"}
+{"query":"get mail on Resend","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_target"}
+{"query":"Resend get mail","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"alt_target"}
+{"query":"get a resend email","expected_action_key":"resend-retrieve-email","expected_app_slug":"resend","app_name":"Resend","test_type":"contextual"}

@@ -1,0 +1,24 @@
+{"query":"Void Shipment on UPS","expected_action_key":"ups-void-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Void Shipment in UPS","expected_action_key":"ups-void-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"UPS void shipment","expected_action_key":"ups-void-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Recover Label on UPS","expected_action_key":"ups-recover-label","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Recover Label in UPS","expected_action_key":"ups-recover-label","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"UPS recover label","expected_action_key":"ups-recover-label","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Get Tracking Info on UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Get Tracking Info in UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"UPS get tracking info","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"get the tracking info on UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"canonical"}
+{"query":"UPS get the tracking info","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"app_first"}
+{"query":"retrieve tracking info on UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"canonical"}
+{"query":"UPS retrieve tracking info","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"app_first"}
+{"query":"get tracking info via UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"alt_prep"}
+{"query":"get tracking info using UPS","expected_action_key":"ups-get-tracking-info","expected_app_slug":"ups","app_name":"UPS","test_type":"alt_prep"}
+{"query":"Create Shipment on UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"Create Shipment in UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"UPS create shipment","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"action_name"}
+{"query":"create a shipment on UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"canonical"}
+{"query":"UPS create a shipment","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"app_first"}
+{"query":"make a shipment on UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"canonical"}
+{"query":"UPS make a shipment","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"app_first"}
+{"query":"create shipment via UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"alt_prep"}
+{"query":"create shipment using UPS","expected_action_key":"ups-create-shipment","expected_app_slug":"ups","app_name":"UPS","test_type":"alt_prep"}

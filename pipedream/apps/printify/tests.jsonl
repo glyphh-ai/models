@@ -1,0 +1,35 @@
+{"query":"Update Product on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Update Product in Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Printify update product","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"update the product on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"edit the product on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"modify the product on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"change the product on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"update product via Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"update product using Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"update product with Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"Printify update the product","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"app_first"}
+{"query":"Printify edit the product","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"app_first"}
+{"query":"update item on Printify","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_target"}
+{"query":"Printify update item","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_target"}
+{"query":"update a printify product","expected_action_key":"printify-update-product","expected_app_slug":"printify","app_name":"Printify","test_type":"contextual"}
+{"query":"Submit Order on Printify","expected_action_key":"printify-submit-order","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Submit Order in Printify","expected_action_key":"printify-submit-order","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Printify submit order","expected_action_key":"printify-submit-order","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Create a Product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Create a Product in Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"Printify create a product","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"action_name"}
+{"query":"create product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"make a product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"new product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"open a product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"start a product on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"canonical"}
+{"query":"create product in Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"create product via Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"create product using Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"create product with Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_prep"}
+{"query":"Printify create product","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"app_first"}
+{"query":"Printify make a product","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"app_first"}
+{"query":"create item on Printify","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_target"}
+{"query":"Printify create item","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"alt_target"}
+{"query":"create a printify product","expected_action_key":"printify-create-product","expected_app_slug":"printify","app_name":"Printify","test_type":"contextual"}

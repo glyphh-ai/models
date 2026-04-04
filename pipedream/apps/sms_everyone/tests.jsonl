@@ -1,0 +1,11 @@
+{"query":"Send SMS on SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"action_name"}
+{"query":"Send SMS in SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"action_name"}
+{"query":"SMS Everyone send sms","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"action_name"}
+{"query":"Send SMS on sms_everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"action_name"}
+{"query":"send a sms on SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"canonical"}
+{"query":"SMS Everyone send a sms","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"app_first"}
+{"query":"post a sms on SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"canonical"}
+{"query":"SMS Everyone post a sms","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"app_first"}
+{"query":"send sms via SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"alt_prep"}
+{"query":"send sms using SMS Everyone","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"alt_prep"}
+{"query":"sms_everyone send sms","expected_action_key":"sms_everyone-send-sms","expected_app_slug":"sms_everyone","app_name":"SMS Everyone","test_type":"alt_app_name"}

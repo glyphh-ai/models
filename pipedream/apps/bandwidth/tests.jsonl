@@ -1,0 +1,9 @@
+{"query":"Send SMS on Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"action_name"}
+{"query":"Send SMS in Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"action_name"}
+{"query":"Bandwidth send sms","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"action_name"}
+{"query":"send a sms on Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"canonical"}
+{"query":"Bandwidth send a sms","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"app_first"}
+{"query":"post a sms on Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"canonical"}
+{"query":"Bandwidth post a sms","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"app_first"}
+{"query":"send sms via Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"alt_prep"}
+{"query":"send sms using Bandwidth","expected_action_key":"bandwidth-send-sms","expected_app_slug":"bandwidth","app_name":"Bandwidth","test_type":"alt_prep"}

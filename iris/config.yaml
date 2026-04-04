@@ -1,0 +1,186 @@
+# Glyphh Iris — Structured Visual Encoder
+# Decomposes images into searchable, manipulable glyphs using
+# HDC binding of specialized feature extractors.
+# Named after the iris of the eye — the structure that controls light intake.
+
+name: iris
+version: 0.1.0
+description: |
+  Structured visual encoder that decomposes images into searchable,
+  manipulable HDC glyphs. Extracts features (face, pose, depth, OCR,
+  lighting, color, composition, objects) via specialized CV models,
+  projects them into bipolar space via ContinuousProjector, and binds
+  with role vectors into a single 10K-dim glyph. Deterministic: same
+  image always produces the same glyph.
+
+author: Glyphh AI
+license: MIT
+category: encoding
+icon: "\U0001F441"
+public: true
+load_on_startup: false
+tags: [vision, image-encoding, visual-search, structured-parsing]
+
+encoder:
+  dimensions: 10000
+  seed: 42
+
+auto_load_concepts: false
+
+layers:
+  identity:
+    weight: 0.25
+    roles:
+      face_embedding:
+        type: continuous
+        source_dim: 512
+        projection_seed: 100
+      expression:
+        type: categorical
+        values:
+          - neutral
+          - happy
+          - sad
+          - angry
+          - surprised
+          - fearful
+          - disgusted
+          - contempt
+          - calm
+          - confused
+          - focused
+          - determined
+          - pensive
+          - amused
+          - excited
+          - bored
+          - none
+      age_group:
+        type: categorical
+        values:
+          - infant
+          - child
+          - teenager
+          - twenties
+          - thirties
+          - forties
+          - fifties
+          - sixties_plus
+          - none
+
+  pose:
+    weight: 0.20
+    roles:
+      body_pose:
+        type: continuous
+        source_dim: 99
+        projection_seed: 200
+      head_pose:
+        type: continuous
+        source_dim: 3
+        projection_seed: 201
+
+  appearance:
+    weight: 0.20
+    roles:
+      color_palette:
+        type: bag_of_words
+      clothing:
+        type: bag_of_words
+
+  scene:
+    weight: 0.15
+    roles:
+      depth_map:
+        type: continuous
+        source_dim: 64
+        projection_seed: 300
+      composition:
+        type: categorical
+        values:
+          - center
+          - rule_of_thirds
+          - symmetric
+          - diagonal
+          - frame_within_frame
+          - leading_lines
+          - isolated
+          - panoramic
+          - close_up
+          - none
+      scene_category:
+        type: categorical
+        values:
+          - indoor
+          - outdoor
+          - studio
+          - urban
+          - nature
+          - underwater
+          - aerial
+          - abstract
+          - none
+
+  lighting:
+    weight: 0.10
+    roles:
+      direction:
+        type: categorical
+        values:
+          - front
+          - side_left
+          - side_right
+          - back
+          - top
+          - bottom
+          - rim
+          - ambient
+          - none
+      quality:
+        type: categorical
+        values:
+          - soft
+          - hard
+          - natural
+          - artificial
+          - mixed
+          - none
+      contrast:
+        type: categorical
+        values:
+          - high
+          - medium
+          - low
+          - none
+
+  text:
+    weight: 0.10
+    roles:
+      text_content:
+        type: bag_of_words
+      text_role:
+        type: categorical
+        values:
+          - title
+          - heading
+          - body
+          - label
+          - button
+          - watermark
+          - caption
+          - logo
+          - none
+      text_position:
+        type: categorical
+        values:
+          - top
+          - center
+          - bottom
+          - left
+          - right
+          - overlay
+          - none
+
+similarity:
+  threshold: 0.35
+  top_k: 10

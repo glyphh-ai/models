@@ -1,0 +1,39 @@
+{"query":"List All Users on ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"List All Users in ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"ForceManager list all users","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"list all all users on ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"ForceManager list all all users","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"show all all users on ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"ForceManager show all all users","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"list all users via ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"list all users using ForceManager","expected_action_key":"forcemanager-list-users","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"Find Contact on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"Find Contact in ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"ForceManager find contact","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"search for contact on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"look for contact on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"search contact on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"locate contact on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"search for contact in ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"search for contact via ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"search for contact using ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"search for contact with ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"ForceManager search for contact","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"ForceManager look for contact","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"search for contact record on ForceManager","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_target"}
+{"query":"ForceManager search for contact record","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_target"}
+{"query":"search for a forcemanager contact","expected_action_key":"forcemanager-find-contact","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"contextual"}
+{"query":"Create Opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"Create Opportunity in ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"ForceManager create opportunity","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"action_name"}
+{"query":"create a opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"make a opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"new opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"open a opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"start a opportunity on ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"canonical"}
+{"query":"create opportunity via ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"create opportunity using ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"create opportunity with ForceManager","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"alt_prep"}
+{"query":"ForceManager create a opportunity","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"ForceManager make a opportunity","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"app_first"}
+{"query":"create a forcemanager opportunity","expected_action_key":"forcemanager-create-opportunity","expected_app_slug":"forcemanager","app_name":"ForceManager","test_type":"contextual"}

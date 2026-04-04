@@ -1,0 +1,16 @@
+{"query":"Create Customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"action_name"}
+{"query":"Create Customer in Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"action_name"}
+{"query":"Braintree create customer","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"action_name"}
+{"query":"create a customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"canonical"}
+{"query":"make a customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"canonical"}
+{"query":"new customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"canonical"}
+{"query":"open a customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"canonical"}
+{"query":"start a customer on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"canonical"}
+{"query":"create customer via Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"alt_prep"}
+{"query":"create customer using Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"alt_prep"}
+{"query":"create customer with Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"alt_prep"}
+{"query":"Braintree create a customer","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"app_first"}
+{"query":"Braintree make a customer","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"app_first"}
+{"query":"create account on Braintree","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"alt_target"}
+{"query":"Braintree create account","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"alt_target"}
+{"query":"create a braintree customer","expected_action_key":"braintree-create-customer","expected_app_slug":"braintree","app_name":"Braintree","test_type":"contextual"}

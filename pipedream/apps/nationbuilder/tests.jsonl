@@ -1,0 +1,109 @@
+{"query":"Update Person on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Update Person in NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder update person","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"update the person on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"edit the person on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"modify the person on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"change the person on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"update person via NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"update person using NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"update person with NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"NationBuilder update the person","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder edit the person","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"update member on NationBuilder","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"NationBuilder update member","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"update a nationbuilder person","expected_action_key":"nationbuilder-update-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"contextual"}
+{"query":"Update Donation on NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Update Donation in NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder update donation","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"update the donation on NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder update the donation","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"edit the donation on NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder edit the donation","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"update donation via NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"update donation using NationBuilder","expected_action_key":"nationbuilder-update-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"Search Person on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Search Person in NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder search person","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"search for person on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"find person on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"look for person on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"locate person on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"search for person in NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"search for person via NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"search for person using NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"search for person with NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"NationBuilder search for person","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder find person","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder look for person","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"search for member on NationBuilder","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"NationBuilder search for member","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"search for a nationbuilder person","expected_action_key":"nationbuilder-search-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"contextual"}
+{"query":"Remove Tags on NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Remove Tags in NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder remove tags","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"remove the tags on NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"take out tags on NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"remove tags via NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"remove tags using NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"remove tags with NationBuilder","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"NationBuilder remove the tags","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder take out tags","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"remove a nationbuilder tags","expected_action_key":"nationbuilder-remove-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"contextual"}
+{"query":"Push Person on NationBuilder","expected_action_key":"nationbuilder-push-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Push Person in NationBuilder","expected_action_key":"nationbuilder-push-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder push person","expected_action_key":"nationbuilder-push-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Delete Donation on NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Delete Donation in NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder delete donation","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"delete the donation on NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder delete the donation","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"remove the donation on NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder remove the donation","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"delete donation via NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"delete donation using NationBuilder","expected_action_key":"nationbuilder-delete-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"Create Person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Create Person in NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder create person","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"create a person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"make a person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"new person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"open a person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"start a person on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"create person via NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"create person using NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"create person with NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"NationBuilder create a person","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder make a person","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"create member on NationBuilder","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"NationBuilder create member","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_target"}
+{"query":"create a nationbuilder person","expected_action_key":"nationbuilder-create-person","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"contextual"}
+{"query":"Create Membership on NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Create Membership in NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder create membership","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"create a membership on NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder create a membership","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"make a membership on NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder make a membership","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"create membership via NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"create membership using NationBuilder","expected_action_key":"nationbuilder-create-membership","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"Create Donation on NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Create Donation in NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder create donation","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"create a donation on NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder create a donation","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"make a donation on NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"NationBuilder make a donation","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"create donation via NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"create donation using NationBuilder","expected_action_key":"nationbuilder-create-donation","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"Add Tags on NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"Add Tags in NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"NationBuilder add tags","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"action_name"}
+{"query":"add a tags on NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"add new tags on NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"canonical"}
+{"query":"add tags via NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"add tags using NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"add tags with NationBuilder","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"alt_prep"}
+{"query":"NationBuilder add a tags","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"NationBuilder add new tags","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"app_first"}
+{"query":"add a nationbuilder tags","expected_action_key":"nationbuilder-add-tags","expected_app_slug":"nationbuilder","app_name":"NationBuilder","test_type":"contextual"}

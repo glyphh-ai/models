@@ -1,0 +1,51 @@
+{"query":"Update Record on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Update Record in Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Quickbase update record","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"update the record on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"edit the record on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"modify the record on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"change the record on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"update record via Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"update record using Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"update record with Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"Quickbase update the record","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"Quickbase edit the record","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"update row on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase update row","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"update entry on Quickbase","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase update entry","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"update a quickbase record","expected_action_key":"quickbase-update-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"contextual"}
+{"query":"Delete Record on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Delete Record in Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Quickbase delete record","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"delete the record on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"remove the record on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"destroy the record on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"delete record via Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"delete record using Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"delete record with Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"Quickbase delete the record","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"Quickbase remove the record","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"delete row on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase delete row","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"delete entry on Quickbase","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase delete entry","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"delete a quickbase record","expected_action_key":"quickbase-delete-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"contextual"}
+{"query":"Create Record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Create Record in Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"Quickbase create record","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"action_name"}
+{"query":"create a record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"make a record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"new record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"open a record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"start a record on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"canonical"}
+{"query":"create record via Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"create record using Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"create record with Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_prep"}
+{"query":"Quickbase create a record","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"Quickbase make a record","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"app_first"}
+{"query":"create row on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase create row","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"create entry on Quickbase","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"Quickbase create entry","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"alt_target"}
+{"query":"create a quickbase record","expected_action_key":"quickbase-create-record","expected_app_slug":"quickbase","app_name":"Quickbase","test_type":"contextual"}

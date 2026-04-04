@@ -1,0 +1,28 @@
+{"query":"Take Screenshot on RenderForm","expected_action_key":"renderform-take-screenshot","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"Take Screenshot in RenderForm","expected_action_key":"renderform-take-screenshot","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"RenderForm take screenshot","expected_action_key":"renderform-take-screenshot","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"List Templates on RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"List Templates in RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"RenderForm list templates","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"list all templates on RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"show all templates on RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"get all templates on RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"show me all templates on RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"list templates via RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}
+{"query":"list templates using RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}
+{"query":"list templates with RenderForm","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}
+{"query":"RenderForm list all templates","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"app_first"}
+{"query":"RenderForm show all templates","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"app_first"}
+{"query":"list a renderform templates","expected_action_key":"renderform-list-templates","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"contextual"}
+{"query":"Create Image with Template on RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"Create Image with Template in RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"RenderForm create image with template","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"action_name"}
+{"query":"create image template on RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"RenderForm create image template","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"app_first"}
+{"query":"create a image template on RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"RenderForm create a image template","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"app_first"}
+{"query":"make a image template on RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"canonical"}
+{"query":"RenderForm make a image template","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"app_first"}
+{"query":"create image template in RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}
+{"query":"create image template via RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}
+{"query":"create image template using RenderForm","expected_action_key":"renderform-create-image","expected_app_slug":"renderform","app_name":"RenderForm","test_type":"alt_prep"}

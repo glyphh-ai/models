@@ -1,0 +1,9 @@
+{"query":"Add Context on Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"action_name"}
+{"query":"Add Context in Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"action_name"}
+{"query":"Vida add context","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"action_name"}
+{"query":"add a context on Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"canonical"}
+{"query":"Vida add a context","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"app_first"}
+{"query":"add new context on Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"canonical"}
+{"query":"Vida add new context","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"app_first"}
+{"query":"add context via Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"alt_prep"}
+{"query":"add context using Vida","expected_action_key":"vida-provide-context","expected_app_slug":"vida","app_name":"Vida","test_type":"alt_prep"}

@@ -1,0 +1,25 @@
+{"query":"Trigger Incident on PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"Trigger Incident in PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"PagerDuty trigger incident","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"run incident on PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"canonical"}
+{"query":"PagerDuty run incident","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"app_first"}
+{"query":"execute incident on PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"canonical"}
+{"query":"PagerDuty execute incident","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"app_first"}
+{"query":"trigger incident via PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"alt_prep"}
+{"query":"trigger incident using PagerDuty","expected_action_key":"pagerduty-trigger-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"alt_prep"}
+{"query":"Resolve Incident on PagerDuty","expected_action_key":"pagerduty-resolve-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"Resolve Incident in PagerDuty","expected_action_key":"pagerduty-resolve-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"PagerDuty resolve incident","expected_action_key":"pagerduty-resolve-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"Find Oncall User on PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"Find Oncall User in PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"PagerDuty find oncall user","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"search for oncall user on PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"canonical"}
+{"query":"PagerDuty search for oncall user","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"app_first"}
+{"query":"look for oncall user on PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"canonical"}
+{"query":"PagerDuty look for oncall user","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"app_first"}
+{"query":"search for oncall user in PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"alt_prep"}
+{"query":"search for oncall user via PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"alt_prep"}
+{"query":"search for oncall user using PagerDuty","expected_action_key":"pagerduty-find-oncall-user","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"alt_prep"}
+{"query":"Acknowledge Incident on PagerDuty","expected_action_key":"pagerduty-acknowledge-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"Acknowledge Incident in PagerDuty","expected_action_key":"pagerduty-acknowledge-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}
+{"query":"PagerDuty acknowledge incident","expected_action_key":"pagerduty-acknowledge-incident","expected_app_slug":"pagerduty","app_name":"PagerDuty","test_type":"action_name"}

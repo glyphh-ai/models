@@ -1,0 +1,15 @@
+{"query":"Execute a Command on SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"action_name"}
+{"query":"Execute a Command in SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"action_name"}
+{"query":"SSH key-based auth execute a command","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"action_name"}
+{"query":"Execute a Command on Ssh","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"action_name"}
+{"query":"trigger command on SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"canonical"}
+{"query":"SSH key-based auth trigger command","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"app_first"}
+{"query":"run command on SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"canonical"}
+{"query":"SSH key-based auth run command","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"app_first"}
+{"query":"execute command on SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"canonical"}
+{"query":"SSH key-based auth execute command","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"app_first"}
+{"query":"trigger command in SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"alt_prep"}
+{"query":"trigger command via SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"alt_prep"}
+{"query":"trigger command using SSH key-based auth","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"alt_prep"}
+{"query":"trigger command on Ssh","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"alt_app_name"}
+{"query":"Ssh trigger command","expected_action_key":"ssh-execute-command","expected_app_slug":"ssh","app_name":"SSH (key-based auth)","test_type":"alt_app_name"}

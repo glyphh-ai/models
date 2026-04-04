@@ -1,0 +1,45 @@
+{"query":"Update Post on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"Update Post in DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"DotSimple update post","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"update the post on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"edit the post on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"modify the post on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"change the post on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"update post via DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"update post using DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"update post with DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"DotSimple update the post","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"DotSimple edit the post","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"update status update on DotSimple","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"DotSimple update status update","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"update a dotsimple post","expected_action_key":"dotsimple-update-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"contextual"}
+{"query":"Delete Post on DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"Delete Post in DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"DotSimple delete post","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"delete the post on DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"remove the post on DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"destroy the post on DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"delete post via DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"delete post using DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"delete post with DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"DotSimple delete the post","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"DotSimple remove the post","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"delete status update on DotSimple","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"DotSimple delete status update","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"delete a dotsimple post","expected_action_key":"dotsimple-delete-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"contextual"}
+{"query":"Create Post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"Create Post in DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"DotSimple create post","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"action_name"}
+{"query":"create a post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"make a post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"new post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"open a post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"start a post on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"canonical"}
+{"query":"create post via DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"create post using DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"create post with DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_prep"}
+{"query":"DotSimple create a post","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"DotSimple make a post","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"app_first"}
+{"query":"create status update on DotSimple","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"DotSimple create status update","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"alt_target"}
+{"query":"create a dotsimple post","expected_action_key":"dotsimple-create-post","expected_app_slug":"dotsimple","app_name":"DotSimple","test_type":"contextual"}

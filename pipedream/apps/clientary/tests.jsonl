@@ -1,0 +1,66 @@
+{"query":"Create Task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Create Task in Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Clientary create task","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"create a task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"make a task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"new task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"open a task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"start a task on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"create task via Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create task using Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create task with Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"Clientary create a task","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"Clientary make a task","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"create story on Clientary","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"Clientary create story","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"create a clientary task","expected_action_key":"clientary-create-task","expected_app_slug":"clientary","app_name":"Clientary","test_type":"contextual"}
+{"query":"Create Invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Create Invoice in Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Clientary create invoice","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"create a invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"make a invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"new invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"open a invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"start a invoice on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"create invoice via Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create invoice using Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create invoice with Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"Clientary create a invoice","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"Clientary make a invoice","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"create bill on Clientary","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"Clientary create bill","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"create a clientary invoice","expected_action_key":"clientary-create-invoice","expected_app_slug":"clientary","app_name":"Clientary","test_type":"contextual"}
+{"query":"Create Expense on Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Create Expense in Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Clientary create expense","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"create a expense on Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"Clientary create a expense","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"make a expense on Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"Clientary make a expense","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"create expense via Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create expense using Clientary","expected_action_key":"clientary-create-expense","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"Create Estimate on Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Create Estimate in Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Clientary create estimate","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"create a estimate on Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"Clientary create a estimate","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"make a estimate on Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"Clientary make a estimate","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"create estimate via Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create estimate using Clientary","expected_action_key":"clientary-create-estimate","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"Create Client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Create Client in Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"Clientary create client","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"action_name"}
+{"query":"create a client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"make a client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"new client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"open a client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"start a client on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"canonical"}
+{"query":"create client via Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create client using Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"create client with Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_prep"}
+{"query":"Clientary create a client","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"Clientary make a client","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"app_first"}
+{"query":"create account on Clientary","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"Clientary create account","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"alt_target"}
+{"query":"create a clientary client","expected_action_key":"clientary-create-client","expected_app_slug":"clientary","app_name":"Clientary","test_type":"contextual"}

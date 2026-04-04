@@ -1,0 +1,47 @@
+{"query":"Update Customer on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Update Customer in Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Helpspace update customer","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"update the customer on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"edit the customer on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"modify the customer on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"change the customer on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"update customer via Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"update customer using Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"update customer with Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"Helpspace update the customer","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"Helpspace edit the customer","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"update account on Helpspace","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"Helpspace update account","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"update a helpspace customer","expected_action_key":"helpspace-update-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"contextual"}
+{"query":"Create Ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Create Ticket in Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Helpspace create ticket","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"create a ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"make a ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"new ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"open a ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"start a ticket on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"create ticket via Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"create ticket using Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"create ticket with Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"Helpspace create a ticket","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"Helpspace make a ticket","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"create issue on Helpspace","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"Helpspace create issue","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"create a helpspace ticket","expected_action_key":"helpspace-create-ticket","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"contextual"}
+{"query":"Create Customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Create Customer in Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"Helpspace create customer","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"action_name"}
+{"query":"create a customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"make a customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"new customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"open a customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"start a customer on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"canonical"}
+{"query":"create customer via Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"create customer using Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"create customer with Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_prep"}
+{"query":"Helpspace create a customer","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"Helpspace make a customer","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"app_first"}
+{"query":"create account on Helpspace","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"Helpspace create account","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"alt_target"}
+{"query":"create a helpspace customer","expected_action_key":"helpspace-create-customer","expected_app_slug":"helpspace","app_name":"Helpspace","test_type":"contextual"}

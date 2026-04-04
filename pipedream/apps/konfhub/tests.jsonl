@@ -1,0 +1,12 @@
+{"query":"Validate Registration on KonfHub","expected_action_key":"konfhub-validate-registration","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"Validate Registration in KonfHub","expected_action_key":"konfhub-validate-registration","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"KonfHub validate registration","expected_action_key":"konfhub-validate-registration","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"Send OTP on KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"Send OTP in KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"KonfHub send otp","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"action_name"}
+{"query":"send a otp on KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"canonical"}
+{"query":"KonfHub send a otp","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"app_first"}
+{"query":"post a otp on KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"canonical"}
+{"query":"KonfHub post a otp","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"app_first"}
+{"query":"send otp via KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"alt_prep"}
+{"query":"send otp using KonfHub","expected_action_key":"konfhub-send-otp","expected_app_slug":"konfhub","app_name":"KonfHub","test_type":"alt_prep"}

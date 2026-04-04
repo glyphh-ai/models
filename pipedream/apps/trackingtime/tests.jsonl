@@ -1,0 +1,24 @@
+{"query":"Stop Tracking Time on TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"Stop Tracking Time in TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"TrackingTime stop tracking time","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"track tracking time on TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime track tracking time","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"track a tracking time on TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime track a tracking time","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"log tracking time on TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime log tracking time","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"track tracking time in TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}
+{"query":"track tracking time via TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}
+{"query":"track tracking time using TrackingTime","expected_action_key":"trackingtime-stop-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}
+{"query":"Start Tracking Time on TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"Start Tracking Time in TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"TrackingTime start tracking time","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"action_name"}
+{"query":"track tracking time on TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime track tracking time","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"track a tracking time on TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime track a tracking time","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"log tracking time on TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"canonical"}
+{"query":"TrackingTime log tracking time","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"app_first"}
+{"query":"track tracking time in TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}
+{"query":"track tracking time via TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}
+{"query":"track tracking time using TrackingTime","expected_action_key":"trackingtime-start-tracking-time","expected_app_slug":"trackingtime","app_name":"TrackingTime","test_type":"alt_prep"}

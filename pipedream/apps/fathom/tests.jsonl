@@ -1,0 +1,35 @@
+{"query":"List Meetings on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"List Meetings in Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"Fathom list meetings","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"list all meetings on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"show all meetings on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"get all meetings on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"show me all meetings on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"list meetings via Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"list meetings using Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"list meetings with Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"Fathom list all meetings","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"Fathom show all meetings","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"list meeting on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_target"}
+{"query":"Fathom list meeting","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_target"}
+{"query":"list calendar event on Fathom","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_target"}
+{"query":"Fathom list calendar event","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_target"}
+{"query":"list a fathom meetings","expected_action_key":"fathom-list-meetings","expected_app_slug":"fathom","app_name":"Fathom","test_type":"contextual"}
+{"query":"Get Recording Transcript on Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"Get Recording Transcript in Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"Fathom get recording transcript","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"get the recording transcript on Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"Fathom get the recording transcript","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"retrieve recording transcript on Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"Fathom retrieve recording transcript","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"get recording transcript via Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"get recording transcript using Fathom","expected_action_key":"fathom-get-recording-transcript","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"Get Recording Summary on Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"Get Recording Summary in Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"Fathom get recording summary","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"action_name"}
+{"query":"get the recording summary on Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"Fathom get the recording summary","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"retrieve recording summary on Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"canonical"}
+{"query":"Fathom retrieve recording summary","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"app_first"}
+{"query":"get recording summary via Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}
+{"query":"get recording summary using Fathom","expected_action_key":"fathom-get-recording-summary","expected_app_slug":"fathom","app_name":"Fathom","test_type":"alt_prep"}

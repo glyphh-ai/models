@@ -1,0 +1,29 @@
+{"query":"Submit Prompt on Airplane","expected_action_key":"airplane-submit-prompt","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Submit Prompt in Airplane","expected_action_key":"airplane-submit-prompt","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Airplane submit prompt","expected_action_key":"airplane-submit-prompt","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Execute Task on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Execute Task in Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Airplane execute task","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"trigger task on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"run task on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"start task on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"launch task on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"trigger task in Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"trigger task via Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"trigger task using Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"trigger task with Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"Airplane trigger task","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"app_first"}
+{"query":"Airplane run task","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"app_first"}
+{"query":"trigger story on Airplane","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_target"}
+{"query":"Airplane trigger story","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_target"}
+{"query":"trigger a airplane task","expected_action_key":"airplane-execute-task","expected_app_slug":"airplane","app_name":"Airplane","test_type":"contextual"}
+{"query":"Execute Runbook on Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Execute Runbook in Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"Airplane execute runbook","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"action_name"}
+{"query":"trigger runbook on Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"Airplane trigger runbook","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"app_first"}
+{"query":"run runbook on Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"canonical"}
+{"query":"Airplane run runbook","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"app_first"}
+{"query":"trigger runbook in Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"trigger runbook via Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}
+{"query":"trigger runbook using Airplane","expected_action_key":"airplane-execute-runbook","expected_app_slug":"airplane","app_name":"Airplane","test_type":"alt_prep"}

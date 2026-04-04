@@ -1,0 +1,47 @@
+{"query":"Get Events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Get Events in Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Demio get events","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"get the events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"retrieve events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"fetch events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"show me the events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"pull events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"check events on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"get events via Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"get events using Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"get events with Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"Demio get the events","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"Demio retrieve events","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"get meeting on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"Demio get meeting","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"get calendar event on Demio","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"Demio get calendar event","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"get a demio events","expected_action_key":"demio-get-events","expected_app_slug":"demio","app_name":"Demio","test_type":"contextual"}
+{"query":"Get Event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Get Event in Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Demio get event","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"get the event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"retrieve event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"fetch event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"show me the event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"pull event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"check event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"get event via Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"get event using Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"get event with Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"Demio get the event","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"Demio retrieve event","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"get meeting on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"Demio get meeting","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"get calendar event on Demio","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"Demio get calendar event","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_target"}
+{"query":"get a demio event","expected_action_key":"demio-get-event","expected_app_slug":"demio","app_name":"Demio","test_type":"contextual"}
+{"query":"Create Join Link on Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Create Join Link in Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"Demio create join link","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"action_name"}
+{"query":"create a join link on Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"Demio create a join link","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"make a join link on Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"canonical"}
+{"query":"Demio make a join link","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"app_first"}
+{"query":"create join link via Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}
+{"query":"create join link using Demio","expected_action_key":"demio-create-join-link","expected_app_slug":"demio","app_name":"Demio","test_type":"alt_prep"}

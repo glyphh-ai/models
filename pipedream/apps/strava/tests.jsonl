@@ -1,0 +1,48 @@
+{"query":"Update Activity on Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Update Activity in Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Strava update activity","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"update the activity on Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava update the activity","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"edit the activity on Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava edit the activity","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"update activity via Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"update activity using Strava","expected_action_key":"strava-update-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"Get Activity List on Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Get Activity List in Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Strava get activity list","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"get the activity list on Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava get the activity list","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"retrieve activity list on Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava retrieve activity list","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"get activity list via Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"get activity list using Strava","expected_action_key":"strava-get-activity-list","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"Get Stats on Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Get Stats in Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Strava get stats","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"get the stats on Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava get the stats","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"retrieve stats on Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava retrieve stats","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"get stats via Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"get stats using Strava","expected_action_key":"strava-get-stats","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"Get Activity By ID on Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Get Activity By ID in Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Strava get activity by id","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"get activity id on Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava get activity id","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"get the activity id on Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava get the activity id","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"retrieve activity id on Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava retrieve activity id","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"get activity id in Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"get activity id via Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"get activity id using Strava","expected_action_key":"strava-get-activity-by-id","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"Create Activity on Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Create Activity in Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"Strava create activity","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"action_name"}
+{"query":"create a activity on Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava create a activity","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"make a activity on Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"canonical"}
+{"query":"Strava make a activity","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"app_first"}
+{"query":"create activity via Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}
+{"query":"create activity using Strava","expected_action_key":"strava-create-activity","expected_app_slug":"strava","app_name":"Strava","test_type":"alt_prep"}

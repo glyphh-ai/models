@@ -1,0 +1,16 @@
+{"query":"Create Order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"action_name"}
+{"query":"Create Order in Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"action_name"}
+{"query":"Goody create order","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"action_name"}
+{"query":"create a order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"canonical"}
+{"query":"make a order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"canonical"}
+{"query":"new order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"canonical"}
+{"query":"open a order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"canonical"}
+{"query":"start a order on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"canonical"}
+{"query":"create order via Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"alt_prep"}
+{"query":"create order using Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"alt_prep"}
+{"query":"create order with Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"alt_prep"}
+{"query":"Goody create a order","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"app_first"}
+{"query":"Goody make a order","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"app_first"}
+{"query":"create purchase on Goody","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"alt_target"}
+{"query":"Goody create purchase","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"alt_target"}
+{"query":"create a goody order","expected_action_key":"goody-create-order","expected_app_slug":"goody","app_name":"Goody","test_type":"contextual"}

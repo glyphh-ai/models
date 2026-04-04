@@ -1,0 +1,66 @@
+{"query":"List Posts on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"List Posts in Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Changes Page list posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"List Posts on changes.page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"List Posts on changes_page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"list all posts on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"show all posts on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"get all posts on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"show me all posts on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"list posts via Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"list posts using Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"list posts with Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"Changes Page list all posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"Changes Page show all posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"list status update on Changes Page","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_target"}
+{"query":"Changes Page list status update","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_target"}
+{"query":"changes.page list posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"changes_page list posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"list a changes page posts","expected_action_key":"changes_page-list-posts","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"contextual"}
+{"query":"Get Post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Post in Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Changes Page get post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Post on changes.page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Post on changes_page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"get the post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"retrieve post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"fetch post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"show me the post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"pull post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"check post on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"get post via Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"get post using Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"get post with Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"Changes Page get the post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"Changes Page retrieve post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"get status update on Changes Page","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_target"}
+{"query":"Changes Page get status update","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_target"}
+{"query":"changes.page get post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"changes_page get post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"get a changes page post","expected_action_key":"changes_page-get-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"contextual"}
+{"query":"Get Pinned Post on Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Pinned Post in Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Changes Page get pinned post","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Pinned Post on changes.page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Pinned Post on changes_page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"get the pinned post on Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"Changes Page get the pinned post","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"retrieve pinned post on Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"Changes Page retrieve pinned post","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"get pinned post via Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"get pinned post using Changes Page","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"changes.page get pinned post","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"changes_page get pinned post","expected_action_key":"changes_page-get-pinned-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"Get Latest Post on Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Latest Post in Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Changes Page get latest post","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Latest Post on changes.page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"Get Latest Post on changes_page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"action_name"}
+{"query":"get the latest post on Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"Changes Page get the latest post","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"retrieve latest post on Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"canonical"}
+{"query":"Changes Page retrieve latest post","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"app_first"}
+{"query":"get latest post via Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"get latest post using Changes Page","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_prep"}
+{"query":"changes.page get latest post","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}
+{"query":"changes_page get latest post","expected_action_key":"changes_page-get-latest-post","expected_app_slug":"changes_page","app_name":"changes.page","test_type":"alt_app_name"}

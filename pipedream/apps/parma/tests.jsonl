@@ -1,0 +1,33 @@
+{"query":"Find Relationship on Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Find Relationship in Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Parma find relationship","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"search for relationship on Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"Parma search for relationship","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"look for relationship on Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"Parma look for relationship","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"search for relationship in Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"search for relationship via Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"search for relationship using Parma","expected_action_key":"parma-find-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"Create Relationship on Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Create Relationship in Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Parma create relationship","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"create a relationship on Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"Parma create a relationship","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"make a relationship on Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"Parma make a relationship","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"create relationship via Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"create relationship using Parma","expected_action_key":"parma-create-relationship","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"Create Note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Create Note in Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"Parma create note","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"action_name"}
+{"query":"create a note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"make a note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"new note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"open a note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"start a note on Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"canonical"}
+{"query":"create note via Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"create note using Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"create note with Parma","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"alt_prep"}
+{"query":"Parma create a note","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"Parma make a note","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"app_first"}
+{"query":"create a parma note","expected_action_key":"parma-create-note","expected_app_slug":"parma","app_name":"Parma","test_type":"contextual"}

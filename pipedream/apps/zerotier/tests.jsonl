@@ -1,0 +1,95 @@
+{"query":"Update Network Member on ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Update Network Member in ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier update network member","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"update the network member on ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier update the network member","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"edit the network member on ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier edit the network member","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"update network member via ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"update network member using ZeroTier","expected_action_key":"zerotier-update-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Get User on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get User in ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get user","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"retrieve user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"fetch user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"show me the user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"pull user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"check user on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"get user via ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get user using ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get user with ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"ZeroTier get the user","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"ZeroTier retrieve user","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get member on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_target"}
+{"query":"ZeroTier get member","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_target"}
+{"query":"get person on ZeroTier","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_target"}
+{"query":"ZeroTier get person","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_target"}
+{"query":"get a zerotier user","expected_action_key":"zerotier-get-user","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"contextual"}
+{"query":"Get Account Status on ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get Account Status in ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get account status","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the account status on ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier get the account status","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"retrieve account status on ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier retrieve account status","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get account status via ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get account status using ZeroTier","expected_action_key":"zerotier-get-status","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Get Networks on ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get Networks in ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get networks","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the networks on ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier get the networks","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"retrieve networks on ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier retrieve networks","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get networks via ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get networks using ZeroTier","expected_action_key":"zerotier-get-networks","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Get Network on ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get Network in ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get network","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the network on ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier get the network","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"retrieve network on ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier retrieve network","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get network via ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get network using ZeroTier","expected_action_key":"zerotier-get-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Get Network Nodes on ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get Network Nodes in ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get network nodes","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the network nodes on ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier get the network nodes","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"retrieve network nodes on ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier retrieve network nodes","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get network nodes via ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get network nodes using ZeroTier","expected_action_key":"zerotier-get-network-nodes","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Get Network Node on ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Get Network Node in ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier get network node","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"get the network node on ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier get the network node","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"retrieve network node on ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier retrieve network node","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"get network node via ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"get network node using ZeroTier","expected_action_key":"zerotier-get-network-node","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Delete Network Member on ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Delete Network Member in ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier delete network member","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"delete the network member on ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier delete the network member","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"remove the network member on ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier remove the network member","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"delete network member via ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"delete network member using ZeroTier","expected_action_key":"zerotier-delete-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Create A Network on ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Create A Network in ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier create a network","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"create network on ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier create network","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"make a network on ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"canonical"}
+{"query":"ZeroTier make a network","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"app_first"}
+{"query":"create network in ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"create network via ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"create network using ZeroTier","expected_action_key":"zerotier-create-network","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"alt_prep"}
+{"query":"Authorize Network Member on ZeroTier","expected_action_key":"zerotier-authorize-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"Authorize Network Member in ZeroTier","expected_action_key":"zerotier-authorize-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}
+{"query":"ZeroTier authorize network member","expected_action_key":"zerotier-authorize-network-member","expected_app_slug":"zerotier","app_name":"ZeroTier","test_type":"action_name"}

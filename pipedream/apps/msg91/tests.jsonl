@@ -1,0 +1,12 @@
+{"query":"Send SMS on MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}
+{"query":"Send SMS in MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}
+{"query":"MSG91 send sms","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}
+{"query":"send a sms on MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"canonical"}
+{"query":"MSG91 send a sms","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"app_first"}
+{"query":"post a sms on MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"canonical"}
+{"query":"MSG91 post a sms","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"app_first"}
+{"query":"send sms via MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"alt_prep"}
+{"query":"send sms using MSG91","expected_action_key":"msg91-send-sms","expected_app_slug":"msg91","app_name":"MSG91","test_type":"alt_prep"}
+{"query":"Launch Campaign on MSG91","expected_action_key":"msg91-launch-campaign","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}
+{"query":"Launch Campaign in MSG91","expected_action_key":"msg91-launch-campaign","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}
+{"query":"MSG91 launch campaign","expected_action_key":"msg91-launch-campaign","expected_app_slug":"msg91","app_name":"MSG91","test_type":"action_name"}

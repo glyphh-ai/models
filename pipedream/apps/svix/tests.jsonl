@@ -1,0 +1,51 @@
+{"query":"List Messages on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"List Messages in Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"Svix list messages","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"list all messages on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"show all messages on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"get all messages on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"show me all messages on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"list messages via Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"list messages using Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"list messages with Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"Svix list all messages","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"Svix show all messages","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"list msg on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix list msg","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"list chat message on Svix","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix list chat message","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"list a svix messages","expected_action_key":"svix-list-messages","expected_app_slug":"svix","app_name":"Svix","test_type":"contextual"}
+{"query":"Delete Message on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"Delete Message in Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"Svix delete message","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"delete the message on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"remove the message on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"destroy the message on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"delete message via Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"delete message using Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"delete message with Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"Svix delete the message","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"Svix remove the message","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"delete msg on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix delete msg","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"delete chat message on Svix","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix delete chat message","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"delete a svix message","expected_action_key":"svix-delete-message","expected_app_slug":"svix","app_name":"Svix","test_type":"contextual"}
+{"query":"Create Message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"Create Message in Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"Svix create message","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"action_name"}
+{"query":"create a message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"make a message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"new message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"open a message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"start a message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"canonical"}
+{"query":"create message via Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"create message using Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"create message with Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_prep"}
+{"query":"Svix create a message","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"Svix make a message","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"app_first"}
+{"query":"create msg on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix create msg","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"create chat message on Svix","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"Svix create chat message","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"alt_target"}
+{"query":"create a svix message","expected_action_key":"svix-create-message","expected_app_slug":"svix","app_name":"Svix","test_type":"contextual"}

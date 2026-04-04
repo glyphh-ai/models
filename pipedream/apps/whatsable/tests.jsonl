@@ -1,0 +1,17 @@
+{"query":"Send Message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"action_name"}
+{"query":"Send Message in WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"action_name"}
+{"query":"WhatsAble send message","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"action_name"}
+{"query":"send a message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"canonical"}
+{"query":"post a message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"canonical"}
+{"query":"send out message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"canonical"}
+{"query":"fire off message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"canonical"}
+{"query":"send message via WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_prep"}
+{"query":"send message using WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_prep"}
+{"query":"send message with WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_prep"}
+{"query":"WhatsAble send a message","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"app_first"}
+{"query":"WhatsAble post a message","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"app_first"}
+{"query":"send msg on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_target"}
+{"query":"WhatsAble send msg","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_target"}
+{"query":"send chat message on WhatsAble","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_target"}
+{"query":"WhatsAble send chat message","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"alt_target"}
+{"query":"send a whatsable message","expected_action_key":"whatsable-send-message","expected_app_slug":"whatsable","app_name":"WhatsAble","test_type":"contextual"}

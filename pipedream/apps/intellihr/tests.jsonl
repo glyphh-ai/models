@@ -1,0 +1,47 @@
+{"query":"Update Person on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"Update Person in IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"IntelliHR update person","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"update the person on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"edit the person on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"modify the person on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"change the person on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"update person via IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"update person using IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"update person with IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"IntelliHR update the person","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"IntelliHR edit the person","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"update member on IntelliHR","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"IntelliHR update member","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"update a intellihr person","expected_action_key":"intellihr-update-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"contextual"}
+{"query":"Find Person on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"Find Person in IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"IntelliHR find person","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"search for person on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"look for person on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"search person on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"locate person on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"search for person in IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"search for person via IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"search for person using IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"search for person with IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"IntelliHR search for person","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"IntelliHR look for person","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"search for member on IntelliHR","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"IntelliHR search for member","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"search for a intellihr person","expected_action_key":"intellihr-find-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"contextual"}
+{"query":"Create Person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"Create Person in IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"IntelliHR create person","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"action_name"}
+{"query":"create a person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"make a person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"new person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"open a person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"start a person on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"canonical"}
+{"query":"create person via IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"create person using IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"create person with IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_prep"}
+{"query":"IntelliHR create a person","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"IntelliHR make a person","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"app_first"}
+{"query":"create member on IntelliHR","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"IntelliHR create member","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"alt_target"}
+{"query":"create a intellihr person","expected_action_key":"intellihr-create-person","expected_app_slug":"intellihr","app_name":"IntelliHR","test_type":"contextual"}

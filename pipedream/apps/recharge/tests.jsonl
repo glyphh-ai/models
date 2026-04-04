@@ -1,0 +1,58 @@
+{"query":"Update Customer on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Update Customer in Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Recharge update customer","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"update the customer on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"edit the customer on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"modify the customer on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"change the customer on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"update customer via Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"update customer using Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"update customer with Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"Recharge update the customer","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"Recharge edit the customer","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"update account on Recharge","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"Recharge update account","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"update a recharge customer","expected_action_key":"recharge-update-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"contextual"}
+{"query":"Create Subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Create Subscription in Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Recharge create subscription","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"create a subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"make a subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"new subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"open a subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"start a subscription on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"create subscription via Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"create subscription using Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"create subscription with Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"Recharge create a subscription","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"Recharge make a subscription","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"create plan on Recharge","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"Recharge create plan","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"create a recharge subscription","expected_action_key":"recharge-create-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"contextual"}
+{"query":"Create Customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Create Customer in Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Recharge create customer","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"create a customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"make a customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"new customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"open a customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"start a customer on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"create customer via Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"create customer using Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"create customer with Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"Recharge create a customer","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"Recharge make a customer","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"create account on Recharge","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"Recharge create account","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"create a recharge customer","expected_action_key":"recharge-create-customer","expected_app_slug":"recharge","app_name":"Recharge","test_type":"contextual"}
+{"query":"Cancel Subscription on Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Cancel Subscription in Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"Recharge cancel subscription","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"action_name"}
+{"query":"cancel the subscription on Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"canonical"}
+{"query":"cancel subscription via Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"cancel subscription using Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"cancel subscription with Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_prep"}
+{"query":"Recharge cancel the subscription","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"app_first"}
+{"query":"cancel plan on Recharge","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"Recharge cancel plan","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"alt_target"}
+{"query":"cancel a recharge subscription","expected_action_key":"recharge-cancel-subscription","expected_app_slug":"recharge","app_name":"Recharge","test_type":"contextual"}

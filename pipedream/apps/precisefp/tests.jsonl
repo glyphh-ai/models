@@ -1,0 +1,14 @@
+{"query":"Create Account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"action_name"}
+{"query":"Create Account in PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"action_name"}
+{"query":"PreciseFP create account","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"action_name"}
+{"query":"create a account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"canonical"}
+{"query":"make a account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"canonical"}
+{"query":"new account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"canonical"}
+{"query":"open a account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"canonical"}
+{"query":"start a account on PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"canonical"}
+{"query":"create account via PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"alt_prep"}
+{"query":"create account using PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"alt_prep"}
+{"query":"create account with PreciseFP","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"alt_prep"}
+{"query":"PreciseFP create a account","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"app_first"}
+{"query":"PreciseFP make a account","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"app_first"}
+{"query":"create a precisefp account","expected_action_key":"precisefp-create-account","expected_app_slug":"precisefp","app_name":"PreciseFP","test_type":"contextual"}

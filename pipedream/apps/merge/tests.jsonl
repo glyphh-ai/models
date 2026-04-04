@@ -1,0 +1,36 @@
+{"query":"Update Candidate on Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Update Candidate in Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Merge update candidate","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"update the candidate on Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"edit the candidate on Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"modify the candidate on Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"change the candidate on Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"update candidate via Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"update candidate using Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"update candidate with Merge","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"Merge update the candidate","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"Merge edit the candidate","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"update a merge candidate","expected_action_key":"merge-update-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"contextual"}
+{"query":"Create Candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Create Candidate in Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Merge create candidate","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"create a candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"make a candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"new candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"open a candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"start a candidate on Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"create candidate via Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"create candidate using Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"create candidate with Merge","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"Merge create a candidate","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"Merge make a candidate","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"create a merge candidate","expected_action_key":"merge-create-candidate","expected_app_slug":"merge","app_name":"Merge","test_type":"contextual"}
+{"query":"Create Activity on Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Create Activity in Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"Merge create activity","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"action_name"}
+{"query":"create a activity on Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"Merge create a activity","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"make a activity on Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"canonical"}
+{"query":"Merge make a activity","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"app_first"}
+{"query":"create activity via Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}
+{"query":"create activity using Merge","expected_action_key":"merge-create-activity","expected_app_slug":"merge","app_name":"Merge","test_type":"alt_prep"}

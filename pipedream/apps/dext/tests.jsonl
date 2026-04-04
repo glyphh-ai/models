@@ -1,0 +1,26 @@
+{"query":"Get Client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"Get Client in Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"Dext get client","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"get the client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"retrieve client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"fetch client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"show me the client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"pull client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"check client on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"get client via Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_prep"}
+{"query":"get client using Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_prep"}
+{"query":"get client with Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_prep"}
+{"query":"Dext get the client","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"app_first"}
+{"query":"Dext retrieve client","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"app_first"}
+{"query":"get account on Dext","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_target"}
+{"query":"Dext get account","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_target"}
+{"query":"get a dext client","expected_action_key":"dext-get-client","expected_app_slug":"dext","app_name":"Dext","test_type":"contextual"}
+{"query":"Get Client Activity Stats on Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"Get Client Activity Stats in Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"Dext get client activity stats","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"action_name"}
+{"query":"get the client activity stats on Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"Dext get the client activity stats","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"app_first"}
+{"query":"retrieve client activity stats on Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"canonical"}
+{"query":"Dext retrieve client activity stats","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"app_first"}
+{"query":"get client activity stats via Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_prep"}
+{"query":"get client activity stats using Dext","expected_action_key":"dext-get-client-activity-stats","expected_app_slug":"dext","app_name":"Dext","test_type":"alt_prep"}

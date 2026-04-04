@@ -1,0 +1,61 @@
+{"query":"Get Post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Get Post in Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Canny get post","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"get the post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"retrieve post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"fetch post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"show me the post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"pull post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"check post on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"get post via Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"get post using Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"get post with Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"Canny get the post","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"Canny retrieve post","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"get status update on Canny","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"Canny get status update","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"get a canny post","expected_action_key":"canny-get-post","expected_app_slug":"canny","app_name":"Canny","test_type":"contextual"}
+{"query":"Create Post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Create Post in Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Canny create post","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"create a post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"make a post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"new post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"open a post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"start a post on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"create post via Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"create post using Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"create post with Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"Canny create a post","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"Canny make a post","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"create status update on Canny","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"Canny create status update","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"create a canny post","expected_action_key":"canny-create-post","expected_app_slug":"canny","app_name":"Canny","test_type":"contextual"}
+{"query":"Create Comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Create Comment in Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Canny create comment","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"create a comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"make a comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"new comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"open a comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"start a comment on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"create comment via Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"create comment using Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"create comment with Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"Canny create a comment","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"Canny make a comment","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"create note on Canny","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"Canny create note","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_target"}
+{"query":"create a canny comment","expected_action_key":"canny-create-comment","expected_app_slug":"canny","app_name":"Canny","test_type":"contextual"}
+{"query":"Change Post Status on Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Change Post Status in Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"Canny change post status","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"action_name"}
+{"query":"update post status on Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"Canny update post status","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"update the post status on Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"Canny update the post status","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"edit the post status on Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"canonical"}
+{"query":"Canny edit the post status","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"app_first"}
+{"query":"update post status in Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"update post status via Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}
+{"query":"update post status using Canny","expected_action_key":"canny-change-post-status","expected_app_slug":"canny","app_name":"Canny","test_type":"alt_prep"}

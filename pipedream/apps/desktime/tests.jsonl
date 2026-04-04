@@ -1,0 +1,18 @@
+{"query":"Stop Project on DeskTime","expected_action_key":"desktime-stop-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"Stop Project in DeskTime","expected_action_key":"desktime-stop-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"DeskTime stop project","expected_action_key":"desktime-stop-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"Start Project on DeskTime","expected_action_key":"desktime-start-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"Start Project in DeskTime","expected_action_key":"desktime-start-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"DeskTime start project","expected_action_key":"desktime-start-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"Create a New Project with an optional task on DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"Create a New Project with an optional task in DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"DeskTime create a new project with an optional task","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"action_name"}
+{"query":"create new project optional task on DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"canonical"}
+{"query":"DeskTime create new project optional task","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"app_first"}
+{"query":"create a new project optional task on DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"canonical"}
+{"query":"DeskTime create a new project optional task","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"app_first"}
+{"query":"make a new project optional task on DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"canonical"}
+{"query":"DeskTime make a new project optional task","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"app_first"}
+{"query":"create new project optional task in DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"alt_prep"}
+{"query":"create new project optional task via DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"alt_prep"}
+{"query":"create new project optional task using DeskTime","expected_action_key":"desktime-create-project","expected_app_slug":"desktime","app_name":"DeskTime","test_type":"alt_prep"}

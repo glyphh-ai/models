@@ -1,0 +1,25 @@
+{"query":"Send Text Message on JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"Send Text Message in JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"JustCall send text message","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"send a text message on JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"JustCall send a text message","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"app_first"}
+{"query":"post a text message on JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"JustCall post a text message","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"app_first"}
+{"query":"send text message via JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_prep"}
+{"query":"send text message using JustCall","expected_action_key":"justcall-send-text-message","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_prep"}
+{"query":"Create Contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"Create Contact in JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"JustCall create contact","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"action_name"}
+{"query":"create a contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"make a contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"new contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"open a contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"start a contact on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"canonical"}
+{"query":"create contact via JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_prep"}
+{"query":"create contact using JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_prep"}
+{"query":"create contact with JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_prep"}
+{"query":"JustCall create a contact","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"app_first"}
+{"query":"JustCall make a contact","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"app_first"}
+{"query":"create contact record on JustCall","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_target"}
+{"query":"JustCall create contact record","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"alt_target"}
+{"query":"create a justcall contact","expected_action_key":"justcall-create-contact","expected_app_slug":"justcall","app_name":"JustCall","test_type":"contextual"}

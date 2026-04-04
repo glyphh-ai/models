@@ -1,0 +1,63 @@
+{"query":"Send Invoice on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Send Invoice in Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Square send invoice","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"send a invoice on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"post a invoice on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"send out invoice on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"fire off invoice on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"send invoice via Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"send invoice using Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"send invoice with Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"Square send a invoice","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"Square post a invoice","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"send bill on Square","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"Square send bill","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"send a square invoice","expected_action_key":"square-send-invoice","expected_app_slug":"square","app_name":"Square","test_type":"contextual"}
+{"query":"Create Order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Create Order in Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Square create order","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"create a order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"make a order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"new order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"open a order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"start a order on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"create order via Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create order using Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create order with Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"Square create a order","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"Square make a order","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"create purchase on Square","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"Square create purchase","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"create a square order","expected_action_key":"square-create-order","expected_app_slug":"square","app_name":"Square","test_type":"contextual"}
+{"query":"Create Invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Create Invoice in Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Square create invoice","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"create a invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"make a invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"new invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"open a invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"start a invoice on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"create invoice via Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create invoice using Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create invoice with Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"Square create a invoice","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"Square make a invoice","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"create bill on Square","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"Square create bill","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"create a square invoice","expected_action_key":"square-create-invoice","expected_app_slug":"square","app_name":"Square","test_type":"contextual"}
+{"query":"Create Customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Create Customer in Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"Square create customer","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"action_name"}
+{"query":"create a customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"make a customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"new customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"open a customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"start a customer on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"canonical"}
+{"query":"create customer via Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create customer using Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"create customer with Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"alt_prep"}
+{"query":"Square create a customer","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"Square make a customer","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"app_first"}
+{"query":"create account on Square","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"Square create account","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"alt_target"}
+{"query":"create a square customer","expected_action_key":"square-create-customer","expected_app_slug":"square","app_name":"Square","test_type":"contextual"}

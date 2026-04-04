@@ -1,0 +1,10 @@
+{"query":"Create a Pin on Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"action_name"}
+{"query":"Create a Pin in Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"action_name"}
+{"query":"Pinterest create a pin","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"action_name"}
+{"query":"create pin on Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"canonical"}
+{"query":"Pinterest create pin","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"app_first"}
+{"query":"make a pin on Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"canonical"}
+{"query":"Pinterest make a pin","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"app_first"}
+{"query":"create pin in Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"alt_prep"}
+{"query":"create pin via Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"alt_prep"}
+{"query":"create pin using Pinterest","expected_action_key":"pinterest-create-pin","expected_app_slug":"pinterest","app_name":"Pinterest","test_type":"alt_prep"}

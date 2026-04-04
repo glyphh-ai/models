@@ -1,0 +1,51 @@
+{"query":"Update User on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Update User in Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Ayrshare update user","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"update the user on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"edit the user on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"modify the user on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"change the user on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"update user via Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"update user using Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"update user with Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"Ayrshare update the user","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"Ayrshare edit the user","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"update member on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare update member","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"update person on Ayrshare","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare update person","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"update a ayrshare user","expected_action_key":"ayrshare-update-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"contextual"}
+{"query":"Delete User on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Delete User in Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Ayrshare delete user","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"delete the user on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"remove the user on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"destroy the user on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"delete user via Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"delete user using Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"delete user with Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"Ayrshare delete the user","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"Ayrshare remove the user","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"delete member on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare delete member","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"delete person on Ayrshare","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare delete person","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"delete a ayrshare user","expected_action_key":"ayrshare-delete-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"contextual"}
+{"query":"Create User on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Create User in Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"Ayrshare create user","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"action_name"}
+{"query":"create a user on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"make a user on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"new user on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"open a user on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"start a user on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"canonical"}
+{"query":"create user via Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"create user using Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"create user with Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_prep"}
+{"query":"Ayrshare create a user","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"Ayrshare make a user","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"app_first"}
+{"query":"create member on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare create member","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"create person on Ayrshare","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"Ayrshare create person","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"alt_target"}
+{"query":"create a ayrshare user","expected_action_key":"ayrshare-create-user","expected_app_slug":"ayrshare","app_name":"Ayrshare","test_type":"contextual"}

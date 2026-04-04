@@ -1,0 +1,82 @@
+{"query":"Update Feature Flag on LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Update Feature Flag in LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly update feature flag","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"update the feature flag on LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly update the feature flag","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"edit the feature flag on LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly edit the feature flag","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"update feature flag via LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"update feature flag using LaunchDarkly","expected_action_key":"launchdarkly-update-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"Toggle Feature Flag on LaunchDarkly","expected_action_key":"launchdarkly-toggle-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Toggle Feature Flag in LaunchDarkly","expected_action_key":"launchdarkly-toggle-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly toggle feature flag","expected_action_key":"launchdarkly-toggle-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"List Projects on LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"List Projects in LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly list projects","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"list all projects on LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly list all projects","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"show all projects on LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly show all projects","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"list projects via LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"list projects using LaunchDarkly","expected_action_key":"launchdarkly-list-projects","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"List Members on LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"List Members in LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly list members","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"list all members on LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"show all members on LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"get all members on LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"show me all members on LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"list members via LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"list members using LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"list members with LaunchDarkly","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"LaunchDarkly list all members","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"LaunchDarkly show all members","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"list a launchdarkly members","expected_action_key":"launchdarkly-list-members","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"contextual"}
+{"query":"List Feature Flags on LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"List Feature Flags in LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly list feature flags","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"list all feature flags on LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly list all feature flags","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"show all feature flags on LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly show all feature flags","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"list feature flags via LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"list feature flags using LaunchDarkly","expected_action_key":"launchdarkly-list-feature-flags","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"List Environments on LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"List Environments in LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly list environments","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"list all environments on LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly list all environments","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"show all environments on LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly show all environments","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"list environments via LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"list environments using LaunchDarkly","expected_action_key":"launchdarkly-list-environments","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"Get Project on LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Get Project in LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly get project","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"get the project on LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly get the project","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"retrieve project on LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly retrieve project","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"get project via LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"get project using LaunchDarkly","expected_action_key":"launchdarkly-get-project","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"Get Feature Flag on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Get Feature Flag in LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly get feature flag","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"get the feature flag on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly get the feature flag","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"retrieve feature flag on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly retrieve feature flag","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"get feature flag via LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"get feature flag using LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"Get Feature Flag Status on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Get Feature Flag Status in LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly get feature flag status","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"get the feature flag status on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly get the feature flag status","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"retrieve feature flag status on LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"canonical"}
+{"query":"LaunchDarkly retrieve feature flag status","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"app_first"}
+{"query":"get feature flag status via LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"get feature flag status using LaunchDarkly","expected_action_key":"launchdarkly-get-feature-flag-status","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"alt_prep"}
+{"query":"Evaluate Feature Flag on LaunchDarkly","expected_action_key":"launchdarkly-evaluate-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"Evaluate Feature Flag in LaunchDarkly","expected_action_key":"launchdarkly-evaluate-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}
+{"query":"LaunchDarkly evaluate feature flag","expected_action_key":"launchdarkly-evaluate-feature-flag","expected_app_slug":"launchdarkly","app_name":"LaunchDarkly","test_type":"action_name"}

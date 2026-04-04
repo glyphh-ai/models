@@ -1,0 +1,55 @@
+{"query":"Create Task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Create Task in Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Nifty create task","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"create a task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"make a task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"new task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"open a task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"start a task on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"create task via Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"create task using Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"create task with Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"Nifty create a task","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"Nifty make a task","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"create story on Nifty","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"Nifty create story","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"create a nifty task","expected_action_key":"nifty-create-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"contextual"}
+{"query":"Create Project on Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Create Project in Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Nifty create project","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"create a project on Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"Nifty create a project","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"make a project on Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"Nifty make a project","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"create project via Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"create project using Nifty","expected_action_key":"nifty-create-project","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"Create Message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Create Message in Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Nifty create message","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"create a message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"make a message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"new message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"open a message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"start a message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"create message via Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"create message using Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"create message with Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"Nifty create a message","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"Nifty make a message","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"create msg on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"Nifty create msg","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"create chat message on Nifty","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"Nifty create chat message","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_target"}
+{"query":"create a nifty message","expected_action_key":"nifty-create-message","expected_app_slug":"nifty","app_name":"Nifty","test_type":"contextual"}
+{"query":"Assign Task to Team Member on Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Assign Task to Team Member in Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"Nifty assign task to team member","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"action_name"}
+{"query":"assign task team member on Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"Nifty assign task team member","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"assign the task team member on Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"Nifty assign the task team member","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"assign a task team member on Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"canonical"}
+{"query":"Nifty assign a task team member","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"app_first"}
+{"query":"assign task team member in Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"assign task team member via Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}
+{"query":"assign task team member using Nifty","expected_action_key":"nifty-assign-task","expected_app_slug":"nifty","app_name":"Nifty","test_type":"alt_prep"}

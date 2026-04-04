@@ -1,0 +1,18 @@
+{"query":"New Task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"action_name"}
+{"query":"New Task in Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"action_name"}
+{"query":"Wrike new task","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"action_name"}
+{"query":"create task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"canonical"}
+{"query":"create a task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"canonical"}
+{"query":"make a task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"canonical"}
+{"query":"open a task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"canonical"}
+{"query":"start a task on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"canonical"}
+{"query":"create task in Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_prep"}
+{"query":"create task via Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_prep"}
+{"query":"create task using Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_prep"}
+{"query":"create task with Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_prep"}
+{"query":"Wrike create task","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"app_first"}
+{"query":"Wrike create a task","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"app_first"}
+{"query":"Wrike make a task","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"app_first"}
+{"query":"create story on Wrike","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_target"}
+{"query":"Wrike create story","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"alt_target"}
+{"query":"create a wrike task","expected_action_key":"wrike-new-task","expected_app_slug":"wrike","app_name":"Wrike","test_type":"contextual"}

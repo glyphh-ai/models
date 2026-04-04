@@ -1,0 +1,69 @@
+{"query":"Log Time on Task on Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Log Time on Task in Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Magnetic log time on task","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"track time task on Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"Magnetic track time task","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"track a time task on Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"Magnetic track a time task","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"log time task on Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"Magnetic log time task","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"track time task in Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"track time task via Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"track time task using Magnetic","expected_action_key":"magnetic-log-time-on-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"Find Task on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Find Task in Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Magnetic find task","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"search for task on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"look for task on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"search task on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"locate task on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"search for task in Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"search for task via Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"search for task using Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"search for task with Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"Magnetic search for task","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"Magnetic look for task","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"search for story on Magnetic","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"Magnetic search for story","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"search for a magnetic task","expected_action_key":"magnetic-find-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"contextual"}
+{"query":"Create Task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Create Task in Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Magnetic create task","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"create a task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"make a task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"new task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"open a task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"start a task on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"create task via Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"create task using Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"create task with Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"Magnetic create a task","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"Magnetic make a task","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"create story on Magnetic","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"Magnetic create story","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"create a magnetic task","expected_action_key":"magnetic-create-task","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"contextual"}
+{"query":"Create Opportunity/Job on Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Create Opportunity/Job in Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Magnetic create opportunity/job","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"create a opportunity/job on Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"Magnetic create a opportunity/job","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"make a opportunity/job on Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"Magnetic make a opportunity/job","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"create opportunity/job via Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"create opportunity/job using Magnetic","expected_action_key":"magnetic-create-grouping","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"Create Contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Create Contact in Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"Magnetic create contact","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"action_name"}
+{"query":"create a contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"make a contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"new contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"open a contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"start a contact on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"canonical"}
+{"query":"create contact via Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"create contact using Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"create contact with Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_prep"}
+{"query":"Magnetic create a contact","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"Magnetic make a contact","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"app_first"}
+{"query":"create contact record on Magnetic","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"Magnetic create contact record","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"alt_target"}
+{"query":"create a magnetic contact","expected_action_key":"magnetic-create-contact","expected_app_slug":"magnetic","app_name":"Magnetic","test_type":"contextual"}

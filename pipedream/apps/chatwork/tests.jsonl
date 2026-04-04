@@ -1,0 +1,48 @@
+{"query":"Create Task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Create Task in Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Chatwork create task","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"create a task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"make a task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"new task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"open a task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"start a task on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"create task via Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create task using Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create task with Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"Chatwork create a task","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"Chatwork make a task","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"create story on Chatwork","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"Chatwork create story","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"create a chatwork task","expected_action_key":"chatwork-create-task","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"contextual"}
+{"query":"Create Room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Create Room in Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Chatwork create room","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"create a room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"make a room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"new room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"open a room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"start a room on Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"create room via Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create room using Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create room with Chatwork","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"Chatwork create a room","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"Chatwork make a room","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"create a chatwork room","expected_action_key":"chatwork-create-room","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"contextual"}
+{"query":"Create Message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Create Message in Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"Chatwork create message","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"action_name"}
+{"query":"create a message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"make a message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"new message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"open a message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"start a message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"canonical"}
+{"query":"create message via Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create message using Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"create message with Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_prep"}
+{"query":"Chatwork create a message","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"Chatwork make a message","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"app_first"}
+{"query":"create msg on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"Chatwork create msg","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"create chat message on Chatwork","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"Chatwork create chat message","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"alt_target"}
+{"query":"create a chatwork message","expected_action_key":"chatwork-create-message","expected_app_slug":"chatwork","app_name":"Chatwork","test_type":"contextual"}

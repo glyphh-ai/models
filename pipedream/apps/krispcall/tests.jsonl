@@ -1,0 +1,45 @@
+{"query":"Send New SMS on KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"Send New SMS in KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"KrispCall send new sms","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"send a new sms on KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"KrispCall send a new sms","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"post a new sms on KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"KrispCall post a new sms","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"send new sms via KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"send new sms using KrispCall","expected_action_key":"krispcall-new-sms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"Send New MMS on KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"Send New MMS in KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"KrispCall send new mms","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"send a new mms on KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"KrispCall send a new mms","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"post a new mms on KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"KrispCall post a new mms","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"send new mms via KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"send new mms using KrispCall","expected_action_key":"krispcall-new-mms","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"Delete Contact on KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"Delete Contact in KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"KrispCall delete contact","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"delete the contact on KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"remove the contact on KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"destroy the contact on KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"delete contact via KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"delete contact using KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"delete contact with KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"KrispCall delete the contact","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"KrispCall remove the contact","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"delete contact record on KrispCall","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_target"}
+{"query":"KrispCall delete contact record","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_target"}
+{"query":"delete a krispcall contact","expected_action_key":"krispcall-delete-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"contextual"}
+{"query":"Add Contact on KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"Add Contact in KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"KrispCall add contact","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"action_name"}
+{"query":"add a contact on KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"add new contact on KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"canonical"}
+{"query":"add contact via KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"add contact using KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"add contact with KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_prep"}
+{"query":"KrispCall add a contact","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"KrispCall add new contact","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"app_first"}
+{"query":"add contact record on KrispCall","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_target"}
+{"query":"KrispCall add contact record","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"alt_target"}
+{"query":"add a krispcall contact","expected_action_key":"krispcall-add-contact","expected_app_slug":"krispcall","app_name":"KrispCall","test_type":"contextual"}

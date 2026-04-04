@@ -1,0 +1,31 @@
+{"query":"Validate Address on TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"Validate Address in TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"TaxJar validate address","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"add address on TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"TaxJar add address","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"app_first"}
+{"query":"add a address on TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"TaxJar add a address","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"app_first"}
+{"query":"add new address on TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"TaxJar add new address","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"app_first"}
+{"query":"add address in TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"add address via TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"add address using TaxJar","expected_action_key":"taxjar-validate-address","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"Create Customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"Create Customer in TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"TaxJar create customer","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"create a customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"make a customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"new customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"open a customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"start a customer on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"canonical"}
+{"query":"create customer via TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"create customer using TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"create customer with TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_prep"}
+{"query":"TaxJar create a customer","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"app_first"}
+{"query":"TaxJar make a customer","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"app_first"}
+{"query":"create account on TaxJar","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_target"}
+{"query":"TaxJar create account","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"alt_target"}
+{"query":"create a taxjar customer","expected_action_key":"taxjar-create-customer","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"contextual"}
+{"query":"Calculate Sales Tax on TaxJar","expected_action_key":"taxjar-calculate-sales-tax","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"Calculate Sales Tax in TaxJar","expected_action_key":"taxjar-calculate-sales-tax","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}
+{"query":"TaxJar calculate sales tax","expected_action_key":"taxjar-calculate-sales-tax","expected_app_slug":"taxjar","app_name":"TaxJar","test_type":"action_name"}

@@ -1,0 +1,66 @@
+{"query":"Update Member on Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Update Member in Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Memberstack update member","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"update the member on Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"edit the member on Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"modify the member on Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"change the member on Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"update member via Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"update member using Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"update member with Memberstack","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"Memberstack update the member","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"Memberstack edit the member","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"update a memberstack member","expected_action_key":"memberstack-update-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"contextual"}
+{"query":"List Members on Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"List Members in Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Memberstack list members","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"list all members on Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"show all members on Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"get all members on Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"show me all members on Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"list members via Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"list members using Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"list members with Memberstack","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"Memberstack list all members","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"Memberstack show all members","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"list a memberstack members","expected_action_key":"memberstack-list-members","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"contextual"}
+{"query":"Find Member on Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Find Member in Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Memberstack find member","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"search for member on Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"look for member on Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"search member on Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"locate member on Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"search for member in Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"search for member via Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"search for member using Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"search for member with Memberstack","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"Memberstack search for member","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"Memberstack look for member","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"search for a memberstack member","expected_action_key":"memberstack-find-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"contextual"}
+{"query":"Delete Member on Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Delete Member in Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Memberstack delete member","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"delete the member on Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"remove the member on Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"destroy the member on Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"delete member via Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"delete member using Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"delete member with Memberstack","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"Memberstack delete the member","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"Memberstack remove the member","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"delete a memberstack member","expected_action_key":"memberstack-delete-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"contextual"}
+{"query":"Create Member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Create Member in Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"Memberstack create member","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"action_name"}
+{"query":"create a member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"make a member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"new member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"open a member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"start a member on Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"canonical"}
+{"query":"create member via Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"create member using Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"create member with Memberstack","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"alt_prep"}
+{"query":"Memberstack create a member","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"Memberstack make a member","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"app_first"}
+{"query":"create a memberstack member","expected_action_key":"memberstack-create-member","expected_app_slug":"memberstack","app_name":"Memberstack","test_type":"contextual"}

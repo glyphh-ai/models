@@ -1,0 +1,51 @@
+{"query":"Update Note on Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Update Note in Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Rinkel update note","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"update the note on Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"edit the note on Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"modify the note on Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"change the note on Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"update note via Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"update note using Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"update note with Rinkel","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"Rinkel update the note","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"Rinkel edit the note","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"update a rinkel note","expected_action_key":"rinkel-update-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"contextual"}
+{"query":"Get Voicemail on Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Get Voicemail in Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Rinkel get voicemail","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"get the voicemail on Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel get the voicemail","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"retrieve voicemail on Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel retrieve voicemail","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"get voicemail via Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"get voicemail using Rinkel","expected_action_key":"rinkel-get-voicemail","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"Get Call Recording on Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Get Call Recording in Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Rinkel get call recording","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"get the call recording on Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel get the call recording","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"retrieve call recording on Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel retrieve call recording","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"get call recording via Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"get call recording using Rinkel","expected_action_key":"rinkel-get-call-recording","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"Get Call Details on Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Get Call Details in Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Rinkel get call details","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"get the call details on Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel get the call details","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"retrieve call details on Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"Rinkel retrieve call details","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"get call details via Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"get call details using Rinkel","expected_action_key":"rinkel-get-call-details","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"Add Note on Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Add Note in Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"Rinkel add note","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"action_name"}
+{"query":"add a note on Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"add new note on Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"canonical"}
+{"query":"add note via Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"add note using Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"add note with Rinkel","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"alt_prep"}
+{"query":"Rinkel add a note","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"Rinkel add new note","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"app_first"}
+{"query":"add a rinkel note","expected_action_key":"rinkel-add-note","expected_app_slug":"rinkel","app_name":"Rinkel","test_type":"contextual"}

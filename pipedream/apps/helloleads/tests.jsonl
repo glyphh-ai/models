@@ -1,0 +1,16 @@
+{"query":"Create Lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"action_name"}
+{"query":"Create Lead in HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"action_name"}
+{"query":"HelloLeads create lead","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"action_name"}
+{"query":"create a lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"canonical"}
+{"query":"make a lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"canonical"}
+{"query":"new lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"canonical"}
+{"query":"open a lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"canonical"}
+{"query":"start a lead on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"canonical"}
+{"query":"create lead via HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"alt_prep"}
+{"query":"create lead using HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"alt_prep"}
+{"query":"create lead with HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"alt_prep"}
+{"query":"HelloLeads create a lead","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"app_first"}
+{"query":"HelloLeads make a lead","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"app_first"}
+{"query":"create contact record on HelloLeads","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"alt_target"}
+{"query":"HelloLeads create contact record","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"alt_target"}
+{"query":"create a helloleads lead","expected_action_key":"helloleads-create-lead","expected_app_slug":"helloleads","app_name":"HelloLeads","test_type":"contextual"}

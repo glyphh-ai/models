@@ -1,0 +1,28 @@
+{"query":"Mark Invoice Paid on LimoExpress","expected_action_key":"limoexpress-mark-invoice-paid","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"Mark Invoice Paid in LimoExpress","expected_action_key":"limoexpress-mark-invoice-paid","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"LimoExpress mark invoice paid","expected_action_key":"limoexpress-mark-invoice-paid","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"Create Client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"Create Client in LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"LimoExpress create client","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"create a client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"make a client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"new client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"open a client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"start a client on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"create client via LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_prep"}
+{"query":"create client using LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_prep"}
+{"query":"create client with LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_prep"}
+{"query":"LimoExpress create a client","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"app_first"}
+{"query":"LimoExpress make a client","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"app_first"}
+{"query":"create account on LimoExpress","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_target"}
+{"query":"LimoExpress create account","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_target"}
+{"query":"create a limoexpress client","expected_action_key":"limoexpress-create-client","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"contextual"}
+{"query":"Create Limo Booking on LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"Create Limo Booking in LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"LimoExpress create limo booking","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"action_name"}
+{"query":"create a limo booking on LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"LimoExpress create a limo booking","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"app_first"}
+{"query":"make a limo booking on LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"canonical"}
+{"query":"LimoExpress make a limo booking","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"app_first"}
+{"query":"create limo booking via LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_prep"}
+{"query":"create limo booking using LimoExpress","expected_action_key":"limoexpress-create-booking","expected_app_slug":"limoexpress","app_name":"LimoExpress","test_type":"alt_prep"}

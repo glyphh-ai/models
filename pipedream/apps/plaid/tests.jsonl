@@ -1,0 +1,54 @@
+{"query":"Get Transactions on Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Get Transactions in Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Plaid get transactions","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"get the transactions on Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid get the transactions","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"retrieve transactions on Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid retrieve transactions","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"get transactions via Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"get transactions using Plaid","expected_action_key":"plaid-get-transactions","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"Get Real-Time Balance on Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Get Real-Time Balance in Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Plaid get real-time balance","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"get the real-time balance on Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid get the real-time balance","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"retrieve real-time balance on Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid retrieve real-time balance","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"get real-time balance via Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"get real-time balance using Plaid","expected_action_key":"plaid-get-real-time-balance","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"Create User on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Create User in Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Plaid create user","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"create a user on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"make a user on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"new user on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"open a user on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"start a user on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"create user via Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"create user using Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"create user with Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"Plaid create a user","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"Plaid make a user","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"create member on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_target"}
+{"query":"Plaid create member","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_target"}
+{"query":"create person on Plaid","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_target"}
+{"query":"Plaid create person","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_target"}
+{"query":"create a plaid user","expected_action_key":"plaid-create-user","expected_app_slug":"plaid","app_name":"Plaid","test_type":"contextual"}
+{"query":"Create Sandbox Public Token on Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Create Sandbox Public Token in Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Plaid create sandbox public token","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"create a sandbox public token on Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid create a sandbox public token","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"make a sandbox public token on Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid make a sandbox public token","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"create sandbox public token via Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"create sandbox public token using Plaid","expected_action_key":"plaid-create-sandbox-public-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"Create Access Token on Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Create Access Token in Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"Plaid create access token","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"action_name"}
+{"query":"create a access token on Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid create a access token","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"make a access token on Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"canonical"}
+{"query":"Plaid make a access token","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"app_first"}
+{"query":"create access token via Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}
+{"query":"create access token using Plaid","expected_action_key":"plaid-create-access-token","expected_app_slug":"plaid","app_name":"Plaid","test_type":"alt_prep"}

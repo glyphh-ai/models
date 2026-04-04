@@ -1,0 +1,75 @@
+{"query":"List Time Entries on Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"List Time Entries in Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify list time entries","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"list all time entries on Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify list all time entries","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"show all time entries on Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify show all time entries","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"list time entries via Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"list time entries using Clockify","expected_action_key":"clockify-list-time-entries","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"List Tasks on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"List Tasks in Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify list tasks","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"list all tasks on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"show all tasks on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"get all tasks on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"show me all tasks on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"list tasks via Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"list tasks using Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"list tasks with Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"Clockify list all tasks","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"Clockify show all tasks","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"list story on Clockify","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_target"}
+{"query":"Clockify list story","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_target"}
+{"query":"list a clockify tasks","expected_action_key":"clockify-list-tasks","expected_app_slug":"clockify","app_name":"Clockify","test_type":"contextual"}
+{"query":"List Projects on Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"List Projects in Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify list projects","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"list all projects on Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify list all projects","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"show all projects on Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify show all projects","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"list projects via Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"list projects using Clockify","expected_action_key":"clockify-list-projects","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"Get Time Entry Report on Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Get Time Entry Report in Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify get time entry report","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"get the time entry report on Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify get the time entry report","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"retrieve time entry report on Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify retrieve time entry report","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"get time entry report via Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"get time entry report using Clockify","expected_action_key":"clockify-get-time-entry-report","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"Create Project on Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Create Project in Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify create project","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"create a project on Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify create a project","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"make a project on Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify make a project","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"create project via Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"create project using Clockify","expected_action_key":"clockify-create-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"Add Task To Project on Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Add Task To Project in Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify add task to project","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"add task project on Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add task project","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add a task project on Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add a task project","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add new task project on Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add new task project","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add task project in Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"add task project via Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"add task project using Clockify","expected_action_key":"clockify-add-task-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"Add Members To Project on Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Add Members To Project in Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"Clockify add members to project","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"action_name"}
+{"query":"add members project on Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add members project","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add a members project on Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add a members project","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add new members project on Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"canonical"}
+{"query":"Clockify add new members project","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"app_first"}
+{"query":"add members project in Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"add members project via Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}
+{"query":"add members project using Clockify","expected_action_key":"clockify-add-members-to-project","expected_app_slug":"clockify","app_name":"Clockify","test_type":"alt_prep"}

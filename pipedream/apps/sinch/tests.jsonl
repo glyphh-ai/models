@@ -1,0 +1,26 @@
+{"query":"Send Message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"Send Message in Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"Sinch send message","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"send a message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"post a message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"send out message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"fire off message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"send message via Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_prep"}
+{"query":"send message using Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_prep"}
+{"query":"send message with Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_prep"}
+{"query":"Sinch send a message","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"app_first"}
+{"query":"Sinch post a message","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"app_first"}
+{"query":"send msg on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_target"}
+{"query":"Sinch send msg","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_target"}
+{"query":"send chat message on Sinch","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_target"}
+{"query":"Sinch send chat message","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_target"}
+{"query":"send a sinch message","expected_action_key":"sinch-send-message","expected_app_slug":"sinch","app_name":"Sinch","test_type":"contextual"}
+{"query":"Send Fax on Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"Send Fax in Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"Sinch send fax","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"action_name"}
+{"query":"send a fax on Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"Sinch send a fax","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"app_first"}
+{"query":"post a fax on Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"canonical"}
+{"query":"Sinch post a fax","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"app_first"}
+{"query":"send fax via Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_prep"}
+{"query":"send fax using Sinch","expected_action_key":"sinch-send-fax","expected_app_slug":"sinch","app_name":"Sinch","test_type":"alt_prep"}

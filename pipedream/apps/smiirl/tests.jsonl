@@ -1,0 +1,15 @@
+{"query":"Update count on Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Update count in Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Smiirl update count","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"update the count on Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"canonical"}
+{"query":"Smiirl update the count","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"app_first"}
+{"query":"edit the count on Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"canonical"}
+{"query":"Smiirl edit the count","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"app_first"}
+{"query":"update count via Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"alt_prep"}
+{"query":"update count using Smiirl","expected_action_key":"smiirl-update-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"alt_prep"}
+{"query":"Reset count on Smiirl","expected_action_key":"smiirl-reset-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Reset count in Smiirl","expected_action_key":"smiirl-reset-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Smiirl reset count","expected_action_key":"smiirl-reset-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Increment count on Smiirl","expected_action_key":"smiirl-increment-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Increment count in Smiirl","expected_action_key":"smiirl-increment-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}
+{"query":"Smiirl increment count","expected_action_key":"smiirl-increment-count","expected_app_slug":"smiirl","app_name":"Smiirl","test_type":"action_name"}

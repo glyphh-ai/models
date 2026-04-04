@@ -1,0 +1,24 @@
+{"query":"Stop Time Entry on Harvest","expected_action_key":"harvest-stop-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Stop Time Entry in Harvest","expected_action_key":"harvest-stop-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Harvest stop time entry","expected_action_key":"harvest-stop-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Start Time Entry on Harvest","expected_action_key":"harvest-start-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Start Time Entry in Harvest","expected_action_key":"harvest-start-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Harvest start time entry","expected_action_key":"harvest-start-timer","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Get Projects on Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Get Projects in Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Harvest get projects","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"get the projects on Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"canonical"}
+{"query":"Harvest get the projects","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"app_first"}
+{"query":"retrieve projects on Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"canonical"}
+{"query":"Harvest retrieve projects","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"app_first"}
+{"query":"get projects via Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"alt_prep"}
+{"query":"get projects using Harvest","expected_action_key":"harvest-get-projects","expected_app_slug":"harvest","app_name":"Harvest","test_type":"alt_prep"}
+{"query":"Create Timesheet Entry on Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Create Timesheet Entry in Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"Harvest create timesheet entry","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"action_name"}
+{"query":"create a timesheet entry on Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"canonical"}
+{"query":"Harvest create a timesheet entry","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"app_first"}
+{"query":"make a timesheet entry on Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"canonical"}
+{"query":"Harvest make a timesheet entry","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"app_first"}
+{"query":"create timesheet entry via Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"alt_prep"}
+{"query":"create timesheet entry using Harvest","expected_action_key":"harvest-create-timesheet-entry","expected_app_slug":"harvest","app_name":"Harvest","test_type":"alt_prep"}

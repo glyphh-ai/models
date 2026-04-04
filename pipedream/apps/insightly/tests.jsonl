@@ -1,0 +1,32 @@
+{"query":"Create Task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"Create Task in Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"Insightly create task","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"create a task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"make a task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"new task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"open a task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"start a task on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"create task via Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"create task using Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"create task with Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"Insightly create a task","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"app_first"}
+{"query":"Insightly make a task","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"app_first"}
+{"query":"create story on Insightly","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_target"}
+{"query":"Insightly create story","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_target"}
+{"query":"create a insightly task","expected_action_key":"insightly-create-task","expected_app_slug":"insightly","app_name":"Insightly","test_type":"contextual"}
+{"query":"Create Contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"Create Contact in Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"Insightly create contact","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"action_name"}
+{"query":"create a contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"make a contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"new contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"open a contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"start a contact on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"canonical"}
+{"query":"create contact via Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"create contact using Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"create contact with Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_prep"}
+{"query":"Insightly create a contact","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"app_first"}
+{"query":"Insightly make a contact","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"app_first"}
+{"query":"create contact record on Insightly","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_target"}
+{"query":"Insightly create contact record","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"alt_target"}
+{"query":"create a insightly contact","expected_action_key":"insightly-create-contact","expected_app_slug":"insightly","app_name":"Insightly","test_type":"contextual"}

@@ -1,0 +1,199 @@
+{"query":"Update Reservation on Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Update Reservation in Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews update reservation","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"update the reservation on Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews update the reservation","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"edit the reservation on Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews edit the reservation","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"update reservation via Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"update reservation using Mews","expected_action_key":"mews-update-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Update Customer on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Update Customer in Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews update customer","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"update the customer on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"edit the customer on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"modify the customer on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"change the customer on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"update customer via Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"update customer using Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"update customer with Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Mews update the customer","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"Mews edit the customer","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"update account on Mews","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"Mews update account","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"update a mews customer","expected_action_key":"mews-update-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"contextual"}
+{"query":"Get Rate Prices on Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Get Rate Prices in Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews get rate prices","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get the rate prices on Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the rate prices","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve rate prices on Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve rate prices","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get rate prices via Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get rate prices using Mews","expected_action_key":"mews-get-rate-prices","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Get Bill PDF on Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Get Bill PDF in Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews get bill pdf","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get the bill pdf on Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the bill pdf","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve bill pdf on Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve bill pdf","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get bill pdf via Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get bill pdf using Mews","expected_action_key":"mews-get-bill-pdf","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Fetch Reservations on Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Fetch Reservations in Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews fetch reservations","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get reservations on Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get reservations","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get the reservations on Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the reservations","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve reservations on Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve reservations","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get reservations in Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get reservations via Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get reservations using Mews","expected_action_key":"mews-fetch-reservations","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Fetch Products on Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Fetch Products in Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews fetch products","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get products on Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get products","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get the products on Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the products","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve products on Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve products","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get products in Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get products via Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get products using Mews","expected_action_key":"mews-fetch-products","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Fetch Order Items on Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Fetch Order Items in Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews fetch order items","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get order items on Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get order items","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get the order items on Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the order items","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve order items on Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve order items","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get order items in Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get order items via Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get order items using Mews","expected_action_key":"mews-fetch-order-items","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Fetch Customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Fetch Customers in Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews fetch customers","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"get the customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"retrieve customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"show me the customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"pull customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"check customers on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"get customers in Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get customers via Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get customers using Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get customers with Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Mews get customers","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"Mews get the customers","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"Mews retrieve customers","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get account on Mews","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"Mews get account","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"get a mews customers","expected_action_key":"mews-fetch-customers","expected_app_slug":"mews","app_name":"Mews","test_type":"contextual"}
+{"query":"Fetch Age Categories on Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Fetch Age Categories in Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews fetch age categories","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"get age categories on Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get age categories","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get the age categories on Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews get the age categories","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"retrieve age categories on Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews retrieve age categories","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"get age categories in Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get age categories via Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"get age categories using Mews","expected_action_key":"mews-fetch-age-categories","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Create New Task on Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Create New Task in Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews create new task","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"create a new task on Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews create a new task","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"make a new task on Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews make a new task","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"create new task via Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"create new task using Mews","expected_action_key":"mews-create-task","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Create Reservation on Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Create Reservation in Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews create reservation","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"create a reservation on Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews create a reservation","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"make a reservation on Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews make a reservation","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"create reservation via Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"create reservation using Mews","expected_action_key":"mews-create-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Create Order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Create Order in Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews create order","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"create a order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"make a order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"new order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"open a order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"start a order on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"create order via Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"create order using Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"create order with Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Mews create a order","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"Mews make a order","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"create purchase on Mews","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"Mews create purchase","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"create a mews order","expected_action_key":"mews-create-order","expected_app_slug":"mews","app_name":"Mews","test_type":"contextual"}
+{"query":"Create Availability Block on Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Create Availability Block in Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews create availability block","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"create a availability block on Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews create a availability block","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"make a availability block on Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews make a availability block","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"create availability block via Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"create availability block using Mews","expected_action_key":"mews-create-availability-block","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Cancel Reservation on Mews","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Cancel Reservation in Mews","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews cancel reservation","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"cancel the reservation on Mews","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews cancel the reservation","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"cancel reservation via Mews","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"cancel reservation using Mews","expected_action_key":"mews-cancel-reservation","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Add Reservation Product on Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Add Reservation Product in Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews add reservation product","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"add a reservation product on Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add a reservation product","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add new reservation product on Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add new reservation product","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add reservation product via Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"add reservation product using Mews","expected_action_key":"mews-add-reservation-product","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Add Reservation Companion on Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Add Reservation Companion in Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews add reservation companion","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"add a reservation companion on Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add a reservation companion","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add new reservation companion on Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add new reservation companion","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add reservation companion via Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"add reservation companion using Mews","expected_action_key":"mews-add-reservation-companion","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Add Customer on Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Add Customer in Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews add customer","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"add a customer on Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"add new customer on Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"add customer via Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"add customer using Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"add customer with Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"Mews add a customer","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"Mews add new customer","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add account on Mews","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"Mews add account","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_target"}
+{"query":"add a mews customer","expected_action_key":"mews-add-customer","expected_app_slug":"mews","app_name":"Mews","test_type":"contextual"}
+{"query":"Add Customer File on Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Add Customer File in Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"Mews add customer file","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"action_name"}
+{"query":"add a customer file on Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add a customer file","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add new customer file on Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"canonical"}
+{"query":"Mews add new customer file","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"app_first"}
+{"query":"add customer file via Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}
+{"query":"add customer file using Mews","expected_action_key":"mews-add-customer-file","expected_app_slug":"mews","app_name":"Mews","test_type":"alt_prep"}

@@ -1,0 +1,9 @@
+{"query":"Send Gift on Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"action_name"}
+{"query":"Send Gift in Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"action_name"}
+{"query":"Zest send gift","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"action_name"}
+{"query":"send a gift on Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"canonical"}
+{"query":"Zest send a gift","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"app_first"}
+{"query":"post a gift on Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"canonical"}
+{"query":"Zest post a gift","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"app_first"}
+{"query":"send gift via Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"alt_prep"}
+{"query":"send gift using Zest","expected_action_key":"zest-send-gift","expected_app_slug":"zest","app_name":"Zest","test_type":"alt_prep"}

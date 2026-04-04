@@ -1,0 +1,19 @@
+{"query":"Send Event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"action_name"}
+{"query":"Send Event in Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"action_name"}
+{"query":"Loggly Send Data send event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"action_name"}
+{"query":"Send Event on loggly_send_data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"action_name"}
+{"query":"send a event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"canonical"}
+{"query":"post a event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"canonical"}
+{"query":"send out event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"canonical"}
+{"query":"fire off event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"canonical"}
+{"query":"send event via Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_prep"}
+{"query":"send event using Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_prep"}
+{"query":"send event with Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_prep"}
+{"query":"Loggly Send Data send a event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"app_first"}
+{"query":"Loggly Send Data post a event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"app_first"}
+{"query":"send meeting on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_target"}
+{"query":"Loggly Send Data send meeting","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_target"}
+{"query":"send calendar event on Loggly Send Data","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_target"}
+{"query":"Loggly Send Data send calendar event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_target"}
+{"query":"loggly_send_data send event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"alt_app_name"}
+{"query":"send a loggly send data event","expected_action_key":"loggly_send_data-send-event","expected_app_slug":"loggly_send_data","app_name":"Loggly (Send Data)","test_type":"contextual"}

@@ -1,0 +1,28 @@
+{"query":"Trigger a Pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"Trigger a Pipeline in CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"CircleCI trigger a pipeline","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"trigger pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"run pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"execute pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"start pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"launch pipeline on CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"trigger pipeline in CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}
+{"query":"trigger pipeline via CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}
+{"query":"trigger pipeline using CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}
+{"query":"trigger pipeline with CircleCI","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}
+{"query":"CircleCI trigger pipeline","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"app_first"}
+{"query":"CircleCI run pipeline","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"app_first"}
+{"query":"CircleCI execute pipeline","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"app_first"}
+{"query":"trigger a circleci pipeline","expected_action_key":"circleci-trigger-pipeline","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"contextual"}
+{"query":"Rerun Workflow on CircleCI","expected_action_key":"circleci-rerun-workflow","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"Rerun Workflow in CircleCI","expected_action_key":"circleci-rerun-workflow","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"CircleCI rerun workflow","expected_action_key":"circleci-rerun-workflow","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"Get Job Artifacts on CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"Get Job Artifacts in CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"CircleCI get job artifacts","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"action_name"}
+{"query":"get the job artifacts on CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"CircleCI get the job artifacts","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"app_first"}
+{"query":"retrieve job artifacts on CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"canonical"}
+{"query":"CircleCI retrieve job artifacts","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"app_first"}
+{"query":"get job artifacts via CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}
+{"query":"get job artifacts using CircleCI","expected_action_key":"circleci-get-job-artifacts","expected_app_slug":"circleci","app_name":"CircleCI","test_type":"alt_prep"}

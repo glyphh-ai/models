@@ -1,0 +1,9 @@
+{"query":"Add subscriber on Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"action_name"}
+{"query":"Add subscriber in Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"action_name"}
+{"query":"Moosend add subscriber","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"action_name"}
+{"query":"add a subscriber on Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"canonical"}
+{"query":"Moosend add a subscriber","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"app_first"}
+{"query":"add new subscriber on Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"canonical"}
+{"query":"Moosend add new subscriber","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"app_first"}
+{"query":"add subscriber via Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"alt_prep"}
+{"query":"add subscriber using Moosend","expected_action_key":"moosend-add-subscriber","expected_app_slug":"moosend","app_name":"Moosend","test_type":"alt_prep"}

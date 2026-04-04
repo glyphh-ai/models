@@ -1,0 +1,9 @@
+{"query":"Send Vybit on Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"action_name"}
+{"query":"Send Vybit in Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"action_name"}
+{"query":"Vybit send vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"action_name"}
+{"query":"send a vybit on Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"canonical"}
+{"query":"Vybit send a vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"app_first"}
+{"query":"post a vybit on Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"canonical"}
+{"query":"Vybit post a vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"app_first"}
+{"query":"send vybit via Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"alt_prep"}
+{"query":"send vybit using Vybit","expected_action_key":"vybit-send-vybit","expected_app_slug":"vybit","app_name":"Vybit","test_type":"alt_prep"}

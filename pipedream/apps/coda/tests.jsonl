@@ -1,0 +1,138 @@
+{"query":"Upsert Rows on Coda","expected_action_key":"coda-upsert-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Upsert Rows in Coda","expected_action_key":"coda-upsert-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda upsert rows","expected_action_key":"coda-upsert-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Update a Row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Update a Row in Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda update a row","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"update row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"update the row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"edit the row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"modify the row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"change the row on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"update row in Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"update row via Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"update row using Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"update row with Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda update row","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda update the row","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda edit the row","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"update entry on Coda","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda update entry","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"update a coda row","expected_action_key":"coda-update-row","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"List Tables on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"List Tables in Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda list tables","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"list all tables on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"show all tables on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"get all tables on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"show me all tables on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"list tables via Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"list tables using Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"list tables with Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda list all tables","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda show all tables","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"list database table on Coda","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda list database table","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"list a coda tables","expected_action_key":"coda-list-tables","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"List Formulas on Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"List Formulas in Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda list formulas","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"list all formulas on Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda list all formulas","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"show all formulas on Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda show all formulas","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"list formulas via Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"list formulas using Coda","expected_action_key":"coda-list-formulas","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"List Docs on Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"List Docs in Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda list docs","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"list all docs on Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda list all docs","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"show all docs on Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda show all docs","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"list docs via Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"list docs using Coda","expected_action_key":"coda-list-docs","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"List Columns on Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"List Columns in Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda list columns","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"list all columns on Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda list all columns","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"show all columns on Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda show all columns","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"list columns via Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"list columns using Coda","expected_action_key":"coda-list-columns","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Get Row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Get Row in Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda get row","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"get the row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"retrieve row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"fetch row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"show me the row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"pull row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"check row on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"get row via Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"get row using Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"get row with Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda get the row","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda retrieve row","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"get entry on Coda","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda get entry","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"get a coda row","expected_action_key":"coda-get-row","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"Find Row on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Find Row in Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda find row","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"search for row on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"look for row on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"search row on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"locate row on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"search for row in Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"search for row via Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"search for row using Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"search for row with Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda search for row","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda look for row","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"search for entry on Coda","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda search for entry","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"search for a coda row","expected_action_key":"coda-find-row","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"Delete Row on Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Delete Row in Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda delete row","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"delete the row on Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"remove the row on Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"destroy the row on Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"delete row via Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"delete row using Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"delete row with Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda delete the row","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda remove the row","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"delete entry on Coda","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda delete entry","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"delete a coda row","expected_action_key":"coda-delete-row","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"Create Rows on Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Create Rows in Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda create rows","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"create a rows on Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda create a rows","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"make a rows on Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"Coda make a rows","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"create rows via Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"create rows using Coda","expected_action_key":"coda-create-rows","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Create Doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Create Doc in Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda create doc","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"create a doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"make a doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"new doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"open a doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"start a doc on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"canonical"}
+{"query":"create doc via Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"create doc using Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"create doc with Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_prep"}
+{"query":"Coda create a doc","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"Coda make a doc","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"app_first"}
+{"query":"create document on Coda","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"Coda create document","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"alt_target"}
+{"query":"create a coda doc","expected_action_key":"coda-create-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"contextual"}
+{"query":"Copy Doc on Coda","expected_action_key":"coda-copy-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Copy Doc in Coda","expected_action_key":"coda-copy-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}
+{"query":"Coda copy doc","expected_action_key":"coda-copy-doc","expected_app_slug":"coda","app_name":"Coda","test_type":"action_name"}

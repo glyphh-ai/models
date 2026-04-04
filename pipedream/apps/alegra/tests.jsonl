@@ -1,0 +1,48 @@
+{"query":"Find Contact on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Find Contact in Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Alegra find contact","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"search for contact on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"look for contact on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"search contact on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"locate contact on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"search for contact in Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"search for contact via Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"search for contact using Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"search for contact with Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"Alegra search for contact","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"Alegra look for contact","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"search for contact record on Alegra","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"Alegra search for contact record","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"search for a alegra contact","expected_action_key":"alegra-find-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"contextual"}
+{"query":"Create Invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Create Invoice in Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Alegra create invoice","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"create a invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"make a invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"new invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"open a invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"start a invoice on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"create invoice via Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"create invoice using Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"create invoice with Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"Alegra create a invoice","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"Alegra make a invoice","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"create bill on Alegra","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"Alegra create bill","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"create a alegra invoice","expected_action_key":"alegra-create-invoice","expected_app_slug":"alegra","app_name":"Alegra","test_type":"contextual"}
+{"query":"Create Contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Create Contact in Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"Alegra create contact","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"action_name"}
+{"query":"create a contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"make a contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"new contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"open a contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"start a contact on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"canonical"}
+{"query":"create contact via Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"create contact using Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"create contact with Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_prep"}
+{"query":"Alegra create a contact","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"Alegra make a contact","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"app_first"}
+{"query":"create contact record on Alegra","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"Alegra create contact record","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"alt_target"}
+{"query":"create a alegra contact","expected_action_key":"alegra-create-contact","expected_app_slug":"alegra","app_name":"Alegra","test_type":"contextual"}

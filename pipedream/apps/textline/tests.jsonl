@@ -1,0 +1,26 @@
+{"query":"Send Message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"Send Message in Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"Textline send message","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"send a message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"post a message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"send out message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"fire off message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"send message via Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_prep"}
+{"query":"send message using Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_prep"}
+{"query":"send message with Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_prep"}
+{"query":"Textline send a message","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"app_first"}
+{"query":"Textline post a message","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"app_first"}
+{"query":"send msg on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_target"}
+{"query":"Textline send msg","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_target"}
+{"query":"send chat message on Textline","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_target"}
+{"query":"Textline send chat message","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_target"}
+{"query":"send a textline message","expected_action_key":"textline-send-message","expected_app_slug":"textline","app_name":"Textline","test_type":"contextual"}
+{"query":"Send Announcement on Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"Send Announcement in Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"Textline send announcement","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"action_name"}
+{"query":"send a announcement on Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"Textline send a announcement","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"app_first"}
+{"query":"post a announcement on Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"canonical"}
+{"query":"Textline post a announcement","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"app_first"}
+{"query":"send announcement via Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_prep"}
+{"query":"send announcement using Textline","expected_action_key":"textline-send-announcement","expected_app_slug":"textline","app_name":"Textline","test_type":"alt_prep"}

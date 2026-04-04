@@ -1,0 +1,29 @@
+{"query":"Send Message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"Send Message in Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"Discord send message","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"send a message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"post a message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"send out message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"fire off message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"send message via Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}
+{"query":"send message using Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}
+{"query":"send message with Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}
+{"query":"Discord send a message","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"app_first"}
+{"query":"Discord post a message","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"app_first"}
+{"query":"send msg on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_target"}
+{"query":"Discord send msg","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_target"}
+{"query":"send chat message on Discord","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_target"}
+{"query":"Discord send chat message","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_target"}
+{"query":"send a discord message","expected_action_key":"discord-send-message","expected_app_slug":"discord","app_name":"Discord","test_type":"contextual"}
+{"query":"Send Message With File on Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"Send Message With File in Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"Discord send message with file","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"action_name"}
+{"query":"send message file on Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"Discord send message file","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"app_first"}
+{"query":"send a message file on Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"Discord send a message file","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"app_first"}
+{"query":"post a message file on Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"canonical"}
+{"query":"Discord post a message file","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"app_first"}
+{"query":"send message file in Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}
+{"query":"send message file via Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}
+{"query":"send message file using Discord","expected_action_key":"discord-send-message-with-file","expected_app_slug":"discord","app_name":"Discord","test_type":"alt_prep"}

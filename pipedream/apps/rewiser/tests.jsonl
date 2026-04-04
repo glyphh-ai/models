@@ -1,0 +1,9 @@
+{"query":"Create Transaction on Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"action_name"}
+{"query":"Create Transaction in Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"action_name"}
+{"query":"Rewiser create transaction","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"action_name"}
+{"query":"create a transaction on Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"canonical"}
+{"query":"Rewiser create a transaction","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"app_first"}
+{"query":"make a transaction on Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"canonical"}
+{"query":"Rewiser make a transaction","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"app_first"}
+{"query":"create transaction via Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"alt_prep"}
+{"query":"create transaction using Rewiser","expected_action_key":"rewiser-create-transaction","expected_app_slug":"rewiser","app_name":"Rewiser","test_type":"alt_prep"}

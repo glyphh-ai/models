@@ -1,0 +1,102 @@
+{"query":"[Text] Encode URL on Formatting","expected_action_key":"formatting-url-encode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Encode URL in Formatting","expected_action_key":"formatting-url-encode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] encode url","expected_action_key":"formatting-url-encode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Decode URL on Formatting","expected_action_key":"formatting-url-decode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Decode URL in Formatting","expected_action_key":"formatting-url-decode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] decode url","expected_action_key":"formatting-url-decode","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Trim Whitespace on Formatting","expected_action_key":"formatting-trim-whitespace","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Trim Whitespace in Formatting","expected_action_key":"formatting-trim-whitespace","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] trim whitespace","expected_action_key":"formatting-trim-whitespace","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Transform Case on Formatting","expected_action_key":"formatting-transform-case","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Transform Case in Formatting","expected_action_key":"formatting-transform-case","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] transform case","expected_action_key":"formatting-transform-case","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Split Text on Formatting","expected_action_key":"formatting-split-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Split Text in Formatting","expected_action_key":"formatting-split-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] split text","expected_action_key":"formatting-split-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Set Default Value on Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Set Default Value in Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] set default value","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"set set default value on Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting set set default value","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"set the set default value on Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting set the set default value","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"configure the set default value on Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting configure the set default value","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"set set default value in Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"set set default value via Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"set set default value using Formatting","expected_action_key":"formatting-set-default-value","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"[Text] Replace Text on Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Replace Text in Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] replace text","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"update replace text on Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting update replace text","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"update the replace text on Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting update the replace text","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"edit the replace text on Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting edit the replace text","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"update replace text in Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"update replace text via Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"update replace text using Formatting","expected_action_key":"formatting-replace-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"[Data] Parse JSON on Formatting","expected_action_key":"formatting-parse-json","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Data] Parse JSON in Formatting","expected_action_key":"formatting-parse-json","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [data] parse json","expected_action_key":"formatting-parse-json","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Numbers] Format Number on Formatting","expected_action_key":"formatting-format-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Numbers] Format Number in Formatting","expected_action_key":"formatting-format-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [numbers] format number","expected_action_key":"formatting-format-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Numbers] Format Currency on Formatting","expected_action_key":"formatting-format-currency","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Numbers] Format Currency in Formatting","expected_action_key":"formatting-format-currency","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [numbers] format currency","expected_action_key":"formatting-format-currency","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract URL on Formatting","expected_action_key":"formatting-extract-url","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract URL in Formatting","expected_action_key":"formatting-extract-url","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] extract url","expected_action_key":"formatting-extract-url","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Phone Number on Formatting","expected_action_key":"formatting-extract-phone-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Phone Number in Formatting","expected_action_key":"formatting-extract-phone-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] extract phone number","expected_action_key":"formatting-extract-phone-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Number on Formatting","expected_action_key":"formatting-extract-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Number in Formatting","expected_action_key":"formatting-extract-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] extract number","expected_action_key":"formatting-extract-number","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Email Address on Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract Email Address in Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] extract email address","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"add extract email address on Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add extract email address","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add a extract email address on Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add a extract email address","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add new extract email address on Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add new extract email address","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add extract email address in Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"add extract email address via Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"add extract email address using Formatting","expected_action_key":"formatting-extract-email-address","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"[Text] Extract by Regular Expression on Formatting","expected_action_key":"formatting-extract-by-regular-expression","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Extract by Regular Expression in Formatting","expected_action_key":"formatting-extract-by-regular-expression","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] extract by regular expression","expected_action_key":"formatting-extract-by-regular-expression","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Format on Formatting","expected_action_key":"formatting-date-time-format","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Format in Formatting","expected_action_key":"formatting-date-time-format","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [date/time] format","expected_action_key":"formatting-date-time-format","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert Markdown to HTML on Formatting","expected_action_key":"formatting-convert-markdown-to-html","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert Markdown to HTML in Formatting","expected_action_key":"formatting-convert-markdown-to-html","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] convert markdown to html","expected_action_key":"formatting-convert-markdown-to-html","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Data] Convert JSON to String on Formatting","expected_action_key":"formatting-convert-json-to-string","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Data] Convert JSON to String in Formatting","expected_action_key":"formatting-convert-json-to-string","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [data] convert json to string","expected_action_key":"formatting-convert-json-to-string","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert HTML to text on Formatting","expected_action_key":"formatting-convert-html-to-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert HTML to text in Formatting","expected_action_key":"formatting-convert-html-to-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] convert html to text","expected_action_key":"formatting-convert-html-to-text","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert HTML to Markdown on Formatting","expected_action_key":"formatting-convert-html-to-markdown","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Text] Convert HTML to Markdown in Formatting","expected_action_key":"formatting-convert-html-to-markdown","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [text] convert html to markdown","expected_action_key":"formatting-convert-html-to-markdown","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Compare Dates on Formatting","expected_action_key":"formatting-compare-dates","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Compare Dates in Formatting","expected_action_key":"formatting-compare-dates","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [date/time] compare dates","expected_action_key":"formatting-compare-dates","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Add/Subtract Time on Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"[Date/Time] Add/Subtract Time in Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"Formatting [date/time] add/subtract time","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"action_name"}
+{"query":"add add/subtract time on Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add add/subtract time","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add a add/subtract time on Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add a add/subtract time","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add new add/subtract time on Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"canonical"}
+{"query":"Formatting add new add/subtract time","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"app_first"}
+{"query":"add add/subtract time in Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"add add/subtract time via Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}
+{"query":"add add/subtract time using Formatting","expected_action_key":"formatting-add-subtract-time","expected_app_slug":"formatting","app_name":"Formatting","test_type":"alt_prep"}

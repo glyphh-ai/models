@@ -1,0 +1,88 @@
+{"query":"Update a Post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Update a Post in Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Blogger update a post","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"update post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"update the post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"edit the post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"modify the post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"change the post on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"update post in Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"update post via Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"update post using Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"update post with Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"Blogger update post","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger update the post","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger edit the post","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"update status update on Blogger","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"Blogger update status update","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"update a blogger post","expected_action_key":"blogger-update-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"contextual"}
+{"query":"Revert a Post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Revert a Post in Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Blogger revert a post","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"send post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send a post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"post a post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send out post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"fire off post on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send post in Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post via Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post using Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post with Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"Blogger send post","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger send a post","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger post a post","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"send status update on Blogger","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"Blogger send status update","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"send a blogger post","expected_action_key":"blogger-revert-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"contextual"}
+{"query":"Publish a Post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Publish a Post in Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Blogger publish a post","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"send post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send a post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"post a post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send out post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"fire off post on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"send post in Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post via Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post using Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"send post with Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"Blogger send post","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger send a post","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger post a post","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"send status update on Blogger","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"Blogger send status update","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"send a blogger post","expected_action_key":"blogger-publish-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"contextual"}
+{"query":"Delete a Post on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Delete a Post in Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Blogger delete a post","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"delete post on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"delete the post on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"remove the post on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"destroy the post on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"delete post in Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"delete post via Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"delete post using Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"delete post with Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"Blogger delete post","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger delete the post","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger remove the post","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"delete status update on Blogger","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"Blogger delete status update","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"delete a blogger post","expected_action_key":"blogger-delete-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"contextual"}
+{"query":"Create a Post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Create a Post in Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"Blogger create a post","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"action_name"}
+{"query":"create post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"make a post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"new post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"open a post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"start a post on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"canonical"}
+{"query":"create post in Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"create post via Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"create post using Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"create post with Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_prep"}
+{"query":"Blogger create post","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"Blogger make a post","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"app_first"}
+{"query":"create status update on Blogger","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"Blogger create status update","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"alt_target"}
+{"query":"create a blogger post","expected_action_key":"blogger-create-post","expected_app_slug":"blogger","app_name":"Blogger","test_type":"contextual"}

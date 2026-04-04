@@ -1,0 +1,35 @@
+{"query":"Create Project on Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Create Project in Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Breeze create project","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"create a project on Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"Breeze create a project","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"make a project on Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"Breeze make a project","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"create project via Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"create project using Breeze","expected_action_key":"breeze-create-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"Find Project on Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Find Project in Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Breeze find project","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"search for project on Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"Breeze search for project","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"look for project on Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"Breeze look for project","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"search for project in Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"search for project via Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"search for project using Breeze","expected_action_key":"breeze-find-project","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"Create Task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Create Task in Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"Breeze create task","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"action_name"}
+{"query":"create a task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"make a task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"new task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"open a task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"start a task on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"canonical"}
+{"query":"create task via Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"create task using Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"create task with Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_prep"}
+{"query":"Breeze create a task","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"Breeze make a task","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"app_first"}
+{"query":"create story on Breeze","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_target"}
+{"query":"Breeze create story","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"alt_target"}
+{"query":"create a breeze task","expected_action_key":"breeze-create-task","expected_app_slug":"breeze","app_name":"Breeze","test_type":"contextual"}

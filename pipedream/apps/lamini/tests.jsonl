@@ -1,0 +1,24 @@
+{"query":"Upload Dataset on Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Upload Dataset in Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Lamini upload dataset","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"upload a dataset on Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"canonical"}
+{"query":"Lamini upload a dataset","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"app_first"}
+{"query":"upload the dataset on Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"canonical"}
+{"query":"Lamini upload the dataset","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"app_first"}
+{"query":"upload dataset via Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"alt_prep"}
+{"query":"upload dataset using Lamini","expected_action_key":"lamini-upload-dataset","expected_app_slug":"lamini","app_name":"Lamini","test_type":"alt_prep"}
+{"query":"Generate Completion on Lamini","expected_action_key":"lamini-generate-completion","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Generate Completion in Lamini","expected_action_key":"lamini-generate-completion","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Lamini generate completion","expected_action_key":"lamini-generate-completion","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Evaluate Job on Lamini","expected_action_key":"lamini-evaluate-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Evaluate Job in Lamini","expected_action_key":"lamini-evaluate-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Lamini evaluate job","expected_action_key":"lamini-evaluate-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Create Fine-Tune Job on Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Create Fine-Tune Job in Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"Lamini create fine-tune job","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"action_name"}
+{"query":"create a fine-tune job on Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"canonical"}
+{"query":"Lamini create a fine-tune job","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"app_first"}
+{"query":"make a fine-tune job on Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"canonical"}
+{"query":"Lamini make a fine-tune job","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"app_first"}
+{"query":"create fine-tune job via Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"alt_prep"}
+{"query":"create fine-tune job using Lamini","expected_action_key":"lamini-create-fine-tune-job","expected_app_slug":"lamini","app_name":"Lamini","test_type":"alt_prep"}

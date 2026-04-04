@@ -1,0 +1,9 @@
+{"query":"Send SMS on Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"action_name"}
+{"query":"Send SMS in Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"action_name"}
+{"query":"Altiria send sms","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"action_name"}
+{"query":"send a sms on Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"canonical"}
+{"query":"Altiria send a sms","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"app_first"}
+{"query":"post a sms on Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"canonical"}
+{"query":"Altiria post a sms","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"app_first"}
+{"query":"send sms via Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"alt_prep"}
+{"query":"send sms using Altiria","expected_action_key":"altiria-send-sms","expected_app_slug":"altiria","app_name":"Altiria","test_type":"alt_prep"}

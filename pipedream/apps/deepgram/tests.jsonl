@@ -1,0 +1,70 @@
+{"query":"Transcribe Audio on Deepgram","expected_action_key":"deepgram-transcribe-audio","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Transcribe Audio in Deepgram","expected_action_key":"deepgram-transcribe-audio","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram transcribe audio","expected_action_key":"deepgram-transcribe-audio","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Summarize Usage on Deepgram","expected_action_key":"deepgram-summarize-usage","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Summarize Usage in Deepgram","expected_action_key":"deepgram-summarize-usage","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram summarize usage","expected_action_key":"deepgram-summarize-usage","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"List Requests on Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"List Requests in Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram list requests","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"list all requests on Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram list all requests","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"show all requests on Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram show all requests","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"list requests via Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"list requests using Deepgram","expected_action_key":"deepgram-list-requests","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"List Projects on Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"List Projects in Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram list projects","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"list all projects on Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram list all projects","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"show all projects on Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram show all projects","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"list projects via Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"list projects using Deepgram","expected_action_key":"deepgram-list-projects","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"List Balances on Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"List Balances in Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram list balances","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"list all balances on Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"show all balances on Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"get all balances on Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"show me all balances on Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"list balances via Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"list balances using Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"list balances with Deepgram","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"Deepgram list all balances","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"Deepgram show all balances","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"list a deepgram balances","expected_action_key":"deepgram-list-balances","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"contextual"}
+{"query":"Get Request on Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Get Request in Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram get request","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"get the request on Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram get the request","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"retrieve request on Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram retrieve request","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"get request via Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"get request using Deepgram","expected_action_key":"deepgram-get-request","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"Get Project on Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Get Project in Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram get project","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"get the project on Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram get the project","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"retrieve project on Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"Deepgram retrieve project","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"get project via Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"get project using Deepgram","expected_action_key":"deepgram-get-project","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"Get Balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Get Balance in Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"Deepgram get balance","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"action_name"}
+{"query":"get the balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"retrieve balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"fetch balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"show me the balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"pull balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"check balance on Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"canonical"}
+{"query":"get balance via Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"get balance using Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"get balance with Deepgram","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"alt_prep"}
+{"query":"Deepgram get the balance","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"Deepgram retrieve balance","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"app_first"}
+{"query":"get a deepgram balance","expected_action_key":"deepgram-get-balance","expected_app_slug":"deepgram","app_name":"Deepgram","test_type":"contextual"}

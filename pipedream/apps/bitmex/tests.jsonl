@@ -1,0 +1,38 @@
+{"query":"List Trades on BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"List Trades in BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"BitMEX list trades","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"list all trades on BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"show all trades on BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"get all trades on BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"show me all trades on BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"list trades via BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"list trades using BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"list trades with BitMEX","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"BitMEX list all trades","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"BitMEX show all trades","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"list a bitmex trades","expected_action_key":"bitmex-list-trades","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"contextual"}
+{"query":"Get User Wallet on BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"Get User Wallet in BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"BitMEX get user wallet","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"get the user wallet on BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"BitMEX get the user wallet","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"retrieve user wallet on BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"BitMEX retrieve user wallet","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"get user wallet via BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"get user wallet using BitMEX","expected_action_key":"bitmex-get-user-wallet","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"Create Order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"Create Order in BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"BitMEX create order","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"action_name"}
+{"query":"create a order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"make a order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"new order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"open a order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"start a order on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"canonical"}
+{"query":"create order via BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"create order using BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"create order with BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_prep"}
+{"query":"BitMEX create a order","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"BitMEX make a order","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"app_first"}
+{"query":"create purchase on BitMEX","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_target"}
+{"query":"BitMEX create purchase","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"alt_target"}
+{"query":"create a bitmex order","expected_action_key":"bitmex-create-order","expected_app_slug":"bitmex","app_name":"BitMEX","test_type":"contextual"}

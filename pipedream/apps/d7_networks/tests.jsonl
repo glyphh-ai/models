@@ -1,0 +1,13 @@
+{"query":"Send SMS on D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"action_name"}
+{"query":"Send SMS in D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"action_name"}
+{"query":"D7 SMS send sms","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"action_name"}
+{"query":"Send SMS on D7 Networks","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"action_name"}
+{"query":"Send SMS on d7_networks","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"action_name"}
+{"query":"send a sms on D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"canonical"}
+{"query":"D7 SMS send a sms","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"app_first"}
+{"query":"post a sms on D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"canonical"}
+{"query":"D7 SMS post a sms","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"app_first"}
+{"query":"send sms via D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"alt_prep"}
+{"query":"send sms using D7 SMS","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"alt_prep"}
+{"query":"D7 Networks send sms","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"alt_app_name"}
+{"query":"d7_networks send sms","expected_action_key":"d7_networks-send-sms","expected_app_slug":"d7_networks","app_name":"D7 SMS","test_type":"alt_app_name"}

@@ -1,0 +1,57 @@
+{"query":"Send SMS on Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Send SMS in Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven send sms","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"send a sms on Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven send a sms","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"post a sms on Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven post a sms","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"send sms via Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"send sms using Seven","expected_action_key":"seven-send-sms","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"Make TTS Call on Seven","expected_action_key":"seven-make-tts-call","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Make TTS Call in Seven","expected_action_key":"seven-make-tts-call","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven make tts call","expected_action_key":"seven-make-tts-call","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Lookup HLR on Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Lookup HLR in Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven lookup hlr","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"get hlr on Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get hlr","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get the hlr on Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get the hlr","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"retrieve hlr on Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven retrieve hlr","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get hlr in Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get hlr via Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get hlr using Seven","expected_action_key":"seven-lookup-hlr","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"Lookup Format on Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Lookup Format in Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven lookup format","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"get format on Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get format","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get the format on Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get the format","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"retrieve format on Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven retrieve format","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get format in Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get format via Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get format using Seven","expected_action_key":"seven-lookup-format","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"Lookup CNAM on Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Lookup CNAM in Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven lookup cnam","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"get cnam on Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get cnam","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get the cnam on Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get the cnam","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"retrieve cnam on Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven retrieve cnam","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get cnam in Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get cnam via Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get cnam using Seven","expected_action_key":"seven-lookup-cnam","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"Get Analytics on Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Get Analytics in Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"Seven get analytics","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"action_name"}
+{"query":"get the analytics on Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven get the analytics","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"retrieve analytics on Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"canonical"}
+{"query":"Seven retrieve analytics","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"app_first"}
+{"query":"get analytics via Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}
+{"query":"get analytics using Seven","expected_action_key":"seven-get-analytics","expected_app_slug":"seven","app_name":"Seven","test_type":"alt_prep"}

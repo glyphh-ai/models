@@ -1,0 +1,67 @@
+{"query":"Text To Speech on ElevenLabs","expected_action_key":"elevenlabs-text-to-speech","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Text To Speech in ElevenLabs","expected_action_key":"elevenlabs-text-to-speech","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs text to speech","expected_action_key":"elevenlabs-text-to-speech","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Make Outbound Call on ElevenLabs","expected_action_key":"elevenlabs-make-outbound-call","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Make Outbound Call in ElevenLabs","expected_action_key":"elevenlabs-make-outbound-call","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs make outbound call","expected_action_key":"elevenlabs-make-outbound-call","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Get Models on ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Get Models in ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs get models","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"get the models on ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs get the models","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"retrieve models on ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs retrieve models","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"get models via ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"get models using ElevenLabs","expected_action_key":"elevenlabs-list-models","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"Get Voices with Descriptions on ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Get Voices with Descriptions in ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs get voices with descriptions","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"get voices descriptions on ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs get voices descriptions","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"get the voices descriptions on ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs get the voices descriptions","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"retrieve voices descriptions on ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs retrieve voices descriptions","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"get voices descriptions in ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"get voices descriptions via ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"get voices descriptions using ElevenLabs","expected_action_key":"elevenlabs-get-voices-with-descriptions","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"Get Audio From History Item on ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Get Audio From History Item in ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs get audio from history item","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"get audio history item on ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs get audio history item","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"get the audio history item on ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs get the audio history item","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"retrieve audio history item on ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs retrieve audio history item","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"get audio history item in ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"get audio history item via ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"get audio history item using ElevenLabs","expected_action_key":"elevenlabs-get-audio-from-history-item","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"Download History Items on ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Download History Items in ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs download history items","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"export history items on ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs export history items","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"export the history items on ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs export the history items","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"export history items in ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"export history items via ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"export history items using ElevenLabs","expected_action_key":"elevenlabs-download-history-items","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"Create Agent on ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Create Agent in ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs create agent","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"create a agent on ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs create a agent","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"make a agent on ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs make a agent","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"create agent via ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"create agent using ElevenLabs","expected_action_key":"elevenlabs-create-agent","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"Add Voice on ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"Add Voice in ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"ElevenLabs add voice","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"action_name"}
+{"query":"add a voice on ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs add a voice","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"add new voice on ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"canonical"}
+{"query":"ElevenLabs add new voice","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"app_first"}
+{"query":"add voice via ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}
+{"query":"add voice using ElevenLabs","expected_action_key":"elevenlabs-add-voice","expected_app_slug":"elevenlabs","app_name":"ElevenLabs","test_type":"alt_prep"}

@@ -1,0 +1,54 @@
+{"query":"Update User on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Update User in Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Okta update user","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"update the user on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"edit the user on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"modify the user on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"change the user on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"update user via Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"update user using Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"update user with Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"Okta update the user","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"Okta edit the user","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"update member on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta update member","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"update person on Okta","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta update person","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"update a okta user","expected_action_key":"okta-update-user","expected_app_slug":"okta","app_name":"Okta","test_type":"contextual"}
+{"query":"Get User on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Get User in Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Okta get user","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"get the user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"retrieve user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"fetch user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"show me the user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"pull user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"check user on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"get user via Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"get user using Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"get user with Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"Okta get the user","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"Okta retrieve user","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"get member on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta get member","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"get person on Okta","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta get person","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"get a okta user","expected_action_key":"okta-get-user","expected_app_slug":"okta","app_name":"Okta","test_type":"contextual"}
+{"query":"Create User on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Create User in Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"Okta create user","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"action_name"}
+{"query":"create a user on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"make a user on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"new user on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"open a user on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"start a user on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"canonical"}
+{"query":"create user via Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"create user using Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"create user with Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_prep"}
+{"query":"Okta create a user","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"Okta make a user","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"app_first"}
+{"query":"create member on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta create member","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"create person on Okta","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"Okta create person","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"alt_target"}
+{"query":"create a okta user","expected_action_key":"okta-create-user","expected_app_slug":"okta","app_name":"Okta","test_type":"contextual"}

@@ -1,0 +1,39 @@
+{"query":"Update Item on Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Update Item in Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Infinity update item","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"update the item on Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"edit the item on Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"modify the item on Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"change the item on Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"update item via Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"update item using Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"update item with Infinity","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"Infinity update the item","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"Infinity edit the item","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"update a infinity item","expected_action_key":"infinity-update-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"contextual"}
+{"query":"Delete Item on Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Delete Item in Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Infinity delete item","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"delete the item on Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"remove the item on Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"destroy the item on Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"delete item via Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"delete item using Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"delete item with Infinity","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"Infinity delete the item","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"Infinity remove the item","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"delete a infinity item","expected_action_key":"infinity-delete-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"contextual"}
+{"query":"Create Item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Create Item in Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"Infinity create item","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"action_name"}
+{"query":"create a item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"make a item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"new item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"open a item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"start a item on Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"canonical"}
+{"query":"create item via Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"create item using Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"create item with Infinity","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"alt_prep"}
+{"query":"Infinity create a item","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"Infinity make a item","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"app_first"}
+{"query":"create a infinity item","expected_action_key":"infinity-create-item","expected_app_slug":"infinity","app_name":"Infinity","test_type":"contextual"}

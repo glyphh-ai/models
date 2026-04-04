@@ -1,0 +1,31 @@
+{"query":"List Projects on Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"List Projects in Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"Rollbar list projects","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"list all projects on Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar list all projects","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"show all projects on Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar show all projects","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"list projects via Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"list projects using Rollbar","expected_action_key":"rollbar-list-projects","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"Delete a Project on Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"Delete a Project in Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"Rollbar delete a project","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"delete project on Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar delete project","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"delete the project on Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar delete the project","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"remove the project on Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar remove the project","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"delete project in Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"delete project via Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"delete project using Rollbar","expected_action_key":"rollbar-delete-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"Create a Project on Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"Create a Project in Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"Rollbar create a project","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"action_name"}
+{"query":"create project on Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar create project","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"make a project on Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"canonical"}
+{"query":"Rollbar make a project","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"app_first"}
+{"query":"create project in Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"create project via Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}
+{"query":"create project using Rollbar","expected_action_key":"rollbar-create-a-project","expected_app_slug":"rollbar","app_name":"Rollbar","test_type":"alt_prep"}

@@ -1,0 +1,73 @@
+{"query":"Turn on/off Droplet on Digital Ocean","expected_action_key":"digital_ocean-turnonoff-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Turn on/off Droplet in Digital Ocean","expected_action_key":"digital_ocean-turnonoff-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean turn on/off droplet","expected_action_key":"digital_ocean-turnonoff-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Turn on/off Droplet on digital_ocean","expected_action_key":"digital_ocean-turnonoff-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Turn on/off Droplet on digitalocean","expected_action_key":"digital_ocean-turnonoff-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"List all Droplets on Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"List all Droplets in Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean list all droplets","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"List all Droplets on digital_ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"List all Droplets on digitalocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"list all all droplets on Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean list all all droplets","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"show all all droplets on Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean show all all droplets","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"list all droplets via Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"list all droplets using Digital Ocean","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"digital_ocean list all droplets","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digitalocean list all droplets","expected_action_key":"digital_ocean-list-all-droplets","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"Create Snapshot on Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Snapshot in Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean create snapshot","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Snapshot on digital_ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Snapshot on digitalocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"create a snapshot on Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean create a snapshot","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"make a snapshot on Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean make a snapshot","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"create snapshot via Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"create snapshot using Digital Ocean","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"digital_ocean create snapshot","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digitalocean create snapshot","expected_action_key":"digital_ocean-create-snapshot","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"Create Droplet on Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Droplet in Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean create droplet","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Droplet on digital_ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create Droplet on digitalocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"create a droplet on Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean create a droplet","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"make a droplet on Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean make a droplet","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"create droplet via Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"create droplet using Digital Ocean","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"digital_ocean create droplet","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digitalocean create droplet","expected_action_key":"digital_ocean-create-droplet","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"Create a new domain on Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create a new domain in Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean create a new domain","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create a new domain on digital_ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Create a new domain on digitalocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"create new domain on Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean create new domain","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"make a new domain on Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean make a new domain","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"create new domain in Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"create new domain via Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"create new domain using Digital Ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"create new domain on digital_ocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digital_ocean create new domain","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"create new domain on digitalocean","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digitalocean create new domain","expected_action_key":"digital_ocean-create-domain","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"Add SSH Key on Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Add SSH Key in Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Digital Ocean add ssh key","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Add SSH Key on digital_ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"Add SSH Key on digitalocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"action_name"}
+{"query":"add a ssh key on Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean add a ssh key","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"add new ssh key on Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"canonical"}
+{"query":"Digital Ocean add new ssh key","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"app_first"}
+{"query":"add ssh key via Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"add ssh key using Digital Ocean","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_prep"}
+{"query":"digital_ocean add ssh key","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}
+{"query":"digitalocean add ssh key","expected_action_key":"digital_ocean-add-ssh-key","expected_app_slug":"digital_ocean","app_name":"DigitalOcean","test_type":"alt_app_name"}

@@ -1,0 +1,182 @@
+{"query":"Update Customer on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Update Customer in ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul update customer","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"update the customer on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"edit the customer on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"modify the customer on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"change the customer on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"update customer via ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"update customer using ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"update customer with ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"ChartMogul update the customer","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"ChartMogul edit the customer","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"update account on ChartMogul","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_target"}
+{"query":"ChartMogul update account","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_target"}
+{"query":"update a chartmogul customer","expected_action_key":"chartmogul-update-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"contextual"}
+{"query":"Search Customers Via External Id on ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Search Customers Via External Id in ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul search customers via external id","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"search for customers via external id on ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul search for customers via external id","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"find customers via external id on ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul find customers via external id","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"look for customers via external id on ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul look for customers via external id","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"search for customers via external id in ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"search for customers via external id via ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"search for customers via external id using ChartMogul","expected_action_key":"chartmogul-search-customers-via-external-id","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Search Customers Via Email on ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Search Customers Via Email in ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul search customers via email","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"search for customers via email on ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul search for customers via email","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"find customers via email on ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul find customers via email","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"look for customers via email on ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul look for customers via email","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"search for customers via email in ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"search for customers via email via ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"search for customers via email using ChartMogul","expected_action_key":"chartmogul-search-customers-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Monthly Recurring Revenue on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Monthly Recurring Revenue in ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve monthly recurring revenue","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get monthly recurring revenue on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get monthly recurring revenue","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the monthly recurring revenue on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the monthly recurring revenue","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get monthly recurring revenue in ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get monthly recurring revenue via ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get monthly recurring revenue using ChartMogul","expected_action_key":"chartmogul-retrieve-mrr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve MRR Churn Rate on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve MRR Churn Rate in ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve mrr churn rate","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get mrr churn rate on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get mrr churn rate","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the mrr churn rate on ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the mrr churn rate","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get mrr churn rate in ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get mrr churn rate via ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get mrr churn rate using ChartMogul","expected_action_key":"chartmogul-retrieve-mrr-churn-reate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Customer Lifetime Value on ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Customer Lifetime Value in ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve customer lifetime value","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get customer lifetime value on ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get customer lifetime value","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the customer lifetime value on ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the customer lifetime value","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get customer lifetime value in ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer lifetime value via ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer lifetime value using ChartMogul","expected_action_key":"chartmogul-retrieve-ltv","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Customer Profile on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Customer Profile in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve customer profile","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get customer profile on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get customer profile","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the customer profile on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the customer profile","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get customer profile in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer profile via ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer profile using ChartMogul","expected_action_key":"chartmogul-retrieve-customer-profile","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Customer Count on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Customer Count in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve customer count","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get customer count on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get customer count","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the customer count on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the customer count","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get customer count in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer count via ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer count using ChartMogul","expected_action_key":"chartmogul-retrieve-customer-count","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Customer Churn Rate on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Customer Churn Rate in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve customer churn rate","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get customer churn rate on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get customer churn rate","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the customer churn rate on ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the customer churn rate","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get customer churn rate in ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer churn rate via ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get customer churn rate using ChartMogul","expected_action_key":"chartmogul-retrieve-customer-churn-rate","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Average Sale Price ASP on ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Average Sale Price ASP in ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve average sale price asp","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get average sale price asp on ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get average sale price asp","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the average sale price asp on ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the average sale price asp","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get average sale price asp in ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get average sale price asp via ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get average sale price asp using ChartMogul","expected_action_key":"chartmogul-retrieve-asp","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve ARR on ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve ARR in ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve arr","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get arr on ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get arr","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the arr on ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the arr","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get arr in ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get arr via ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get arr using ChartMogul","expected_action_key":"chartmogul-retrieve-arr","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve Average Revenue Per Account on ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve Average Revenue Per Account in ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve average revenue per account","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get average revenue per account on ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get average revenue per account","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the average revenue per account on ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the average revenue per account","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get average revenue per account in ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get average revenue per account via ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get average revenue per account using ChartMogul","expected_action_key":"chartmogul-retrieve-arpa","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Retrieve All Key Metrics on ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Retrieve All Key Metrics in ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul retrieve all key metrics","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"get all key metrics on ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get all key metrics","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get the all key metrics on ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul get the all key metrics","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"get all key metrics in ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get all key metrics via ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"get all key metrics using ChartMogul","expected_action_key":"chartmogul-retrieve-all-key-metrics","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Merge Customers on ChartMogul","expected_action_key":"chartmogul-merge-customers","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Merge Customers in ChartMogul","expected_action_key":"chartmogul-merge-customers","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul merge customers","expected_action_key":"chartmogul-merge-customers","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Create Customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Create Customer in ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul create customer","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"create a customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"make a customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"new customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"open a customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"start a customer on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"create customer via ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"create customer using ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"create customer with ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"ChartMogul create a customer","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"ChartMogul make a customer","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"create account on ChartMogul","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_target"}
+{"query":"ChartMogul create account","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_target"}
+{"query":"create a chartmogul customer","expected_action_key":"chartmogul-create-customer","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"contextual"}
+{"query":"Add Tags To Customer Via UUID on ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Add Tags To Customer Via UUID in ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul add tags to customer via uuid","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"add tags customer via uuid on ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add tags customer via uuid","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add a tags customer via uuid on ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add a tags customer via uuid","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add new tags customer via uuid on ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add new tags customer via uuid","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add tags customer via uuid in ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"add tags customer via uuid via ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"add tags customer via uuid using ChartMogul","expected_action_key":"chartmogul-add-tags-via-uuid","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"Add Tags To Customer Via Email on ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"Add Tags To Customer Via Email in ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"ChartMogul add tags to customer via email","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"action_name"}
+{"query":"add tags customer via email on ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add tags customer via email","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add a tags customer via email on ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add a tags customer via email","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add new tags customer via email on ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"canonical"}
+{"query":"ChartMogul add new tags customer via email","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"app_first"}
+{"query":"add tags customer via email in ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"add tags customer via email via ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}
+{"query":"add tags customer via email using ChartMogul","expected_action_key":"chartmogul-add-tags-via-email","expected_app_slug":"chartmogul","app_name":"ChartMogul","test_type":"alt_prep"}

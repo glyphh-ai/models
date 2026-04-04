@@ -1,0 +1,443 @@
+{"query":"Update a Ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Update a Ticket in Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk update a ticket","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"update ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"update the ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"edit the ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"modify the ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"change the ticket on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"update ticket in Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update ticket via Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update ticket using Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update ticket with Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk update ticket","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk update the ticket","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk edit the ticket","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"update issue on Freshdesk","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk update issue","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"update a freshdesk ticket","expected_action_key":"freshdesk-update-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Update Ticket Field on Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Update Ticket Field in Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk update ticket field","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"update the ticket field on Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk update the ticket field","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"edit the ticket field on Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk edit the ticket field","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"update ticket field via Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update ticket field using Freshdesk","expected_action_key":"freshdesk-update-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Update Solution Article on Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Update Solution Article in Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk update solution article","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"update the solution article on Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk update the solution article","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"edit the solution article on Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk edit the solution article","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"update solution article via Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update solution article using Freshdesk","expected_action_key":"freshdesk-update-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Update Contact on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Update Contact in Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk update contact","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"update the contact on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"edit the contact on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"modify the contact on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"change the contact on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"update contact via Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update contact using Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update contact with Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk update the contact","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk edit the contact","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"update contact record on Freshdesk","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk update contact record","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"update a freshdesk contact","expected_action_key":"freshdesk-update-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Update Agent on Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Update Agent in Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk update agent","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"update the agent on Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk update the agent","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"edit the agent on Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk edit the agent","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"update agent via Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"update agent using Freshdesk","expected_action_key":"freshdesk-update-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Set Ticket Tags on Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Set Ticket Tags in Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk set ticket tags","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"set the ticket tags on Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk set the ticket tags","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"configure the ticket tags on Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk configure the ticket tags","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"set ticket tags via Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"set ticket tags using Freshdesk","expected_action_key":"freshdesk-set-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Set Ticket Status on Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Set Ticket Status in Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk set ticket status","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"set the ticket status on Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk set the ticket status","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"configure the ticket status on Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk configure the ticket status","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"set ticket status via Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"set ticket status using Freshdesk","expected_action_key":"freshdesk-set-ticket-status","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Set Ticket Priority on Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Set Ticket Priority in Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk set ticket priority","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"set the ticket priority on Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk set the ticket priority","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"configure the ticket priority on Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk configure the ticket priority","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"set ticket priority via Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"set ticket priority using Freshdesk","expected_action_key":"freshdesk-set-ticket-priority","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Remove Ticket Tags on Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Remove Ticket Tags in Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk remove ticket tags","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"remove the ticket tags on Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk remove the ticket tags","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"take out ticket tags on Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk take out ticket tags","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"remove ticket tags via Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"remove ticket tags using Freshdesk","expected_action_key":"freshdesk-remove-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Ticket Fields on Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Ticket Fields in Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list ticket fields","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all ticket fields on Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all ticket fields","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all ticket fields on Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all ticket fields","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list ticket fields via Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list ticket fields using Freshdesk","expected_action_key":"freshdesk-list-ticket-fields","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Conversations of a Ticket on Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Conversations of a Ticket in Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list conversations of a ticket","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list conversations of ticket on Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list conversations of ticket","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list all conversations of ticket on Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all conversations of ticket","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all conversations of ticket on Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all conversations of ticket","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list conversations of ticket in Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list conversations of ticket via Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list conversations of ticket using Freshdesk","expected_action_key":"freshdesk-list-ticket-conversations","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Solution Categories on Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Solution Categories in Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list solution categories","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all solution categories on Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all solution categories","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all solution categories on Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all solution categories","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list solution categories via Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list solution categories using Freshdesk","expected_action_key":"freshdesk-list-solution-categories","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List All Canned Responses In A Folder on Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List All Canned Responses In A Folder in Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list all canned responses in a folder","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all canned responses folder on Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all canned responses folder","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list all all canned responses folder on Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all all canned responses folder","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all all canned responses folder on Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all all canned responses folder","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list all canned responses folder in Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list all canned responses folder via Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list all canned responses folder using Freshdesk","expected_action_key":"freshdesk-list-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Folder Articles on Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Folder Articles in Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list folder articles","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all folder articles on Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all folder articles","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all folder articles on Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all folder articles","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list folder articles via Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list folder articles using Freshdesk","expected_action_key":"freshdesk-list-folder-articles","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Category Folders on Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Category Folders in Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list category folders","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all category folders on Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all category folders","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all category folders on Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all category folders","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list category folders via Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list category folders using Freshdesk","expected_action_key":"freshdesk-list-category-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Tickets on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Tickets in Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list tickets","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all tickets on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"show all tickets on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"get all tickets on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"show me all tickets on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"list tickets via Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list tickets using Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list tickets with Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk list all tickets","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk show all tickets","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list issue on Freshdesk","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk list issue","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"list a freshdesk tickets","expected_action_key":"freshdesk-list-all-tickets","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"List All Folders on Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List All Folders in Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list all folders","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all all folders on Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all all folders","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all all folders on Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all all folders","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list all folders via Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list all folders using Freshdesk","expected_action_key":"freshdesk-list-all-folders","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"List Agents on Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"List Agents in Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk list agents","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"list all agents on Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk list all agents","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"show all agents on Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk show all agents","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"list agents via Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"list agents using Freshdesk","expected_action_key":"freshdesk-list-agents","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Get Ticket Details on Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Get Ticket Details in Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk get ticket details","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"get the ticket details on Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk get the ticket details","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"retrieve ticket details on Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk retrieve ticket details","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get ticket details via Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get ticket details using Freshdesk","expected_action_key":"freshdesk-get-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Get Solution Article on Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Get Solution Article in Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk get solution article","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"get the solution article on Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk get the solution article","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"retrieve solution article on Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk retrieve solution article","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get solution article via Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get solution article using Freshdesk","expected_action_key":"freshdesk-get-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Get Canned Responses In A Folder on Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Get Canned Responses In A Folder in Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk get canned responses in a folder","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"get canned responses folder on Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk get canned responses folder","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get the canned responses folder on Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk get the canned responses folder","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"retrieve canned responses folder on Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk retrieve canned responses folder","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get canned responses folder in Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get canned responses folder via Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get canned responses folder using Freshdesk","expected_action_key":"freshdesk-get-folder-canned-responses","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Get Contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Get Contact in Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk get contact","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"get the contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"retrieve contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"fetch contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"show me the contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"pull contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"check contact on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"get contact via Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get contact using Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get contact with Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk get the contact","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk retrieve contact","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get contact record on Freshdesk","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk get contact record","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"get a freshdesk contact","expected_action_key":"freshdesk-get-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Get Canned Response on Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Get Canned Response in Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk get canned response","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"get the canned response on Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk get the canned response","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"retrieve canned response on Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk retrieve canned response","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"get canned response via Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"get canned response using Freshdesk","expected_action_key":"freshdesk-get-canned-response","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Download Attachment on Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Download Attachment in Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk download attachment","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"export attachment on Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"export the attachment on Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"download the attachment on Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"export attachment in Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"export attachment via Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"export attachment using Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"export attachment with Freshdesk","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk export attachment","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk export the attachment","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"export a freshdesk attachment","expected_action_key":"freshdesk-download-attachment","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Delete Solution Article on Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Delete Solution Article in Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk delete solution article","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"delete the solution article on Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk delete the solution article","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"remove the solution article on Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk remove the solution article","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"delete solution article via Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"delete solution article using Freshdesk","expected_action_key":"freshdesk-delete-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Create a Ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create a Ticket in Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create a ticket","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"make a ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"new ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"open a ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"start a ticket on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"create ticket in Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create ticket via Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create ticket using Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create ticket with Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk create ticket","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk make a ticket","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create issue on Freshdesk","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk create issue","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"create a freshdesk ticket","expected_action_key":"freshdesk-create-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Create Ticket Field on Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create Ticket Field in Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create ticket field","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create a ticket field on Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create a ticket field","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"make a ticket field on Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk make a ticket field","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create ticket field via Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create ticket field using Freshdesk","expected_action_key":"freshdesk-create-ticket-field","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Create a Thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create a Thread in Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create a thread","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"make a thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"new thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"open a thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"start a thread on Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"create thread in Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create thread via Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create thread using Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create thread with Freshdesk","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk create thread","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk make a thread","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create a freshdesk thread","expected_action_key":"freshdesk-create-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Create Solution Article on Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create Solution Article in Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create solution article","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create a solution article on Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create a solution article","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"make a solution article on Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk make a solution article","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create solution article via Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create solution article using Freshdesk","expected_action_key":"freshdesk-create-solution-article","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Create a Reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create a Reply in Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create a reply","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"make a reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"new reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"open a reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"start a reply on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"create reply in Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create reply via Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create reply using Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create reply with Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk create reply","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk make a reply","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create note on Freshdesk","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk create note","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"create a freshdesk reply","expected_action_key":"freshdesk-create-reply","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Create Message For Thread on Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create Message For Thread in Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create message for thread","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create message thread on Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create message thread","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create a message thread on Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create a message thread","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"make a message thread on Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk make a message thread","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create message thread in Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create message thread via Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create message thread using Freshdesk","expected_action_key":"freshdesk-create-message-for-thread","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Create a Contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create a Contact in Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create a contact","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"make a contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"new contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"open a contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"start a contact on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"create contact in Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create contact via Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create contact using Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create contact with Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk create contact","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk make a contact","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create contact record on Freshdesk","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk create contact record","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"create a freshdesk contact","expected_action_key":"freshdesk-create-contact","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Create a Company on Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create a Company in Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create a company","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create company on Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create company","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"make a company on Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk make a company","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create company in Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create company via Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create company using Freshdesk","expected_action_key":"freshdesk-create-company","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Create Agent on Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Create Agent in Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk create agent","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"create a agent on Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk create a agent","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"make a agent on Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk make a agent","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"create agent via Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"create agent using Freshdesk","expected_action_key":"freshdesk-create-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Close Ticket on Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Close Ticket in Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk close ticket","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"archive ticket on Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"archive the ticket on Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"close the ticket on Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"archive ticket in Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"archive ticket via Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"archive ticket using Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"archive ticket with Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Freshdesk archive ticket","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk archive the ticket","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"Freshdesk close the ticket","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"archive issue on Freshdesk","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"Freshdesk archive issue","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_target"}
+{"query":"archive a freshdesk ticket","expected_action_key":"freshdesk-close-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"contextual"}
+{"query":"Assign Ticket to Group on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Assign Ticket to Group in Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk assign ticket to group","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"assign ticket group on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign ticket group","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign the ticket group on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign the ticket group","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign a ticket group on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign a ticket group","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign ticket group in Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"assign ticket group via Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"assign ticket group using Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-group","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Assign Ticket to Agent on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Assign Ticket to Agent in Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk assign ticket to agent","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"assign ticket agent on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign ticket agent","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign the ticket agent on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign the ticket agent","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign a ticket agent on Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk assign a ticket agent","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"assign ticket agent in Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"assign ticket agent via Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"assign ticket agent using Freshdesk","expected_action_key":"freshdesk-assign-ticket-to-agent","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Add Ticket Tags on Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Add Ticket Tags in Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk add ticket tags","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"add a ticket tags on Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk add a ticket tags","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"add new ticket tags on Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk add new ticket tags","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"add ticket tags via Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"add ticket tags using Freshdesk","expected_action_key":"freshdesk-add-ticket-tags","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"Add Note to Ticket on Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Add Note to Ticket in Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"Freshdesk add note to ticket","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"action_name"}
+{"query":"add note ticket on Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk add note ticket","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"add a note ticket on Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk add a note ticket","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"add new note ticket on Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"canonical"}
+{"query":"Freshdesk add new note ticket","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"app_first"}
+{"query":"add note ticket in Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"add note ticket via Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}
+{"query":"add note ticket using Freshdesk","expected_action_key":"freshdesk-add-note-to-ticket","expected_app_slug":"freshdesk","app_name":"Freshdesk","test_type":"alt_prep"}

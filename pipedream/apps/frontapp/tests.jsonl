@@ -1,0 +1,321 @@
+{"query":"Update Teammate on Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Update Teammate in Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front update teammate","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Update Teammate on Frontapp","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"update the teammate on Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front update the teammate","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"edit the teammate on Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front edit the teammate","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"update teammate via Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"update teammate using Front","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp update teammate","expected_action_key":"frontapp-update-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Update Conversation on Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Update Conversation in Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front update conversation","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Update Conversation on Frontapp","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"update the conversation on Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front update the conversation","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"edit the conversation on Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front edit the conversation","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"update conversation via Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"update conversation using Front","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp update conversation","expected_action_key":"frontapp-update-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Tag Conversation on Front","expected_action_key":"frontapp-tag-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Tag Conversation in Front","expected_action_key":"frontapp-tag-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front tag conversation","expected_action_key":"frontapp-tag-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Tag Conversation on Frontapp","expected_action_key":"frontapp-tag-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Send New Message on Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Send New Message in Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front send new message","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Send New Message on Frontapp","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"send a new message on Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front send a new message","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"post a new message on Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front post a new message","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"send new message via Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"send new message using Front","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp send new message","expected_action_key":"frontapp-send-new-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Reply To Conversation on Front","expected_action_key":"frontapp-reply-to-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Reply To Conversation in Front","expected_action_key":"frontapp-reply-to-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front reply to conversation","expected_action_key":"frontapp-reply-to-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Reply To Conversation on Frontapp","expected_action_key":"frontapp-reply-to-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Ticket Statuses on Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Ticket Statuses in Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list ticket statuses","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Ticket Statuses on Frontapp","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all ticket statuses on Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all ticket statuses","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all ticket statuses on Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all ticket statuses","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list ticket statuses via Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list ticket statuses using Front","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list ticket statuses","expected_action_key":"frontapp-list-ticket-statuses","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"List Teammate on Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Teammate in Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list teammate","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Teammate on Frontapp","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all teammate on Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all teammate","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all teammate on Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all teammate","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list teammate via Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list teammate using Front","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list teammate","expected_action_key":"frontapp-list-teammates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"List Message Templates on Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Message Templates in Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list message templates","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Message Templates on Frontapp","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all message templates on Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all message templates","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all message templates on Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all message templates","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list message templates via Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list message templates using Front","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list message templates","expected_action_key":"frontapp-list-message-templates","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"List Conversations on Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Conversations in Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list conversations","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Conversations on Frontapp","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all conversations on Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all conversations","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all conversations on Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all conversations","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list conversations via Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list conversations using Front","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list conversations","expected_action_key":"frontapp-list-conversations","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"List Conversation Comments on Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Conversation Comments in Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list conversation comments","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Conversation Comments on Frontapp","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all conversation comments on Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all conversation comments","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all conversation comments on Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all conversation comments","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list conversation comments via Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list conversation comments using Front","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list conversation comments","expected_action_key":"frontapp-list-comments","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"List Comment Mentions on Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Comment Mentions in Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front list comment mentions","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"List Comment Mentions on Frontapp","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"list all comment mentions on Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front list all comment mentions","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"show all comment mentions on Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front show all comment mentions","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"list comment mentions via Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"list comment mentions using Front","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp list comment mentions","expected_action_key":"frontapp-list-comment-mentions","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Import Message on Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Import Message in Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front import message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Import Message on Frontapp","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"import the message on Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"import a message on Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"import message via Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"import message using Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"import message with Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front import the message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front import a message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"import msg on Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front import msg","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"import chat message on Front","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front import chat message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp import message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"import a front message","expected_action_key":"frontapp-import-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Get Ticket Status on Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Ticket Status in Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front get ticket status","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Ticket Status on Frontapp","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"get the ticket status on Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front get the ticket status","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"retrieve ticket status on Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front retrieve ticket status","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"get ticket status via Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get ticket status using Front","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp get ticket status","expected_action_key":"frontapp-get-ticket-status","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Get Teammate on Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Teammate in Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front get teammate","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Teammate on Frontapp","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"get the teammate on Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front get the teammate","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"retrieve teammate on Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front retrieve teammate","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"get teammate via Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get teammate using Front","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp get teammate","expected_action_key":"frontapp-get-teammate","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Get Message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Message in Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front get message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Message on Frontapp","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"get the message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"retrieve message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"fetch message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"show me the message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"pull message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"check message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"get message via Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get message using Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get message with Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front get the message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front retrieve message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"get msg on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front get msg","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"get chat message on Front","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front get chat message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp get message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"get a front message","expected_action_key":"frontapp-get-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Get Conversation on Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Conversation in Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front get conversation","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Conversation on Frontapp","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"get the conversation on Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front get the conversation","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"retrieve conversation on Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front retrieve conversation","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"get conversation via Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get conversation using Front","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp get conversation","expected_action_key":"frontapp-get-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Get Comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Comment in Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front get comment","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Get Comment on Frontapp","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"get the comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"retrieve comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"fetch comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"show me the comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"pull comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"check comment on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"get comment via Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get comment using Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"get comment with Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front get the comment","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front retrieve comment","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"get note on Front","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front get note","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp get comment","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"get a front comment","expected_action_key":"frontapp-get-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Delete Message Template on Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Delete Message Template in Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front delete message template","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Delete Message Template on Frontapp","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"delete the message template on Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front delete the message template","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"remove the message template on Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front remove the message template","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"delete message template via Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"delete message template using Front","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp delete message template","expected_action_key":"frontapp-delete-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Create Message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Message in Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front create message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Message on Frontapp","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"create a message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"make a message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"new message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"open a message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"start a message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"create message via Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create message using Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create message with Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front create a message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front make a message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"create msg on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front create msg","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"create chat message on Front","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front create chat message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp create message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"create a front message","expected_action_key":"frontapp-create-message","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Create Message Template on Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Message Template in Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front create message template","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Message Template on Frontapp","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"create a message template on Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front create a message template","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"make a message template on Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front make a message template","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"create message template via Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create message template using Front","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp create message template","expected_action_key":"frontapp-create-message-template","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Create Inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Inbox in Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front create inbox","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Inbox on Frontapp","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"create a inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"make a inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"new inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"open a inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"start a inbox on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"create inbox via Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create inbox using Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create inbox with Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front create a inbox","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front make a inbox","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"create mail on Front","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front create mail","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp create inbox","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"create a front inbox","expected_action_key":"frontapp-create-inbox","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Create Draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Draft in Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front create draft","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Draft on Frontapp","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"create a draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"make a draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"new draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"open a draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"start a draft on Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"create draft via Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create draft using Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create draft with Front","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front create a draft","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front make a draft","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Frontapp create draft","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"create a front draft","expected_action_key":"frontapp-create-draft","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}
+{"query":"Create Draft Reply on Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Draft Reply in Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front create draft reply","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Create Draft Reply on Frontapp","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"create a draft reply on Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front create a draft reply","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"make a draft reply on Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front make a draft reply","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"create draft reply via Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"create draft reply using Front","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp create draft reply","expected_action_key":"frontapp-create-draft-reply","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Assign Conversation on Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Assign Conversation in Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front assign conversation","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Assign Conversation on Frontapp","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"assign the conversation on Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front assign the conversation","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"assign a conversation on Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front assign a conversation","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"assign conversation via Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"assign conversation using Front","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp assign conversation","expected_action_key":"frontapp-assign-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Archive Conversation on Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Archive Conversation in Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front archive conversation","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Archive Conversation on Frontapp","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"archive the conversation on Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front archive the conversation","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"close the conversation on Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"Front close the conversation","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"archive conversation via Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"archive conversation using Front","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Frontapp archive conversation","expected_action_key":"frontapp-archive-conversation","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"Add Comment on Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Add Comment in Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Front add comment","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"Add Comment on Frontapp","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"action_name"}
+{"query":"add a comment on Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"add new comment on Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"canonical"}
+{"query":"add comment via Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"add comment using Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"add comment with Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_prep"}
+{"query":"Front add a comment","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"Front add new comment","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"app_first"}
+{"query":"add note on Front","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Front add note","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_target"}
+{"query":"Frontapp add comment","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"alt_app_name"}
+{"query":"add a front comment","expected_action_key":"frontapp-add-comment","expected_app_slug":"frontapp","app_name":"Front","test_type":"contextual"}

@@ -1,0 +1,12 @@
+{"query":"Send Message to Orimon on Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"action_name"}
+{"query":"Send Message to Orimon in Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"action_name"}
+{"query":"Orimon send message to orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"action_name"}
+{"query":"send message orimon on Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"canonical"}
+{"query":"Orimon send message orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"app_first"}
+{"query":"send a message orimon on Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"canonical"}
+{"query":"Orimon send a message orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"app_first"}
+{"query":"post a message orimon on Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"canonical"}
+{"query":"Orimon post a message orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"app_first"}
+{"query":"send message orimon in Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"alt_prep"}
+{"query":"send message orimon via Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"alt_prep"}
+{"query":"send message orimon using Orimon","expected_action_key":"orimon-send-message","expected_app_slug":"orimon","app_name":"Orimon","test_type":"alt_prep"}

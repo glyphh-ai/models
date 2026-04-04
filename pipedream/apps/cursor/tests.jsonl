@@ -1,0 +1,54 @@
+{"query":"Stop Agent on Cursor","expected_action_key":"cursor-stop-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Stop Agent in Cursor","expected_action_key":"cursor-stop-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor stop agent","expected_action_key":"cursor-stop-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"List Models on Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"List Models in Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor list models","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"list all models on Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor list all models","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"show all models on Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor show all models","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"list models via Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"list models using Cursor","expected_action_key":"cursor-list-models","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"List Agents on Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"List Agents in Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor list agents","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"list all agents on Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor list all agents","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"show all agents on Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor show all agents","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"list agents via Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"list agents using Cursor","expected_action_key":"cursor-list-agents","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"Launch Agent on Cursor","expected_action_key":"cursor-launch-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Launch Agent in Cursor","expected_action_key":"cursor-launch-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor launch agent","expected_action_key":"cursor-launch-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Get Agent Status on Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Get Agent Status in Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor get agent status","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"get the agent status on Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor get the agent status","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"retrieve agent status on Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor retrieve agent status","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"get agent status via Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"get agent status using Cursor","expected_action_key":"cursor-get-agent-status","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"Get Agent Conversation on Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Get Agent Conversation in Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor get agent conversation","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"get the agent conversation on Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor get the agent conversation","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"retrieve agent conversation on Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor retrieve agent conversation","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"get agent conversation via Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"get agent conversation using Cursor","expected_action_key":"cursor-get-agent-conversation","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"Add Followup to Agent on Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Add Followup to Agent in Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"Cursor add followup to agent","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"action_name"}
+{"query":"add followup agent on Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor add followup agent","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"add a followup agent on Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor add a followup agent","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"add new followup agent on Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"canonical"}
+{"query":"Cursor add new followup agent","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"app_first"}
+{"query":"add followup agent in Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"add followup agent via Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}
+{"query":"add followup agent using Cursor","expected_action_key":"cursor-add-followup-to-agent","expected_app_slug":"cursor","app_name":"Cursor","test_type":"alt_prep"}

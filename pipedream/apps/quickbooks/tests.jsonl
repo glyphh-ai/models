@@ -1,0 +1,481 @@
+{"query":"Void Invoice on QuickBooks","expected_action_key":"quickbooks-void-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Void Invoice in QuickBooks","expected_action_key":"quickbooks-void-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks void invoice","expected_action_key":"quickbooks-void-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Update Item on QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Update Item in QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks update item","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"update the item on QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"edit the item on QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"modify the item on QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"change the item on QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"update item via QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update item using QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update item with QuickBooks","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks update the item","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks edit the item","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update a quickbooks item","expected_action_key":"quickbooks-update-item","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Update Invoice on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Update Invoice in QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks update invoice","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"update the invoice on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"edit the invoice on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"modify the invoice on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"change the invoice on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"update invoice via QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update invoice using QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update invoice with QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks update the invoice","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks edit the invoice","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update bill on QuickBooks","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks update bill","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"update a quickbooks invoice","expected_action_key":"quickbooks-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Update Estimate on QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Update Estimate in QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks update estimate","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"update the estimate on QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks update the estimate","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"edit the estimate on QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks edit the estimate","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update estimate via QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update estimate using QuickBooks","expected_action_key":"quickbooks-update-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Update Customer on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Update Customer in QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks update customer","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"update the customer on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"edit the customer on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"modify the customer on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"change the customer on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"update customer via QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update customer using QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update customer with QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks update the customer","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks edit the customer","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update account on QuickBooks","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks update account","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"update a quickbooks customer","expected_action_key":"quickbooks-update-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Sparse Update Invoice on QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Sparse Update Invoice in QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks sparse update invoice","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"update update invoice on QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks update update invoice","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update the update invoice on QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks update the update invoice","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"edit the update invoice on QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks edit the update invoice","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"update update invoice in QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update update invoice via QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"update update invoice using QuickBooks","expected_action_key":"quickbooks-sparse-update-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Send Invoice on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Send Invoice in QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks send invoice","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"send a invoice on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"post a invoice on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"send out invoice on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"fire off invoice on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"send invoice via QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"send invoice using QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"send invoice with QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks send a invoice","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks post a invoice","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"send bill on QuickBooks","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks send bill","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"send a quickbooks invoice","expected_action_key":"quickbooks-send-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Send Estimate on QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Send Estimate in QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks send estimate","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"send a estimate on QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks send a estimate","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"post a estimate on QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks post a estimate","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"send estimate via QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"send estimate using QuickBooks","expected_action_key":"quickbooks-send-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Vendors on QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Vendors in QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search vendors","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for vendors on QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for vendors","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find vendors on QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find vendors","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for vendors on QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for vendors","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for vendors in QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for vendors via QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for vendors using QuickBooks","expected_action_key":"quickbooks-search-vendors","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Time Activities on QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Time Activities in QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search time activities","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for time activities on QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for time activities","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find time activities on QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find time activities","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for time activities on QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for time activities","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for time activities in QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for time activities via QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for time activities using QuickBooks","expected_action_key":"quickbooks-search-time-activities","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Services on QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Services in QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search services","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for services on QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for services","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find services on QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find services","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for services on QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for services","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for services in QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for services via QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for services using QuickBooks","expected_action_key":"quickbooks-search-services","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Query on QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Query in QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search query","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for query on QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for query","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find query on QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find query","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for query on QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for query","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for query in QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for query via QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for query using QuickBooks","expected_action_key":"quickbooks-search-query","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Purchases on QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Purchases in QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search purchases","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for purchases on QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for purchases","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find purchases on QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find purchases","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for purchases on QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for purchases","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for purchases in QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for purchases via QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for purchases using QuickBooks","expected_action_key":"quickbooks-search-purchases","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Products on QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Products in QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search products","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for products on QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for products","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find products on QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find products","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for products on QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for products","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for products in QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for products via QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for products using QuickBooks","expected_action_key":"quickbooks-search-products","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Items on QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Items in QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search items","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for items on QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for items","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find items on QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find items","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for items on QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for items","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for items in QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for items via QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for items using QuickBooks","expected_action_key":"quickbooks-search-items","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Invoices on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Invoices in QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search invoices","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for invoices on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"find invoices on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"look for invoices on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"locate invoices on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"search for invoices in QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices via QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices using QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices with QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks search for invoices","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks find invoices","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks look for invoices","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for bill on QuickBooks","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks search for bill","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"search for a quickbooks invoices","expected_action_key":"quickbooks-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Search Customers on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Customers in QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search customers","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for customers on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"find customers on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"look for customers on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"locate customers on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"search for customers in QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for customers via QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for customers using QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for customers with QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks search for customers","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks find customers","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks look for customers","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for account on QuickBooks","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks search for account","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"search for a quickbooks customers","expected_action_key":"quickbooks-search-customers","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Search Accounts on QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Accounts in QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search accounts","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for accounts on QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks search for accounts","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"find accounts on QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks find accounts","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"look for accounts on QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks look for accounts","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for accounts in QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for accounts via QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for accounts using QuickBooks","expected_action_key":"quickbooks-search-accounts","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Time Activity on QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Time Activity in QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get time activity","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the time activity on QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the time activity","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve time activity on QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve time activity","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get time activity via QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get time activity using QuickBooks","expected_action_key":"quickbooks-get-time-activity","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Sales Receipt on QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Sales Receipt in QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get sales receipt","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the sales receipt on QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the sales receipt","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve sales receipt on QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve sales receipt","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get sales receipt via QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get sales receipt using QuickBooks","expected_action_key":"quickbooks-get-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Purchase on QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Purchase in QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get purchase","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the purchase on QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the purchase","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve purchase on QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve purchase","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get purchase via QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get purchase using QuickBooks","expected_action_key":"quickbooks-get-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Purchase Order on QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Purchase Order in QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get purchase order","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the purchase order on QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the purchase order","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve purchase order on QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve purchase order","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get purchase order via QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get purchase order using QuickBooks","expected_action_key":"quickbooks-get-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Payment in QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get payment","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"retrieve payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"fetch payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"show me the payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"pull payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"check payment on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"get payment via QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get payment using QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get payment with QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks get the payment","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks retrieve payment","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get charge on QuickBooks","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks get charge","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"get a quickbooks payment","expected_action_key":"quickbooks-get-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Get My Company on QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get My Company in QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get my company","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the my company on QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the my company","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve my company on QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve my company","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get my company via QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get my company using QuickBooks","expected_action_key":"quickbooks-get-my-company","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Invoice in QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get invoice","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"retrieve invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"fetch invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"show me the invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"pull invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"check invoice on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"get invoice via QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get invoice using QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get invoice with QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks get the invoice","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks retrieve invoice","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get bill on QuickBooks","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks get bill","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"get a quickbooks invoice","expected_action_key":"quickbooks-get-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Get Customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Customer in QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get customer","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"retrieve customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"fetch customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"show me the customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"pull customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"check customer on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"get customer via QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get customer using QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get customer with QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks get the customer","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks retrieve customer","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get account on QuickBooks","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks get account","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"get a quickbooks customer","expected_action_key":"quickbooks-get-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Get Cash Flow Report on QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Cash Flow Report in QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get cash flow report","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the cash flow report on QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the cash flow report","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve cash flow report on QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve cash flow report","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get cash flow report via QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get cash flow report using QuickBooks","expected_action_key":"quickbooks-get-cash-flow-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Bill on QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Bill in QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get bill","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the bill on QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the bill","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve bill on QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve bill","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get bill via QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get bill using QuickBooks","expected_action_key":"quickbooks-get-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Get Balance Sheet Report on QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Get Balance Sheet Report in QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks get balance sheet report","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"get the balance sheet report on QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks get the balance sheet report","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"retrieve balance sheet report on QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks retrieve balance sheet report","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"get balance sheet report via QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"get balance sheet report using QuickBooks","expected_action_key":"quickbooks-get-balance-sheet-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Delete Purchase on QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Delete Purchase in QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks delete purchase","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"delete the purchase on QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks delete the purchase","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"remove the purchase on QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks remove the purchase","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"delete purchase via QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"delete purchase using QuickBooks","expected_action_key":"quickbooks-delete-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Sales Receipt on QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Sales Receipt in QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create sales receipt","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a sales receipt on QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a sales receipt","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a sales receipt on QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a sales receipt","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create sales receipt via QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create sales receipt using QuickBooks","expected_action_key":"quickbooks-create-sales-receipt","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Purchase on QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Purchase in QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create purchase","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a purchase on QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a purchase","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a purchase on QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a purchase","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create purchase via QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create purchase using QuickBooks","expected_action_key":"quickbooks-create-purchase","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Purchase Order on QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Purchase Order in QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create purchase order","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a purchase order on QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a purchase order","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a purchase order on QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a purchase order","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create purchase order via QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create purchase order using QuickBooks","expected_action_key":"quickbooks-create-purchase-order","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Profit and Loss Detail Report on QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Profit and Loss Detail Report in QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create profit and loss detail report","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a profit and loss detail report on QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a profit and loss detail report","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a profit and loss detail report on QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a profit and loss detail report","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create profit and loss detail report via QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create profit and loss detail report using QuickBooks","expected_action_key":"quickbooks-create-pl-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Payment in QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create payment","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"make a payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"new payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"open a payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"start a payment on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"create payment via QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create payment using QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create payment with QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks create a payment","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks make a payment","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create charge on QuickBooks","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks create charge","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"create a quickbooks payment","expected_action_key":"quickbooks-create-payment","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Create Invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Invoice in QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create invoice","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"make a invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"new invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"open a invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"start a invoice on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"create invoice via QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create invoice using QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create invoice with QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks create a invoice","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks make a invoice","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create bill on QuickBooks","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks create bill","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"create a quickbooks invoice","expected_action_key":"quickbooks-create-invoice","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Create Estimate on QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Estimate in QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create estimate","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a estimate on QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a estimate","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a estimate on QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a estimate","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create estimate via QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create estimate using QuickBooks","expected_action_key":"quickbooks-create-estimate","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create Customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Customer in QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create customer","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"make a customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"new customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"open a customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"start a customer on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"create customer via QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create customer using QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create customer with QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks create a customer","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks make a customer","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create account on QuickBooks","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks create account","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"create a quickbooks customer","expected_action_key":"quickbooks-create-customer","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}
+{"query":"Create Bill on QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create Bill in QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create bill","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a bill on QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a bill","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a bill on QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a bill","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create bill via QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create bill using QuickBooks","expected_action_key":"quickbooks-create-bill","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Create AP Aging Detail Report on QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Create AP Aging Detail Report in QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks create ap aging detail report","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"create a ap aging detail report on QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks create a ap aging detail report","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"make a ap aging detail report on QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"QuickBooks make a ap aging detail report","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"create ap aging detail report via QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"create ap aging detail report using QuickBooks","expected_action_key":"quickbooks-create-ap-aging-report","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"Search Invoices on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"Search Invoices in QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"QuickBooks search invoices","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"action_name"}
+{"query":"search for invoices on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"find invoices on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"look for invoices on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"locate invoices on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"canonical"}
+{"query":"search for invoices in QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices via QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices using QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"search for invoices with QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_prep"}
+{"query":"QuickBooks search for invoices","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks find invoices","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"QuickBooks look for invoices","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"app_first"}
+{"query":"search for bill on QuickBooks","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"QuickBooks search for bill","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"alt_target"}
+{"query":"search for a quickbooks invoices","expected_action_key":"quickbooks-sandbox-search-invoices","expected_app_slug":"quickbooks","app_name":"QuickBooks","test_type":"contextual"}

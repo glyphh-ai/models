@@ -1,0 +1,39 @@
+{"query":"Update Project on Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Update Project in Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Redmine update project","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"update the project on Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"Redmine update the project","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"edit the project on Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"Redmine edit the project","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"update project via Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"update project using Redmine","expected_action_key":"redmine-update-project","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"Delete User on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Delete User in Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Redmine delete user","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"delete the user on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"remove the user on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"destroy the user on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"delete user via Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"delete user using Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"delete user with Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"Redmine delete the user","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"Redmine remove the user","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"delete member on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_target"}
+{"query":"Redmine delete member","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_target"}
+{"query":"delete person on Redmine","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_target"}
+{"query":"Redmine delete person","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_target"}
+{"query":"delete a redmine user","expected_action_key":"redmine-delete-user","expected_app_slug":"redmine","app_name":"Redmine","test_type":"contextual"}
+{"query":"Create Issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Create Issue in Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"Redmine create issue","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"action_name"}
+{"query":"create a issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"make a issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"new issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"open a issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"start a issue on Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"canonical"}
+{"query":"create issue via Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"create issue using Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"create issue with Redmine","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"alt_prep"}
+{"query":"Redmine create a issue","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"Redmine make a issue","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"app_first"}
+{"query":"create a redmine issue","expected_action_key":"redmine-create-issue","expected_app_slug":"redmine","app_name":"Redmine","test_type":"contextual"}

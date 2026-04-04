@@ -1,0 +1,44 @@
+{"query":"Trigger Job Run on dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Trigger Job Run in dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"dbt Cloud trigger job run","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Trigger Job Run on Dbt","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"run job run on dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud run job run","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"execute job run on dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud execute job run","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"trigger job run via dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"trigger job run using dbt Cloud","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"Dbt trigger job run","expected_action_key":"dbt-trigger-job-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_app_name"}
+{"query":"Get Run on dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Run in dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"dbt Cloud get run","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Run on Dbt","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"get the run on dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud get the run","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"retrieve run on dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud retrieve run","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"get run via dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"get run using dbt Cloud","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"Dbt get run","expected_action_key":"dbt-get-run","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_app_name"}
+{"query":"Get Run Artifact on dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Run Artifact in dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"dbt Cloud get run artifact","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Run Artifact on Dbt","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"get the run artifact on dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud get the run artifact","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"retrieve run artifact on dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud retrieve run artifact","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"get run artifact via dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"get run artifact using dbt Cloud","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"Dbt get run artifact","expected_action_key":"dbt-get-run-artifact","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_app_name"}
+{"query":"Get Environment on dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Environment in dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"dbt Cloud get environment","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"Get Environment on Dbt","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"action_name"}
+{"query":"get the environment on dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud get the environment","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"retrieve environment on dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"canonical"}
+{"query":"dbt Cloud retrieve environment","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"app_first"}
+{"query":"get environment via dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"get environment using dbt Cloud","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_prep"}
+{"query":"Dbt get environment","expected_action_key":"dbt-get-environment","expected_app_slug":"dbt","app_name":"dbt Cloud","test_type":"alt_app_name"}

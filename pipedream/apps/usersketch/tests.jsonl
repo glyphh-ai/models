@@ -1,0 +1,36 @@
+{"query":"Create User on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"Create User in UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"UserSketch create user","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"create a user on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"make a user on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"new user on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"open a user on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"start a user on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"create user via UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"create user using UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"create user with UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"UserSketch create a user","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"app_first"}
+{"query":"UserSketch make a user","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"app_first"}
+{"query":"create member on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"UserSketch create member","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"create person on UserSketch","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"UserSketch create person","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"create a usersketch user","expected_action_key":"usersketch-create-user","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"contextual"}
+{"query":"Create Event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"Create Event in UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"UserSketch create event","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"action_name"}
+{"query":"create a event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"make a event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"new event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"open a event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"start a event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"canonical"}
+{"query":"create event via UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"create event using UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"create event with UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_prep"}
+{"query":"UserSketch create a event","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"app_first"}
+{"query":"UserSketch make a event","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"app_first"}
+{"query":"create meeting on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"UserSketch create meeting","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"create calendar event on UserSketch","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"UserSketch create calendar event","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"alt_target"}
+{"query":"create a usersketch event","expected_action_key":"usersketch-create-event","expected_app_slug":"usersketch","app_name":"UserSketch","test_type":"contextual"}

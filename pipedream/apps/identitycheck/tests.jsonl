@@ -1,0 +1,9 @@
+{"query":"Create Verification on IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"action_name"}
+{"query":"Create Verification in IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"action_name"}
+{"query":"IdentityCheck create verification","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"action_name"}
+{"query":"create a verification on IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"canonical"}
+{"query":"IdentityCheck create a verification","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"app_first"}
+{"query":"make a verification on IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"canonical"}
+{"query":"IdentityCheck make a verification","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"app_first"}
+{"query":"create verification via IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"alt_prep"}
+{"query":"create verification using IdentityCheck","expected_action_key":"identitycheck-create-verification","expected_app_slug":"identitycheck","app_name":"IdentityCheck","test_type":"alt_prep"}

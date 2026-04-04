@@ -1,0 +1,50 @@
+{"query":"Update Contact on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Update Contact in Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Aircall update contact","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"update the contact on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"edit the contact on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"modify the contact on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"change the contact on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"update contact via Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"update contact using Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"update contact with Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"Aircall update the contact","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"Aircall edit the contact","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"update contact record on Aircall","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_target"}
+{"query":"Aircall update contact record","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_target"}
+{"query":"update a aircall contact","expected_action_key":"aircall-update-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"contextual"}
+{"query":"Retrieve Transcription on Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Retrieve Transcription in Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Aircall retrieve transcription","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"get transcription on Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"Aircall get transcription","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"get the transcription on Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"Aircall get the transcription","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"get transcription in Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"get transcription via Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"get transcription using Aircall","expected_action_key":"aircall-retrieve-transcription","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"Get Call on Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Get Call in Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Aircall get call","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"get the call on Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"Aircall get the call","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"retrieve call on Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"Aircall retrieve call","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"get call via Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"get call using Aircall","expected_action_key":"aircall-get-call","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"Create Contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Create Contact in Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"Aircall create contact","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"action_name"}
+{"query":"create a contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"make a contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"new contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"open a contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"start a contact on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"canonical"}
+{"query":"create contact via Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"create contact using Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"create contact with Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_prep"}
+{"query":"Aircall create a contact","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"Aircall make a contact","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"app_first"}
+{"query":"create contact record on Aircall","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_target"}
+{"query":"Aircall create contact record","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"alt_target"}
+{"query":"create a aircall contact","expected_action_key":"aircall-create-contact","expected_app_slug":"aircall","app_name":"Aircall","test_type":"contextual"}

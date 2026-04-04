@@ -1,0 +1,63 @@
+{"query":"List Customers on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"List Customers in RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"RepairShopr list customers","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"list all customers on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"show all customers on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"get all customers on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"show me all customers on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"list customers via RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"list customers using RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"list customers with RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"RepairShopr list all customers","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"RepairShopr show all customers","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"list account on RepairShopr","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"RepairShopr list account","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"list a repairshopr customers","expected_action_key":"repairshopr-list-customers","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"contextual"}
+{"query":"Create Ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"Create Ticket in RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"RepairShopr create ticket","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"create a ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"make a ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"new ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"open a ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"start a ticket on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"create ticket via RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create ticket using RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create ticket with RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"RepairShopr create a ticket","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"RepairShopr make a ticket","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"create issue on RepairShopr","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"RepairShopr create issue","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"create a repairshopr ticket","expected_action_key":"repairshopr-create-ticket","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"contextual"}
+{"query":"Create Lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"Create Lead in RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"RepairShopr create lead","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"create a lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"make a lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"new lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"open a lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"start a lead on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"create lead via RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create lead using RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create lead with RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"RepairShopr create a lead","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"RepairShopr make a lead","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"create contact record on RepairShopr","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"RepairShopr create contact record","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"create a repairshopr lead","expected_action_key":"repairshopr-create-lead","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"contextual"}
+{"query":"Create Customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"Create Customer in RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"RepairShopr create customer","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"action_name"}
+{"query":"create a customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"make a customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"new customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"open a customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"start a customer on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"canonical"}
+{"query":"create customer via RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create customer using RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"create customer with RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_prep"}
+{"query":"RepairShopr create a customer","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"RepairShopr make a customer","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"app_first"}
+{"query":"create account on RepairShopr","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"RepairShopr create account","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"alt_target"}
+{"query":"create a repairshopr customer","expected_action_key":"repairshopr-create-customer","expected_app_slug":"repairshopr","app_name":"RepairShopr","test_type":"contextual"}

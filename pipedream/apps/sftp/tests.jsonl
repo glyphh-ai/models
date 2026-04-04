@@ -1,0 +1,15 @@
+{"query":"Upload File on SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"action_name"}
+{"query":"Upload File in SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"action_name"}
+{"query":"SFTP key-based auth upload file","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"action_name"}
+{"query":"Upload File on Sftp","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"action_name"}
+{"query":"upload a file on SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"canonical"}
+{"query":"upload the file on SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"canonical"}
+{"query":"upload file via SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_prep"}
+{"query":"upload file using SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_prep"}
+{"query":"upload file with SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_prep"}
+{"query":"SFTP key-based auth upload a file","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"app_first"}
+{"query":"SFTP key-based auth upload the file","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"app_first"}
+{"query":"upload document on SFTP key-based auth","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_target"}
+{"query":"SFTP key-based auth upload document","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_target"}
+{"query":"Sftp upload file","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"alt_app_name"}
+{"query":"upload a sftp key-based auth file","expected_action_key":"sftp-upload-file","expected_app_slug":"sftp","app_name":"SFTP (key-based auth)","test_type":"contextual"}

@@ -1,0 +1,190 @@
+{"query":"Download Attachment on Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Download Attachment in Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail download attachment","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"export attachment on Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"export the attachment on Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"download the attachment on Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"export attachment in Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"export attachment via Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"export attachment using Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"export attachment with Gmail","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail export attachment","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail export the attachment","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"export a gmail attachment","expected_action_key":"gmail-download-attachment","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Update Signature for Primary Email Address on Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Update Signature for Primary Email Address in Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail update signature for primary email address","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"update signature primary email address on Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail update signature primary email address","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"update the signature primary email address on Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail update the signature primary email address","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"edit the signature primary email address on Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail edit the signature primary email address","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"update signature primary email address in Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"update signature primary email address via Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"update signature primary email address using Gmail","expected_action_key":"gmail-update-primary-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Update Signature for Email in Organization on Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Update Signature for Email in Organization in Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail update signature for email in organization","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"update signature email organization on Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail update signature email organization","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"update the signature email organization on Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail update the signature email organization","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"edit the signature email organization on Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail edit the signature email organization","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"update signature email organization in Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"update signature email organization via Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"update signature email organization using Gmail","expected_action_key":"gmail-update-org-signature","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Send Email on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Send Email in Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail send email","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"send a email on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"post a email on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"send out email on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"fire off email on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"send email via Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"send email using Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"send email with Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail send a email","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail post a email","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"send mail on Gmail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"Gmail send mail","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"send a gmail email","expected_action_key":"gmail-send-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Remove Label from Email on Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Remove Label from Email in Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail remove label from email","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"remove label email on Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail remove label email","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"remove the label email on Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail remove the label email","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"take out label email on Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail take out label email","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"remove label email in Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"remove label email via Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"remove label email using Gmail","expected_action_key":"gmail-remove-label-from-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"List Thread Messages on Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"List Thread Messages in Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail list thread messages","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"list all thread messages on Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail list all thread messages","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"show all thread messages on Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail show all thread messages","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"list thread messages via Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"list thread messages using Gmail","expected_action_key":"gmail-list-thread-messages","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"List Send As Aliases on Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"List Send As Aliases in Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail list send as aliases","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"list all send as aliases on Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail list all send as aliases","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"show all send as aliases on Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail show all send as aliases","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"list send as aliases via Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"list send as aliases using Gmail","expected_action_key":"gmail-list-send-as-aliases","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"List Labels on Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"List Labels in Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail list labels","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"list all labels on Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"show all labels on Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"get all labels on Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"show me all labels on Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"list labels via Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"list labels using Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"list labels with Gmail","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail list all labels","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail show all labels","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"list a gmail labels","expected_action_key":"gmail-list-labels","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Get Send As Alias on Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Get Send As Alias in Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail get send as alias","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"get the send as alias on Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail get the send as alias","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"retrieve send as alias on Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail retrieve send as alias","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"get send as alias via Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"get send as alias using Gmail","expected_action_key":"gmail-get-send-as-alias","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Find Email on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Find Email in Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail find email","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"search for email on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"look for email on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"search email on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"locate email on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"search for email in Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"search for email via Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"search for email using Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"search for email with Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail search for email","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail look for email","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"search for mail on Gmail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"Gmail search for mail","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"search for a gmail email","expected_action_key":"gmail-find-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Delete Email on Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Delete Email in Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail delete email","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"delete the email on Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"remove the email on Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"destroy the email on Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"delete email via Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"delete email using Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"delete email with Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail delete the email","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail remove the email","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"delete mail on Gmail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"Gmail delete mail","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"delete a gmail email","expected_action_key":"gmail-delete-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Create Label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Create Label in Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail create label","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"create a label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"make a label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"new label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"open a label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"start a label on Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"create label via Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"create label using Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"create label with Gmail","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail create a label","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail make a label","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"create a gmail label","expected_action_key":"gmail-create-label","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Create Draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Create Draft in Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail create draft","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"create a draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"make a draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"new draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"open a draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"start a draft on Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"create draft via Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"create draft using Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"create draft with Gmail","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail create a draft","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail make a draft","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"create a gmail draft","expected_action_key":"gmail-create-draft","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Archive Email on Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Archive Email in Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail archive email","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"archive the email on Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"close the email on Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"archive email via Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"archive email using Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"archive email with Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"Gmail archive the email","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"Gmail close the email","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"archive mail on Gmail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"Gmail archive mail","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_target"}
+{"query":"archive a gmail email","expected_action_key":"gmail-archive-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"contextual"}
+{"query":"Approve Workflow on Gmail","expected_action_key":"gmail-approve-workflow","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Approve Workflow in Gmail","expected_action_key":"gmail-approve-workflow","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail approve workflow","expected_action_key":"gmail-approve-workflow","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Add Label to Email on Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Add Label to Email in Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"Gmail add label to email","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"action_name"}
+{"query":"add label email on Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail add label email","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"add a label email on Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail add a label email","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"add new label email on Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"canonical"}
+{"query":"Gmail add new label email","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"app_first"}
+{"query":"add label email in Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"add label email via Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}
+{"query":"add label email using Gmail","expected_action_key":"gmail-add-label-to-email","expected_app_slug":"gmail","app_name":"Gmail","test_type":"alt_prep"}

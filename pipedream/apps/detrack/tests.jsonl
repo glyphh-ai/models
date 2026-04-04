@@ -1,0 +1,9 @@
+{"query":"Create Job on DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"action_name"}
+{"query":"Create Job in DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"action_name"}
+{"query":"DeTrack create job","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"action_name"}
+{"query":"create a job on DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"canonical"}
+{"query":"DeTrack create a job","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"app_first"}
+{"query":"make a job on DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"canonical"}
+{"query":"DeTrack make a job","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"app_first"}
+{"query":"create job via DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"alt_prep"}
+{"query":"create job using DeTrack","expected_action_key":"detrack-create-job","expected_app_slug":"detrack","app_name":"DeTrack","test_type":"alt_prep"}

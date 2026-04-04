@@ -1,0 +1,50 @@
+{"query":"Retrieve Thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Retrieve Thread in Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Bluesky retrieve thread","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"get thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"get the thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"fetch thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"show me the thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"pull thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"check thread on Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"get thread in Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"get thread via Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"get thread using Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"get thread with Bluesky","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"Bluesky get thread","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"Bluesky get the thread","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"get a bluesky thread","expected_action_key":"bluesky-retrieve-thread","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"contextual"}
+{"query":"Like Post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Like Post in Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Bluesky like post","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"send post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"send a post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"post a post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"send out post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"fire off post on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"send post in Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"send post via Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"send post using Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"send post with Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"Bluesky send post","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"Bluesky send a post","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"Bluesky post a post","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"send status update on Bluesky","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_target"}
+{"query":"Bluesky send status update","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_target"}
+{"query":"send a bluesky post","expected_action_key":"bluesky-like-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"contextual"}
+{"query":"Create Post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Create Post in Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"Bluesky create post","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"action_name"}
+{"query":"create a post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"make a post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"new post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"open a post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"start a post on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"canonical"}
+{"query":"create post via Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"create post using Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"create post with Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_prep"}
+{"query":"Bluesky create a post","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"Bluesky make a post","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"app_first"}
+{"query":"create status update on Bluesky","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_target"}
+{"query":"Bluesky create status update","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"alt_target"}
+{"query":"create a bluesky post","expected_action_key":"bluesky-create-post","expected_app_slug":"bluesky","app_name":"Bluesky","test_type":"contextual"}

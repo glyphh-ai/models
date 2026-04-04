@@ -1,0 +1,17 @@
+{"query":"Send Notification on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"action_name"}
+{"query":"Send Notification in PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"action_name"}
+{"query":"PingBell send notification","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"action_name"}
+{"query":"send a notification on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"canonical"}
+{"query":"post a notification on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"canonical"}
+{"query":"send out notification on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"canonical"}
+{"query":"fire off notification on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"canonical"}
+{"query":"send notification via PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_prep"}
+{"query":"send notification using PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_prep"}
+{"query":"send notification with PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_prep"}
+{"query":"PingBell send a notification","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"app_first"}
+{"query":"PingBell post a notification","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"app_first"}
+{"query":"send msg on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_target"}
+{"query":"PingBell send msg","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_target"}
+{"query":"send chat message on PingBell","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_target"}
+{"query":"PingBell send chat message","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"alt_target"}
+{"query":"send a pingbell notification","expected_action_key":"pingbell-send-notification","expected_app_slug":"pingbell","app_name":"PingBell","test_type":"contextual"}

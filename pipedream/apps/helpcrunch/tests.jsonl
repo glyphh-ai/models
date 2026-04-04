@@ -1,0 +1,16 @@
+{"query":"Create Customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"action_name"}
+{"query":"Create Customer in HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"action_name"}
+{"query":"HelpCrunch create customer","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"action_name"}
+{"query":"create a customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"canonical"}
+{"query":"make a customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"canonical"}
+{"query":"new customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"canonical"}
+{"query":"open a customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"canonical"}
+{"query":"start a customer on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"canonical"}
+{"query":"create customer via HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"alt_prep"}
+{"query":"create customer using HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"alt_prep"}
+{"query":"create customer with HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"alt_prep"}
+{"query":"HelpCrunch create a customer","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"app_first"}
+{"query":"HelpCrunch make a customer","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"app_first"}
+{"query":"create account on HelpCrunch","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"alt_target"}
+{"query":"HelpCrunch create account","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"alt_target"}
+{"query":"create a helpcrunch customer","expected_action_key":"helpcrunch-create-customer","expected_app_slug":"helpcrunch","app_name":"HelpCrunch","test_type":"contextual"}

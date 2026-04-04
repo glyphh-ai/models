@@ -1,0 +1,75 @@
+{"query":"Verify Email on Mailgun","expected_action_key":"mailgun-verify-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Verify Email in Mailgun","expected_action_key":"mailgun-verify-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun verify email","expected_action_key":"mailgun-verify-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Suppress Email on Mailgun","expected_action_key":"mailgun-suppress-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Suppress Email in Mailgun","expected_action_key":"mailgun-suppress-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun suppress email","expected_action_key":"mailgun-suppress-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Send Email on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Send Email in Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun send email","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"send a email on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"post a email on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"send out email on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"fire off email on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"send email via Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"send email using Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"send email with Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"Mailgun send a email","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"Mailgun post a email","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"send mail on Mailgun","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_target"}
+{"query":"Mailgun send mail","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_target"}
+{"query":"send a mailgun email","expected_action_key":"mailgun-send-email","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"contextual"}
+{"query":"Get Mailing List Member on Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Get Mailing List Member in Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun get mailing list member","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"get the mailing list member on Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun get the mailing list member","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"retrieve mailing list member on Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun retrieve mailing list member","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"get mailing list member via Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"get mailing list member using Mailgun","expected_action_key":"mailgun-retrieve-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"Get Mailing List Members on Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Get Mailing List Members in Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun get mailing list members","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"get the mailing list members on Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun get the mailing list members","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"retrieve mailing list members on Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun retrieve mailing list members","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"get mailing list members via Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"get mailing list members using Mailgun","expected_action_key":"mailgun-list-mailinglist-members","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"List Domains on Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"List Domains in Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun list domains","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"list all domains on Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun list all domains","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"show all domains on Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun show all domains","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"list domains via Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"list domains using Mailgun","expected_action_key":"mailgun-list-domains","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"Delete Mailing List Member on Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Delete Mailing List Member in Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun delete mailing list member","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"delete the mailing list member on Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun delete the mailing list member","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"remove the mailing list member on Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun remove the mailing list member","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"delete mailing list member via Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"delete mailing list member using Mailgun","expected_action_key":"mailgun-delete-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"Create Route on Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Create Route in Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun create route","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"create a route on Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun create a route","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"make a route on Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun make a route","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"create route via Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"create route using Mailgun","expected_action_key":"mailgun-create-route","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"Create Mailing List Member on Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Create Mailing List Member in Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"Mailgun create mailing list member","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"action_name"}
+{"query":"create a mailing list member on Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun create a mailing list member","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"make a mailing list member on Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"canonical"}
+{"query":"Mailgun make a mailing list member","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"app_first"}
+{"query":"create mailing list member via Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}
+{"query":"create mailing list member using Mailgun","expected_action_key":"mailgun-create-mailinglist-member","expected_app_slug":"mailgun","app_name":"Mailgun","test_type":"alt_prep"}

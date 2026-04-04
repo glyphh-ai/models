@@ -1,0 +1,76 @@
+{"query":"Create Ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"Create Ticket in DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"DevRev create ticket","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"create a ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"make a ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"new ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"open a ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"start a ticket on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"create ticket via DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create ticket using DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create ticket with DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"DevRev create a ticket","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"DevRev make a ticket","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"create issue on DevRev","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"DevRev create issue","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"create a devrev ticket","expected_action_key":"devrev-create-ticket","expected_app_slug":"devrev","app_name":"DevRev","test_type":"contextual"}
+{"query":"Create Task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"Create Task in DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"DevRev create task","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"create a task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"make a task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"new task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"open a task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"start a task on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"create task via DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create task using DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create task with DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"DevRev create a task","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"DevRev make a task","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"create story on DevRev","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"DevRev create story","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"create a devrev task","expected_action_key":"devrev-create-task","expected_app_slug":"devrev","app_name":"DevRev","test_type":"contextual"}
+{"query":"Create Opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"Create Opportunity in DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"DevRev create opportunity","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"create a opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"make a opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"new opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"open a opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"start a opportunity on DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"create opportunity via DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create opportunity using DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create opportunity with DevRev","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"DevRev create a opportunity","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"DevRev make a opportunity","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"create a devrev opportunity","expected_action_key":"devrev-create-opportunity","expected_app_slug":"devrev","app_name":"DevRev","test_type":"contextual"}
+{"query":"Create Issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"Create Issue in DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"DevRev create issue","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"create a issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"make a issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"new issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"open a issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"start a issue on DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"create issue via DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create issue using DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create issue with DevRev","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"DevRev create a issue","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"DevRev make a issue","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"create a devrev issue","expected_action_key":"devrev-create-issue","expected_app_slug":"devrev","app_name":"DevRev","test_type":"contextual"}
+{"query":"Create Comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"Create Comment in DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"DevRev create comment","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"action_name"}
+{"query":"create a comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"make a comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"new comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"open a comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"start a comment on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"canonical"}
+{"query":"create comment via DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create comment using DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"create comment with DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_prep"}
+{"query":"DevRev create a comment","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"DevRev make a comment","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"app_first"}
+{"query":"create note on DevRev","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"DevRev create note","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"alt_target"}
+{"query":"create a devrev comment","expected_action_key":"devrev-create-comment","expected_app_slug":"devrev","app_name":"DevRev","test_type":"contextual"}

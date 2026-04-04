@@ -1,0 +1,53 @@
+{"query":"Update Employee on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Update Employee in HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"HR Cloud update employee","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Update Employee on hr_cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"update the employee on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"edit the employee on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"modify the employee on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"change the employee on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"update employee via HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"update employee using HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"update employee with HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"HR Cloud update the employee","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"HR Cloud edit the employee","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"update staff member on HR Cloud","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"HR Cloud update staff member","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"hr_cloud update employee","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_app_name"}
+{"query":"update a hr cloud employee","expected_action_key":"hr_cloud-update-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"contextual"}
+{"query":"Create Task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Create Task in HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"HR Cloud create task","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Create Task on hr_cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"create a task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"make a task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"new task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"open a task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"start a task on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"create task via HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"create task using HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"create task with HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"HR Cloud create a task","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"HR Cloud make a task","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"create story on HR Cloud","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"HR Cloud create story","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"hr_cloud create task","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_app_name"}
+{"query":"create a hr cloud task","expected_action_key":"hr_cloud-create-task","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"contextual"}
+{"query":"Create Employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Create Employee in HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"HR Cloud create employee","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"Create Employee on hr_cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"action_name"}
+{"query":"create a employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"make a employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"new employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"open a employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"start a employee on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"canonical"}
+{"query":"create employee via HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"create employee using HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"create employee with HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_prep"}
+{"query":"HR Cloud create a employee","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"HR Cloud make a employee","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"app_first"}
+{"query":"create staff member on HR Cloud","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"HR Cloud create staff member","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_target"}
+{"query":"hr_cloud create employee","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"alt_app_name"}
+{"query":"create a hr cloud employee","expected_action_key":"hr_cloud-create-employee","expected_app_slug":"hr_cloud","app_name":"HR Cloud","test_type":"contextual"}

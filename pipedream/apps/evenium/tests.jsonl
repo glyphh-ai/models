@@ -1,0 +1,27 @@
+{"query":"Create Event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"Create Event in Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"Evenium create event","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"create a event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"make a event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"new event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"open a event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"start a event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"create event via Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_prep"}
+{"query":"create event using Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_prep"}
+{"query":"create event with Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_prep"}
+{"query":"Evenium create a event","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"app_first"}
+{"query":"Evenium make a event","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"app_first"}
+{"query":"create meeting on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_target"}
+{"query":"Evenium create meeting","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_target"}
+{"query":"create calendar event on Evenium","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_target"}
+{"query":"Evenium create calendar event","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_target"}
+{"query":"create a evenium event","expected_action_key":"evenium-create-event","expected_app_slug":"evenium","app_name":"Evenium","test_type":"contextual"}
+{"query":"Add Participants on Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"Add Participants in Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"Evenium add participants","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"action_name"}
+{"query":"add a participants on Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"Evenium add a participants","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"app_first"}
+{"query":"add new participants on Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"canonical"}
+{"query":"Evenium add new participants","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"app_first"}
+{"query":"add participants via Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_prep"}
+{"query":"add participants using Evenium","expected_action_key":"evenium-add-participants","expected_app_slug":"evenium","app_name":"Evenium","test_type":"alt_prep"}

@@ -1,0 +1,102 @@
+{"query":"Update Ticket on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Update Ticket in Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice update ticket","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"update the ticket on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"edit the ticket on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"modify the ticket on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"change the ticket on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"update ticket via Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"update ticket using Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"update ticket with Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Freshservice update the ticket","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"Freshservice edit the ticket","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"update issue on Freshservice","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"Freshservice update issue","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"update a freshservice ticket","expected_action_key":"freshservice-update-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"contextual"}
+{"query":"Update Solution Article on Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Update Solution Article in Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice update solution article","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"update the solution article on Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice update the solution article","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"edit the solution article on Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice edit the solution article","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"update solution article via Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"update solution article using Freshservice","expected_action_key":"freshservice-update-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"List Solution Categories on Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"List Solution Categories in Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice list solution categories","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"list all solution categories on Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice list all solution categories","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"show all solution categories on Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice show all solution categories","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"list solution categories via Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"list solution categories using Freshservice","expected_action_key":"freshservice-list-solution-categories","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"List Solution Articles on Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"List Solution Articles in Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice list solution articles","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"list all solution articles on Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice list all solution articles","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"show all solution articles on Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice show all solution articles","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"list solution articles via Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"list solution articles using Freshservice","expected_action_key":"freshservice-list-solution-articles","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Get Ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Get Ticket in Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice get ticket","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"get the ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"retrieve ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"fetch ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"show me the ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"pull ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"check ticket on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"get ticket via Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"get ticket using Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"get ticket with Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Freshservice get the ticket","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"Freshservice retrieve ticket","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"get issue on Freshservice","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"Freshservice get issue","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"get a freshservice ticket","expected_action_key":"freshservice-get-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"contextual"}
+{"query":"Get Solution Article on Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Get Solution Article in Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice get solution article","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"get the solution article on Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice get the solution article","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"retrieve solution article on Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice retrieve solution article","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"get solution article via Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"get solution article using Freshservice","expected_action_key":"freshservice-get-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Delete Solution Article on Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Delete Solution Article in Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice delete solution article","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"delete the solution article on Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice delete the solution article","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"remove the solution article on Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice remove the solution article","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"delete solution article via Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"delete solution article using Freshservice","expected_action_key":"freshservice-delete-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Create Ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Create Ticket in Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice create ticket","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"create a ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"make a ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"new ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"open a ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"start a ticket on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"create ticket via Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"create ticket using Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"create ticket with Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"Freshservice create a ticket","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"Freshservice make a ticket","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"create issue on Freshservice","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"Freshservice create issue","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_target"}
+{"query":"create a freshservice ticket","expected_action_key":"freshservice-create-ticket","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"contextual"}
+{"query":"Create Solution Article on Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Create Solution Article in Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"Freshservice create solution article","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"action_name"}
+{"query":"create a solution article on Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice create a solution article","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"make a solution article on Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"canonical"}
+{"query":"Freshservice make a solution article","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"app_first"}
+{"query":"create solution article via Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}
+{"query":"create solution article using Freshservice","expected_action_key":"freshservice-create-solution-article","expected_app_slug":"freshservice","app_name":"Freshservice","test_type":"alt_prep"}

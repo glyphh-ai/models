@@ -1,0 +1,43 @@
+{"query":"Update Invoice on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"Update Invoice in FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"FreshBooks update invoice","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"update the invoice on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"edit the invoice on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"modify the invoice on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"change the invoice on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"update invoice via FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"update invoice using FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"update invoice with FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"FreshBooks update the invoice","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"FreshBooks edit the invoice","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"update bill on FreshBooks","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_target"}
+{"query":"FreshBooks update bill","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_target"}
+{"query":"update a freshbooks invoice","expected_action_key":"freshbooks-update-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"contextual"}
+{"query":"Send Invoice By Email on FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"Send Invoice By Email in FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"FreshBooks send invoice by email","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"send invoice email on FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"FreshBooks send invoice email","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"send a invoice email on FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"FreshBooks send a invoice email","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"post a invoice email on FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"FreshBooks post a invoice email","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"send invoice email in FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"send invoice email via FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"send invoice email using FreshBooks","expected_action_key":"freshbooks-send-invoice-by-email","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"Create Invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"Create Invoice in FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"FreshBooks create invoice","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"action_name"}
+{"query":"create a invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"make a invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"new invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"open a invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"start a invoice on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"canonical"}
+{"query":"create invoice via FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"create invoice using FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"create invoice with FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_prep"}
+{"query":"FreshBooks create a invoice","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"FreshBooks make a invoice","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"app_first"}
+{"query":"create bill on FreshBooks","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_target"}
+{"query":"FreshBooks create bill","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"alt_target"}
+{"query":"create a freshbooks invoice","expected_action_key":"freshbooks-create-invoice","expected_app_slug":"freshbooks","app_name":"FreshBooks","test_type":"contextual"}

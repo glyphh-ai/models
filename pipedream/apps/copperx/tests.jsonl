@@ -1,0 +1,32 @@
+{"query":"Create Invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"Create Invoice in Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"Copperx create invoice","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"create a invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"make a invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"new invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"open a invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"start a invoice on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"create invoice via Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"create invoice using Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"create invoice with Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"Copperx create a invoice","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"app_first"}
+{"query":"Copperx make a invoice","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"app_first"}
+{"query":"create bill on Copperx","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_target"}
+{"query":"Copperx create bill","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_target"}
+{"query":"create a copperx invoice","expected_action_key":"copperx-create-invoice","expected_app_slug":"copperx","app_name":"Copperx","test_type":"contextual"}
+{"query":"Create Customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"Create Customer in Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"Copperx create customer","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"action_name"}
+{"query":"create a customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"make a customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"new customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"open a customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"start a customer on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"canonical"}
+{"query":"create customer via Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"create customer using Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"create customer with Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_prep"}
+{"query":"Copperx create a customer","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"app_first"}
+{"query":"Copperx make a customer","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"app_first"}
+{"query":"create account on Copperx","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_target"}
+{"query":"Copperx create account","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"alt_target"}
+{"query":"create a copperx customer","expected_action_key":"copperx-create-customer","expected_app_slug":"copperx","app_name":"Copperx","test_type":"contextual"}

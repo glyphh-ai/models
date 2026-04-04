@@ -1,0 +1,72 @@
+{"query":"Get Transfer on Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Get Transfer in Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise get transfer","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"get the transfer on Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise get the transfer","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"retrieve transfer on Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise retrieve transfer","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"get transfer via Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"get transfer using Wise","expected_action_key":"wise-get-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Get Recipient Account on Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Get Recipient Account in Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise get recipient account","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"get the recipient account on Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise get the recipient account","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"retrieve recipient account on Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise retrieve recipient account","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"get recipient account via Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"get recipient account using Wise","expected_action_key":"wise-get-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Get Exchange Rates on Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Get Exchange Rates in Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise get exchange rates","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"get the exchange rates on Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise get the exchange rates","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"retrieve exchange rates on Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise retrieve exchange rates","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"get exchange rates via Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"get exchange rates using Wise","expected_action_key":"wise-get-exchange-rates","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Get Balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Get Balance in Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise get balance","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"get the balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"retrieve balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"fetch balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"show me the balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"pull balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"check balance on Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"get balance via Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"get balance using Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"get balance with Wise","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Wise get the balance","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"Wise retrieve balance","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"get a wise balance","expected_action_key":"wise-get-balance","expected_app_slug":"wise","app_name":"Wise","test_type":"contextual"}
+{"query":"Fund Transfer on Wise","expected_action_key":"wise-fund-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Fund Transfer in Wise","expected_action_key":"wise-fund-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise fund transfer","expected_action_key":"wise-fund-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Create Transfer on Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Create Transfer in Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise create transfer","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"create a transfer on Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise create a transfer","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"make a transfer on Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise make a transfer","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"create transfer via Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"create transfer using Wise","expected_action_key":"wise-create-transfer","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Create Recipient Account on Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Create Recipient Account in Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise create recipient account","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"create a recipient account on Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise create a recipient account","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"make a recipient account on Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise make a recipient account","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"create recipient account via Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"create recipient account using Wise","expected_action_key":"wise-create-recipient-account","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"Create Quote on Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Create Quote in Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"Wise create quote","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"action_name"}
+{"query":"create a quote on Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise create a quote","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"make a quote on Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"canonical"}
+{"query":"Wise make a quote","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"app_first"}
+{"query":"create quote via Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}
+{"query":"create quote using Wise","expected_action_key":"wise-create-quote","expected_app_slug":"wise","app_name":"Wise","test_type":"alt_prep"}

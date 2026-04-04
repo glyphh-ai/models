@@ -1,0 +1,9 @@
+{"query":"Get Tracking Information on DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"action_name"}
+{"query":"Get Tracking Information in DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"action_name"}
+{"query":"DHL get tracking information","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"action_name"}
+{"query":"get the tracking information on DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"canonical"}
+{"query":"DHL get the tracking information","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"app_first"}
+{"query":"retrieve tracking information on DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"canonical"}
+{"query":"DHL retrieve tracking information","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"app_first"}
+{"query":"get tracking information via DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"alt_prep"}
+{"query":"get tracking information using DHL","expected_action_key":"dhl-get-tracking","expected_app_slug":"dhl","app_name":"DHL","test_type":"alt_prep"}

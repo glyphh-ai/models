@@ -1,0 +1,9 @@
+{"query":"Create Donation on Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"action_name"}
+{"query":"Create Donation in Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"action_name"}
+{"query":"Daffy create donation","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"action_name"}
+{"query":"create a donation on Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"canonical"}
+{"query":"Daffy create a donation","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"app_first"}
+{"query":"make a donation on Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"canonical"}
+{"query":"Daffy make a donation","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"app_first"}
+{"query":"create donation via Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"alt_prep"}
+{"query":"create donation using Daffy","expected_action_key":"daffy-create-donation","expected_app_slug":"daffy","app_name":"Daffy","test_type":"alt_prep"}

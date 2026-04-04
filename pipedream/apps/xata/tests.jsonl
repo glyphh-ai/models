@@ -1,0 +1,68 @@
+{"query":"Update Record on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Update Record in Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Xata update record","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"update the record on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"edit the record on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"modify the record on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"change the record on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"update record via Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"update record using Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"update record with Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"Xata update the record","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"Xata edit the record","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"update row on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata update row","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"update entry on Xata","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata update entry","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"update a xata record","expected_action_key":"xata-update-record","expected_app_slug":"xata","app_name":"Xata","test_type":"contextual"}
+{"query":"Replace Record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Replace Record in Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Xata replace record","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"update record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"update the record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"edit the record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"modify the record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"change the record on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"update record in Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"update record via Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"update record using Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"update record with Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"Xata update record","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"Xata update the record","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"Xata edit the record","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"update row on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata update row","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"update entry on Xata","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata update entry","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"update a xata record","expected_action_key":"xata-replace-record","expected_app_slug":"xata","app_name":"Xata","test_type":"contextual"}
+{"query":"List Branches on Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"List Branches in Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Xata list branches","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"list all branches on Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"show all branches on Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"get all branches on Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"show me all branches on Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"list branches via Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"list branches using Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"list branches with Xata","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"Xata list all branches","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"Xata show all branches","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"list a xata branches","expected_action_key":"xata-list-branches","expected_app_slug":"xata","app_name":"Xata","test_type":"contextual"}
+{"query":"Create Record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Create Record in Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"Xata create record","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"action_name"}
+{"query":"create a record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"make a record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"new record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"open a record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"start a record on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"canonical"}
+{"query":"create record via Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"create record using Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"create record with Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_prep"}
+{"query":"Xata create a record","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"Xata make a record","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"app_first"}
+{"query":"create row on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata create row","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"create entry on Xata","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"Xata create entry","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"alt_target"}
+{"query":"create a xata record","expected_action_key":"xata-create-record","expected_app_slug":"xata","app_name":"Xata","test_type":"contextual"}

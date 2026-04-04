@@ -1,0 +1,18 @@
+{"query":"Create Airmeet on Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"Create Airmeet in Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"Airmeet create airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"create a airmeet on Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"canonical"}
+{"query":"Airmeet create a airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"app_first"}
+{"query":"make a airmeet on Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"canonical"}
+{"query":"Airmeet make a airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"app_first"}
+{"query":"create airmeet via Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"alt_prep"}
+{"query":"create airmeet using Airmeet","expected_action_key":"airmeet-create-airmeet","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"alt_prep"}
+{"query":"Add Authorized Attendee on Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"Add Authorized Attendee in Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"Airmeet add authorized attendee","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"action_name"}
+{"query":"add a authorized attendee on Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"canonical"}
+{"query":"Airmeet add a authorized attendee","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"app_first"}
+{"query":"add new authorized attendee on Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"canonical"}
+{"query":"Airmeet add new authorized attendee","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"app_first"}
+{"query":"add authorized attendee via Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"alt_prep"}
+{"query":"add authorized attendee using Airmeet","expected_action_key":"airmeet-add-authorized-attendee","expected_app_slug":"airmeet","app_name":"Airmeet","test_type":"alt_prep"}

@@ -1,0 +1,78 @@
+{"query":"Verify Email on ContactOut","expected_action_key":"contactout-verify-email","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Verify Email in ContactOut","expected_action_key":"contactout-verify-email","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut verify email","expected_action_key":"contactout-verify-email","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"People Search on ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"People Search in ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut people search","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"search for search on ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut search for search","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"find search on ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut find search","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"look for search on ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut look for search","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"search for search in ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for search via ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for search using ContactOut","expected_action_key":"contactout-people-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"Enrich LinkedIn Profile on ContactOut","expected_action_key":"contactout-linkedin-profile-enrich","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Enrich LinkedIn Profile in ContactOut","expected_action_key":"contactout-linkedin-profile-enrich","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut enrich linkedin profile","expected_action_key":"contactout-linkedin-profile-enrich","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Get Contact Info from LinkedIn Profile on ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Get Contact Info from LinkedIn Profile in ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut get contact info from linkedin profile","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"get contact info linkedin profile on ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut get contact info linkedin profile","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"get the contact info linkedin profile on ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut get the contact info linkedin profile","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"retrieve contact info linkedin profile on ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut retrieve contact info linkedin profile","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"get contact info linkedin profile in ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"get contact info linkedin profile via ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"get contact info linkedin profile using ContactOut","expected_action_key":"contactout-get-contact-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"Get Contact Info by LinkedIn Member ID on ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Get Contact Info by LinkedIn Member ID in ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut get contact info by linkedin member id","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"get contact info linkedin member id on ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut get contact info linkedin member id","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"get the contact info linkedin member id on ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut get the contact info linkedin member id","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"retrieve contact info linkedin member id on ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut retrieve contact info linkedin member id","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"get contact info linkedin member id in ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"get contact info linkedin member id via ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"get contact info linkedin member id using ContactOut","expected_action_key":"contactout-get-contact-info-by-member-id","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"Get Company Information on ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Get Company Information in ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut get company information","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"get the company information on ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut get the company information","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"retrieve company information on ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut retrieve company information","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"get company information via ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"get company information using ContactOut","expected_action_key":"contactout-get-company-info","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"Email To LinkedIn on ContactOut","expected_action_key":"contactout-email-to-linkedin","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Email To LinkedIn in ContactOut","expected_action_key":"contactout-email-to-linkedin","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut email to linkedin","expected_action_key":"contactout-email-to-linkedin","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Decision Makers Search on ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Decision Makers Search in ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut decision makers search","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"search for makers search on ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut search for makers search","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"find makers search on ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut find makers search","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"look for makers search on ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut look for makers search","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"search for makers search in ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for makers search via ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for makers search using ContactOut","expected_action_key":"contactout-decision-makers-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"Company Search on ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"Company Search in ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"ContactOut company search","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"action_name"}
+{"query":"search for search on ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut search for search","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"find search on ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut find search","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"look for search on ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"canonical"}
+{"query":"ContactOut look for search","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"app_first"}
+{"query":"search for search in ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for search via ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}
+{"query":"search for search using ContactOut","expected_action_key":"contactout-company-search","expected_app_slug":"contactout","app_name":"ContactOut","test_type":"alt_prep"}

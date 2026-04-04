@@ -1,0 +1,16 @@
+{"query":"Find Contact on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"action_name"}
+{"query":"Find Contact in LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"action_name"}
+{"query":"LeadIQ find contact","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"action_name"}
+{"query":"search for contact on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"canonical"}
+{"query":"look for contact on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"canonical"}
+{"query":"search contact on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"canonical"}
+{"query":"locate contact on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"canonical"}
+{"query":"search for contact in LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_prep"}
+{"query":"search for contact via LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_prep"}
+{"query":"search for contact using LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_prep"}
+{"query":"search for contact with LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_prep"}
+{"query":"LeadIQ search for contact","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"app_first"}
+{"query":"LeadIQ look for contact","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"app_first"}
+{"query":"search for contact record on LeadIQ","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_target"}
+{"query":"LeadIQ search for contact record","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"alt_target"}
+{"query":"search for a leadiq contact","expected_action_key":"leadiq-find-contact","expected_app_slug":"leadiq","app_name":"LeadIQ","test_type":"contextual"}

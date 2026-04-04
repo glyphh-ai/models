@@ -1,0 +1,114 @@
+{"query":"List Spaces on Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Spaces in Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat list spaces","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Spaces on google_chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"list all spaces on Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"Google Chat list all spaces","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"show all spaces on Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"Google Chat show all spaces","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"list spaces via Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"list spaces using Google Chat","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"google_chat list spaces","expected_action_key":"google_chat-list-spaces","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"List Messages on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Messages in Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat list messages","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Messages on google_chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"list all messages on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show all messages on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"get all messages on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show me all messages on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"list messages via Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"list messages using Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"list messages with Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"Google Chat list all messages","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"Google Chat show all messages","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"list msg on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat list msg","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"list chat message on Google Chat","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat list chat message","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"google_chat list messages","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"list a google chat messages","expected_action_key":"google_chat-list-messages","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"contextual"}
+{"query":"List Members on Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Members in Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat list members","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"List Members on google_chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"list all members on Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show all members on Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"get all members on Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show me all members on Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"list members via Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"list members using Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"list members with Google Chat","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"Google Chat list all members","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"Google Chat show all members","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"google_chat list members","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"list a google chat members","expected_action_key":"google_chat-list-members","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"contextual"}
+{"query":"Get Space on Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Space in Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat get space","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Space on google_chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"get the space on Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"Google Chat get the space","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"retrieve space on Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"Google Chat retrieve space","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"get space via Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"get space using Google Chat","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"google_chat get space","expected_action_key":"google_chat-get-space","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"Get Message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Message in Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat get message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Message on google_chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"get the message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"retrieve message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"fetch message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show me the message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"pull message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"check message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"get message via Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"get message using Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"get message with Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"Google Chat get the message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"Google Chat retrieve message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"get msg on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat get msg","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"get chat message on Google Chat","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat get chat message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"google_chat get message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"get a google chat message","expected_action_key":"google_chat-get-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"contextual"}
+{"query":"Get Member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Member in Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat get member","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Get Member on google_chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"get the member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"retrieve member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"fetch member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"show me the member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"pull member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"check member on Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"get member via Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"get member using Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"get member with Google Chat","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"Google Chat get the member","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"Google Chat retrieve member","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"google_chat get member","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"get a google chat member","expected_action_key":"google_chat-get-member","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"contextual"}
+{"query":"Create Message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Create Message in Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Google Chat create message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"Create Message on google_chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"action_name"}
+{"query":"create a message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"make a message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"new message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"open a message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"start a message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"canonical"}
+{"query":"create message via Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"create message using Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"create message with Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_prep"}
+{"query":"Google Chat create a message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"Google Chat make a message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"app_first"}
+{"query":"create msg on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat create msg","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"create chat message on Google Chat","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"Google Chat create chat message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_target"}
+{"query":"google_chat create message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"alt_app_name"}
+{"query":"create a google chat message","expected_action_key":"google_chat-create-message","expected_app_slug":"google_chat","app_name":"Google Chat","test_type":"contextual"}

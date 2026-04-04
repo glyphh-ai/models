@@ -1,0 +1,12 @@
+{"query":"Send Chat Message on bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}
+{"query":"Send Chat Message in bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}
+{"query":"bot9 send chat message","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}
+{"query":"send a chat message on bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"canonical"}
+{"query":"bot9 send a chat message","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"app_first"}
+{"query":"post a chat message on bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"canonical"}
+{"query":"bot9 post a chat message","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"app_first"}
+{"query":"send chat message via bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"alt_prep"}
+{"query":"send chat message using bot9","expected_action_key":"bot9-send-chat-message","expected_app_slug":"bot9","app_name":"bot9","test_type":"alt_prep"}
+{"query":"Initiate Chat on bot9","expected_action_key":"bot9-init-chat","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}
+{"query":"Initiate Chat in bot9","expected_action_key":"bot9-init-chat","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}
+{"query":"bot9 initiate chat","expected_action_key":"bot9-init-chat","expected_app_slug":"bot9","app_name":"bot9","test_type":"action_name"}

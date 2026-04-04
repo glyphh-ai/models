@@ -1,0 +1,9 @@
+{"query":"Send SMS on BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"action_name"}
+{"query":"Send SMS in BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"action_name"}
+{"query":"BulkGate send sms","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"action_name"}
+{"query":"send a sms on BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"canonical"}
+{"query":"BulkGate send a sms","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"app_first"}
+{"query":"post a sms on BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"canonical"}
+{"query":"BulkGate post a sms","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"app_first"}
+{"query":"send sms via BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"alt_prep"}
+{"query":"send sms using BulkGate","expected_action_key":"bulkgate-send-sms","expected_app_slug":"bulkgate","app_name":"BulkGate","test_type":"alt_prep"}

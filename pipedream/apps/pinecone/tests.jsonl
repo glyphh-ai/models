@@ -1,0 +1,45 @@
+{"query":"Upsert Vector on Pinecone","expected_action_key":"pinecone-upsert-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Upsert Vector in Pinecone","expected_action_key":"pinecone-upsert-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Pinecone upsert vector","expected_action_key":"pinecone-upsert-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Update Vector on Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Update Vector in Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Pinecone update vector","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"update the vector on Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone update the vector","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"edit the vector on Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone edit the vector","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"update vector via Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"update vector using Pinecone","expected_action_key":"pinecone-update-vector","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"Query IDs on Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Query IDs in Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Pinecone query ids","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"get ids on Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone get ids","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"get the ids on Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone get the ids","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"retrieve ids on Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone retrieve ids","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"get ids in Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"get ids via Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"get ids using Pinecone","expected_action_key":"pinecone-query-ids","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"Fetch Vectors on Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Fetch Vectors in Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Pinecone fetch vectors","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"get vectors on Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone get vectors","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"get the vectors on Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone get the vectors","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"retrieve vectors on Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone retrieve vectors","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"get vectors in Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"get vectors via Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"get vectors using Pinecone","expected_action_key":"pinecone-fetch-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"Delete Vectors on Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Delete Vectors in Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"Pinecone delete vectors","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"action_name"}
+{"query":"delete the vectors on Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone delete the vectors","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"remove the vectors on Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"canonical"}
+{"query":"Pinecone remove the vectors","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"app_first"}
+{"query":"delete vectors via Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}
+{"query":"delete vectors using Pinecone","expected_action_key":"pinecone-delete-vectors","expected_app_slug":"pinecone","app_name":"Pinecone","test_type":"alt_prep"}

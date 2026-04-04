@@ -1,0 +1,439 @@
+{"query":"Upload File on OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Upload File in OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT upload file","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Upload File on Openai","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"upload a file on OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"upload the file on OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"upload file via OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"upload file using OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"upload file with OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT upload a file","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT upload the file","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"upload document on OpenAI ChatGPT","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT upload document","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"Openai upload file","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"upload a openai chatgpt file","expected_action_key":"openai-upload-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"Translate Text on OpenAI ChatGPT","expected_action_key":"openai-translate-text","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Translate Text in OpenAI ChatGPT","expected_action_key":"openai-translate-text","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT translate text","expected_action_key":"openai-translate-text","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Translate Text on Openai","expected_action_key":"openai-translate-text","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Summarize Text on OpenAI ChatGPT","expected_action_key":"openai-summarize","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Summarize Text in OpenAI ChatGPT","expected_action_key":"openai-summarize","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT summarize text","expected_action_key":"openai-summarize","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Summarize Text on Openai","expected_action_key":"openai-summarize","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Submit Tool Outputs to Run on OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Submit Tool Outputs to Run in OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT submit tool outputs to run","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Submit Tool Outputs to Run on Openai","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"trigger tool outputs run on OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT trigger tool outputs run","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"run tool outputs run on OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT run tool outputs run","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"execute tool outputs run on OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT execute tool outputs run","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"trigger tool outputs run in OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"trigger tool outputs run via OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"trigger tool outputs run using OpenAI ChatGPT","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"trigger tool outputs run on Openai","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai trigger tool outputs run","expected_action_key":"openai-submit-tool-outputs-to-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Completion on OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Completion in OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create completion","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Completion on Openai","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a completion on OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a completion","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a completion on OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a completion","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create completion via OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create completion using OpenAI ChatGPT","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create completion","expected_action_key":"openai-send-prompt","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Retrieve Vector Store on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Vector Store in OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve vector store","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Vector Store on Openai","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get vector store on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get vector store","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get the vector store on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get the vector store","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get vector store in OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store via OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store using OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store on Openai","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get vector store","expected_action_key":"openai-retrieve-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Retrieve Vector Store File on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Vector Store File in OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve vector store file","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Vector Store File on Openai","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get vector store file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get vector store file","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get the vector store file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get the vector store file","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get vector store file in OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store file via OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store file using OpenAI ChatGPT","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get vector store file on Openai","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get vector store file","expected_action_key":"openai-retrieve-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Retrieve Run on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Run in OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve run","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Run on Openai","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get run on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get run","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get the run on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get the run","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get run in OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run via OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run using OpenAI ChatGPT","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run on Openai","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get run","expected_action_key":"openai-retrieve-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Retrieve Run Step on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Run Step in OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve run step","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve Run Step on Openai","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get run step on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get run step","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get the run step on OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get the run step","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get run step in OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run step via OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run step using OpenAI ChatGPT","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get run step on Openai","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get run step","expected_action_key":"openai-retrieve-run-step","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Retrieve File on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve File in OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve file","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve File on Openai","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"get the file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"fetch file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"show me the file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"pull file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"check file on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"get file in OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file via OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file using OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file with OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT get file","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT get the file","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get document on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT get document","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"get file on Openai","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get file","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"get a openai chatgpt file","expected_action_key":"openai-retrieve-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"Retrieve File Content on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve File Content in OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT retrieve file content","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Retrieve File Content on Openai","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"get file content on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get file content","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get the file content on OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT get the file content","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"get file content in OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file content via OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file content using OpenAI ChatGPT","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"get file content on Openai","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai get file content","expected_action_key":"openai-retrieve-file-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Modify an Assistant on OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Modify an Assistant in OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT modify an assistant","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Modify an Assistant on Openai","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"update assistant on OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT update assistant","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"update the assistant on OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT update the assistant","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"edit the assistant on OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT edit the assistant","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"update assistant in OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"update assistant via OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"update assistant using OpenAI ChatGPT","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"update assistant on Openai","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai update assistant","expected_action_key":"openai-modify-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"List Vector Stores on OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Vector Stores in OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list vector stores","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Vector Stores on Openai","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all vector stores on OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT list all vector stores","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"show all vector stores on OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT show all vector stores","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list vector stores via OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list vector stores using OpenAI ChatGPT","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai list vector stores","expected_action_key":"openai-list-vector-stores","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"List Vector Store Files on OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Vector Store Files in OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list vector store files","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Vector Store Files on Openai","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all vector store files on OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT list all vector store files","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"show all vector store files on OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT show all vector store files","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list vector store files via OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list vector store files using OpenAI ChatGPT","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai list vector store files","expected_action_key":"openai-list-vector-store-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"List Runs on OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Runs in OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list runs","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Runs on Openai","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all runs on OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT list all runs","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"show all runs on OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT show all runs","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list runs via OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list runs using OpenAI ChatGPT","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai list runs","expected_action_key":"openai-list-runs","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"List Run Steps on OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Run Steps in OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list run steps","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Run Steps on Openai","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all run steps on OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT list all run steps","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"show all run steps on OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT show all run steps","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list run steps via OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list run steps using OpenAI ChatGPT","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai list run steps","expected_action_key":"openai-list-run-steps","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"List Messages on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Messages in OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list messages","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Messages on Openai","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all messages on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"show all messages on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"get all messages on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"show me all messages on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"list messages via OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list messages using OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list messages with OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT list all messages","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT show all messages","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list msg on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT list msg","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"list chat message on OpenAI ChatGPT","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT list chat message","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"Openai list messages","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"list a openai chatgpt messages","expected_action_key":"openai-list-messages","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"List Files on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Files in OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT list files","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"List Files on Openai","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"list all files on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"show all files on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"get all files on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"show me all files on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"list files via OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list files using OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"list files with OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT list all files","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT show all files","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"list document on OpenAI ChatGPT","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT list document","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"Openai list files","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"list a openai chatgpt files","expected_action_key":"openai-list-files","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"Delete Vector Store on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete Vector Store in OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT delete vector store","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete Vector Store on Openai","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"delete the vector store on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT delete the vector store","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"remove the vector store on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT remove the vector store","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"delete vector store via OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"delete vector store using OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai delete vector store","expected_action_key":"openai-delete-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Delete Vector Store File on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete Vector Store File in OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT delete vector store file","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete Vector Store File on Openai","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"delete the vector store file on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT delete the vector store file","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"remove the vector store file on OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT remove the vector store file","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"delete vector store file via OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"delete vector store file using OpenAI ChatGPT","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai delete vector store file","expected_action_key":"openai-delete-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Delete File on OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete File in OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT delete file","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Delete File on Openai","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"delete the file on OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"remove the file on OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"destroy the file on OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"delete file via OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"delete file using OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"delete file with OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT delete the file","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT remove the file","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"delete document on OpenAI ChatGPT","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"OpenAI ChatGPT delete document","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_target"}
+{"query":"Openai delete file","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"delete a openai chatgpt file","expected_action_key":"openai-delete-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"Create Vector Store on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Vector Store in OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create vector store","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Vector Store on Openai","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a vector store on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a vector store","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a vector store on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a vector store","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create vector store via OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create vector store using OpenAI ChatGPT","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create vector store","expected_action_key":"openai-create-vector-store","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Vector Store File on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Vector Store File in OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create vector store file","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Vector Store File on Openai","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a vector store file on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a vector store file","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a vector store file on OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a vector store file","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create vector store file via OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create vector store file using OpenAI ChatGPT","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create vector store file","expected_action_key":"openai-create-vector-store-file","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Transcription on OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Transcription in OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create transcription","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Transcription on Openai","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a transcription on OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a transcription","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a transcription on OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a transcription","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create transcription via OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create transcription using OpenAI ChatGPT","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create transcription","expected_action_key":"openai-create-transcription","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Thread in OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create thread","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Thread on Openai","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"make a thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"new thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"open a thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"start a thread on OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"create thread via OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create thread using OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create thread with OpenAI ChatGPT","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"OpenAI ChatGPT create a thread","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"OpenAI ChatGPT make a thread","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"Openai create thread","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"create a openai chatgpt thread","expected_action_key":"openai-create-thread","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"contextual"}
+{"query":"Create Moderation on OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Moderation in OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create moderation","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Moderation on Openai","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a moderation on OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a moderation","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a moderation on OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a moderation","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create moderation via OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create moderation using OpenAI ChatGPT","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create moderation","expected_action_key":"openai-create-moderation","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Image on OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Image in OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create image","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Image on Openai","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a image on OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a image","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a image on OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a image","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create image via OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create image using OpenAI ChatGPT","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create image","expected_action_key":"openai-create-image","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Fine Tuning Job on OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Fine Tuning Job in OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create fine tuning job","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Fine Tuning Job on Openai","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a fine tuning job on OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a fine tuning job","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a fine tuning job on OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a fine tuning job","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create fine tuning job via OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create fine tuning job using OpenAI ChatGPT","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create fine tuning job","expected_action_key":"openai-create-fine-tuning-job","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Embeddings on OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Embeddings in OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create embeddings","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Embeddings on Openai","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a embeddings on OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a embeddings","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a embeddings on OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a embeddings","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create embeddings via OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create embeddings using OpenAI ChatGPT","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create embeddings","expected_action_key":"openai-create-embeddings","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Create Assistant on OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Assistant in OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT create assistant","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Create Assistant on Openai","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"create a assistant on OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT create a assistant","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"make a assistant on OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT make a assistant","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"create assistant via OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"create assistant using OpenAI ChatGPT","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai create assistant","expected_action_key":"openai-create-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Convert Text to Speech on OpenAI ChatGPT","expected_action_key":"openai-convert-text-to-speech","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Convert Text to Speech in OpenAI ChatGPT","expected_action_key":"openai-convert-text-to-speech","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT convert text to speech","expected_action_key":"openai-convert-text-to-speech","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Convert Text to Speech on Openai","expected_action_key":"openai-convert-text-to-speech","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Classify Items into Categories on OpenAI ChatGPT","expected_action_key":"openai-classify-items-into-categories","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Classify Items into Categories in OpenAI ChatGPT","expected_action_key":"openai-classify-items-into-categories","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT classify items into categories","expected_action_key":"openai-classify-items-into-categories","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Classify Items into Categories on Openai","expected_action_key":"openai-classify-items-into-categories","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat on OpenAI ChatGPT","expected_action_key":"openai-chat","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat in OpenAI ChatGPT","expected_action_key":"openai-chat","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat","expected_action_key":"openai-chat","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat on Openai","expected_action_key":"openai-chat","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat With Responses API on OpenAI ChatGPT","expected_action_key":"openai-chat-with-responses-api","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat With Responses API in OpenAI ChatGPT","expected_action_key":"openai-chat-with-responses-api","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat with responses api","expected_action_key":"openai-chat-with-responses-api","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat With Responses API on Openai","expected_action_key":"openai-chat-with-responses-api","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat with Assistant on OpenAI ChatGPT","expected_action_key":"openai-chat-with-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat with Assistant in OpenAI ChatGPT","expected_action_key":"openai-chat-with-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat with assistant","expected_action_key":"openai-chat-with-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat with Assistant on Openai","expected_action_key":"openai-chat-with-assistant","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using Web Search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using Web Search in OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat using web search","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using Web Search on Openai","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"search for using web search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT search for using web search","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"find using web search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT find using web search","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"look for using web search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT look for using web search","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"search for using web search in OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using web search via OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using web search using OpenAI ChatGPT","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using web search on Openai","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai search for using web search","expected_action_key":"openai-chat-using-web-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Chat using Functions on OpenAI ChatGPT","expected_action_key":"openai-chat-using-functions","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using Functions in OpenAI ChatGPT","expected_action_key":"openai-chat-using-functions","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat using functions","expected_action_key":"openai-chat-using-functions","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using Functions on Openai","expected_action_key":"openai-chat-using-functions","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using File Search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using File Search in OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT chat using file search","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Chat using File Search on Openai","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"search for using file search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT search for using file search","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"find using file search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT find using file search","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"look for using file search on OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT look for using file search","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"search for using file search in OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using file search via OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using file search using OpenAI ChatGPT","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"search for using file search on Openai","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Openai search for using file search","expected_action_key":"openai-chat-using-file-search","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Cancel Run on OpenAI ChatGPT","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Cancel Run in OpenAI ChatGPT","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT cancel run","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Cancel Run on Openai","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"cancel the run on OpenAI ChatGPT","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"canonical"}
+{"query":"OpenAI ChatGPT cancel the run","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"app_first"}
+{"query":"cancel run via OpenAI ChatGPT","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"cancel run using OpenAI ChatGPT","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_prep"}
+{"query":"Openai cancel run","expected_action_key":"openai-cancel-run","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"alt_app_name"}
+{"query":"Analyze Image Content on OpenAI ChatGPT","expected_action_key":"openai-analyze-image-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Analyze Image Content in OpenAI ChatGPT","expected_action_key":"openai-analyze-image-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"OpenAI ChatGPT analyze image content","expected_action_key":"openai-analyze-image-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}
+{"query":"Analyze Image Content on Openai","expected_action_key":"openai-analyze-image-content","expected_app_slug":"openai","app_name":"OpenAI (ChatGPT)","test_type":"action_name"}

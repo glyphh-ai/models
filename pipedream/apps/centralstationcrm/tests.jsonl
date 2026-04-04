@@ -1,0 +1,32 @@
+{"query":"Create Person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"Create Person in CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"CentralStationCRM create person","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"create a person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"make a person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"new person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"open a person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"start a person on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"create person via CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"create person using CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"create person with CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"CentralStationCRM create a person","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"app_first"}
+{"query":"CentralStationCRM make a person","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"app_first"}
+{"query":"create member on CentralStationCRM","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_target"}
+{"query":"CentralStationCRM create member","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_target"}
+{"query":"create a centralstationcrm person","expected_action_key":"centralstationcrm-create-person","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"contextual"}
+{"query":"Create Deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"Create Deal in CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"CentralStationCRM create deal","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"action_name"}
+{"query":"create a deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"make a deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"new deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"open a deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"start a deal on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"canonical"}
+{"query":"create deal via CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"create deal using CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"create deal with CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_prep"}
+{"query":"CentralStationCRM create a deal","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"app_first"}
+{"query":"CentralStationCRM make a deal","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"app_first"}
+{"query":"create opportunity on CentralStationCRM","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_target"}
+{"query":"CentralStationCRM create opportunity","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"alt_target"}
+{"query":"create a centralstationcrm deal","expected_action_key":"centralstationcrm-create-deal","expected_app_slug":"centralstationcrm","app_name":"CentralStationCRM","test_type":"contextual"}

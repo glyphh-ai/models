@@ -1,0 +1,16 @@
+{"query":"Create Task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"action_name"}
+{"query":"Create Task in OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"action_name"}
+{"query":"OFFLIGHT create task","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"action_name"}
+{"query":"create a task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"canonical"}
+{"query":"make a task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"canonical"}
+{"query":"new task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"canonical"}
+{"query":"open a task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"canonical"}
+{"query":"start a task on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"canonical"}
+{"query":"create task via OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"alt_prep"}
+{"query":"create task using OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"alt_prep"}
+{"query":"create task with OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"alt_prep"}
+{"query":"OFFLIGHT create a task","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"app_first"}
+{"query":"OFFLIGHT make a task","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"app_first"}
+{"query":"create story on OFFLIGHT","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"alt_target"}
+{"query":"OFFLIGHT create story","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"alt_target"}
+{"query":"create a offlight task","expected_action_key":"offlight-create-task","expected_app_slug":"offlight","app_name":"OFFLIGHT","test_type":"contextual"}

@@ -1,0 +1,60 @@
+{"query":"Send Text on Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Send Text in Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Z Api send text","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Send Text on z-api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Send Text on z_api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"send a text on Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"Z Api send a text","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"post a text on Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"Z Api post a text","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"send text via Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"send text using Z Api","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"z-api send text","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"z_api send text","expected_action_key":"z_api-send-text","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"Modify Chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Modify Chat in Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Z Api modify chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Modify Chat on z-api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Modify Chat on z_api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"update chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"update the chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"edit the chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"modify the chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"change the chat on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"update chat in Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"update chat via Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"update chat using Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"update chat with Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"Z Api update chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"Z Api update the chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"Z Api edit the chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"update msg on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"Z Api update msg","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"update chat message on Z Api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"Z Api update chat message","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"update chat on z-api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"z-api update chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"update chat on z_api","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"z_api update chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"update a z api chat","expected_action_key":"z_api-modify-chat","expected_app_slug":"z_api","app_name":"Z-API","test_type":"contextual"}
+{"query":"Get Contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Get Contacts in Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Z Api get contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Get Contacts on z-api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"Get Contacts on z_api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"action_name"}
+{"query":"get the contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"retrieve contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"fetch contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"show me the contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"pull contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"check contacts on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"canonical"}
+{"query":"get contacts via Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"get contacts using Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"get contacts with Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_prep"}
+{"query":"Z Api get the contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"Z Api retrieve contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"app_first"}
+{"query":"get contact record on Z Api","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"Z Api get contact record","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_target"}
+{"query":"z-api get contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"z_api get contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"alt_app_name"}
+{"query":"get a z api contacts","expected_action_key":"z_api-get-contacts","expected_app_slug":"z_api","app_name":"Z-API","test_type":"contextual"}

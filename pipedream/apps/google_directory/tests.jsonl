@@ -1,0 +1,108 @@
+{"query":"List Users on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"List Users in Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory list users","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"List Users on google_directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"list all users on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"show all users on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"get all users on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"show me all users on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"list users via Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"list users using Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"list users with Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"Google Directory list all users","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"Google Directory show all users","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"list member on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory list member","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"list person on Google Directory","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory list person","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"google_directory list users","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"list a google directory users","expected_action_key":"google_directory-list-users","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"contextual"}
+{"query":"List Groups on Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"List Groups in Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory list groups","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"List Groups on google_directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"list all groups on Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory list all groups","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"show all groups on Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory show all groups","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"list groups via Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"list groups using Google Directory","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"google_directory list groups","expected_action_key":"google_directory-list-groups","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"Get User on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Get User in Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory get user","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Get User on google_directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"get the user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"retrieve user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"fetch user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"show me the user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"pull user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"check user on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"get user via Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"get user using Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"get user with Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"Google Directory get the user","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"Google Directory retrieve user","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"get member on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory get member","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"get person on Google Directory","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory get person","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"google_directory get user","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"get a google directory user","expected_action_key":"google_directory-get-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"contextual"}
+{"query":"Get Group on Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Get Group in Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory get group","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Get Group on google_directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"get the group on Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory get the group","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"retrieve group on Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory retrieve group","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"get group via Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"get group using Google Directory","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"google_directory get group","expected_action_key":"google_directory-get-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"Create User on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Create User in Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory create user","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Create User on google_directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"create a user on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"make a user on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"new user on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"open a user on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"start a user on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"create user via Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"create user using Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"create user with Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"Google Directory create a user","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"Google Directory make a user","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"create member on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory create member","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"create person on Google Directory","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"Google Directory create person","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_target"}
+{"query":"google_directory create user","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"create a google directory user","expected_action_key":"google_directory-create-user","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"contextual"}
+{"query":"Create Group on Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Create Group in Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory create group","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Create Group on google_directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"create a group on Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory create a group","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"make a group on Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory make a group","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"create group via Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"create group using Google Directory","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"google_directory create group","expected_action_key":"google_directory-create-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"Add Member to Group on Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Add Member to Group in Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Google Directory add member to group","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"Add Member to Group on google_directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"action_name"}
+{"query":"add member group on Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory add member group","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"add a member group on Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory add a member group","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"add new member group on Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"canonical"}
+{"query":"Google Directory add new member group","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"app_first"}
+{"query":"add member group in Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"add member group via Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"add member group using Google Directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_prep"}
+{"query":"add member group on google_directory","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}
+{"query":"google_directory add member group","expected_action_key":"google_directory-add-member-to-group","expected_app_slug":"google_directory","app_name":"Google Directory","test_type":"alt_app_name"}

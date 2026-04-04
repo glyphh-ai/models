@@ -1,0 +1,26 @@
+{"query":"Get Order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"Get Order in Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"Retriever get order","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"get the order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"retrieve order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"fetch order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"show me the order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"pull order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"check order on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"get order via Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_prep"}
+{"query":"get order using Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_prep"}
+{"query":"get order with Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_prep"}
+{"query":"Retriever get the order","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"app_first"}
+{"query":"Retriever retrieve order","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"app_first"}
+{"query":"get purchase on Retriever","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_target"}
+{"query":"Retriever get purchase","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_target"}
+{"query":"get a retriever order","expected_action_key":"retriever-get-order","expected_app_slug":"retriever","app_name":"Retriever","test_type":"contextual"}
+{"query":"Create Device Return on Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"Create Device Return in Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"Retriever create device return","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"action_name"}
+{"query":"create a device return on Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"Retriever create a device return","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"app_first"}
+{"query":"make a device return on Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"canonical"}
+{"query":"Retriever make a device return","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"app_first"}
+{"query":"create device return via Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_prep"}
+{"query":"create device return using Retriever","expected_action_key":"retriever-create-device-return","expected_app_slug":"retriever","app_name":"Retriever","test_type":"alt_prep"}

@@ -1,0 +1,27 @@
+{"query":"List Memories on Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"List Memories in Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"Langbase list memories","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"list all memories on Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase list all memories","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"show all memories on Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase show all memories","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"list memories via Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}
+{"query":"list memories using Langbase","expected_action_key":"langbase-list-memories","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}
+{"query":"Delete Memory on Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"Delete Memory in Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"Langbase delete memory","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"delete the memory on Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase delete the memory","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"remove the memory on Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase remove the memory","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"delete memory via Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}
+{"query":"delete memory using Langbase","expected_action_key":"langbase-delete-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}
+{"query":"Create Memory on Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"Create Memory in Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"Langbase create memory","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"action_name"}
+{"query":"create a memory on Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase create a memory","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"make a memory on Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"canonical"}
+{"query":"Langbase make a memory","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"app_first"}
+{"query":"create memory via Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}
+{"query":"create memory using Langbase","expected_action_key":"langbase-create-memory","expected_app_slug":"langbase","app_name":"Langbase","test_type":"alt_prep"}

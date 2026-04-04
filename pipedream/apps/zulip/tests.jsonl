@@ -1,0 +1,17 @@
+{"query":"Send Message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"action_name"}
+{"query":"Send Message in Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"action_name"}
+{"query":"Zulip send message","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"action_name"}
+{"query":"send a message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"canonical"}
+{"query":"post a message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"canonical"}
+{"query":"send out message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"canonical"}
+{"query":"fire off message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"canonical"}
+{"query":"send message via Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_prep"}
+{"query":"send message using Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_prep"}
+{"query":"send message with Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_prep"}
+{"query":"Zulip send a message","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"app_first"}
+{"query":"Zulip post a message","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"app_first"}
+{"query":"send msg on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_target"}
+{"query":"Zulip send msg","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_target"}
+{"query":"send chat message on Zulip","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_target"}
+{"query":"Zulip send chat message","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"alt_target"}
+{"query":"send a zulip message","expected_action_key":"zulip-send-message","expected_app_slug":"zulip","app_name":"Zulip","test_type":"contextual"}

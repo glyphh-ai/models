@@ -1,0 +1,42 @@
+{"query":"List Tasks on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"List Tasks in Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"Kanbanize list tasks","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"list all tasks on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"show all tasks on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"get all tasks on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"show me all tasks on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"list tasks via Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"list tasks using Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"list tasks with Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"Kanbanize list all tasks","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"Kanbanize show all tasks","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"list story on Kanbanize","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_target"}
+{"query":"Kanbanize list story","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_target"}
+{"query":"list a kanbanize tasks","expected_action_key":"kanbanize-list-all-tasks","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"contextual"}
+{"query":"Edit Task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"Edit Task in Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"Kanbanize edit task","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"update task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"update the task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"edit the task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"modify the task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"change the task on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"update task in Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"update task via Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"update task using Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"update task with Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"Kanbanize update task","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"Kanbanize update the task","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"Kanbanize edit the task","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"update story on Kanbanize","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_target"}
+{"query":"Kanbanize update story","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_target"}
+{"query":"update a kanbanize task","expected_action_key":"kanbanize-edit-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"contextual"}
+{"query":"Create New Task on Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"Create New Task in Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"Kanbanize create new task","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"action_name"}
+{"query":"create a new task on Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"Kanbanize create a new task","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"make a new task on Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"canonical"}
+{"query":"Kanbanize make a new task","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"app_first"}
+{"query":"create new task via Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}
+{"query":"create new task using Kanbanize","expected_action_key":"kanbanize-create-new-task","expected_app_slug":"kanbanize","app_name":"Kanbanize","test_type":"alt_prep"}

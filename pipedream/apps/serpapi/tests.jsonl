@@ -1,0 +1,12 @@
+{"query":"Scrape Search on SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"action_name"}
+{"query":"Scrape Search in SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"action_name"}
+{"query":"SerpApi scrape search","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"action_name"}
+{"query":"search for search on SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"canonical"}
+{"query":"SerpApi search for search","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"app_first"}
+{"query":"find search on SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"canonical"}
+{"query":"SerpApi find search","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"app_first"}
+{"query":"look for search on SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"canonical"}
+{"query":"SerpApi look for search","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"app_first"}
+{"query":"search for search in SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"alt_prep"}
+{"query":"search for search via SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"alt_prep"}
+{"query":"search for search using SerpApi","expected_action_key":"serpapi-scrape-search","expected_app_slug":"serpapi","app_name":"SerpApi","test_type":"alt_prep"}

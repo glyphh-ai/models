@@ -1,0 +1,46 @@
+{"query":"Update Invoice on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Update Invoice in Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Holded update invoice","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"update the invoice on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"edit the invoice on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"modify the invoice on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"change the invoice on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"update invoice via Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"update invoice using Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"update invoice with Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"Holded update the invoice","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"Holded edit the invoice","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"update bill on Holded","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"Holded update bill","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"update a holded invoice","expected_action_key":"holded-update-invoice","expected_app_slug":"holded","app_name":"Holded","test_type":"contextual"}
+{"query":"Send Email on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Send Email in Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Holded send email","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"send a email on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"post a email on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"send out email on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"fire off email on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"send email via Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"send email using Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"send email with Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"Holded send a email","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"Holded post a email","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"send mail on Holded","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"Holded send mail","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"send a holded email","expected_action_key":"holded-send-email","expected_app_slug":"holded","app_name":"Holded","test_type":"contextual"}
+{"query":"Create Contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Create Contact in Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"Holded create contact","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"action_name"}
+{"query":"create a contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"make a contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"new contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"open a contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"start a contact on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"canonical"}
+{"query":"create contact via Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"create contact using Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"create contact with Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_prep"}
+{"query":"Holded create a contact","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"Holded make a contact","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"app_first"}
+{"query":"create contact record on Holded","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"Holded create contact record","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"alt_target"}
+{"query":"create a holded contact","expected_action_key":"holded-create-contact","expected_app_slug":"holded","app_name":"Holded","test_type":"contextual"}

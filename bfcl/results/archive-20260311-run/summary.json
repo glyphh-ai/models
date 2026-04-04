@@ -1,0 +1,31 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "timestamp": "2026-03-11 08:34:49",
+  "categories": {
+    "multi_turn_long_context": {
+      "category": "multi_turn_long_context",
+      "total": 200,
+      "correct": 146,
+      "accuracy": 0.73,
+      "input_tokens": 3945025,
+      "output_tokens": 234970,
+      "total_tokens": 4179995,
+      "api_calls": 2063,
+      "cost": 4.0959,
+      "latency_mean_s": 17.40467207789421,
+      "latency_sd_s": 7.151002789366039,
+      "latency_p95_s": 29.226366996765137
+    }
+  },
+  "v4_scores": {
+    "non_live": null,
+    "hallucination": null,
+    "live": null,
+    "multi_turn": 0.73,
+    "memory_summary": null,
+    "web_search_summary": null,
+    "agentic": null,
+    "overall": 0.73,
+    "weight_covered": 0.3
+  }
+}

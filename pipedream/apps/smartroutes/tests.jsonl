@@ -1,0 +1,16 @@
+{"query":"Create Order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"action_name"}
+{"query":"Create Order in SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"action_name"}
+{"query":"SmartRoutes create order","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"action_name"}
+{"query":"create a order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"canonical"}
+{"query":"make a order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"canonical"}
+{"query":"new order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"canonical"}
+{"query":"open a order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"canonical"}
+{"query":"start a order on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"canonical"}
+{"query":"create order via SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"alt_prep"}
+{"query":"create order using SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"alt_prep"}
+{"query":"create order with SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"alt_prep"}
+{"query":"SmartRoutes create a order","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"app_first"}
+{"query":"SmartRoutes make a order","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"app_first"}
+{"query":"create purchase on SmartRoutes","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"alt_target"}
+{"query":"SmartRoutes create purchase","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"alt_target"}
+{"query":"create a smartroutes order","expected_action_key":"smartroutes-create-order","expected_app_slug":"smartroutes","app_name":"SmartRoutes","test_type":"contextual"}

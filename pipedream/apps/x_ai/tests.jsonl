@@ -1,0 +1,62 @@
+{"query":"Post Completion on X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Completion in X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"X Ai post completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Completion on x_ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Completion on xai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"send completion on X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai send completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"send a completion on X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai send a completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"post a completion on X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai post a completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"send completion in X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send completion via X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send completion using X Ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send completion on x_ai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"x_ai send completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"send completion on xai","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"xai send completion","expected_action_key":"x_ai-post-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"Post Chat Completion on X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Chat Completion in X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"X Ai post chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Chat Completion on x_ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Post Chat Completion on xai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"send chat completion on X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai send chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"send a chat completion on X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai send a chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"post a chat completion on X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai post a chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"send chat completion in X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send chat completion via X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send chat completion using X Ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"send chat completion on x_ai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"x_ai send chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"send chat completion on xai","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"xai send chat completion","expected_action_key":"x_ai-post-chat-completion","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"Get Model on X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Get Model in X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"X Ai get model","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Get Model on x_ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Get Model on xai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"get the model on X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai get the model","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"retrieve model on X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai retrieve model","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"get model via X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"get model using X Ai","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"x_ai get model","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"xai get model","expected_action_key":"x_ai-get-model","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"Create Embedding on X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Create Embedding in X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"X Ai create embedding","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Create Embedding on x_ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"Create Embedding on xai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"action_name"}
+{"query":"create a embedding on X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai create a embedding","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"make a embedding on X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"canonical"}
+{"query":"X Ai make a embedding","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"app_first"}
+{"query":"create embedding via X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"create embedding using X Ai","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_prep"}
+{"query":"x_ai create embedding","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}
+{"query":"xai create embedding","expected_action_key":"x_ai-create-embeddings","expected_app_slug":"x_ai","app_name":"xAI","test_type":"alt_app_name"}

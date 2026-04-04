@@ -1,0 +1,140 @@
+{"query":"Save Order on Paazl","expected_action_key":"paazl-save-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Save Order in Paazl","expected_action_key":"paazl-save-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl save order","expected_action_key":"paazl-save-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Save Checkout Session Data on Paazl","expected_action_key":"paazl-save-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Save Checkout Session Data in Paazl","expected_action_key":"paazl-save-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl save checkout session data","expected_action_key":"paazl-save-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Modify Order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Modify Order in Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl modify order","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"update order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"update the order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"edit the order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"modify the order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"change the order on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"update order in Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"update order via Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"update order using Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"update order with Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Paazl update order","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"Paazl update the order","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"Paazl edit the order","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"update purchase on Paazl","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_target"}
+{"query":"Paazl update purchase","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_target"}
+{"query":"update a paazl order","expected_action_key":"paazl-modify-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"contextual"}
+{"query":"Get Home Delivery Shipping Options on Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Home Delivery Shipping Options in Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get home delivery shipping options","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the home delivery shipping options on Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the home delivery shipping options","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve home delivery shipping options on Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve home delivery shipping options","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get home delivery shipping options via Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get home delivery shipping options using Paazl","expected_action_key":"paazl-get-shipping-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Specific Shipment Tracking on Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Specific Shipment Tracking in Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get specific shipment tracking","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the specific shipment tracking on Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the specific shipment tracking","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve specific shipment tracking on Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve specific shipment tracking","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get specific shipment tracking via Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get specific shipment tracking using Paazl","expected_action_key":"paazl-get-shipment-tracking","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Specific Shipment Label on Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Specific Shipment Label in Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get specific shipment label","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the specific shipment label on Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the specific shipment label","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve specific shipment label on Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve specific shipment label","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get specific shipment label via Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get specific shipment label using Paazl","expected_action_key":"paazl-get-shipment-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Return Shipment Details on Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Return Shipment Details in Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get return shipment details","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the return shipment details on Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the return shipment details","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve return shipment details on Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve return shipment details","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get return shipment details via Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get return shipment details using Paazl","expected_action_key":"paazl-get-return-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Pickup Location Shipping Options on Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Pickup Location Shipping Options in Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get pickup location shipping options","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the pickup location shipping options on Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the pickup location shipping options","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve pickup location shipping options on Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve pickup location shipping options","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get pickup location shipping options via Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get pickup location shipping options using Paazl","expected_action_key":"paazl-get-pickup-location-options","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Specific Parcel Label on Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Specific Parcel Label in Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get specific parcel label","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the specific parcel label on Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the specific parcel label","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve specific parcel label on Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve specific parcel label","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get specific parcel label via Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get specific parcel label using Paazl","expected_action_key":"paazl-get-parcel-label","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Order Shipment Details on Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Order Shipment Details in Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get order shipment details","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the order shipment details on Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the order shipment details","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve order shipment details on Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve order shipment details","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get order shipment details via Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get order shipment details using Paazl","expected_action_key":"paazl-get-order-shipments","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Order Shipping Labels on Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Order Shipping Labels in Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get order shipping labels","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the order shipping labels on Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the order shipping labels","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve order shipping labels on Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve order shipping labels","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get order shipping labels via Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get order shipping labels using Paazl","expected_action_key":"paazl-get-order-labels","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Get Checkout Session Data on Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Get Checkout Session Data in Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl get checkout session data","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"get the checkout session data on Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl get the checkout session data","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"retrieve checkout session data on Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl retrieve checkout session data","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"get checkout session data via Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"get checkout session data using Paazl","expected_action_key":"paazl-get-checkout-session","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Delete Order on Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Delete Order in Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl delete order","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"delete the order on Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"remove the order on Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"destroy the order on Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"delete order via Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"delete order using Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"delete order with Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Paazl delete the order","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"Paazl remove the order","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"delete purchase on Paazl","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_target"}
+{"query":"Paazl delete purchase","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_target"}
+{"query":"delete a paazl order","expected_action_key":"paazl-delete-order","expected_app_slug":"paazl","app_name":"Paazl","test_type":"contextual"}
+{"query":"Create Shipment For Order on Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Create Shipment For Order in Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl create shipment for order","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"create shipment order on Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl create shipment order","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"create a shipment order on Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl create a shipment order","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"make a shipment order on Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl make a shipment order","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"create shipment order in Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"create shipment order via Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"create shipment order using Paazl","expected_action_key":"paazl-create-shipment","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"Create Checkout Access Token on Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Create Checkout Access Token in Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"Paazl create checkout access token","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"action_name"}
+{"query":"create a checkout access token on Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl create a checkout access token","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"make a checkout access token on Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"canonical"}
+{"query":"Paazl make a checkout access token","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"app_first"}
+{"query":"create checkout access token via Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}
+{"query":"create checkout access token using Paazl","expected_action_key":"paazl-create-checkout-token","expected_app_slug":"paazl","app_name":"Paazl","test_type":"alt_prep"}

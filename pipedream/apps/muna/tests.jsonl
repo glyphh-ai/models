@@ -1,0 +1,10 @@
+{"query":"Create A Prediction on Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"action_name"}
+{"query":"Create A Prediction in Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"action_name"}
+{"query":"Muna create a prediction","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"action_name"}
+{"query":"create prediction on Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"canonical"}
+{"query":"Muna create prediction","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"app_first"}
+{"query":"make a prediction on Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"canonical"}
+{"query":"Muna make a prediction","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"app_first"}
+{"query":"create prediction in Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"alt_prep"}
+{"query":"create prediction via Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"alt_prep"}
+{"query":"create prediction using Muna","expected_action_key":"muna-create-prediction","expected_app_slug":"muna","app_name":"Muna","test_type":"alt_prep"}

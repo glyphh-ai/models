@@ -1,0 +1,51 @@
+{"query":"Send Message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"Send Message in DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"DopplerAI send message","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"send a message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"post a message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"send out message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"fire off message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"send message via DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"send message using DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"send message with DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"DopplerAI send a message","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"DopplerAI post a message","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"send msg on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"DopplerAI send msg","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"send chat message on DopplerAI","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"DopplerAI send chat message","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"send a dopplerai message","expected_action_key":"dopplerai-send-message","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"contextual"}
+{"query":"Create Collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"Create Collection in DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"DopplerAI create collection","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"create a collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"make a collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"new collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"open a collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"start a collection on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"create collection via DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"create collection using DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"create collection with DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"DopplerAI create a collection","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"DopplerAI make a collection","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"create database table on DopplerAI","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"DopplerAI create database table","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"create a dopplerai collection","expected_action_key":"dopplerai-create-collection","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"contextual"}
+{"query":"Create Chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"Create Chat in DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"DopplerAI create chat","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"action_name"}
+{"query":"create a chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"make a chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"new chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"open a chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"start a chat on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"canonical"}
+{"query":"create chat via DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"create chat using DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"create chat with DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_prep"}
+{"query":"DopplerAI create a chat","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"DopplerAI make a chat","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"app_first"}
+{"query":"create msg on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"DopplerAI create msg","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"create chat message on DopplerAI","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"DopplerAI create chat message","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"alt_target"}
+{"query":"create a dopplerai chat","expected_action_key":"dopplerai-create-chat","expected_app_slug":"dopplerai","app_name":"DopplerAI","test_type":"contextual"}

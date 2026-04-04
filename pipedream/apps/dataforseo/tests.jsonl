@@ -1,0 +1,483 @@
+{"query":"Parse Page Content with OnPage on DataForSEO","expected_action_key":"dataforseo-parse-page-content","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Parse Page Content with OnPage in DataForSEO","expected_action_key":"dataforseo-parse-page-content","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO parse page content with onpage","expected_action_key":"dataforseo-parse-page-content","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Crawled Pages with OnPage on DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Crawled Pages with OnPage in DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get crawled pages with onpage","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get crawled pages onpage on DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get crawled pages onpage","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the crawled pages onpage on DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the crawled pages onpage","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve crawled pages onpage on DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve crawled pages onpage","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get crawled pages onpage in DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get crawled pages onpage via DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get crawled pages onpage using DataForSEO","expected_action_key":"dataforseo-get-crawled-pages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Create OnPage Task on DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Create OnPage Task in DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO create onpage task","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"create a onpage task on DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO create a onpage task","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"make a onpage task on DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO make a onpage task","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"create onpage task via DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"create onpage task using DataForSEO","expected_action_key":"dataforseo-create-onpage-task","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Search Business Listings on DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Search Business Listings in DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO search business listings","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"search for business listings on DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO search for business listings","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"find business listings on DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO find business listings","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"look for business listings on DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO look for business listings","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"search for business listings in DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"search for business listings via DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"search for business listings using DataForSEO","expected_action_key":"dataforseo-search-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Yahoo Organic Results on DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Yahoo Organic Results in DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get yahoo organic results","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the yahoo organic results on DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the yahoo organic results","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve yahoo organic results on DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve yahoo organic results","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get yahoo organic results via DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get yahoo organic results using DataForSEO","expected_action_key":"dataforseo-get-yahoo-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Trustpilot Reviews on DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Trustpilot Reviews in DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get trustpilot reviews","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the trustpilot reviews on DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the trustpilot reviews","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve trustpilot reviews on DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve trustpilot reviews","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get trustpilot reviews via DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get trustpilot reviews using DataForSEO","expected_action_key":"dataforseo-get-trustpilot-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get TripAdvisor Reviews on DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get TripAdvisor Reviews in DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get tripadvisor reviews","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the tripadvisor reviews on DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the tripadvisor reviews","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve tripadvisor reviews on DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve tripadvisor reviews","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get tripadvisor reviews via DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get tripadvisor reviews using DataForSEO","expected_action_key":"dataforseo-get-tripadvisor-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Top SERP Results on DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Top SERP Results in DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get top serp results","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the top serp results on DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the top serp results","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve top serp results on DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve top serp results","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get top serp results via DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get top serp results using DataForSEO","expected_action_key":"dataforseo-get-top-serp-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Technologies Domain List on DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Technologies Domain List in DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get technologies domain list","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the technologies domain list on DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the technologies domain list","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve technologies domain list on DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve technologies domain list","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get technologies domain list via DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get technologies domain list using DataForSEO","expected_action_key":"dataforseo-get-technologies-domain-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Sentiment Analysis on DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Sentiment Analysis in DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get sentiment analysis","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the sentiment analysis on DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the sentiment analysis","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve sentiment analysis on DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve sentiment analysis","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get sentiment analysis via DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get sentiment analysis using DataForSEO","expected_action_key":"dataforseo-get-sentiment-analysis","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Referring Domains on DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Referring Domains in DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get referring domains","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the referring domains on DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the referring domains","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve referring domains on DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve referring domains","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get referring domains via DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get referring domains using DataForSEO","expected_action_key":"dataforseo-get-referring-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Ranked Keywords on DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Ranked Keywords in DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get ranked keywords","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the ranked keywords on DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the ranked keywords","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve ranked keywords on DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve ranked keywords","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get ranked keywords via DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get ranked keywords using DataForSEO","expected_action_key":"dataforseo-get-ranked-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Keyword Suggestions on DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Keyword Suggestions in DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get keyword suggestions","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the keyword suggestions on DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the keyword suggestions","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve keyword suggestions on DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve keyword suggestions","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get keyword suggestions via DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get keyword suggestions using DataForSEO","expected_action_key":"dataforseo-get-keyword-suggestions","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Keyword Ideas Live on DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Keyword Ideas Live in DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get keyword ideas live","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the keyword ideas live on DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the keyword ideas live","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve keyword ideas live on DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve keyword ideas live","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get keyword ideas live via DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get keyword ideas live using DataForSEO","expected_action_key":"dataforseo-get-keyword-ideas-live","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Keyword Difficulty on DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Keyword Difficulty in DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get keyword difficulty","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the keyword difficulty on DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the keyword difficulty","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve keyword difficulty on DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve keyword difficulty","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get keyword difficulty via DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get keyword difficulty using DataForSEO","expected_action_key":"dataforseo-get-keyword-difficulty","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Keyword Data ID List on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Keyword Data ID List in DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get keyword data id list","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the keyword data id list on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the keyword data id list","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve keyword data id list on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve keyword data id list","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get keyword data id list via DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get keyword data id list using DataForSEO","expected_action_key":"dataforseo-get-keyword-data-id-list","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Keyword Data Errors on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Keyword Data Errors in DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get keyword data errors","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the keyword data errors on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the keyword data errors","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve keyword data errors on DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve keyword data errors","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get keyword data errors via DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get keyword data errors using DataForSEO","expected_action_key":"dataforseo-get-keyword-data-errors","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Historical SERP Data on DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Historical SERP Data in DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get historical serp data","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the historical serp data on DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the historical serp data","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve historical serp data on DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve historical serp data","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get historical serp data via DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get historical serp data using DataForSEO","expected_action_key":"dataforseo-get-historical-serp-data","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Reviews on DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Reviews in DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google reviews","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google reviews on DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google reviews","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google reviews on DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google reviews","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google reviews via DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google reviews using DataForSEO","expected_action_key":"dataforseo-get-google-reviews","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Play Search on DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Play Search in DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google play search","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google play search on DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google play search","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google play search on DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google play search","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google play search via DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google play search using DataForSEO","expected_action_key":"dataforseo-get-google-play-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Organic Results on DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Organic Results in DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google organic results","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google organic results on DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google organic results","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google organic results on DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google organic results","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google organic results via DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google organic results using DataForSEO","expected_action_key":"dataforseo-get-google-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google News Results on DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google News Results in DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google news results","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google news results on DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google news results","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google news results on DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google news results","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google news results via DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google news results using DataForSEO","expected_action_key":"dataforseo-get-google-news-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google My Business Info on DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google My Business Info in DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google my business info","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google my business info on DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google my business info","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google my business info on DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google my business info","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google my business info via DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google my business info using DataForSEO","expected_action_key":"dataforseo-get-google-my-business-info","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Images Results on DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Images Results in DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google images results","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google images results on DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google images results","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google images results on DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google images results","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google images results via DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google images results using DataForSEO","expected_action_key":"dataforseo-get-google-images-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Traffic By Keywords Completed Tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Traffic By Keywords Completed Tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads traffic by keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get google ads traffic keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get google ads traffic keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the google ads traffic keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads traffic keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads traffic keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads traffic keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads traffic keywords completed tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads traffic keywords completed tasks via DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads traffic keywords completed tasks using DataForSEO","expected_action_key":"dataforseo-get-google-ads-traffic-by-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Status on DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Status in DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads status","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google ads status on DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads status","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads status on DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads status","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads status via DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads status using DataForSEO","expected_action_key":"dataforseo-get-google-ads-status","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Search Volume on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Search Volume in DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads search volume","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google ads search volume on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads search volume","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads search volume on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads search volume","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads search volume via DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads search volume using DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Search Volume Completed Tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Search Volume Completed Tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads search volume completed tasks","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google ads search volume completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads search volume completed tasks","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads search volume completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads search volume completed tasks","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads search volume completed tasks via DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads search volume completed tasks using DataForSEO","expected_action_key":"dataforseo-get-google-ads-search-volume-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Locations on DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Locations in DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads locations","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google ads locations on DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads locations","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads locations on DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads locations","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads locations via DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads locations using DataForSEO","expected_action_key":"dataforseo-get-google-ads-locations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Languages on DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Languages in DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads languages","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the google ads languages on DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads languages","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads languages on DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads languages","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads languages via DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads languages using DataForSEO","expected_action_key":"dataforseo-get-google-ads-languages","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Keywords For Site Completed Tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Keywords For Site Completed Tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads keywords for site completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get google ads keywords site completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get google ads keywords site completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the google ads keywords site completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads keywords site completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads keywords site completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads keywords site completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads keywords site completed tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords site completed tasks via DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords site completed tasks using DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-site-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Keywords For Keywords on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Keywords For Keywords in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads keywords for keywords","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get google ads keywords keywords on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get google ads keywords keywords","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the google ads keywords keywords on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads keywords keywords","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads keywords keywords on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads keywords keywords","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads keywords keywords in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords keywords via DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords keywords using DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Keywords For Keywords Completed Tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Keywords For Keywords Completed Tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads keywords for keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get google ads keywords keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get google ads keywords keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the google ads keywords keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads keywords keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads keywords keywords completed tasks on DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads keywords keywords completed tasks","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads keywords keywords completed tasks in DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords keywords completed tasks via DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads keywords keywords completed tasks using DataForSEO","expected_action_key":"dataforseo-get-google-ads-keywords-for-keywords-completed-tasks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Google Ads Ad Traffic By Keyword on DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Google Ads Ad Traffic By Keyword in DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get google ads ad traffic by keyword","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get google ads ad traffic keyword on DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get google ads ad traffic keyword","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get the google ads ad traffic keyword on DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the google ads ad traffic keyword","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve google ads ad traffic keyword on DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve google ads ad traffic keyword","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get google ads ad traffic keyword in DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads ad traffic keyword via DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get google ads ad traffic keyword using DataForSEO","expected_action_key":"dataforseo-get-google-ads-ad-traffic-by-keyword","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Domain Whois Overview on DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Domain Whois Overview in DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get domain whois overview","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the domain whois overview on DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the domain whois overview","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve domain whois overview on DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve domain whois overview","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get domain whois overview via DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get domain whois overview using DataForSEO","expected_action_key":"dataforseo-get-domain-whois-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Domain Rank Overview on DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Domain Rank Overview in DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get domain rank overview","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the domain rank overview on DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the domain rank overview","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve domain rank overview on DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve domain rank overview","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get domain rank overview via DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get domain rank overview using DataForSEO","expected_action_key":"dataforseo-get-domain-rank-overview","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Domain Pages Summary on DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Domain Pages Summary in DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get domain pages summary","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the domain pages summary on DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the domain pages summary","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve domain pages summary on DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve domain pages summary","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get domain pages summary via DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get domain pages summary using DataForSEO","expected_action_key":"dataforseo-get-domain-pages-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Domain Keywords on DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Domain Keywords in DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get domain keywords","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the domain keywords on DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the domain keywords","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve domain keywords on DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve domain keywords","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get domain keywords via DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get domain keywords using DataForSEO","expected_action_key":"dataforseo-get-domain-keywords","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Domain Intersection on DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Domain Intersection in DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get domain intersection","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the domain intersection on DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the domain intersection","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve domain intersection on DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve domain intersection","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get domain intersection via DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get domain intersection using DataForSEO","expected_action_key":"dataforseo-get-domain-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Content Summary on DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Content Summary in DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get content summary","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the content summary on DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the content summary","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve content summary on DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve content summary","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get content summary via DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get content summary using DataForSEO","expected_action_key":"dataforseo-get-content-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Content Citations on DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Content Citations in DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get content citations","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the content citations on DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the content citations","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve content citations on DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve content citations","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get content citations via DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get content citations using DataForSEO","expected_action_key":"dataforseo-get-content-citations","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Competitor Domains on DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Competitor Domains in DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get competitor domains","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the competitor domains on DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the competitor domains","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve competitor domains on DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve competitor domains","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get competitor domains via DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get competitor domains using DataForSEO","expected_action_key":"dataforseo-get-competitor-domains","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Categories Aggregation on DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Categories Aggregation in DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get categories aggregation","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the categories aggregation on DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the categories aggregation","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve categories aggregation on DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve categories aggregation","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get categories aggregation via DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get categories aggregation using DataForSEO","expected_action_key":"dataforseo-get-categories-aggregation","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Business Listings on DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Business Listings in DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get business listings","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the business listings on DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the business listings","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve business listings on DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve business listings","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get business listings via DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get business listings using DataForSEO","expected_action_key":"dataforseo-get-business-listings","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Business Listings Categories on DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Business Listings Categories in DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get business listings categories","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the business listings categories on DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the business listings categories","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve business listings categories on DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve business listings categories","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get business listings categories via DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get business listings categories using DataForSEO","expected_action_key":"dataforseo-get-business-listings-categories","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Bing Organic Results on DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Bing Organic Results in DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get bing organic results","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the bing organic results on DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the bing organic results","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve bing organic results on DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve bing organic results","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get bing organic results via DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get bing organic results using DataForSEO","expected_action_key":"dataforseo-get-bing-organic-results","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Backlinks on DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Backlinks in DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get backlinks","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the backlinks on DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the backlinks","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve backlinks on DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve backlinks","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get backlinks via DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get backlinks using DataForSEO","expected_action_key":"dataforseo-get-backlinks","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Backlinks Summary on DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Backlinks Summary in DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get backlinks summary","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the backlinks summary on DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the backlinks summary","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve backlinks summary on DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve backlinks summary","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get backlinks summary via DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get backlinks summary using DataForSEO","expected_action_key":"dataforseo-get-backlinks-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get Backlinks History on DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get Backlinks History in DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get backlinks history","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the backlinks history on DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the backlinks history","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve backlinks history on DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve backlinks history","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get backlinks history via DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get backlinks history using DataForSEO","expected_action_key":"dataforseo-get-backlinks-history","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get App Store Search on DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get App Store Search in DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get app store search","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the app store search on DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the app store search","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve app store search on DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve app store search","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get app store search via DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get app store search using DataForSEO","expected_action_key":"dataforseo-get-app-store-search","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get App Reviews Summary on DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get App Reviews Summary in DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get app reviews summary","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the app reviews summary on DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the app reviews summary","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve app reviews summary on DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve app reviews summary","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get app reviews summary via DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get app reviews summary using DataForSEO","expected_action_key":"dataforseo-get-app-reviews-summary","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"Get App Intersection on DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"Get App Intersection in DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"DataForSEO get app intersection","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"action_name"}
+{"query":"get the app intersection on DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO get the app intersection","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"retrieve app intersection on DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"canonical"}
+{"query":"DataForSEO retrieve app intersection","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"app_first"}
+{"query":"get app intersection via DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}
+{"query":"get app intersection using DataForSEO","expected_action_key":"dataforseo-get-app-intersection","expected_app_slug":"dataforseo","app_name":"DataForSEO","test_type":"alt_prep"}

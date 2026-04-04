@@ -1,0 +1,49 @@
+{"query":"Update Employee on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Update Employee in Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Axonaut update employee","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"update the employee on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"edit the employee on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"modify the employee on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"change the employee on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"update employee via Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"update employee using Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"update employee with Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"Axonaut update the employee","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"Axonaut edit the employee","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"update staff member on Axonaut","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_target"}
+{"query":"Axonaut update staff member","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_target"}
+{"query":"update a axonaut employee","expected_action_key":"axonaut-update-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"contextual"}
+{"query":"Update Company on Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Update Company in Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Axonaut update company","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"update the company on Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"Axonaut update the company","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"edit the company on Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"Axonaut edit the company","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"update company via Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"update company using Axonaut","expected_action_key":"axonaut-update-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"Create Employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Create Employee in Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Axonaut create employee","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"create a employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"make a employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"new employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"open a employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"start a employee on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"create employee via Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"create employee using Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"create employee with Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"Axonaut create a employee","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"Axonaut make a employee","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"create staff member on Axonaut","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_target"}
+{"query":"Axonaut create staff member","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_target"}
+{"query":"create a axonaut employee","expected_action_key":"axonaut-create-employee","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"contextual"}
+{"query":"Create Company on Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Create Company in Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"Axonaut create company","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"action_name"}
+{"query":"create a company on Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"Axonaut create a company","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"make a company on Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"canonical"}
+{"query":"Axonaut make a company","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"app_first"}
+{"query":"create company via Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}
+{"query":"create company using Axonaut","expected_action_key":"axonaut-create-company","expected_app_slug":"axonaut","app_name":"Axonaut","test_type":"alt_prep"}

@@ -1,0 +1,23 @@
+{"query":"Create Reminder on Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"Create Reminder in Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"Dex create reminder","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"create a reminder on Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"Dex create a reminder","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"app_first"}
+{"query":"make a reminder on Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"Dex make a reminder","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"app_first"}
+{"query":"create reminder via Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"alt_prep"}
+{"query":"create reminder using Dex","expected_action_key":"dex-create-reminder","expected_app_slug":"dex","app_name":"Dex","test_type":"alt_prep"}
+{"query":"Create Note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"Create Note in Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"Dex create note","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"action_name"}
+{"query":"create a note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"make a note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"new note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"open a note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"start a note on Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"canonical"}
+{"query":"create note via Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"alt_prep"}
+{"query":"create note using Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"alt_prep"}
+{"query":"create note with Dex","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"alt_prep"}
+{"query":"Dex create a note","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"app_first"}
+{"query":"Dex make a note","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"app_first"}
+{"query":"create a dex note","expected_action_key":"dex-create-note","expected_app_slug":"dex","app_name":"Dex","test_type":"contextual"}

@@ -1,0 +1,23 @@
+{"query":"Trigger Monkey on Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Trigger Monkey in Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Voice Monkey trigger monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Trigger Monkey on voice_monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"run monkey on Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"canonical"}
+{"query":"Voice Monkey run monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"app_first"}
+{"query":"execute monkey on Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"canonical"}
+{"query":"Voice Monkey execute monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"app_first"}
+{"query":"trigger monkey via Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"alt_prep"}
+{"query":"trigger monkey using Voice Monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"alt_prep"}
+{"query":"voice_monkey trigger monkey","expected_action_key":"voice_monkey-trigger-monkey","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"alt_app_name"}
+{"query":"Make Announcement on Voice Monkey","expected_action_key":"voice_monkey-make-annoucement","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Make Announcement in Voice Monkey","expected_action_key":"voice_monkey-make-annoucement","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Voice Monkey make announcement","expected_action_key":"voice_monkey-make-annoucement","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Make Announcement on voice_monkey","expected_action_key":"voice_monkey-make-annoucement","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Video on Voice Monkey","expected_action_key":"voice_monkey-display-video","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Video in Voice Monkey","expected_action_key":"voice_monkey-display-video","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Voice Monkey display video","expected_action_key":"voice_monkey-display-video","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Video on voice_monkey","expected_action_key":"voice_monkey-display-video","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Image on Voice Monkey","expected_action_key":"voice_monkey-display-image","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Image in Voice Monkey","expected_action_key":"voice_monkey-display-image","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Voice Monkey display image","expected_action_key":"voice_monkey-display-image","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}
+{"query":"Display Image on voice_monkey","expected_action_key":"voice_monkey-display-image","expected_app_slug":"voice_monkey","app_name":"Voice Monkey","test_type":"action_name"}

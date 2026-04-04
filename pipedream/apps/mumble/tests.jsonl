@@ -1,0 +1,48 @@
+{"query":"Edit Customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Edit Customer in Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Mumble edit customer","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"update customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"update the customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"edit the customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"modify the customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"change the customer on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"update customer in Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"update customer via Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"update customer using Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"update customer with Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"Mumble update customer","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"Mumble update the customer","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"Mumble edit the customer","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"update account on Mumble","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_target"}
+{"query":"Mumble update account","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_target"}
+{"query":"update a mumble customer","expected_action_key":"mumble-edit-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"contextual"}
+{"query":"Delete Label on Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Delete Label in Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Mumble delete label","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"delete the label on Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"remove the label on Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"destroy the label on Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"delete label via Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"delete label using Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"delete label with Mumble","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"Mumble delete the label","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"Mumble remove the label","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"delete a mumble label","expected_action_key":"mumble-delete-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"contextual"}
+{"query":"Add New Label on Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Add New Label in Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Mumble add new label","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"add a new label on Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"Mumble add a new label","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"add new new label on Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"Mumble add new new label","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"add new label via Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"add new label using Mumble","expected_action_key":"mumble-add-new-label","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"Add New Customer on Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Add New Customer in Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"Mumble add new customer","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"action_name"}
+{"query":"add a new customer on Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"Mumble add a new customer","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"add new new customer on Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"canonical"}
+{"query":"Mumble add new new customer","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"app_first"}
+{"query":"add new customer via Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}
+{"query":"add new customer using Mumble","expected_action_key":"mumble-add-new-customer","expected_app_slug":"mumble","app_name":"Mumble","test_type":"alt_prep"}

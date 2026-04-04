@@ -1,0 +1,48 @@
+{"query":"Create Task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Create Task in Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Vitally create task","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"create a task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"make a task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"new task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"open a task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"start a task on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"create task via Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create task using Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create task with Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"Vitally create a task","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"Vitally make a task","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"create story on Vitally","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"Vitally create story","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"create a vitally task","expected_action_key":"vitally-create-task","expected_app_slug":"vitally","app_name":"Vitally","test_type":"contextual"}
+{"query":"Create Note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Create Note in Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Vitally create note","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"create a note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"make a note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"new note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"open a note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"start a note on Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"create note via Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create note using Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create note with Vitally","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"Vitally create a note","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"Vitally make a note","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"create a vitally note","expected_action_key":"vitally-create-note","expected_app_slug":"vitally","app_name":"Vitally","test_type":"contextual"}
+{"query":"Create Message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Create Message in Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"Vitally create message","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"action_name"}
+{"query":"create a message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"make a message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"new message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"open a message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"start a message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"canonical"}
+{"query":"create message via Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create message using Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"create message with Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_prep"}
+{"query":"Vitally create a message","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"Vitally make a message","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"app_first"}
+{"query":"create msg on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"Vitally create msg","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"create chat message on Vitally","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"Vitally create chat message","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"alt_target"}
+{"query":"create a vitally message","expected_action_key":"vitally-create-message","expected_app_slug":"vitally","app_name":"Vitally","test_type":"contextual"}

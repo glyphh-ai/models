@@ -1,0 +1,14 @@
+{"query":"Run Workflow on BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"action_name"}
+{"query":"Run Workflow in BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"action_name"}
+{"query":"BurstyAI run workflow","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"action_name"}
+{"query":"trigger workflow on BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"canonical"}
+{"query":"execute workflow on BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"canonical"}
+{"query":"start workflow on BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"canonical"}
+{"query":"launch workflow on BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"canonical"}
+{"query":"trigger workflow in BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"alt_prep"}
+{"query":"trigger workflow via BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"alt_prep"}
+{"query":"trigger workflow using BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"alt_prep"}
+{"query":"trigger workflow with BurstyAI","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"alt_prep"}
+{"query":"BurstyAI trigger workflow","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"app_first"}
+{"query":"BurstyAI execute workflow","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"app_first"}
+{"query":"trigger a burstyai workflow","expected_action_key":"burstyai-run-workflow","expected_app_slug":"burstyai","app_name":"BurstyAI","test_type":"contextual"}

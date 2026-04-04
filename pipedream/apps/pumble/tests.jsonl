@@ -1,0 +1,48 @@
+{"query":"Send Message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"Send Message in Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"Pumble send message","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"send a message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"post a message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"send out message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"fire off message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"send message via Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"send message using Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"send message with Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"Pumble send a message","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"Pumble post a message","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"send msg on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"Pumble send msg","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"send chat message on Pumble","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"Pumble send chat message","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"send a pumble message","expected_action_key":"pumble-send-message","expected_app_slug":"pumble","app_name":"Pumble","test_type":"contextual"}
+{"query":"List Messages on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"List Messages in Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"Pumble list messages","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"list all messages on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"show all messages on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"get all messages on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"show me all messages on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"list messages via Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"list messages using Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"list messages with Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"Pumble list all messages","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"Pumble show all messages","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"list msg on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"Pumble list msg","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"list chat message on Pumble","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"Pumble list chat message","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_target"}
+{"query":"list a pumble messages","expected_action_key":"pumble-list-messages","expected_app_slug":"pumble","app_name":"Pumble","test_type":"contextual"}
+{"query":"Create Channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"Create Channel in Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"Pumble create channel","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"action_name"}
+{"query":"create a channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"make a channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"new channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"open a channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"start a channel on Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"canonical"}
+{"query":"create channel via Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"create channel using Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"create channel with Pumble","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"alt_prep"}
+{"query":"Pumble create a channel","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"Pumble make a channel","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"app_first"}
+{"query":"create a pumble channel","expected_action_key":"pumble-create-channel","expected_app_slug":"pumble","app_name":"Pumble","test_type":"contextual"}

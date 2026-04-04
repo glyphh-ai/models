@@ -1,0 +1,20 @@
+{"query":"Create a task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"action_name"}
+{"query":"Create a task in 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"action_name"}
+{"query":"7todos create a task","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"action_name"}
+{"query":"Create a task on Seventodos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"action_name"}
+{"query":"create task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"canonical"}
+{"query":"make a task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"canonical"}
+{"query":"new task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"canonical"}
+{"query":"open a task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"canonical"}
+{"query":"start a task on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"canonical"}
+{"query":"create task in 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_prep"}
+{"query":"create task via 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_prep"}
+{"query":"create task using 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_prep"}
+{"query":"create task with 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_prep"}
+{"query":"7todos create task","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"app_first"}
+{"query":"7todos make a task","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"app_first"}
+{"query":"create story on 7todos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_target"}
+{"query":"7todos create story","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_target"}
+{"query":"create task on Seventodos","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_app_name"}
+{"query":"Seventodos create task","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"alt_app_name"}
+{"query":"create a 7todos task","expected_action_key":"seventodos-create-task","expected_app_slug":"seventodos","app_name":"7todos","test_type":"contextual"}

@@ -1,0 +1,10 @@
+{"query":"Run Code on E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"action_name"}
+{"query":"Run Code in E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"action_name"}
+{"query":"E2B run code","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"action_name"}
+{"query":"trigger code on E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"canonical"}
+{"query":"E2B trigger code","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"app_first"}
+{"query":"execute code on E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"canonical"}
+{"query":"E2B execute code","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"app_first"}
+{"query":"trigger code in E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"alt_prep"}
+{"query":"trigger code via E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"alt_prep"}
+{"query":"trigger code using E2B","expected_action_key":"e2b-run-code","expected_app_slug":"e2b","app_name":"E2B","test_type":"alt_prep"}

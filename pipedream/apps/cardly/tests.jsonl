@@ -1,0 +1,28 @@
+{"query":"Send Card on Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Send Card in Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Cardly send card","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"send a card on Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"Cardly send a card","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"app_first"}
+{"query":"post a card on Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"Cardly post a card","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"app_first"}
+{"query":"send card via Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_prep"}
+{"query":"send card using Cardly","expected_action_key":"cardly-send-card","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_prep"}
+{"query":"Generate Preview on Cardly","expected_action_key":"cardly-generate-preview","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Generate Preview in Cardly","expected_action_key":"cardly-generate-preview","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Cardly generate preview","expected_action_key":"cardly-generate-preview","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Create Contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Create Contact in Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"Cardly create contact","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"action_name"}
+{"query":"create a contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"make a contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"new contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"open a contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"start a contact on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"canonical"}
+{"query":"create contact via Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_prep"}
+{"query":"create contact using Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_prep"}
+{"query":"create contact with Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_prep"}
+{"query":"Cardly create a contact","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"app_first"}
+{"query":"Cardly make a contact","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"app_first"}
+{"query":"create contact record on Cardly","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_target"}
+{"query":"Cardly create contact record","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"alt_target"}
+{"query":"create a cardly contact","expected_action_key":"cardly-create-contact","expected_app_slug":"cardly","app_name":"Cardly","test_type":"contextual"}

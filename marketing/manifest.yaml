@@ -1,0 +1,19 @@
+name: Marketing Intelligence
+description: >-
+  Encodes campaigns, posts, and audiences as HDC glyphs with continuous
+  performance vectors. Semantic search, cross-type matching, and real-time
+  performance tracking via webhooks.
+version: 0.1.0
+author: Glyphh AI
+license: MIT
+icon: "\U0001F4CA"
+category: matching
+public: true
+load_on_startup: false
+tags:
+  - marketing
+  - campaigns
+  - content
+  - audience
+  - analytics
+  - webhooks

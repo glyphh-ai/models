@@ -1,0 +1,48 @@
+{"query":"Update Lead on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Update Lead in Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Close update lead","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"update the lead on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"edit the lead on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"modify the lead on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"change the lead on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"update lead via Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"update lead using Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"update lead with Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"Close update the lead","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"Close edit the lead","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"update contact record on Close","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"Close update contact record","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"update a close lead","expected_action_key":"close-update-lead","expected_app_slug":"close","app_name":"Close","test_type":"contextual"}
+{"query":"Search Leads on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Search Leads in Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Close search leads","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"search for leads on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"find leads on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"look for leads on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"locate leads on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"search for leads in Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"search for leads via Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"search for leads using Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"search for leads with Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"Close search for leads","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"Close find leads","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"Close look for leads","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"search for contact record on Close","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"Close search for contact record","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"search for a close leads","expected_action_key":"close-search-leads","expected_app_slug":"close","app_name":"Close","test_type":"contextual"}
+{"query":"Create Lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Create Lead in Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"Close create lead","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"action_name"}
+{"query":"create a lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"make a lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"new lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"open a lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"start a lead on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"canonical"}
+{"query":"create lead via Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"create lead using Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"create lead with Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_prep"}
+{"query":"Close create a lead","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"Close make a lead","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"app_first"}
+{"query":"create contact record on Close","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"Close create contact record","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"alt_target"}
+{"query":"create a close lead","expected_action_key":"close-create-lead","expected_app_slug":"close","app_name":"Close","test_type":"contextual"}

@@ -1,0 +1,63 @@
+{"query":"Update Contact on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Update Contact in Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Mailjet update contact","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"update the contact on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"edit the contact on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"modify the contact on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"change the contact on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"update contact via Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"update contact using Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"update contact with Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"Mailjet update the contact","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"Mailjet edit the contact","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"update contact record on Mailjet","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"Mailjet update contact record","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"update a mailjet contact","expected_action_key":"mailjet-update-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"contextual"}
+{"query":"Send Message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Send Message in Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Mailjet send message","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"send a message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"post a message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"send out message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"fire off message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"send message via Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"send message using Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"send message with Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"Mailjet send a message","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"Mailjet post a message","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"send msg on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"Mailjet send msg","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"send chat message on Mailjet","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"Mailjet send chat message","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"send a mailjet message","expected_action_key":"mailjet-send-message","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"contextual"}
+{"query":"List Contacts on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"List Contacts in Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Mailjet list contacts","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"list all contacts on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"show all contacts on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"get all contacts on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"show me all contacts on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"list contacts via Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"list contacts using Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"list contacts with Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"Mailjet list all contacts","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"Mailjet show all contacts","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"list contact record on Mailjet","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"Mailjet list contact record","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"list a mailjet contacts","expected_action_key":"mailjet-list-contacts","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"contextual"}
+{"query":"Create Contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Create Contact in Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"Mailjet create contact","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"action_name"}
+{"query":"create a contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"make a contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"new contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"open a contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"start a contact on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"canonical"}
+{"query":"create contact via Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"create contact using Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"create contact with Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_prep"}
+{"query":"Mailjet create a contact","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"Mailjet make a contact","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"app_first"}
+{"query":"create contact record on Mailjet","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"Mailjet create contact record","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"alt_target"}
+{"query":"create a mailjet contact","expected_action_key":"mailjet-create-contact","expected_app_slug":"mailjet","app_name":"Mailjet","test_type":"contextual"}

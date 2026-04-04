@@ -1,0 +1,12 @@
+{"query":"Send an Event to a Channel on Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"action_name"}
+{"query":"Send an Event to a Channel in Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"action_name"}
+{"query":"Pusher send an event to a channel","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"action_name"}
+{"query":"send event channel on Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"canonical"}
+{"query":"Pusher send event channel","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"app_first"}
+{"query":"send a event channel on Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"canonical"}
+{"query":"Pusher send a event channel","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"app_first"}
+{"query":"post a event channel on Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"canonical"}
+{"query":"Pusher post a event channel","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"app_first"}
+{"query":"send event channel in Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"alt_prep"}
+{"query":"send event channel via Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"alt_prep"}
+{"query":"send event channel using Pusher","expected_action_key":"pusher-send-event-to-channel","expected_app_slug":"pusher","app_name":"Pusher","test_type":"alt_prep"}

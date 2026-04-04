@@ -1,0 +1,86 @@
+{"query":"Upsert Row on Neon Postgres","expected_action_key":"neon_postgres-upsert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Upsert Row in Neon Postgres","expected_action_key":"neon_postgres-upsert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres upsert row","expected_action_key":"neon_postgres-upsert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Upsert Row on neon_postgres","expected_action_key":"neon_postgres-upsert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Update Row on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Update Row in Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres update row","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Update Row on neon_postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"update the row on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"edit the row on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"modify the row on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"change the row on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"update row via Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"update row using Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"update row with Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"Neon Postgres update the row","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"Neon Postgres edit the row","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"update entry on Neon Postgres","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"Neon Postgres update entry","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"neon_postgres update row","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"update a neon postgres row","expected_action_key":"neon_postgres-update-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"contextual"}
+{"query":"Insert Row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Insert Row in Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres insert row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Insert Row on neon_postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"create row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"create a row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"make a row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"new row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"open a row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"start a row on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"create row in Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"create row via Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"create row using Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"create row with Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"Neon Postgres create row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"Neon Postgres create a row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"Neon Postgres make a row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"create entry on Neon Postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"Neon Postgres create entry","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"create row on neon_postgres","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"neon_postgres create row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"create a neon postgres row","expected_action_key":"neon_postgres-insert-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"contextual"}
+{"query":"Find Row on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Find Row in Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres find row","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Find Row on neon_postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"search for row on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"look for row on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"search row on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"locate row on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"search for row in Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"search for row via Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"search for row using Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"search for row with Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"Neon Postgres search for row","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"Neon Postgres look for row","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"search for entry on Neon Postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"Neon Postgres search for entry","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_target"}
+{"query":"search for row on neon_postgres","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"neon_postgres search for row","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"search for a neon postgres row","expected_action_key":"neon_postgres-find-row","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"contextual"}
+{"query":"Execute SQL Query on Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Execute SQL Query in Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres execute sql query","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Execute SQL Query on neon_postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"trigger sql query on Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"Neon Postgres trigger sql query","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"run sql query on Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"Neon Postgres run sql query","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"trigger sql query in Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"trigger sql query via Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"trigger sql query using Neon Postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"trigger sql query on neon_postgres","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"neon_postgres trigger sql query","expected_action_key":"neon_postgres-execute-custom-query","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}
+{"query":"Delete Row on Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Delete Row in Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Neon Postgres delete row","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"Delete Row on neon_postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"action_name"}
+{"query":"delete the row on Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"Neon Postgres delete the row","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"remove the row on Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"canonical"}
+{"query":"Neon Postgres remove the row","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"app_first"}
+{"query":"delete row via Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"delete row using Neon Postgres","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_prep"}
+{"query":"neon_postgres delete row","expected_action_key":"neon_postgres-delete-rows","expected_app_slug":"neon_postgres","app_name":"Neon Postgres","test_type":"alt_app_name"}

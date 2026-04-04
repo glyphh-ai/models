@@ -1,0 +1,37 @@
+{"query":"Generate Magic Link on Softr","expected_action_key":"softr-generate-magic-link","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Generate Magic Link in Softr","expected_action_key":"softr-generate-magic-link","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Softr generate magic link","expected_action_key":"softr-generate-magic-link","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Delete User on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Delete User in Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Softr delete user","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"delete the user on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"remove the user on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"destroy the user on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"delete user via Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"delete user using Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"delete user with Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"Softr delete the user","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"app_first"}
+{"query":"Softr remove the user","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"app_first"}
+{"query":"delete member on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"Softr delete member","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"delete person on Softr","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"Softr delete person","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"delete a softr user","expected_action_key":"softr-delete-user","expected_app_slug":"softr","app_name":"Softr","test_type":"contextual"}
+{"query":"Create User on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Create User in Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"Softr create user","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"action_name"}
+{"query":"create a user on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"make a user on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"new user on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"open a user on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"start a user on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"canonical"}
+{"query":"create user via Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"create user using Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"create user with Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_prep"}
+{"query":"Softr create a user","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"app_first"}
+{"query":"Softr make a user","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"app_first"}
+{"query":"create member on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"Softr create member","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"create person on Softr","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"Softr create person","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"alt_target"}
+{"query":"create a softr user","expected_action_key":"softr-create-user","expected_app_slug":"softr","app_name":"Softr","test_type":"contextual"}

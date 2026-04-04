@@ -1,0 +1,31 @@
+{"query":"Update Customer on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"Update Customer in Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"Formaloo update customer","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"update the customer on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"edit the customer on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"modify the customer on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"change the customer on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"update customer via Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"update customer using Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"update customer with Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"Formaloo update the customer","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"app_first"}
+{"query":"Formaloo edit the customer","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"app_first"}
+{"query":"update account on Formaloo","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_target"}
+{"query":"Formaloo update account","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_target"}
+{"query":"update a formaloo customer","expected_action_key":"formaloo-update-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"contextual"}
+{"query":"Create Customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"Create Customer in Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"Formaloo create customer","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"action_name"}
+{"query":"create a customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"make a customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"new customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"open a customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"start a customer on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"canonical"}
+{"query":"create customer via Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"create customer using Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"create customer with Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_prep"}
+{"query":"Formaloo create a customer","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"app_first"}
+{"query":"Formaloo make a customer","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"app_first"}
+{"query":"create account on Formaloo","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_target"}
+{"query":"Formaloo create account","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"alt_target"}
+{"query":"create a formaloo customer","expected_action_key":"formaloo-create-customer","expected_app_slug":"formaloo","app_name":"Formaloo","test_type":"contextual"}

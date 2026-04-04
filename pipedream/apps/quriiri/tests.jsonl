@@ -1,0 +1,17 @@
+{"query":"Send Message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"action_name"}
+{"query":"Send Message in Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"action_name"}
+{"query":"Quriiri send message","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"action_name"}
+{"query":"send a message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"canonical"}
+{"query":"post a message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"canonical"}
+{"query":"send out message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"canonical"}
+{"query":"fire off message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"canonical"}
+{"query":"send message via Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_prep"}
+{"query":"send message using Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_prep"}
+{"query":"send message with Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_prep"}
+{"query":"Quriiri send a message","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"app_first"}
+{"query":"Quriiri post a message","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"app_first"}
+{"query":"send msg on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_target"}
+{"query":"Quriiri send msg","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_target"}
+{"query":"send chat message on Quriiri","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_target"}
+{"query":"Quriiri send chat message","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"alt_target"}
+{"query":"send a quriiri message","expected_action_key":"quriiri-send-message","expected_app_slug":"quriiri","app_name":"Quriiri","test_type":"contextual"}

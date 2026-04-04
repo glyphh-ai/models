@@ -1,0 +1,9 @@
+{"query":"Get User Info on PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"action_name"}
+{"query":"Get User Info in PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"action_name"}
+{"query":"PayPal get user info","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"action_name"}
+{"query":"get the user info on PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"canonical"}
+{"query":"PayPal get the user info","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"app_first"}
+{"query":"retrieve user info on PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"canonical"}
+{"query":"PayPal retrieve user info","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"app_first"}
+{"query":"get user info via PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"alt_prep"}
+{"query":"get user info using PayPal","expected_action_key":"paypal-get-user-info","expected_app_slug":"paypal","app_name":"PayPal","test_type":"alt_prep"}

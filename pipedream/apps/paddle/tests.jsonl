@@ -1,0 +1,48 @@
+{"query":"Update Customer on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Update Customer in Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Paddle update customer","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"update the customer on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"edit the customer on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"modify the customer on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"change the customer on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"update customer via Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"update customer using Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"update customer with Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"Paddle update the customer","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"Paddle edit the customer","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"update account on Paddle","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"Paddle update account","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"update a paddle customer","expected_action_key":"paddle-update-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"contextual"}
+{"query":"Get Customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Get Customers in Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Paddle get customers","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"get the customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"retrieve customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"fetch customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"show me the customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"pull customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"check customers on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"get customers via Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"get customers using Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"get customers with Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"Paddle get the customers","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"Paddle retrieve customers","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"get account on Paddle","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"Paddle get account","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"get a paddle customers","expected_action_key":"paddle-get-customers","expected_app_slug":"paddle","app_name":"Paddle","test_type":"contextual"}
+{"query":"Create Customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Create Customer in Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"Paddle create customer","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"action_name"}
+{"query":"create a customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"make a customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"new customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"open a customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"start a customer on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"canonical"}
+{"query":"create customer via Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"create customer using Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"create customer with Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_prep"}
+{"query":"Paddle create a customer","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"Paddle make a customer","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"app_first"}
+{"query":"create account on Paddle","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"Paddle create account","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"alt_target"}
+{"query":"create a paddle customer","expected_action_key":"paddle-create-customer","expected_app_slug":"paddle","app_name":"Paddle","test_type":"contextual"}

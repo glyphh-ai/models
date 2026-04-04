@@ -1,0 +1,109 @@
+{"query":"List Trending NFTs on CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"List Trending NFTs in CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko list trending nfts","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"list all trending nfts on CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko list all trending nfts","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"show all trending nfts on CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko show all trending nfts","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"list trending nfts via CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list trending nfts using CoinGecko","expected_action_key":"coingecko-list-trending-nfts","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"List Trending Coins on CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"List Trending Coins in CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko list trending coins","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"list all trending coins on CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko list all trending coins","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"show all trending coins on CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko show all trending coins","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"list trending coins via CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list trending coins using CoinGecko","expected_action_key":"coingecko-list-trending-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"List Markets on CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"List Markets in CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko list markets","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"list all markets on CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko list all markets","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"show all markets on CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko show all markets","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"list markets via CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list markets using CoinGecko","expected_action_key":"coingecko-list-markets","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"List Coins on CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"List Coins in CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko list coins","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"list all coins on CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"show all coins on CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"get all coins on CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"show me all coins on CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"list coins via CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list coins using CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list coins with CoinGecko","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"CoinGecko list all coins","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"CoinGecko show all coins","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"list a coingecko coins","expected_action_key":"coingecko-list-coins","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"contextual"}
+{"query":"List Coin Tickers on CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"List Coin Tickers in CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko list coin tickers","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"list all coin tickers on CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko list all coin tickers","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"show all coin tickers on CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko show all coin tickers","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"list coin tickers via CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"list coin tickers using CoinGecko","expected_action_key":"coingecko-list-coin-tickers","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"Get Global Market on CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Global Market in CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get global market","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the global market on CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko get the global market","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"retrieve global market on CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko retrieve global market","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get global market via CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get global market using CoinGecko","expected_action_key":"coingecko-get-global-market","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"Get Global DeFi Market Overview on CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Global DeFi Market Overview in CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get global defi market overview","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the global defi market overview on CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko get the global defi market overview","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"retrieve global defi market overview on CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko retrieve global defi market overview","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get global defi market overview via CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get global defi market overview using CoinGecko","expected_action_key":"coingecko-get-global-defi-market-overview","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"Get Exchange Rates on CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Exchange Rates in CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get exchange rates","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the exchange rates on CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko get the exchange rates","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"retrieve exchange rates on CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko retrieve exchange rates","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get exchange rates via CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get exchange rates using CoinGecko","expected_action_key":"coingecko-get-exchange-rates","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"Get Coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Coin in CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get coin","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"retrieve coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"fetch coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"show me the coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"pull coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"check coin on CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"get coin via CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get coin using CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get coin with CoinGecko","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"CoinGecko get the coin","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"CoinGecko retrieve coin","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get a coingecko coin","expected_action_key":"coingecko-get-coin","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"contextual"}
+{"query":"Get Coin Value on CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Coin Value in CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get coin value","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the coin value on CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko get the coin value","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"retrieve coin value on CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko retrieve coin value","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get coin value via CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get coin value using CoinGecko","expected_action_key":"coingecko-get-coin-value","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"Get Coin History on CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"Get Coin History in CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"CoinGecko get coin history","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"action_name"}
+{"query":"get the coin history on CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko get the coin history","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"retrieve coin history on CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"canonical"}
+{"query":"CoinGecko retrieve coin history","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"app_first"}
+{"query":"get coin history via CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}
+{"query":"get coin history using CoinGecko","expected_action_key":"coingecko-get-coin-history","expected_app_slug":"coingecko","app_name":"CoinGecko","test_type":"alt_prep"}

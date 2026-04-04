@@ -1,0 +1,46 @@
+{"query":"Update Box on Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Update Box in Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Streak update box","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"update the box on Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak update the box","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"edit the box on Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak edit the box","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"update box via Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"update box using Streak","expected_action_key":"streak-update-box","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"Update Box Field Value on Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Update Box Field Value in Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Streak update box field value","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"update the box field value on Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak update the box field value","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"edit the box field value on Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak edit the box field value","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"update box field value via Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"update box field value using Streak","expected_action_key":"streak-update-box-field-value","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"Link Boxes on Streak","expected_action_key":"streak-link-boxes","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Link Boxes in Streak","expected_action_key":"streak-link-boxes","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Streak link boxes","expected_action_key":"streak-link-boxes","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Create Task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Create Task in Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Streak create task","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"create a task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"make a task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"new task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"open a task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"start a task on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"create task via Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"create task using Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"create task with Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"Streak create a task","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"Streak make a task","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"create story on Streak","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_target"}
+{"query":"Streak create story","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_target"}
+{"query":"create a streak task","expected_action_key":"streak-create-task","expected_app_slug":"streak","app_name":"Streak","test_type":"contextual"}
+{"query":"Create Box on Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Create Box in Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"Streak create box","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"action_name"}
+{"query":"create a box on Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak create a box","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"make a box on Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"canonical"}
+{"query":"Streak make a box","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"app_first"}
+{"query":"create box via Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}
+{"query":"create box using Streak","expected_action_key":"streak-create-box","expected_app_slug":"streak","app_name":"Streak","test_type":"alt_prep"}

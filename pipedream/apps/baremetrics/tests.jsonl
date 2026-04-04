@@ -1,0 +1,61 @@
+{"query":"Update Customer on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Update Customer in Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Baremetrics update customer","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"update the customer on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"edit the customer on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"modify the customer on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"change the customer on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"update customer via Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"update customer using Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"update customer with Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"Baremetrics update the customer","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"Baremetrics edit the customer","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"update account on Baremetrics","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"Baremetrics update account","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"update a baremetrics customer","expected_action_key":"baremetrics-update-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"contextual"}
+{"query":"Create Subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Create Subscription in Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Baremetrics create subscription","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"create a subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"make a subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"new subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"open a subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"start a subscription on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"create subscription via Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create subscription using Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create subscription with Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"Baremetrics create a subscription","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"Baremetrics make a subscription","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"create plan on Baremetrics","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"Baremetrics create plan","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"create a baremetrics subscription","expected_action_key":"baremetrics-create-subscription","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"contextual"}
+{"query":"Create Plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Create Plan in Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Baremetrics create plan","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"create a plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"make a plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"new plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"open a plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"start a plan on Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"create plan via Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create plan using Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create plan with Baremetrics","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"Baremetrics create a plan","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"Baremetrics make a plan","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"create a baremetrics plan","expected_action_key":"baremetrics-create-plan","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"contextual"}
+{"query":"Create Customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Create Customer in Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"Baremetrics create customer","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"action_name"}
+{"query":"create a customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"make a customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"new customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"open a customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"start a customer on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"canonical"}
+{"query":"create customer via Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create customer using Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"create customer with Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_prep"}
+{"query":"Baremetrics create a customer","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"Baremetrics make a customer","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"app_first"}
+{"query":"create account on Baremetrics","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"Baremetrics create account","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"alt_target"}
+{"query":"create a baremetrics customer","expected_action_key":"baremetrics-create-customer","expected_app_slug":"baremetrics","app_name":"Baremetrics","test_type":"contextual"}

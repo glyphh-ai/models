@@ -1,0 +1,18 @@
+{"query":"List Runs on Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"List Runs in Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"Terraform list runs","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"list all runs on Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"canonical"}
+{"query":"Terraform list all runs","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"app_first"}
+{"query":"show all runs on Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"canonical"}
+{"query":"Terraform show all runs","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"app_first"}
+{"query":"list runs via Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"alt_prep"}
+{"query":"list runs using Terraform","expected_action_key":"terraform-list-runs","expected_app_slug":"terraform","app_name":"Terraform","test_type":"alt_prep"}
+{"query":"Create Run on Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"Create Run in Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"Terraform create run","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"action_name"}
+{"query":"create a run on Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"canonical"}
+{"query":"Terraform create a run","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"app_first"}
+{"query":"make a run on Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"canonical"}
+{"query":"Terraform make a run","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"app_first"}
+{"query":"create run via Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"alt_prep"}
+{"query":"create run using Terraform","expected_action_key":"terraform-create-run","expected_app_slug":"terraform","app_name":"Terraform","test_type":"alt_prep"}

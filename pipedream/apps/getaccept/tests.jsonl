@@ -1,0 +1,39 @@
+{"query":"Send Reminder on GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"Send Reminder in GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"GetAccept send reminder","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"send a reminder on GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"GetAccept send a reminder","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"post a reminder on GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"GetAccept post a reminder","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"send reminder via GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"send reminder using GetAccept","expected_action_key":"getaccept-send-reminder","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"Create Document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"Create Document in GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"GetAccept create document","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"create a document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"make a document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"new document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"open a document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"start a document on GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"create document via GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"create document using GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"create document with GetAccept","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"GetAccept create a document","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"GetAccept make a document","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"create a getaccept document","expected_action_key":"getaccept-create-document","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"contextual"}
+{"query":"Create Contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"Create Contact in GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"GetAccept create contact","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"action_name"}
+{"query":"create a contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"make a contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"new contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"open a contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"start a contact on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"canonical"}
+{"query":"create contact via GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"create contact using GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"create contact with GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_prep"}
+{"query":"GetAccept create a contact","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"GetAccept make a contact","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"app_first"}
+{"query":"create contact record on GetAccept","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_target"}
+{"query":"GetAccept create contact record","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"alt_target"}
+{"query":"create a getaccept contact","expected_action_key":"getaccept-create-contact","expected_app_slug":"getaccept","app_name":"GetAccept","test_type":"contextual"}

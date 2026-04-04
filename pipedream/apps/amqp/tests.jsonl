@@ -1,0 +1,18 @@
+{"query":"Send a Message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"action_name"}
+{"query":"Send a Message in AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"action_name"}
+{"query":"AMQP send a message","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"action_name"}
+{"query":"send message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"canonical"}
+{"query":"post a message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"canonical"}
+{"query":"send out message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"canonical"}
+{"query":"fire off message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"canonical"}
+{"query":"send message in AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_prep"}
+{"query":"send message via AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_prep"}
+{"query":"send message using AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_prep"}
+{"query":"send message with AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_prep"}
+{"query":"AMQP send message","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"app_first"}
+{"query":"AMQP post a message","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"app_first"}
+{"query":"send msg on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_target"}
+{"query":"AMQP send msg","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_target"}
+{"query":"send chat message on AMQP","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_target"}
+{"query":"AMQP send chat message","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"alt_target"}
+{"query":"send a amqp message","expected_action_key":"amqp-send-message","expected_app_slug":"amqp","app_name":"AMQP","test_type":"contextual"}

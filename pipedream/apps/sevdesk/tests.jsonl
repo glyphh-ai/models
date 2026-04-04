@@ -1,0 +1,86 @@
+{"query":"Send Invoice Email on sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Send Invoice Email in sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk send invoice email","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"send a invoice email on sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"sevDesk send a invoice email","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"post a invoice email on sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"sevDesk post a invoice email","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"send invoice email via sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"send invoice email using sevDesk","expected_action_key":"sevdesk-send-invoice-email","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"Get Invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Get Invoices in sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk get invoices","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"get the invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"retrieve invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"fetch invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"show me the invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"pull invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"check invoices on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"get invoices via sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"get invoices using sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"get invoices with sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"sevDesk get the invoices","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"sevDesk retrieve invoices","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"get bill on sevDesk","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"sevDesk get bill","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"get a sevdesk invoices","expected_action_key":"sevdesk-get-invoices","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"contextual"}
+{"query":"Get Invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Get Invoice in sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk get invoice","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"get the invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"retrieve invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"fetch invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"show me the invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"pull invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"check invoice on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"get invoice via sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"get invoice using sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"get invoice with sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"sevDesk get the invoice","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"sevDesk retrieve invoice","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"get bill on sevDesk","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"sevDesk get bill","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"get a sevdesk invoice","expected_action_key":"sevdesk-get-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"contextual"}
+{"query":"Create Invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Create Invoice in sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk create invoice","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"create a invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"make a invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"new invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"open a invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"start a invoice on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"create invoice via sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"create invoice using sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"create invoice with sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"sevDesk create a invoice","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"sevDesk make a invoice","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"create bill on sevDesk","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"sevDesk create bill","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"create a sevdesk invoice","expected_action_key":"sevdesk-create-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"contextual"}
+{"query":"Create Contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Create Contact in sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk create contact","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"create a contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"make a contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"new contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"open a contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"start a contact on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"create contact via sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"create contact using sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"create contact with sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"sevDesk create a contact","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"sevDesk make a contact","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"create contact record on sevDesk","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"sevDesk create contact record","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"create a sevdesk contact","expected_action_key":"sevdesk-create-contact","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"contextual"}
+{"query":"Cancel Invoice on sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"Cancel Invoice in sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"sevDesk cancel invoice","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"action_name"}
+{"query":"cancel the invoice on sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"canonical"}
+{"query":"cancel invoice via sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"cancel invoice using sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"cancel invoice with sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_prep"}
+{"query":"sevDesk cancel the invoice","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"app_first"}
+{"query":"cancel bill on sevDesk","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"sevDesk cancel bill","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"alt_target"}
+{"query":"cancel a sevdesk invoice","expected_action_key":"sevdesk-cancel-invoice","expected_app_slug":"sevdesk","app_name":"sevDesk","test_type":"contextual"}

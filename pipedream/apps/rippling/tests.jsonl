@@ -1,0 +1,46 @@
+{"query":"List Workers on Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"List Workers in Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"Rippling list workers","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"list all workers on Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling list all workers","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"show all workers on Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling show all workers","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"list workers via Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"list workers using Rippling","expected_action_key":"rippling-list-workers","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"List Teams on Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"List Teams in Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"Rippling list teams","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"list all teams on Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling list all teams","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"show all teams on Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling show all teams","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"list teams via Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"list teams using Rippling","expected_action_key":"rippling-list-teams","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"List Companies on Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"List Companies in Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"Rippling list companies","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"list all companies on Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling list all companies","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"show all companies on Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"Rippling show all companies","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"list companies via Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"list companies using Rippling","expected_action_key":"rippling-list-companies","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"Get User on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"Get User in Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"Rippling get user","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"action_name"}
+{"query":"get the user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"retrieve user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"fetch user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"show me the user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"pull user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"check user on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"canonical"}
+{"query":"get user via Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"get user using Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"get user with Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_prep"}
+{"query":"Rippling get the user","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"Rippling retrieve user","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"app_first"}
+{"query":"get member on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_target"}
+{"query":"Rippling get member","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_target"}
+{"query":"get person on Rippling","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_target"}
+{"query":"Rippling get person","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"alt_target"}
+{"query":"get a rippling user","expected_action_key":"rippling-get-user","expected_app_slug":"rippling","app_name":"Rippling","test_type":"contextual"}

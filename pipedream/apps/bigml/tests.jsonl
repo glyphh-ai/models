@@ -1,0 +1,18 @@
+{"query":"Create Source on BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"Create Source in BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"BigML create source","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"create a source on BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"canonical"}
+{"query":"BigML create a source","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"app_first"}
+{"query":"make a source on BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"canonical"}
+{"query":"BigML make a source","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"app_first"}
+{"query":"create source via BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"alt_prep"}
+{"query":"create source using BigML","expected_action_key":"bigml-create-source-remote-url","expected_app_slug":"bigml","app_name":"BigML","test_type":"alt_prep"}
+{"query":"Create Model on BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"Create Model in BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"BigML create model","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"action_name"}
+{"query":"create a model on BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"canonical"}
+{"query":"BigML create a model","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"app_first"}
+{"query":"make a model on BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"canonical"}
+{"query":"BigML make a model","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"app_first"}
+{"query":"create model via BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"alt_prep"}
+{"query":"create model using BigML","expected_action_key":"bigml-create-model","expected_app_slug":"bigml","app_name":"BigML","test_type":"alt_prep"}

@@ -1,0 +1,53 @@
+{"query":"Submit Additional Payment Details on Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Submit Additional Payment Details in Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Adyen submit additional payment details","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"add additional payment details on Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"Adyen add additional payment details","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"add a additional payment details on Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"Adyen add a additional payment details","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"add new additional payment details on Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"Adyen add new additional payment details","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"add additional payment details in Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"add additional payment details via Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"add additional payment details using Adyen","expected_action_key":"adyen-submit-details","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"Refund Payment on Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Refund Payment in Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Adyen refund payment","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"refund the payment on Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"refund payment via Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"refund payment using Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"refund payment with Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"Adyen refund the payment","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"refund charge on Adyen","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"Adyen refund charge","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"refund a adyen payment","expected_action_key":"adyen-refund-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"contextual"}
+{"query":"Create Payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Create Payment in Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Adyen create payment","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"create a payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"make a payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"new payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"open a payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"start a payment on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"create payment via Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"create payment using Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"create payment with Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"Adyen create a payment","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"Adyen make a payment","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"create charge on Adyen","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"Adyen create charge","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"create a adyen payment","expected_action_key":"adyen-create-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"contextual"}
+{"query":"Capture Payment on Adyen","expected_action_key":"adyen-capture-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Capture Payment in Adyen","expected_action_key":"adyen-capture-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Adyen capture payment","expected_action_key":"adyen-capture-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Cancel Payment on Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Cancel Payment in Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"Adyen cancel payment","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"action_name"}
+{"query":"cancel the payment on Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"canonical"}
+{"query":"cancel payment via Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"cancel payment using Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"cancel payment with Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_prep"}
+{"query":"Adyen cancel the payment","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"app_first"}
+{"query":"cancel charge on Adyen","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"Adyen cancel charge","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"alt_target"}
+{"query":"cancel a adyen payment","expected_action_key":"adyen-cancel-payment","expected_app_slug":"adyen","app_name":"Adyen","test_type":"contextual"}

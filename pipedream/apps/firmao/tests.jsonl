@@ -1,0 +1,56 @@
+{"query":"List Tasks on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"List Tasks in Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Firmao list tasks","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"list all tasks on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"show all tasks on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"get all tasks on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"show me all tasks on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"list tasks via Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"list tasks using Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"list tasks with Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"Firmao list all tasks","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"Firmao show all tasks","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"list story on Firmao","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"Firmao list story","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"list a firmao tasks","expected_action_key":"firmao-list-tasks","expected_app_slug":"firmao","app_name":"Firmao","test_type":"contextual"}
+{"query":"Create Task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Create Task in Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Firmao create task","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"create a task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"make a task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"new task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"open a task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"start a task on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"create task via Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"create task using Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"create task with Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"Firmao create a task","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"Firmao make a task","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"create story on Firmao","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"Firmao create story","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"create a firmao task","expected_action_key":"firmao-create-task","expected_app_slug":"firmao","app_name":"Firmao","test_type":"contextual"}
+{"query":"Create Offer on Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Create Offer in Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Firmao create offer","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"create a offer on Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"Firmao create a offer","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"make a offer on Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"Firmao make a offer","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"create offer via Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"create offer using Firmao","expected_action_key":"firmao-create-offer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"Create Customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Create Customer in Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"Firmao create customer","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"action_name"}
+{"query":"create a customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"make a customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"new customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"open a customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"start a customer on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"canonical"}
+{"query":"create customer via Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"create customer using Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"create customer with Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_prep"}
+{"query":"Firmao create a customer","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"Firmao make a customer","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"app_first"}
+{"query":"create account on Firmao","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"Firmao create account","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"alt_target"}
+{"query":"create a firmao customer","expected_action_key":"firmao-create-customer","expected_app_slug":"firmao","app_name":"Firmao","test_type":"contextual"}

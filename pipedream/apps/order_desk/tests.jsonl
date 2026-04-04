@@ -1,0 +1,65 @@
+{"query":"Update Order on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Update Order in Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Order Desk update order","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Update Order on order_desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"update the order on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"edit the order on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"modify the order on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"change the order on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"update order via Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"update order using Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"update order with Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"Order Desk update the order","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"Order Desk edit the order","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"update purchase on Order Desk","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"Order Desk update purchase","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"order_desk update order","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_app_name"}
+{"query":"update a order desk order","expected_action_key":"order_desk-update-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"contextual"}
+{"query":"List Orders on Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"List Orders in Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Order Desk list orders","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"List Orders on order_desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"list all orders on Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"Order Desk list all orders","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"show all orders on Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"Order Desk show all orders","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"list orders via Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"list orders using Order Desk","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"order_desk list orders","expected_action_key":"order_desk-list-orders","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_app_name"}
+{"query":"Find Order on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Find Order in Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Order Desk find order","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Find Order on order_desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"search for order on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"look for order on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"search order on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"locate order on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"search for order in Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"search for order via Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"search for order using Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"search for order with Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"Order Desk search for order","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"Order Desk look for order","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"search for purchase on Order Desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"Order Desk search for purchase","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"search for order on order_desk","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_app_name"}
+{"query":"order_desk search for order","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_app_name"}
+{"query":"search for a order desk order","expected_action_key":"order_desk-find-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"contextual"}
+{"query":"Create Order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Create Order in Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Order Desk create order","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"Create Order on order_desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"action_name"}
+{"query":"create a order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"make a order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"new order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"open a order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"start a order on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"canonical"}
+{"query":"create order via Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"create order using Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"create order with Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_prep"}
+{"query":"Order Desk create a order","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"Order Desk make a order","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"app_first"}
+{"query":"create purchase on Order Desk","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"Order Desk create purchase","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_target"}
+{"query":"order_desk create order","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"alt_app_name"}
+{"query":"create a order desk order","expected_action_key":"order_desk-create-order","expected_app_slug":"order_desk","app_name":"Order Desk","test_type":"contextual"}

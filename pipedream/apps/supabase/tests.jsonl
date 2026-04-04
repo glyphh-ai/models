@@ -1,0 +1,60 @@
+{"query":"Upsert Row on Supabase","expected_action_key":"supabase-upsert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Upsert Row in Supabase","expected_action_key":"supabase-upsert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase upsert row","expected_action_key":"supabase-upsert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Update Row on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Update Row in Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase update row","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"update the row on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"edit the row on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"modify the row on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"change the row on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"update row via Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"update row using Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"update row with Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"Supabase update the row","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"Supabase edit the row","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"update entry on Supabase","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"Supabase update entry","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"update a supabase row","expected_action_key":"supabase-update-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"contextual"}
+{"query":"Select Row on Supabase","expected_action_key":"supabase-select-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Select Row in Supabase","expected_action_key":"supabase-select-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase select row","expected_action_key":"supabase-select-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Remote Procedure Call on Supabase","expected_action_key":"supabase-remote-procedure-call","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Remote Procedure Call in Supabase","expected_action_key":"supabase-remote-procedure-call","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase remote procedure call","expected_action_key":"supabase-remote-procedure-call","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Insert Row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Insert Row in Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase insert row","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"create row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"create a row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"make a row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"new row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"open a row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"start a row on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"create row in Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"create row via Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"create row using Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"create row with Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"Supabase create row","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"Supabase create a row","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"Supabase make a row","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"create entry on Supabase","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"Supabase create entry","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"create a supabase row","expected_action_key":"supabase-insert-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"contextual"}
+{"query":"Delete Row on Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Delete Row in Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase delete row","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"delete the row on Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"remove the row on Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"destroy the row on Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"canonical"}
+{"query":"delete row via Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"delete row using Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"delete row with Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_prep"}
+{"query":"Supabase delete the row","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"Supabase remove the row","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"app_first"}
+{"query":"delete entry on Supabase","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"Supabase delete entry","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"alt_target"}
+{"query":"delete a supabase row","expected_action_key":"supabase-delete-row","expected_app_slug":"supabase","app_name":"Supabase","test_type":"contextual"}
+{"query":"Count Rows on Supabase","expected_action_key":"supabase-count-rows","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Count Rows in Supabase","expected_action_key":"supabase-count-rows","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}
+{"query":"Supabase count rows","expected_action_key":"supabase-count-rows","expected_app_slug":"supabase","app_name":"Supabase","test_type":"action_name"}

@@ -1,0 +1,43 @@
+{"query":"Create User on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"Create User in ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"ClickTime create user","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"create a user on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"make a user on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"new user on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"open a user on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"start a user on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"create user via ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"create user using ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"create user with ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"ClickTime create a user","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"ClickTime make a user","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"create member on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"ClickTime create member","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"create person on ClickTime","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"ClickTime create person","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"create a clicktime user","expected_action_key":"clicktime-create-user","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"contextual"}
+{"query":"Create Job on ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"Create Job in ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"ClickTime create job","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"create a job on ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"ClickTime create a job","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"make a job on ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"ClickTime make a job","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"create job via ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"create job using ClickTime","expected_action_key":"clicktime-create-job","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"Create Client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"Create Client in ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"ClickTime create client","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"action_name"}
+{"query":"create a client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"make a client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"new client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"open a client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"start a client on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"canonical"}
+{"query":"create client via ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"create client using ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"create client with ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_prep"}
+{"query":"ClickTime create a client","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"ClickTime make a client","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"app_first"}
+{"query":"create account on ClickTime","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"ClickTime create account","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"alt_target"}
+{"query":"create a clicktime client","expected_action_key":"clicktime-create-client","expected_app_slug":"clicktime","app_name":"ClickTime","test_type":"contextual"}

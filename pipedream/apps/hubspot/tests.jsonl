@@ -1,0 +1,664 @@
+{"query":"Search CRM on HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Search CRM in HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot search crm","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"search for crm on HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot search for crm","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"find crm on HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot find crm","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"look for crm on HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot look for crm","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"search for crm in HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"search for crm via HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"search for crm using HubSpot","expected_action_key":"hubspot-search-crm","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Update Page on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Page in HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update page","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the page on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"edit the page on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"modify the page on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"change the page on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"update page via HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update page using HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update page with HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot update the page","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot edit the page","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update document on HubSpot","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot update document","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"update a hubspot page","expected_action_key":"hubspot-update-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Update Lead on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Lead in HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update lead","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the lead on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"edit the lead on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"modify the lead on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"change the lead on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"update lead via HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update lead using HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update lead with HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot update the lead","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot edit the lead","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update contact record on HubSpot","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot update contact record","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"update a hubspot lead","expected_action_key":"hubspot-update-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Update Landing Page on HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Landing Page in HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update landing page","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the landing page on HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot update the landing page","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"edit the landing page on HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot edit the landing page","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update landing page via HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update landing page using HubSpot","expected_action_key":"hubspot-update-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Update Fields on the Form on HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Fields on the Form in HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update fields on the form","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update fields form on HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot update fields form","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update the fields form on HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot update the fields form","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"edit the fields form on HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot edit the fields form","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update fields form in HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update fields form via HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update fields form using HubSpot","expected_action_key":"hubspot-update-fields-on-the-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Update Deal on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Deal in HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update deal","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the deal on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"edit the deal on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"modify the deal on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"change the deal on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"update deal via HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update deal using HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update deal with HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot update the deal","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot edit the deal","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update opportunity on HubSpot","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot update opportunity","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"update a hubspot deal","expected_action_key":"hubspot-update-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Update Contact on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Contact in HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update contact","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the contact on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"edit the contact on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"modify the contact on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"change the contact on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"update contact via HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update contact using HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update contact with HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot update the contact","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot edit the contact","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update contact record on HubSpot","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot update contact record","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"update a hubspot contact","expected_action_key":"hubspot-update-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Update Company on HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Update Company in HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot update company","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"update the company on HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot update the company","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"edit the company on HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot edit the company","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"update company via HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"update company using HubSpot","expected_action_key":"hubspot-update-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Send Message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Send Message in HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot send message","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"send a message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"post a message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"send out message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fire off message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"send message via HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"send message using HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"send message with HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot send a message","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot post a message","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"send msg on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot send msg","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"send chat message on HubSpot","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot send chat message","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"send a hubspot message","expected_action_key":"hubspot-send-message","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Retrieve Workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Retrieve Workflows in HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot retrieve workflows","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get the workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check workflows on HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get workflows in HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflows via HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflows using HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflows with HubSpot","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get workflows","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot get the workflows","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get a hubspot workflows","expected_action_key":"hubspot-retrieve-workflows","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Retrieve Workflow Emails on HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Retrieve Workflow Emails in HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot retrieve workflow emails","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get workflow emails on HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get workflow emails","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get the workflow emails on HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the workflow emails","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get workflow emails in HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflow emails via HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflow emails using HubSpot","expected_action_key":"hubspot-retrieve-workflow-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Retrieve Workflow Details on HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Retrieve Workflow Details in HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot retrieve workflow details","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get workflow details on HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get workflow details","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get the workflow details on HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the workflow details","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get workflow details in HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflow details via HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get workflow details using HubSpot","expected_action_key":"hubspot-retrieve-workflow-details","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Retrieve Migrated Workflow Mappings on HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Retrieve Migrated Workflow Mappings in HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot retrieve migrated workflow mappings","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get migrated workflow mappings on HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get migrated workflow mappings","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get the migrated workflow mappings on HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the migrated workflow mappings","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get migrated workflow mappings in HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get migrated workflow mappings via HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get migrated workflow mappings using HubSpot","expected_action_key":"hubspot-retrieve-migrated-workflow-mappings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Threads on HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Threads in HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list threads","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all threads on HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show all threads on HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get all threads on HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me all threads on HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"list threads via HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list threads using HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list threads with HubSpot","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot list all threads","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot show all threads","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list a hubspot threads","expected_action_key":"hubspot-list-threads","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"List Templates on HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Templates in HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list templates","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all templates on HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show all templates on HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get all templates on HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me all templates on HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"list templates via HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list templates using HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list templates with HubSpot","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot list all templates","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot show all templates","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list a hubspot templates","expected_action_key":"hubspot-list-templates","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"List Pages on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Pages in HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list pages","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all pages on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show all pages on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get all pages on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me all pages on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"list pages via HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list pages using HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list pages with HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot list all pages","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot show all pages","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list document on HubSpot","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot list document","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"list a hubspot pages","expected_action_key":"hubspot-list-pages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"List Messages on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Messages in HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list messages","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all messages on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show all messages on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get all messages on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me all messages on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"list messages via HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list messages using HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list messages with HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot list all messages","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot show all messages","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list msg on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot list msg","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"list chat message on HubSpot","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot list chat message","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"list a hubspot messages","expected_action_key":"hubspot-list-messages","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"List Marketing Events on HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Marketing Events in HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list marketing events","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all marketing events on HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all marketing events","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all marketing events on HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all marketing events","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list marketing events via HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list marketing events using HubSpot","expected_action_key":"hubspot-list-marketing-events","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Marketing Emails on HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Marketing Emails in HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list marketing emails","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all marketing emails on HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all marketing emails","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all marketing emails on HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all marketing emails","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list marketing emails via HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list marketing emails using HubSpot","expected_action_key":"hubspot-list-marketing-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Inboxes on HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Inboxes in HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list inboxes","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all inboxes on HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all inboxes","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all inboxes on HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all inboxes","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list inboxes via HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list inboxes using HubSpot","expected_action_key":"hubspot-list-inboxes","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Forms on HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Forms in HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list forms","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all forms on HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all forms","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all forms on HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all forms","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list forms via HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list forms using HubSpot","expected_action_key":"hubspot-list-forms","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Channels on HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Channels in HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list channels","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all channels on HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show all channels on HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get all channels on HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me all channels on HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"list channels via HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list channels using HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list channels with HubSpot","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot list all channels","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot show all channels","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list a hubspot channels","expected_action_key":"hubspot-list-channels","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"List Campaigns on HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Campaigns in HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list campaigns","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all campaigns on HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all campaigns","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all campaigns on HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all campaigns","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list campaigns via HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list campaigns using HubSpot","expected_action_key":"hubspot-list-campaigns","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"List Blog Posts on HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"List Blog Posts in HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot list blog posts","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"list all blog posts on HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot list all blog posts","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"show all blog posts on HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot show all blog posts","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"list blog posts via HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"list blog posts using HubSpot","expected_action_key":"hubspot-list-blog-posts","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Get Subscription Preferences on HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Subscription Preferences in HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get subscription preferences","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the subscription preferences on HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the subscription preferences","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"retrieve subscription preferences on HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot retrieve subscription preferences","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get subscription preferences via HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get subscription preferences using HubSpot","expected_action_key":"hubspot-get-subscription-preferences","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Get Meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Meeting in HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get meeting","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"retrieve meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check meeting on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get meeting via HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get meeting using HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get meeting with HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get the meeting","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot retrieve meeting","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get calendar event on HubSpot","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot get calendar event","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"get a hubspot meeting","expected_action_key":"hubspot-get-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Get Inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Inbox in HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get inbox","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"retrieve inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check inbox on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get inbox via HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get inbox using HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get inbox with HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get the inbox","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot retrieve inbox","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get mail on HubSpot","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot get mail","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"get a hubspot inbox","expected_action_key":"hubspot-get-inbox","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Get File Public URL on HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get File Public URL in HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get file public url","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the file public url on HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the file public url","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"retrieve file public url on HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot retrieve file public url","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get file public url via HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get file public url using HubSpot","expected_action_key":"hubspot-get-file-public-url","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Get Deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Deal in HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get deal","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"retrieve deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check deal on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get deal via HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get deal using HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get deal with HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get the deal","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot retrieve deal","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get opportunity on HubSpot","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot get opportunity","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"get a hubspot deal","expected_action_key":"hubspot-get-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Get Contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Contact in HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get contact","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"retrieve contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check contact on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get contact via HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get contact using HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get contact with HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get the contact","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot retrieve contact","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get contact record on HubSpot","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot get contact record","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"get a hubspot contact","expected_action_key":"hubspot-get-contact","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Get Company on HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Company in HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get company","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the company on HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the company","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"retrieve company on HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot retrieve company","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get company via HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get company using HubSpot","expected_action_key":"hubspot-get-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Get Channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Channel in HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get channel","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"retrieve channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"fetch channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"show me the channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"pull channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"check channel on HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"get channel via HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get channel using HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get channel with HubSpot","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot get the channel","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot retrieve channel","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get a hubspot channel","expected_action_key":"hubspot-get-channel","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Get Associated Meetings on HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Associated Meetings in HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get associated meetings","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the associated meetings on HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the associated meetings","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"retrieve associated meetings on HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot retrieve associated meetings","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get associated meetings via HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get associated meetings using HubSpot","expected_action_key":"hubspot-get-associated-meetings","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Get Associated Emails on HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Get Associated Emails in HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot get associated emails","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"get the associated emails on HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot get the associated emails","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"retrieve associated emails on HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot retrieve associated emails","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"get associated emails via HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"get associated emails using HubSpot","expected_action_key":"hubspot-get-associated-emails","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Enroll Contact Into Workflow on HubSpot","expected_action_key":"hubspot-enroll-contact-into-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Enroll Contact Into Workflow in HubSpot","expected_action_key":"hubspot-enroll-contact-into-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot enroll contact into workflow","expected_action_key":"hubspot-enroll-contact-into-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Delete a Workflow on HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Delete a Workflow in HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot delete a workflow","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"delete workflow on HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"delete the workflow on HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"remove the workflow on HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"destroy the workflow on HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"delete workflow in HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"delete workflow via HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"delete workflow using HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"delete workflow with HubSpot","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot delete workflow","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot delete the workflow","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot remove the workflow","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"delete a hubspot workflow","expected_action_key":"hubspot-delete-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create a New Workflow on HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create a New Workflow in HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create a new workflow","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create new workflow on HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create new workflow","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a new workflow on HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a new workflow","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create new workflow in HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create new workflow via HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create new workflow using HubSpot","expected_action_key":"hubspot-create-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Ticket in HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create ticket","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a ticket on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create ticket via HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create ticket using HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create ticket with HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a ticket","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a ticket","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create issue on HubSpot","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create issue","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot ticket","expected_action_key":"hubspot-create-ticket","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Task in HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create task","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a task on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create task via HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create task using HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create task with HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a task","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a task","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create story on HubSpot","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create story","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot task","expected_action_key":"hubspot-create-task","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Page in HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create page","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a page on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create page via HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create page using HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create page with HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a page","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a page","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create document on HubSpot","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create document","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot page","expected_action_key":"hubspot-create-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Note in HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create note","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a note on HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create note via HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create note using HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create note with HubSpot","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a note","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a note","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create a hubspot note","expected_action_key":"hubspot-create-note","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Meeting in HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create meeting","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a meeting on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create meeting via HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create meeting using HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create meeting with HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a meeting","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a meeting","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create calendar event on HubSpot","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create calendar event","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot meeting","expected_action_key":"hubspot-create-meeting","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Lead in HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create lead","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a lead on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create lead via HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create lead using HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create lead with HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a lead","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a lead","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create contact record on HubSpot","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create contact record","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot lead","expected_action_key":"hubspot-create-lead","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Landing Page on HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Landing Page in HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create landing page","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a landing page on HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a landing page","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a landing page on HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a landing page","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create landing page via HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create landing page using HubSpot","expected_action_key":"hubspot-create-landing-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Form in HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create form","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a form on HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create form via HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create form using HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create form with HubSpot","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a form","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a form","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create a hubspot form","expected_action_key":"hubspot-create-form","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Engagement on HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Engagement in HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create engagement","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a engagement on HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a engagement","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a engagement on HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a engagement","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create engagement via HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create engagement using HubSpot","expected_action_key":"hubspot-create-engagement","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Marketing Email on HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Marketing Email in HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create marketing email","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a marketing email on HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a marketing email","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a marketing email on HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a marketing email","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create marketing email via HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create marketing email using HubSpot","expected_action_key":"hubspot-create-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Deal in HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create deal","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"make a deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"new deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"open a deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"start a deal on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"create deal via HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create deal using HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create deal with HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot create a deal","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot make a deal","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create opportunity on HubSpot","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot create opportunity","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"create a hubspot deal","expected_action_key":"hubspot-create-deal","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}
+{"query":"Create Contact Workflow on HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Contact Workflow in HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create contact workflow","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a contact workflow on HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a contact workflow","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a contact workflow on HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a contact workflow","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create contact workflow via HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create contact workflow using HubSpot","expected_action_key":"hubspot-create-contact-workflow","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Company on HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Company in HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create company","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a company on HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a company","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a company on HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a company","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create company via HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create company using HubSpot","expected_action_key":"hubspot-create-company","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Communication on HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Communication in HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create communication","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a communication on HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a communication","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a communication on HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a communication","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create communication via HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create communication using HubSpot","expected_action_key":"hubspot-create-communication","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Create Associations on HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Create Associations in HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot create associations","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"create a associations on HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot create a associations","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"make a associations on HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot make a associations","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"create associations via HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"create associations using HubSpot","expected_action_key":"hubspot-create-associations","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Clone Site Page on HubSpot","expected_action_key":"hubspot-clone-site-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Clone Site Page in HubSpot","expected_action_key":"hubspot-clone-site-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot clone site page","expected_action_key":"hubspot-clone-site-page","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Clone Marketing Email on HubSpot","expected_action_key":"hubspot-clone-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Clone Marketing Email in HubSpot","expected_action_key":"hubspot-clone-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot clone marketing email","expected_action_key":"hubspot-clone-email","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Add Contact to List on HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Add Contact to List in HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot add contact to list","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"add contact list on HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot add contact list","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"add a contact list on HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot add a contact list","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"add new contact list on HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"HubSpot add new contact list","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"add contact list in HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"add contact list via HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"add contact list using HubSpot","expected_action_key":"hubspot-add-contact-to-list","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"Add Comment on HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"Add Comment in HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"HubSpot add comment","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"action_name"}
+{"query":"add a comment on HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"add new comment on HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"canonical"}
+{"query":"add comment via HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"add comment using HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"add comment with HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_prep"}
+{"query":"HubSpot add a comment","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"HubSpot add new comment","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"app_first"}
+{"query":"add note on HubSpot","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"HubSpot add note","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"alt_target"}
+{"query":"add a hubspot comment","expected_action_key":"hubspot-add-comment","expected_app_slug":"hubspot","app_name":"HubSpot","test_type":"contextual"}

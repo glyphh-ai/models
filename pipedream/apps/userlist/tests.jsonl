@@ -1,0 +1,18 @@
+{"query":"Create Event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"action_name"}
+{"query":"Create Event in Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"action_name"}
+{"query":"Userlist create event","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"action_name"}
+{"query":"create a event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"canonical"}
+{"query":"make a event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"canonical"}
+{"query":"new event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"canonical"}
+{"query":"open a event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"canonical"}
+{"query":"start a event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"canonical"}
+{"query":"create event via Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_prep"}
+{"query":"create event using Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_prep"}
+{"query":"create event with Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_prep"}
+{"query":"Userlist create a event","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"app_first"}
+{"query":"Userlist make a event","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"app_first"}
+{"query":"create meeting on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_target"}
+{"query":"Userlist create meeting","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_target"}
+{"query":"create calendar event on Userlist","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_target"}
+{"query":"Userlist create calendar event","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"alt_target"}
+{"query":"create a userlist event","expected_action_key":"userlist-create-event","expected_app_slug":"userlist","app_name":"Userlist","test_type":"contextual"}

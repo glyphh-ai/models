@@ -1,0 +1,27 @@
+{"query":"List Models on DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"List Models in DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"DeepSeek list models","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"list all models on DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek list all models","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"show all models on DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek show all models","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"list models via DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}
+{"query":"list models using DeepSeek","expected_action_key":"deepseek-list-models","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}
+{"query":"Get User Balance on DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"Get User Balance in DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"DeepSeek get user balance","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"get the user balance on DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek get the user balance","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"retrieve user balance on DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek retrieve user balance","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"get user balance via DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}
+{"query":"get user balance using DeepSeek","expected_action_key":"deepseek-get-balance","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}
+{"query":"Create Chat Completion on DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"Create Chat Completion in DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"DeepSeek create chat completion","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"action_name"}
+{"query":"create a chat completion on DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek create a chat completion","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"make a chat completion on DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"canonical"}
+{"query":"DeepSeek make a chat completion","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"app_first"}
+{"query":"create chat completion via DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}
+{"query":"create chat completion using DeepSeek","expected_action_key":"deepseek-create-chat-completion","expected_app_slug":"deepseek","app_name":"DeepSeek","test_type":"alt_prep"}

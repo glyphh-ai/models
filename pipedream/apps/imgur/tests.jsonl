@@ -1,0 +1,9 @@
+{"query":"Upload Image on Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"action_name"}
+{"query":"Upload Image in Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"action_name"}
+{"query":"Imgur upload image","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"action_name"}
+{"query":"upload a image on Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"canonical"}
+{"query":"Imgur upload a image","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"app_first"}
+{"query":"upload the image on Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"canonical"}
+{"query":"Imgur upload the image","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"app_first"}
+{"query":"upload image via Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"alt_prep"}
+{"query":"upload image using Imgur","expected_action_key":"imgur-upload-image","expected_app_slug":"imgur","app_name":"Imgur","test_type":"alt_prep"}

@@ -1,0 +1,15 @@
+{"query":"Mail Postcard on DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}
+{"query":"Mail Postcard in DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}
+{"query":"DocuPost mail postcard","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}
+{"query":"send postcard on DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"canonical"}
+{"query":"DocuPost send postcard","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"app_first"}
+{"query":"send a postcard on DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"canonical"}
+{"query":"DocuPost send a postcard","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"app_first"}
+{"query":"post a postcard on DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"canonical"}
+{"query":"DocuPost post a postcard","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"app_first"}
+{"query":"send postcard in DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"alt_prep"}
+{"query":"send postcard via DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"alt_prep"}
+{"query":"send postcard using DocuPost","expected_action_key":"docupost-mail-postcard","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"alt_prep"}
+{"query":"Mail Letter on DocuPost","expected_action_key":"docupost-mail-letter","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}
+{"query":"Mail Letter in DocuPost","expected_action_key":"docupost-mail-letter","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}
+{"query":"DocuPost mail letter","expected_action_key":"docupost-mail-letter","expected_app_slug":"docupost","app_name":"DocuPost","test_type":"action_name"}

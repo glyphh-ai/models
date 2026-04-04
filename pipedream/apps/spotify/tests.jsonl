@@ -1,0 +1,169 @@
+{"query":"Search on Spotify","expected_action_key":"spotify-search","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Search in Spotify","expected_action_key":"spotify-search","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify search","expected_action_key":"spotify-search","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Save Tracks for User on Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Save Tracks for User in Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify save tracks for user","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"track tracks user on Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify track tracks user","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"track a tracks user on Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify track a tracks user","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"log tracks user on Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify log tracks user","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"track tracks user in Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"track tracks user via Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"track tracks user using Spotify","expected_action_key":"spotify-save-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Remove User's Saved Tracks on Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Remove User's Saved Tracks in Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify remove user's saved tracks","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"remove the user's saved tracks on Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify remove the user's saved tracks","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"take out user's saved tracks on Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify take out user's saved tracks","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"remove user's saved tracks via Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"remove user's saved tracks using Spotify","expected_action_key":"spotify-remove-user-saved-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Remove Items from a Playlist on Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Remove Items from a Playlist in Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify remove items from a playlist","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"remove items playlist on Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify remove items playlist","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"remove the items playlist on Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify remove the items playlist","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"take out items playlist on Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify take out items playlist","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"remove items playlist in Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"remove items playlist via Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"remove items playlist using Spotify","expected_action_key":"spotify-remove-items-from-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get a Track on Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get a Track in Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get a track","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get track on Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get track","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the track on Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the track","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve track on Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve track","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get track in Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get track via Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get track using Spotify","expected_action_key":"spotify-get-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get Recommendations on Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get Recommendations in Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get recommendations","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get the recommendations on Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the recommendations","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve recommendations on Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve recommendations","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get recommendations via Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get recommendations using Spotify","expected_action_key":"spotify-get-recommendations","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get a Playlist on Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get a Playlist in Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get a playlist","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get playlist on Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get playlist","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the playlist on Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the playlist","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve playlist on Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve playlist","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get playlist in Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get playlist via Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get playlist using Spotify","expected_action_key":"spotify-get-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get a Playlist's Items on Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get a Playlist's Items in Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get a playlist's items","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get playlist's items on Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get playlist's items","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the playlist's items on Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the playlist's items","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve playlist's items on Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve playlist's items","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get playlist's items in Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get playlist's items via Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get playlist's items using Spotify","expected_action_key":"spotify-get-playlist-items","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get currently playing track on Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get currently playing track in Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get currently playing track","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get the currently playing track on Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the currently playing track","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve currently playing track on Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve currently playing track","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get currently playing track via Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get currently playing track using Spotify","expected_action_key":"spotify-get-currently-playing-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get a Category's Playlists on Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get a Category's Playlists in Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get a category's playlists","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get category's playlists on Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get category's playlists","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the category's playlists on Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the category's playlists","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve category's playlists on Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve category's playlists","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get category's playlists in Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get category's playlists via Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get category's playlists using Spotify","expected_action_key":"spotify-get-categorys-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get Audio Features for a Track on Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get Audio Features for a Track in Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get audio features for a track","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get audio features track on Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get audio features track","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the audio features track on Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the audio features track","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve audio features track on Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve audio features track","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get audio features track in Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get audio features track via Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get audio features track using Spotify","expected_action_key":"spotify-get-audio-features-for-a-track","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get an Artist's Top Tracks on Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get an Artist's Top Tracks in Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get an artist's top tracks","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get artist's top tracks on Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get artist's top tracks","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the artist's top tracks on Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the artist's top tracks","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve artist's top tracks on Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve artist's top tracks","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get artist's top tracks in Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get artist's top tracks via Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get artist's top tracks using Spotify","expected_action_key":"spotify-get-artist-top-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get All Tracks by Artist on Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get All Tracks by Artist in Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get all tracks by artist","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get all tracks artist on Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get all tracks artist","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get the all tracks artist on Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the all tracks artist","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve all tracks artist on Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve all tracks artist","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get all tracks artist in Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get all tracks artist via Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get all tracks artist using Spotify","expected_action_key":"spotify-get-all-tracks-by-artist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Get Album Tracks on Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Get Album Tracks in Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify get album tracks","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"get the album tracks on Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify get the album tracks","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"retrieve album tracks on Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify retrieve album tracks","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"get album tracks via Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"get album tracks using Spotify","expected_action_key":"spotify-get-album-tracks","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Create a Playlist on Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Create a Playlist in Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify create a playlist","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"create playlist on Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify create playlist","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"make a playlist on Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify make a playlist","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"create playlist in Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"create playlist via Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"create playlist using Spotify","expected_action_key":"spotify-create-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"Add Items to a Playlist on Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Add Items to a Playlist in Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"Spotify add items to a playlist","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"action_name"}
+{"query":"add items playlist on Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify add items playlist","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"add a items playlist on Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify add a items playlist","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"add new items playlist on Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"canonical"}
+{"query":"Spotify add new items playlist","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"app_first"}
+{"query":"add items playlist in Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"add items playlist via Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}
+{"query":"add items playlist using Spotify","expected_action_key":"spotify-add-items-to-playlist","expected_app_slug":"spotify","app_name":"Spotify","test_type":"alt_prep"}

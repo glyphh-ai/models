@@ -1,0 +1,57 @@
+{"query":"Send Sales Invoice on Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Send Sales Invoice in Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Altoviz send sales invoice","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"send a sales invoice on Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"Altoviz send a sales invoice","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"post a sales invoice on Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"Altoviz post a sales invoice","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"send sales invoice via Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"send sales invoice using Altoviz","expected_action_key":"altoviz-send-sales-invoice","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"Find Product on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Find Product in Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Altoviz find product","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"search for product on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"look for product on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"search product on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"locate product on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"search for product in Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"search for product via Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"search for product using Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"search for product with Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"Altoviz search for product","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"Altoviz look for product","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"search for item on Altoviz","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"Altoviz search for item","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"search for a altoviz product","expected_action_key":"altoviz-find-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"contextual"}
+{"query":"Create Product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Create Product in Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Altoviz create product","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"create a product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"make a product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"new product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"open a product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"start a product on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"create product via Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"create product using Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"create product with Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"Altoviz create a product","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"Altoviz make a product","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"create item on Altoviz","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"Altoviz create item","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"create a altoviz product","expected_action_key":"altoviz-create-product","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"contextual"}
+{"query":"Create Customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Create Customer in Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"Altoviz create customer","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"action_name"}
+{"query":"create a customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"make a customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"new customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"open a customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"start a customer on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"canonical"}
+{"query":"create customer via Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"create customer using Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"create customer with Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_prep"}
+{"query":"Altoviz create a customer","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"Altoviz make a customer","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"app_first"}
+{"query":"create account on Altoviz","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"Altoviz create account","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"alt_target"}
+{"query":"create a altoviz customer","expected_action_key":"altoviz-create-customer","expected_app_slug":"altoviz","app_name":"Altoviz","test_type":"contextual"}

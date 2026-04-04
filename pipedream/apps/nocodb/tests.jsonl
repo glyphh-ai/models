@@ -1,0 +1,79 @@
+{"query":"Update Record on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"Update Record in nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"nocodb update record","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"update the record on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"edit the record on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"modify the record on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"change the record on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"update record via nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"update record using nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"update record with nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"nocodb update the record","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"nocodb edit the record","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"update row on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb update row","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"update entry on nocodb","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb update entry","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"update a nocodb record","expected_action_key":"nocodb-update-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"contextual"}
+{"query":"List Records in Table Matching Criteria on nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"List Records in Table Matching Criteria in nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"nocodb list records in table matching criteria","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"list records table matching criteria on nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"nocodb list records table matching criteria","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"list all records table matching criteria on nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"nocodb list all records table matching criteria","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"show all records table matching criteria on nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"nocodb show all records table matching criteria","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"list records table matching criteria in nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"list records table matching criteria via nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"list records table matching criteria using nocodb","expected_action_key":"nocodb-list-records-matching-criteria","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"Get Record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"Get Record in nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"nocodb get record","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"get the record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"retrieve record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"fetch record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"show me the record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"pull record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"check record on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"get record via nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"get record using nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"get record with nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"nocodb get the record","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"nocodb retrieve record","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"get row on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb get row","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"get entry on nocodb","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb get entry","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"get a nocodb record","expected_action_key":"nocodb-get-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"contextual"}
+{"query":"Delete Record on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"Delete Record in nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"nocodb delete record","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"delete the record on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"remove the record on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"destroy the record on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"delete record via nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"delete record using nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"delete record with nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"nocodb delete the record","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"nocodb remove the record","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"delete row on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb delete row","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"delete entry on nocodb","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb delete entry","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"delete a nocodb record","expected_action_key":"nocodb-delete-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"contextual"}
+{"query":"Add Record on nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"Add Record in nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"nocodb add record","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"action_name"}
+{"query":"add a record on nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"add new record on nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"canonical"}
+{"query":"add record via nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"add record using nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"add record with nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_prep"}
+{"query":"nocodb add a record","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"nocodb add new record","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"app_first"}
+{"query":"add row on nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb add row","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"add entry on nocodb","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"nocodb add entry","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"alt_target"}
+{"query":"add a nocodb record","expected_action_key":"nocodb-add-record","expected_app_slug":"nocodb","app_name":"nocodb","test_type":"contextual"}

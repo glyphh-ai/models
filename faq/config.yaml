@@ -1,0 +1,62 @@
+# Glyphh AI Knowledge Base
+# Exhaustive FAQ model for the Glyphh platform.
+
+name: glyphh-faq
+version: 0.2.0
+description: |
+  Glyphh AI knowledge base FAQ model. Encodes questions and answers
+  about the Glyphh platform into HDC vectors. Covers SDK, runtime,
+  CLI, models, architecture, deployment, pricing, security, and
+  troubleshooting.
+
+author: Glyphh AI
+license: Proprietary
+
+encoder:
+  dimensions: 2000
+  seed: 42
+  temporal_source: auto
+
+auto_load_concepts: true
+
+tests:
+  file: tests.py
+  directory: tests/
+  data: tests/test-concepts.json
+
+roles:
+  question_id:
+    type: text
+    key_part: true
+
+  category:
+    type: categorical
+    values:
+      - getting_started
+      - sdk
+      - runtime
+      - cli
+      - models
+      - architecture
+      - deployment
+      - pricing
+      - security
+      - troubleshooting
+      - general
+
+  question:
+    type: text
+
+  answer:
+    type: text
+
+  keywords:
+    type: list
+    optional: true
+
+similarity:
+  threshold: 0.40
+  top_k: 1
+  result_field: answer
+  query_scope: semantic
+  store_hierarchical_vectors: true

@@ -1,0 +1,26 @@
+{"query":"List Meetings on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"List Meetings in CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"CalendarHero list meetings","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"list all meetings on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"show all meetings on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"get all meetings on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"show me all meetings on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"list meetings via CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_prep"}
+{"query":"list meetings using CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_prep"}
+{"query":"list meetings with CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_prep"}
+{"query":"CalendarHero list all meetings","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"app_first"}
+{"query":"CalendarHero show all meetings","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"app_first"}
+{"query":"list meeting on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_target"}
+{"query":"CalendarHero list meeting","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_target"}
+{"query":"list calendar event on CalendarHero","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_target"}
+{"query":"CalendarHero list calendar event","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_target"}
+{"query":"list a calendarhero meetings","expected_action_key":"calendarhero-list-meetings","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"contextual"}
+{"query":"List Meeting Types on CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"List Meeting Types in CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"CalendarHero list meeting types","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"action_name"}
+{"query":"list all meeting types on CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"CalendarHero list all meeting types","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"app_first"}
+{"query":"show all meeting types on CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"canonical"}
+{"query":"CalendarHero show all meeting types","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"app_first"}
+{"query":"list meeting types via CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_prep"}
+{"query":"list meeting types using CalendarHero","expected_action_key":"calendarhero-list-meeting-types","expected_app_slug":"calendarhero","app_name":"CalendarHero","test_type":"alt_prep"}

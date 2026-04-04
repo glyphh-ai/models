@@ -1,0 +1,33 @@
+{"query":"Find Records on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"Find Records in Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"Grist find records","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"search for records on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"look for records on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"search records on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"locate records on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"search for records in Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"search for records via Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"search for records using Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"search for records with Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"Grist search for records","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"app_first"}
+{"query":"Grist look for records","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"app_first"}
+{"query":"search for row on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"Grist search for row","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"search for entry on Grist","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"Grist search for entry","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"search for a grist records","expected_action_key":"grist-find-records","expected_app_slug":"grist","app_name":"Grist","test_type":"contextual"}
+{"query":"Add Records on Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"Add Records in Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"Grist add records","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"action_name"}
+{"query":"add a records on Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"add new records on Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"canonical"}
+{"query":"add records via Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"add records using Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"add records with Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_prep"}
+{"query":"Grist add a records","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"app_first"}
+{"query":"Grist add new records","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"app_first"}
+{"query":"add row on Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"Grist add row","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"add entry on Grist","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"Grist add entry","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"alt_target"}
+{"query":"add a grist records","expected_action_key":"grist-add-records","expected_app_slug":"grist","app_name":"Grist","test_type":"contextual"}

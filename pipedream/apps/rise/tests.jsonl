@@ -1,0 +1,42 @@
+{"query":"Find Users on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Find Users in Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Rise find users","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"search for users on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"look for users on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"search users on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"locate users on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"search for users in Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"search for users via Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"search for users using Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"search for users with Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"Rise search for users","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"Rise look for users","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"search for member on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_target"}
+{"query":"Rise search for member","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_target"}
+{"query":"search for person on Rise","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_target"}
+{"query":"Rise search for person","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_target"}
+{"query":"search for a rise users","expected_action_key":"rise-find-users","expected_app_slug":"rise","app_name":"Rise","test_type":"contextual"}
+{"query":"Find Invitations on Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Find Invitations in Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Rise find invitations","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"search for invitations on Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"Rise search for invitations","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"look for invitations on Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"Rise look for invitations","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"search for invitations in Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"search for invitations via Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"search for invitations using Rise","expected_action_key":"rise-find-invitations","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"Create Invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Create Invitation in Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"Rise create invitation","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"action_name"}
+{"query":"create a invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"make a invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"new invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"open a invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"start a invitation on Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"canonical"}
+{"query":"create invitation via Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"create invitation using Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"create invitation with Rise","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"alt_prep"}
+{"query":"Rise create a invitation","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"Rise make a invitation","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"app_first"}
+{"query":"create a rise invitation","expected_action_key":"rise-create-invitation","expected_app_slug":"rise","app_name":"Rise","test_type":"contextual"}

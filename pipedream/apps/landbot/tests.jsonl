@@ -1,0 +1,18 @@
+{"query":"Send Text Message on Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"Send Text Message in Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"Landbot send text message","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"send a text message on Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"canonical"}
+{"query":"Landbot send a text message","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"app_first"}
+{"query":"post a text message on Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"canonical"}
+{"query":"Landbot post a text message","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"app_first"}
+{"query":"send text message via Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"alt_prep"}
+{"query":"send text message using Landbot","expected_action_key":"landbot-send-text-message","expected_app_slug":"landbot","app_name":"Landbot","test_type":"alt_prep"}
+{"query":"Send Image on Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"Send Image in Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"Landbot send image","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"action_name"}
+{"query":"send a image on Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"canonical"}
+{"query":"Landbot send a image","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"app_first"}
+{"query":"post a image on Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"canonical"}
+{"query":"Landbot post a image","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"app_first"}
+{"query":"send image via Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"alt_prep"}
+{"query":"send image using Landbot","expected_action_key":"landbot-send-image","expected_app_slug":"landbot","app_name":"Landbot","test_type":"alt_prep"}

@@ -1,0 +1,65 @@
+{"query":"Upsert Contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-upsert-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Upsert Contact in HighLevel OAuth","expected_action_key":"highlevel_oauth-upsert-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"HighLevel OAuth upsert contact","expected_action_key":"highlevel_oauth-upsert-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Upsert Contact on highlevel_oauth","expected_action_key":"highlevel_oauth-upsert-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Update Contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Update Contact in HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"HighLevel OAuth update contact","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Update Contact on highlevel_oauth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"update the contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"edit the contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"modify the contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"change the contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"update contact via HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"update contact using HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"update contact with HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"HighLevel OAuth update the contact","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"HighLevel OAuth edit the contact","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"update contact record on HighLevel OAuth","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_target"}
+{"query":"HighLevel OAuth update contact record","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_target"}
+{"query":"highlevel_oauth update contact","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_app_name"}
+{"query":"update a highlevel oauth contact","expected_action_key":"highlevel_oauth-update-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"contextual"}
+{"query":"List Businesses on HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"List Businesses in HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"HighLevel OAuth list businesses","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"List Businesses on highlevel_oauth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"list all businesses on HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"HighLevel OAuth list all businesses","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"show all businesses on HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"HighLevel OAuth show all businesses","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"list businesses via HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"list businesses using HighLevel OAuth","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"highlevel_oauth list businesses","expected_action_key":"highlevel_oauth-list-businesses","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Create Contact in HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"HighLevel OAuth create contact","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Create Contact on highlevel_oauth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"create a contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"make a contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"new contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"open a contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"start a contact on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"create contact via HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"create contact using HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"create contact with HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"HighLevel OAuth create a contact","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"HighLevel OAuth make a contact","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"create contact record on HighLevel OAuth","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_target"}
+{"query":"HighLevel OAuth create contact record","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_target"}
+{"query":"highlevel_oauth create contact","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_app_name"}
+{"query":"create a highlevel oauth contact","expected_action_key":"highlevel_oauth-create-contact","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"contextual"}
+{"query":"Add Contact to Campaign on HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Add Contact to Campaign in HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"HighLevel OAuth add contact to campaign","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"Add Contact to Campaign on highlevel_oauth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"action_name"}
+{"query":"add contact campaign on HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"HighLevel OAuth add contact campaign","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"add a contact campaign on HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"HighLevel OAuth add a contact campaign","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"add new contact campaign on HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"canonical"}
+{"query":"HighLevel OAuth add new contact campaign","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"app_first"}
+{"query":"add contact campaign in HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"add contact campaign via HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"add contact campaign using HighLevel OAuth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_prep"}
+{"query":"add contact campaign on highlevel_oauth","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_app_name"}
+{"query":"highlevel_oauth add contact campaign","expected_action_key":"highlevel_oauth-add-contact-to-campaign","expected_app_slug":"highlevel_oauth","app_name":"HighLevel (OAuth)","test_type":"alt_app_name"}

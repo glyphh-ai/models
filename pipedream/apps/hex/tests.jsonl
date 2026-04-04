@@ -1,0 +1,97 @@
+{"query":"Update Group on Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Update Group in Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex update group","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"update the group on Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex update the group","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"edit the group on Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex edit the group","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"update group via Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"update group using Hex","expected_action_key":"hex-update-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Run Project on Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Run Project in Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex run project","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"trigger project on Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex trigger project","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"execute project on Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex execute project","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"trigger project in Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"trigger project via Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"trigger project using Hex","expected_action_key":"hex-run-project","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"List Projects on Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"List Projects in Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex list projects","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"list all projects on Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex list all projects","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"show all projects on Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex show all projects","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"list projects via Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"list projects using Hex","expected_action_key":"hex-list-projects","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"List Data Connections on Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"List Data Connections in Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex list data connections","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"list all data connections on Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex list all data connections","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"show all data connections on Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex show all data connections","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"list data connections via Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"list data connections using Hex","expected_action_key":"hex-list-data-connections","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Get Run Status on Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Get Run Status in Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex get run status","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"get the run status on Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex get the run status","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"retrieve run status on Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex retrieve run status","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"get run status via Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"get run status using Hex","expected_action_key":"hex-get-run-status","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Get Project Runs on Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Get Project Runs in Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex get project runs","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"get the project runs on Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex get the project runs","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"retrieve project runs on Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex retrieve project runs","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"get project runs via Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"get project runs using Hex","expected_action_key":"hex-get-project-runs","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Edit Data Connection on Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Edit Data Connection in Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex edit data connection","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"update data connection on Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex update data connection","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"update the data connection on Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex update the data connection","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"edit the data connection on Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex edit the data connection","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"update data connection in Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"update data connection via Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"update data connection using Hex","expected_action_key":"hex-edit-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Delete Group on Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Delete Group in Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex delete group","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"delete the group on Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex delete the group","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"remove the group on Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex remove the group","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"delete group via Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"delete group using Hex","expected_action_key":"hex-delete-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Deactivate User on Hex","expected_action_key":"hex-deactivate-user","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Deactivate User in Hex","expected_action_key":"hex-deactivate-user","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex deactivate user","expected_action_key":"hex-deactivate-user","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Create Group on Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Create Group in Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex create group","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"create a group on Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex create a group","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"make a group on Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex make a group","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"create group via Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"create group using Hex","expected_action_key":"hex-create-group","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"Create Data Connection on Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Create Data Connection in Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"Hex create data connection","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"action_name"}
+{"query":"create a data connection on Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex create a data connection","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"make a data connection on Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"canonical"}
+{"query":"Hex make a data connection","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"app_first"}
+{"query":"create data connection via Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}
+{"query":"create data connection using Hex","expected_action_key":"hex-create-data-connection","expected_app_slug":"hex","app_name":"Hex","test_type":"alt_prep"}

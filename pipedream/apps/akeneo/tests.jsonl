@@ -1,0 +1,71 @@
+{"query":"Submit Product For Approval on Akeneo","expected_action_key":"akeneo-submit-product-for-approval","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Submit Product For Approval in Akeneo","expected_action_key":"akeneo-submit-product-for-approval","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo submit product for approval","expected_action_key":"akeneo-submit-product-for-approval","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Search Products on Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Search Products in Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo search products","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"search for products on Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"Akeneo search for products","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"find products on Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"Akeneo find products","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"look for products on Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"Akeneo look for products","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"search for products in Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"search for products via Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"search for products using Akeneo","expected_action_key":"akeneo-search-products","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"Get Product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Get Product in Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo get product","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"get the product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"retrieve product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"fetch product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"show me the product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"pull product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"check product on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"get product via Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"get product using Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"get product with Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"Akeneo get the product","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"Akeneo retrieve product","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"get item on Akeneo","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_target"}
+{"query":"Akeneo get item","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_target"}
+{"query":"get a akeneo product","expected_action_key":"akeneo-get-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"contextual"}
+{"query":"Get Draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Get Draft in Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo get draft","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"get the draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"retrieve draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"fetch draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"show me the draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"pull draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"check draft on Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"get draft via Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"get draft using Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"get draft with Akeneo","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"Akeneo get the draft","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"Akeneo retrieve draft","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"get a akeneo draft","expected_action_key":"akeneo-get-draft","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"contextual"}
+{"query":"Delete Product on Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Delete Product in Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo delete product","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"delete the product on Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"remove the product on Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"destroy the product on Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"delete product via Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"delete product using Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"delete product with Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"Akeneo delete the product","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"Akeneo remove the product","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"delete item on Akeneo","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_target"}
+{"query":"Akeneo delete item","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_target"}
+{"query":"delete a akeneo product","expected_action_key":"akeneo-delete-product","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"contextual"}
+{"query":"Create A New Product Media File on Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Create A New Product Media File in Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"Akeneo create a new product media file","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"action_name"}
+{"query":"create new product media file on Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"Akeneo create new product media file","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"make a new product media file on Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"canonical"}
+{"query":"Akeneo make a new product media file","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"app_first"}
+{"query":"create new product media file in Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"create new product media file via Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}
+{"query":"create new product media file using Akeneo","expected_action_key":"akeneo-create-a-new-product-media-file","expected_app_slug":"akeneo","app_name":"Akeneo","test_type":"alt_prep"}

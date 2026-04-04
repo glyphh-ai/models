@@ -1,0 +1,27 @@
+{"query":"Get Shares on Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Get Shares in Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Nextcloud get shares","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"get the shares on Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud get the shares","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"retrieve shares on Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud retrieve shares","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"get shares via Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}
+{"query":"get shares using Nextcloud","expected_action_key":"nextcloud-get-shares","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}
+{"query":"Delete Share on Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Delete Share in Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Nextcloud delete share","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"delete the share on Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud delete the share","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"remove the share on Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud remove the share","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"delete share via Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}
+{"query":"delete share using Nextcloud","expected_action_key":"nextcloud-delete-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}
+{"query":"Create Share on Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Create Share in Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"Nextcloud create share","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"action_name"}
+{"query":"create a share on Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud create a share","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"make a share on Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"canonical"}
+{"query":"Nextcloud make a share","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"app_first"}
+{"query":"create share via Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}
+{"query":"create share using Nextcloud","expected_action_key":"nextcloud-create-share","expected_app_slug":"nextcloud","app_name":"Nextcloud","test_type":"alt_prep"}

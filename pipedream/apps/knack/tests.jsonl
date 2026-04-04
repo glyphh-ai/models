@@ -1,0 +1,70 @@
+{"query":"Update Record on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Update Record in Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Knack update record","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"update the record on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"edit the record on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"modify the record on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"change the record on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"update record via Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"update record using Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"update record with Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"Knack update the record","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"Knack edit the record","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"update row on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack update row","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"update entry on Knack","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack update entry","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"update a knack record","expected_action_key":"knack-update-record","expected_app_slug":"knack","app_name":"Knack","test_type":"contextual"}
+{"query":"Get Record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Get Record in Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Knack get record","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"get the record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"retrieve record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"fetch record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"show me the record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"pull record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"check record on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"get record via Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"get record using Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"get record with Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"Knack get the record","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"Knack retrieve record","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"get row on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack get row","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"get entry on Knack","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack get entry","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"get a knack record","expected_action_key":"knack-get-record","expected_app_slug":"knack","app_name":"Knack","test_type":"contextual"}
+{"query":"Delete Record on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Delete Record in Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Knack delete record","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"delete the record on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"remove the record on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"destroy the record on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"delete record via Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"delete record using Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"delete record with Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"Knack delete the record","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"Knack remove the record","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"delete row on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack delete row","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"delete entry on Knack","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack delete entry","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"delete a knack record","expected_action_key":"knack-delete-record","expected_app_slug":"knack","app_name":"Knack","test_type":"contextual"}
+{"query":"Create Record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Create Record in Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"Knack create record","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"action_name"}
+{"query":"create a record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"make a record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"new record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"open a record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"start a record on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"canonical"}
+{"query":"create record via Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"create record using Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"create record with Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_prep"}
+{"query":"Knack create a record","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"Knack make a record","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"app_first"}
+{"query":"create row on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack create row","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"create entry on Knack","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"Knack create entry","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"alt_target"}
+{"query":"create a knack record","expected_action_key":"knack-create-record","expected_app_slug":"knack","app_name":"Knack","test_type":"contextual"}

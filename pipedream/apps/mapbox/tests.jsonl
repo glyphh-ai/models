@@ -1,0 +1,24 @@
+{"query":"Geocode Address on Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Geocode Address in Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Mapbox geocode address","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"add address on Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"canonical"}
+{"query":"Mapbox add address","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"app_first"}
+{"query":"add a address on Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"canonical"}
+{"query":"Mapbox add a address","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"app_first"}
+{"query":"add new address on Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"canonical"}
+{"query":"Mapbox add new address","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"app_first"}
+{"query":"add address in Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"alt_prep"}
+{"query":"add address via Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"alt_prep"}
+{"query":"add address using Mapbox","expected_action_key":"mapbox-geocode-address","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"alt_prep"}
+{"query":"Generate Directions on Mapbox","expected_action_key":"mapbox-generate-directions","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Generate Directions in Mapbox","expected_action_key":"mapbox-generate-directions","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Mapbox generate directions","expected_action_key":"mapbox-generate-directions","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Create Tileset on Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Create Tileset in Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"Mapbox create tileset","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"action_name"}
+{"query":"create a tileset on Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"canonical"}
+{"query":"Mapbox create a tileset","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"app_first"}
+{"query":"make a tileset on Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"canonical"}
+{"query":"Mapbox make a tileset","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"app_first"}
+{"query":"create tileset via Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"alt_prep"}
+{"query":"create tileset using Mapbox","expected_action_key":"mapbox-create-tileset","expected_app_slug":"mapbox","app_name":"Mapbox","test_type":"alt_prep"}

@@ -1,0 +1,39 @@
+{"query":"Read From Fauna Collection on Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Read From Fauna Collection in Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Fauna read from fauna collection","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Read From Fauna Collection on Faunadb","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"get fauna collection on Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna get fauna collection","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"get the fauna collection on Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna get the fauna collection","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"retrieve fauna collection on Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna retrieve fauna collection","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"get fauna collection in Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"get fauna collection via Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"get fauna collection using Fauna","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"get fauna collection on Faunadb","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_app_name"}
+{"query":"Faunadb get fauna collection","expected_action_key":"faunadb-read-from-collection","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_app_name"}
+{"query":"Import GraphQL schema on Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Import GraphQL schema in Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Fauna import graphql schema","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Import GraphQL schema on Faunadb","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"import the graphql schema on Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna import the graphql schema","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"import a graphql schema on Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna import a graphql schema","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"import graphql schema via Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"import graphql schema using Fauna","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"Faunadb import graphql schema","expected_action_key":"faunadb-import-graphql-schema","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_app_name"}
+{"query":"Execute GraphQL Query on Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Execute GraphQL Query in Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Fauna execute graphql query","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"Execute GraphQL Query on Faunadb","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"action_name"}
+{"query":"trigger graphql query on Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna trigger graphql query","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"run graphql query on Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"canonical"}
+{"query":"Fauna run graphql query","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"app_first"}
+{"query":"trigger graphql query in Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"trigger graphql query via Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"trigger graphql query using Fauna","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_prep"}
+{"query":"trigger graphql query on Faunadb","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_app_name"}
+{"query":"Faunadb trigger graphql query","expected_action_key":"faunadb-execute-graphql-query","expected_app_slug":"faunadb","app_name":"Fauna","test_type":"alt_app_name"}

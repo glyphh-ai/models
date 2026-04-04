@@ -1,0 +1,47 @@
+{"query":"Update Task on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Update Task in Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Yanado update task","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"update the task on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"edit the task on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"modify the task on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"change the task on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"update task via Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"update task using Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"update task with Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"Yanado update the task","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"Yanado edit the task","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"update story on Yanado","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"Yanado update story","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"update a yanado task","expected_action_key":"yanado-update-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"contextual"}
+{"query":"Find Tasks on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Find Tasks in Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Yanado find tasks","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"search for tasks on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"look for tasks on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"search tasks on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"locate tasks on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"search for tasks in Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"search for tasks via Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"search for tasks using Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"search for tasks with Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"Yanado search for tasks","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"Yanado look for tasks","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"search for story on Yanado","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"Yanado search for story","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"search for a yanado tasks","expected_action_key":"yanado-find-tasks","expected_app_slug":"yanado","app_name":"Yanado","test_type":"contextual"}
+{"query":"Create Task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Create Task in Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"Yanado create task","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"action_name"}
+{"query":"create a task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"make a task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"new task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"open a task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"start a task on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"canonical"}
+{"query":"create task via Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"create task using Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"create task with Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_prep"}
+{"query":"Yanado create a task","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"Yanado make a task","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"app_first"}
+{"query":"create story on Yanado","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"Yanado create story","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"alt_target"}
+{"query":"create a yanado task","expected_action_key":"yanado-create-task","expected_app_slug":"yanado","app_name":"Yanado","test_type":"contextual"}

@@ -1,0 +1,42 @@
+{"query":"Create Person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Create Person in Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Salesloft create person","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"create a person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"make a person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"new person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"open a person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"start a person on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"create person via Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"create person using Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"create person with Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"Salesloft create a person","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"Salesloft make a person","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"create member on Salesloft","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_target"}
+{"query":"Salesloft create member","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_target"}
+{"query":"create a salesloft person","expected_action_key":"salesloft-create-person","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"contextual"}
+{"query":"Create Note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Create Note in Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Salesloft create note","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"create a note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"make a note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"new note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"open a note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"start a note on Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"create note via Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"create note using Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"create note with Salesloft","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"Salesloft create a note","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"Salesloft make a note","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"create a salesloft note","expected_action_key":"salesloft-create-note","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"contextual"}
+{"query":"Add Person to Cadence on Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Add Person to Cadence in Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"Salesloft add person to cadence","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"action_name"}
+{"query":"add person cadence on Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"Salesloft add person cadence","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"add a person cadence on Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"Salesloft add a person cadence","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"add new person cadence on Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"canonical"}
+{"query":"Salesloft add new person cadence","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"app_first"}
+{"query":"add person cadence in Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"add person cadence via Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}
+{"query":"add person cadence using Salesloft","expected_action_key":"salesloft-add-person-to-cadence","expected_app_slug":"salesloft","app_name":"Salesloft","test_type":"alt_prep"}

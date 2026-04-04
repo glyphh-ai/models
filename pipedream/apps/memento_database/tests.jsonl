@@ -1,0 +1,57 @@
+{"query":"Update Entry on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Update Entry in Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Memento Database update entry","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Update Entry on memento_database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"update the entry on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"edit the entry on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"modify the entry on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"change the entry on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"update entry via Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"update entry using Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"update entry with Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"Memento Database update the entry","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"Memento Database edit the entry","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"update row on Memento Database","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_target"}
+{"query":"Memento Database update row","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_target"}
+{"query":"memento_database update entry","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_app_name"}
+{"query":"update a memento database entry","expected_action_key":"memento_database-update-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"contextual"}
+{"query":"List Entries on Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"List Entries in Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Memento Database list entries","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"List Entries on memento_database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"list all entries on Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"Memento Database list all entries","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"show all entries on Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"Memento Database show all entries","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"list entries via Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"list entries using Memento Database","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"memento_database list entries","expected_action_key":"memento_database-list-entries","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_app_name"}
+{"query":"Get Library on Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Get Library in Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Memento Database get library","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Get Library on memento_database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"get the library on Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"Memento Database get the library","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"retrieve library on Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"Memento Database retrieve library","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"get library via Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"get library using Memento Database","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"memento_database get library","expected_action_key":"memento_database-get-library","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_app_name"}
+{"query":"Create Entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Create Entry in Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Memento Database create entry","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"Create Entry on memento_database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"action_name"}
+{"query":"create a entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"make a entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"new entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"open a entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"start a entry on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"canonical"}
+{"query":"create entry via Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"create entry using Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"create entry with Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_prep"}
+{"query":"Memento Database create a entry","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"Memento Database make a entry","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"app_first"}
+{"query":"create row on Memento Database","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_target"}
+{"query":"Memento Database create row","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_target"}
+{"query":"memento_database create entry","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"alt_app_name"}
+{"query":"create a memento database entry","expected_action_key":"memento_database-create-entry","expected_app_slug":"memento_database","app_name":"Memento Database","test_type":"contextual"}

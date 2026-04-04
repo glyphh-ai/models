@@ -1,0 +1,112 @@
+{"query":"Update Task on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Update Task in Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks update task","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Update Task on google_tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"update the task on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"edit the task on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"modify the task on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"change the task on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"update task via Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"update task using Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"update task with Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"Google Tasks update the task","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"Google Tasks edit the task","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"update story on Google Tasks","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"Google Tasks update story","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"google_tasks update task","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"update a google tasks task","expected_action_key":"google_tasks-update-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"contextual"}
+{"query":"Update Task List on Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Update Task List in Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks update task list","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Update Task List on google_tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"update the task list on Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks update the task list","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"edit the task list on Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks edit the task list","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"update task list via Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"update task list using Google Tasks","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"google_tasks update task list","expected_action_key":"google_tasks-update-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"List Tasks on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"List Tasks in Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks list tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"List Tasks on google_tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"list all tasks on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"show all tasks on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"get all tasks on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"show me all tasks on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"list tasks via Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"list tasks using Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"list tasks with Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"Google Tasks list all tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"Google Tasks show all tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"list story on Google Tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"Google Tasks list story","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"google_tasks list tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"list a google tasks tasks","expected_action_key":"google_tasks-list-tasks","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"contextual"}
+{"query":"List Task Lists on Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"List Task Lists in Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks list task lists","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"List Task Lists on google_tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"list all task lists on Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks list all task lists","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"show all task lists on Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks show all task lists","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"list task lists via Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"list task lists using Google Tasks","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"google_tasks list task lists","expected_action_key":"google_tasks-list-task-lists","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"Delete Task on Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Delete Task in Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks delete task","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Delete Task on google_tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"delete the task on Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"remove the task on Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"destroy the task on Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"delete task via Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"delete task using Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"delete task with Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"Google Tasks delete the task","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"Google Tasks remove the task","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"delete story on Google Tasks","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"Google Tasks delete story","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"google_tasks delete task","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"delete a google tasks task","expected_action_key":"google_tasks-delete-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"contextual"}
+{"query":"Delete Task List on Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Delete Task List in Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks delete task list","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Delete Task List on google_tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"delete the task list on Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks delete the task list","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"remove the task list on Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks remove the task list","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"delete task list via Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"delete task list using Google Tasks","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"google_tasks delete task list","expected_action_key":"google_tasks-delete-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"Create Task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Create Task in Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks create task","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Create Task on google_tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"create a task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"make a task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"new task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"open a task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"start a task on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"create task via Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"create task using Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"create task with Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"Google Tasks create a task","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"Google Tasks make a task","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"create story on Google Tasks","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"Google Tasks create story","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_target"}
+{"query":"google_tasks create task","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}
+{"query":"create a google tasks task","expected_action_key":"google_tasks-create-task","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"contextual"}
+{"query":"Create Task List on Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Create Task List in Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Google Tasks create task list","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"Create Task List on google_tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"action_name"}
+{"query":"create a task list on Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks create a task list","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"make a task list on Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"canonical"}
+{"query":"Google Tasks make a task list","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"app_first"}
+{"query":"create task list via Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"create task list using Google Tasks","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_prep"}
+{"query":"google_tasks create task list","expected_action_key":"google_tasks-create-task-list","expected_app_slug":"google_tasks","app_name":"Google Tasks","test_type":"alt_app_name"}

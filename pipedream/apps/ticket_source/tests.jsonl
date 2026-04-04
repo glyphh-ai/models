@@ -1,0 +1,101 @@
+{"query":"List Events on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Events in Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source list events","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Events on ticket_source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"list all events on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"show all events on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"get all events on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"show me all events on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"list events via Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list events using Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list events with Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"Ticket Source list all events","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"Ticket Source show all events","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"list meeting on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source list meeting","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"list calendar event on Ticket Source","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source list calendar event","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"ticket_source list events","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"list a ticket source events","expected_action_key":"ticket_source-list-events","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"contextual"}
+{"query":"List Customers on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Customers in Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source list customers","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Customers on ticket_source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"list all customers on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"show all customers on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"get all customers on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"show me all customers on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"list customers via Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list customers using Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list customers with Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"Ticket Source list all customers","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"Ticket Source show all customers","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"list account on Ticket Source","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source list account","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"ticket_source list customers","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"list a ticket source customers","expected_action_key":"ticket_source-list-customers","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"contextual"}
+{"query":"List Bookings for Date on Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Bookings for Date in Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source list bookings for date","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"List Bookings for Date on ticket_source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"list bookings date on Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"Ticket Source list bookings date","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"list all bookings date on Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"Ticket Source list all bookings date","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"show all bookings date on Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"Ticket Source show all bookings date","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"list bookings date in Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list bookings date via Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list bookings date using Ticket Source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"list bookings date on ticket_source","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"ticket_source list bookings date","expected_action_key":"ticket_source-list-bookings-for-date","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"Get Event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Get Event in Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source get event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Get Event on ticket_source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"get the event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"retrieve event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"fetch event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"show me the event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"pull event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"check event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"get event via Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"get event using Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"get event with Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"Ticket Source get the event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"Ticket Source retrieve event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"get meeting on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source get meeting","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"get calendar event on Ticket Source","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source get calendar event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"ticket_source get event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"get a ticket source event","expected_action_key":"ticket_source-get-event","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"contextual"}
+{"query":"Get Booking on Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Get Booking in Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source get booking","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Get Booking on ticket_source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"get the booking on Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"Ticket Source get the booking","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"retrieve booking on Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"Ticket Source retrieve booking","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"get booking via Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"get booking using Ticket Source","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"ticket_source get booking","expected_action_key":"ticket_source-get-booking","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"Create Customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Create Customer in Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Ticket Source create customer","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"Create Customer on ticket_source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"action_name"}
+{"query":"create a customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"make a customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"new customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"open a customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"start a customer on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"canonical"}
+{"query":"create customer via Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"create customer using Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"create customer with Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_prep"}
+{"query":"Ticket Source create a customer","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"Ticket Source make a customer","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"app_first"}
+{"query":"create account on Ticket Source","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"Ticket Source create account","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_target"}
+{"query":"ticket_source create customer","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"alt_app_name"}
+{"query":"create a ticket source customer","expected_action_key":"ticket_source-create-customer","expected_app_slug":"ticket_source","app_name":"Ticket Source","test_type":"contextual"}

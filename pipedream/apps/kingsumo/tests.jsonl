@@ -1,0 +1,18 @@
+{"query":"Get Giveaway on KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"Get Giveaway in KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"KingSumo get giveaway","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"get the giveaway on KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"canonical"}
+{"query":"KingSumo get the giveaway","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"app_first"}
+{"query":"retrieve giveaway on KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"canonical"}
+{"query":"KingSumo retrieve giveaway","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"app_first"}
+{"query":"get giveaway via KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"alt_prep"}
+{"query":"get giveaway using KingSumo","expected_action_key":"kingsumo-get-giveaway","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"alt_prep"}
+{"query":"List Contestants on KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"List Contestants in KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"KingSumo list contestants","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"action_name"}
+{"query":"list all contestants on KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"canonical"}
+{"query":"KingSumo list all contestants","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"app_first"}
+{"query":"show all contestants on KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"canonical"}
+{"query":"KingSumo show all contestants","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"app_first"}
+{"query":"list contestants via KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"alt_prep"}
+{"query":"list contestants using KingSumo","expected_action_key":"kingsumo-list-contestants","expected_app_slug":"kingsumo","app_name":"KingSumo","test_type":"alt_prep"}

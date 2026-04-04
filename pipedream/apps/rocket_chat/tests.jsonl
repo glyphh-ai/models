@@ -1,0 +1,41 @@
+{"query":"Set Status on Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Set Status in Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Rocket Chat set status","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Set Status on rocket_chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"set the status on Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"configure the status on Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"configure status on Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"set status via Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"set status using Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"set status with Rocket Chat","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"Rocket Chat set the status","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"Rocket Chat configure the status","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"rocket_chat set status","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_app_name"}
+{"query":"set a rocket chat status","expected_action_key":"rocket_chat-set-status","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"contextual"}
+{"query":"Send Direct Message on Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Send Direct Message in Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Rocket Chat send direct message","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Send Direct Message on rocket_chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"send a direct message on Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"Rocket Chat send a direct message","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"post a direct message on Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"Rocket Chat post a direct message","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"send direct message via Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"send direct message using Rocket Chat","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"rocket_chat send direct message","expected_action_key":"rocket_chat-send-direct-message","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_app_name"}
+{"query":"Create Channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Create Channel in Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Rocket Chat create channel","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"Create Channel on rocket_chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"action_name"}
+{"query":"create a channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"make a channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"new channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"open a channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"start a channel on Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"canonical"}
+{"query":"create channel via Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"create channel using Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"create channel with Rocket Chat","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_prep"}
+{"query":"Rocket Chat create a channel","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"Rocket Chat make a channel","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"app_first"}
+{"query":"rocket_chat create channel","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"alt_app_name"}
+{"query":"create a rocket chat channel","expected_action_key":"rocket_chat-create-channel","expected_app_slug":"rocket_chat","app_name":"Rocket Chat","test_type":"contextual"}

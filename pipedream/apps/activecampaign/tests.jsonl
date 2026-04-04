@@ -1,0 +1,222 @@
+{"query":"Update Deal on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Update Deal in ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign update deal","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"update the deal on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"edit the deal on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"modify the deal on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"change the deal on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"update deal via ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"update deal using ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"update deal with ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign update the deal","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign edit the deal","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"update opportunity on ActiveCampaign","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign update opportunity","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"update a activecampaign deal","expected_action_key":"activecampaign-update-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Tag Contact on ActiveCampaign","expected_action_key":"activecampaign-tag-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Tag Contact in ActiveCampaign","expected_action_key":"activecampaign-tag-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign tag contact","expected_action_key":"activecampaign-tag-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Remove Contact Tag on ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Remove Contact Tag in ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign remove contact tag","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"remove the contact tag on ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign remove the contact tag","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"take out contact tag on ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign take out contact tag","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"remove contact tag via ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"remove contact tag using ActiveCampaign","expected_action_key":"activecampaign-remove-tag-from-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"List Campaigns on ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"List Campaigns in ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign list campaigns","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"list all campaigns on ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign list all campaigns","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"show all campaigns on ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign show all campaigns","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"list campaigns via ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"list campaigns using ActiveCampaign","expected_action_key":"activecampaign-list-campaigns","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"List All Contacts on ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"List All Contacts in ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign list all contacts","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"list all all contacts on ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign list all all contacts","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"show all all contacts on ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign show all all contacts","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"list all contacts via ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"list all contacts using ActiveCampaign","expected_action_key":"activecampaign-list-all-contacts","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"Get Contact Tags on ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Get Contact Tags in ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign get contact tags","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"get the contact tags on ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign get the contact tags","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"retrieve contact tags on ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign retrieve contact tags","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get contact tags via ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get contact tags using ActiveCampaign","expected_action_key":"activecampaign-get-tags-for-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"Get Deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Get Deal in ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign get deal","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"get the deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"retrieve deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"fetch deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"show me the deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"pull deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"check deal on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"get deal via ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get deal using ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get deal with ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign get the deal","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign retrieve deal","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get opportunity on ActiveCampaign","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign get opportunity","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"get a activecampaign deal","expected_action_key":"activecampaign-get-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Get Contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Get Contact in ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign get contact","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"get the contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"retrieve contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"fetch contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"show me the contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"pull contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"check contact on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"get contact via ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get contact using ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get contact with ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign get the contact","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign retrieve contact","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get contact record on ActiveCampaign","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign get contact record","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"get a activecampaign contact","expected_action_key":"activecampaign-get-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Get contact by email on ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Get contact by email in ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign get contact by email","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"get contact email on ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign get contact email","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get the contact email on ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign get the contact email","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"retrieve contact email on ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign retrieve contact email","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get contact email in ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get contact email via ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get contact email using ActiveCampaign","expected_action_key":"activecampaign-get-contact-by-email","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"Get All Lists on ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Get All Lists in ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign get all lists","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"get the all lists on ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign get the all lists","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"retrieve all lists on ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign retrieve all lists","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"get all lists via ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"get all lists using ActiveCampaign","expected_action_key":"activecampaign-get-all-lists","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"Find Deal on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Find Deal in ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign find deal","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"search for deal on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"look for deal on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"search deal on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"locate deal on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"search for deal in ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for deal via ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for deal using ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for deal with ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign search for deal","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign look for deal","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"search for opportunity on ActiveCampaign","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign search for opportunity","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"search for a activecampaign deal","expected_action_key":"activecampaign-find-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Find Contact on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Find Contact in ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign find contact","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"search for contact on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"look for contact on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"search contact on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"locate contact on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"search for contact in ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for contact via ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for contact using ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"search for contact with ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign search for contact","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign look for contact","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"search for contact record on ActiveCampaign","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign search for contact record","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"search for a activecampaign contact","expected_action_key":"activecampaign-find-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Create Tracked Event on ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Create Tracked Event in ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign create tracked event","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"create a tracked event on ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign create a tracked event","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"make a tracked event on ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign make a tracked event","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"create tracked event via ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create tracked event using ActiveCampaign","expected_action_key":"activecampaign-create-tracked-event","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"Create Note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Create Note in ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign create note","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"create a note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"make a note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"new note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"open a note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"start a note on ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"create note via ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create note using ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create note with ActiveCampaign","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign create a note","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign make a note","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"create a activecampaign note","expected_action_key":"activecampaign-create-note","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Create Deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Create Deal in ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign create deal","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"create a deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"make a deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"new deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"open a deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"start a deal on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"create deal via ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create deal using ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create deal with ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign create a deal","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign make a deal","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"create opportunity on ActiveCampaign","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign create opportunity","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"create a activecampaign deal","expected_action_key":"activecampaign-create-deal","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Create Contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Create Contact in ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign create contact","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"create a contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"make a contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"new contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"open a contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"start a contact on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"create contact via ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create contact using ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create contact with ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign create a contact","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign make a contact","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"create contact record on ActiveCampaign","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"ActiveCampaign create contact record","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_target"}
+{"query":"create a activecampaign contact","expected_action_key":"activecampaign-create-contact","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Create Account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Create Account in ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign create account","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"create a account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"make a account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"new account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"open a account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"start a account on ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"create account via ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create account using ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"create account with ActiveCampaign","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"ActiveCampaign create a account","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"ActiveCampaign make a account","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"create a activecampaign account","expected_action_key":"activecampaign-create-account","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"contextual"}
+{"query":"Add Contact to Automation on ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"Add Contact to Automation in ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"ActiveCampaign add contact to automation","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"action_name"}
+{"query":"add contact automation on ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign add contact automation","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"add a contact automation on ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign add a contact automation","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"add new contact automation on ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"canonical"}
+{"query":"ActiveCampaign add new contact automation","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"app_first"}
+{"query":"add contact automation in ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"add contact automation via ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}
+{"query":"add contact automation using ActiveCampaign","expected_action_key":"activecampaign-add-contact-to-automation","expected_app_slug":"activecampaign","app_name":"ActiveCampaign","test_type":"alt_prep"}

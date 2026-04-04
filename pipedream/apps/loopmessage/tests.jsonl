@@ -1,0 +1,22 @@
+{"query":"Send Text Message on LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"Send Text Message in LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"LoopMessage send text message","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"send a text message on LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"LoopMessage send a text message","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"app_first"}
+{"query":"post a text message on LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"LoopMessage post a text message","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"app_first"}
+{"query":"send text message via LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"alt_prep"}
+{"query":"send text message using LoopMessage","expected_action_key":"loopmessage-send-text-message","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"alt_prep"}
+{"query":"Send Reaction on LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"Send Reaction in LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"LoopMessage send reaction","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"action_name"}
+{"query":"send a reaction on LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"post a reaction on LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"send out reaction on LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"fire off reaction on LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"canonical"}
+{"query":"send reaction via LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"alt_prep"}
+{"query":"send reaction using LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"alt_prep"}
+{"query":"send reaction with LoopMessage","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"alt_prep"}
+{"query":"LoopMessage send a reaction","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"app_first"}
+{"query":"LoopMessage post a reaction","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"app_first"}
+{"query":"send a loopmessage reaction","expected_action_key":"loopmessage-send-reaction","expected_app_slug":"loopmessage","app_name":"LoopMessage","test_type":"contextual"}

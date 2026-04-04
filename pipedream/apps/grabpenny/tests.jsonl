@@ -1,0 +1,14 @@
+{"query":"Create Campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"action_name"}
+{"query":"Create Campaign in GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"action_name"}
+{"query":"GrabPenny create campaign","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"action_name"}
+{"query":"create a campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"canonical"}
+{"query":"make a campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"canonical"}
+{"query":"new campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"canonical"}
+{"query":"open a campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"canonical"}
+{"query":"start a campaign on GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"canonical"}
+{"query":"create campaign via GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"alt_prep"}
+{"query":"create campaign using GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"alt_prep"}
+{"query":"create campaign with GrabPenny","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"alt_prep"}
+{"query":"GrabPenny create a campaign","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"app_first"}
+{"query":"GrabPenny make a campaign","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"app_first"}
+{"query":"create a grabpenny campaign","expected_action_key":"grabpenny-create-campaign","expected_app_slug":"grabpenny","app_name":"GrabPenny","test_type":"contextual"}

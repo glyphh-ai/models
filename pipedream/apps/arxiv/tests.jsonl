@@ -1,0 +1,12 @@
+{"query":"Search Articles on arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"action_name"}
+{"query":"Search Articles in arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"action_name"}
+{"query":"arXiv search articles","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"action_name"}
+{"query":"search for articles on arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"canonical"}
+{"query":"arXiv search for articles","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"app_first"}
+{"query":"find articles on arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"canonical"}
+{"query":"arXiv find articles","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"app_first"}
+{"query":"look for articles on arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"canonical"}
+{"query":"arXiv look for articles","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"app_first"}
+{"query":"search for articles in arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"alt_prep"}
+{"query":"search for articles via arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"alt_prep"}
+{"query":"search for articles using arXiv","expected_action_key":"arxiv-search-articles","expected_app_slug":"arxiv","app_name":"arXiv","test_type":"alt_prep"}

@@ -1,0 +1,16 @@
+{"query":"Create Task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"action_name"}
+{"query":"Create Task in KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"action_name"}
+{"query":"KanbanFlow create task","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"action_name"}
+{"query":"create a task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"canonical"}
+{"query":"make a task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"canonical"}
+{"query":"new task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"canonical"}
+{"query":"open a task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"canonical"}
+{"query":"start a task on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"canonical"}
+{"query":"create task via KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"alt_prep"}
+{"query":"create task using KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"alt_prep"}
+{"query":"create task with KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"alt_prep"}
+{"query":"KanbanFlow create a task","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"app_first"}
+{"query":"KanbanFlow make a task","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"app_first"}
+{"query":"create story on KanbanFlow","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"alt_target"}
+{"query":"KanbanFlow create story","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"alt_target"}
+{"query":"create a kanbanflow task","expected_action_key":"kanbanflow-create-task","expected_app_slug":"kanbanflow","app_name":"KanbanFlow","test_type":"contextual"}

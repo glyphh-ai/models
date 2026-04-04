@@ -1,0 +1,75 @@
+{"query":"Update Order on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Update Order in Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware update order","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"update the order on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"edit the order on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"modify the order on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"change the order on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"update order via Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"update order using Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"update order with Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"Shopware update the order","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"Shopware edit the order","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"update purchase on Shopware","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"Shopware update purchase","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"update a shopware order","expected_action_key":"shopware-update-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"contextual"}
+{"query":"List Shipping Methods on Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"List Shipping Methods in Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware list shipping methods","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"list all shipping methods on Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware list all shipping methods","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"show all shipping methods on Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware show all shipping methods","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"list shipping methods via Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"list shipping methods using Shopware","expected_action_key":"shopware-list-shipping-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"List Payment Methods on Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"List Payment Methods in Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware list payment methods","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"list all payment methods on Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware list all payment methods","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"show all payment methods on Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware show all payment methods","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"list payment methods via Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"list payment methods using Shopware","expected_action_key":"shopware-list-payment-methods","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"List Orders on Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"List Orders in Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware list orders","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"list all orders on Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware list all orders","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"show all orders on Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"Shopware show all orders","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"list orders via Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"list orders using Shopware","expected_action_key":"shopware-list-orders","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"Get Order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Get Order in Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware get order","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"get the order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"retrieve order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"fetch order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"show me the order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"pull order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"check order on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"get order via Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"get order using Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"get order with Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"Shopware get the order","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"Shopware retrieve order","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"get purchase on Shopware","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"Shopware get purchase","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"get a shopware order","expected_action_key":"shopware-get-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"contextual"}
+{"query":"Create Order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Create Order in Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"Shopware create order","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"action_name"}
+{"query":"create a order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"make a order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"new order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"open a order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"start a order on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"canonical"}
+{"query":"create order via Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"create order using Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"create order with Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_prep"}
+{"query":"Shopware create a order","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"Shopware make a order","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"app_first"}
+{"query":"create purchase on Shopware","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"Shopware create purchase","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"alt_target"}
+{"query":"create a shopware order","expected_action_key":"shopware-create-order","expected_app_slug":"shopware","app_name":"Shopware","test_type":"contextual"}

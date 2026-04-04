@@ -1,0 +1,161 @@
+{"query":"Update Channel on Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Update Channel in Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch update channel","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"update the channel on Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"edit the channel on Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"modify the channel on Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"change the channel on Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"update channel via Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"update channel using Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"update channel with Twitch","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Twitch update the channel","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"Twitch edit the channel","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"update a twitch channel","expected_action_key":"twitch-update-channel","expected_app_slug":"twitch","app_name":"Twitch","test_type":"contextual"}
+{"query":"Unblock User on Twitch","expected_action_key":"twitch-unblock-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Unblock User in Twitch","expected_action_key":"twitch-unblock-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch unblock user","expected_action_key":"twitch-unblock-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Search Games on Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Search Games in Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch search games","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"search for games on Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch search for games","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"find games on Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch find games","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"look for games on Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch look for games","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"search for games in Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"search for games via Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"search for games using Twitch","expected_action_key":"twitch-search-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Search Channels on Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Search Channels in Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch search channels","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"search for channels on Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"find channels on Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"look for channels on Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"locate channels on Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"search for channels in Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"search for channels via Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"search for channels using Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"search for channels with Twitch","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Twitch search for channels","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"Twitch find channels","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"Twitch look for channels","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"search for a twitch channels","expected_action_key":"twitch-search-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"contextual"}
+{"query":"Get Videos on Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Videos in Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get videos","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the videos on Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the videos","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve videos on Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve videos","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get videos via Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get videos using Twitch","expected_action_key":"twitch-get-videos","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Users in Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get users","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"retrieve users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"fetch users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"show me the users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"pull users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"check users on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"get users via Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get users using Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get users with Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Twitch get the users","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"Twitch retrieve users","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get member on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_target"}
+{"query":"Twitch get member","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_target"}
+{"query":"get person on Twitch","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_target"}
+{"query":"Twitch get person","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_target"}
+{"query":"get a twitch users","expected_action_key":"twitch-get-users","expected_app_slug":"twitch","app_name":"Twitch","test_type":"contextual"}
+{"query":"Get Top Games on Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Top Games in Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get top games","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the top games on Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the top games","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve top games on Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve top games","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get top games via Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get top games using Twitch","expected_action_key":"twitch-get-top-games","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Stream By User on Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Stream By User in Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get stream by user","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get stream user on Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get stream user","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get the stream user on Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the stream user","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve stream user on Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve stream user","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get stream user in Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get stream user via Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get stream user using Twitch","expected_action_key":"twitch-get-stream-by-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Followed Channels on Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Followed Channels in Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get followed channels","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the followed channels on Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the followed channels","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve followed channels on Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve followed channels","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get followed channels via Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get followed channels using Twitch","expected_action_key":"twitch-get-followed-channels","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Clips on Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Clips in Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get clips","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the clips on Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the clips","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve clips on Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve clips","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get clips via Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get clips using Twitch","expected_action_key":"twitch-get-clips","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Channel Teams on Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Channel Teams in Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get channel teams","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the channel teams on Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the channel teams","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve channel teams on Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve channel teams","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get channel teams via Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get channel teams using Twitch","expected_action_key":"twitch-get-channel-teams","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Channel Information on Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Channel Information in Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get channel information","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the channel information on Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the channel information","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve channel information on Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve channel information","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get channel information via Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get channel information using Twitch","expected_action_key":"twitch-get-channel-information","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Channel Followers on Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Channel Followers in Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get channel followers","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the channel followers on Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the channel followers","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve channel followers on Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve channel followers","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get channel followers via Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get channel followers using Twitch","expected_action_key":"twitch-get-channel-followers","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Get Channel Editors on Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Get Channel Editors in Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch get channel editors","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"get the channel editors on Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch get the channel editors","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"retrieve channel editors on Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch retrieve channel editors","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"get channel editors via Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"get channel editors using Twitch","expected_action_key":"twitch-get-channel-editors","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Delete Video on Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Delete Video in Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch delete video","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"delete the video on Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch delete the video","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"remove the video on Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"canonical"}
+{"query":"Twitch remove the video","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"app_first"}
+{"query":"delete video via Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"delete video using Twitch","expected_action_key":"twitch-delete-video","expected_app_slug":"twitch","app_name":"Twitch","test_type":"alt_prep"}
+{"query":"Check Channel Subscription on Twitch","expected_action_key":"twitch-check-channel-subscription","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Check Channel Subscription in Twitch","expected_action_key":"twitch-check-channel-subscription","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch check channel subscription","expected_action_key":"twitch-check-channel-subscription","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Block User on Twitch","expected_action_key":"twitch-block-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Block User in Twitch","expected_action_key":"twitch-block-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}
+{"query":"Twitch block user","expected_action_key":"twitch-block-user","expected_app_slug":"twitch","app_name":"Twitch","test_type":"action_name"}

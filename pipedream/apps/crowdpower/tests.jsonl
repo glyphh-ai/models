@@ -1,0 +1,21 @@
+{"query":"Upsert Customer on CrowdPower","expected_action_key":"crowdpower-upsert-customer","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"Upsert Customer in CrowdPower","expected_action_key":"crowdpower-upsert-customer","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"CrowdPower upsert customer","expected_action_key":"crowdpower-upsert-customer","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"Create Customer Event on CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"Create Customer Event in CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"CrowdPower create customer event","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"create a customer event on CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"canonical"}
+{"query":"CrowdPower create a customer event","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"app_first"}
+{"query":"make a customer event on CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"canonical"}
+{"query":"CrowdPower make a customer event","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"app_first"}
+{"query":"create customer event via CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"alt_prep"}
+{"query":"create customer event using CrowdPower","expected_action_key":"crowdpower-create-customer-event","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"alt_prep"}
+{"query":"Create Customer Charge on CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"Create Customer Charge in CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"CrowdPower create customer charge","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"action_name"}
+{"query":"create a customer charge on CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"canonical"}
+{"query":"CrowdPower create a customer charge","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"app_first"}
+{"query":"make a customer charge on CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"canonical"}
+{"query":"CrowdPower make a customer charge","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"app_first"}
+{"query":"create customer charge via CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"alt_prep"}
+{"query":"create customer charge using CrowdPower","expected_action_key":"crowdpower-create-customer-charge","expected_app_slug":"crowdpower","app_name":"CrowdPower","test_type":"alt_prep"}

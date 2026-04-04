@@ -1,0 +1,9 @@
+{"query":"Create Shortened URL on L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"action_name"}
+{"query":"Create Shortened URL in L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"action_name"}
+{"query":"L2S create shortened url","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"action_name"}
+{"query":"create a shortened url on L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"canonical"}
+{"query":"L2S create a shortened url","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"app_first"}
+{"query":"make a shortened url on L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"canonical"}
+{"query":"L2S make a shortened url","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"app_first"}
+{"query":"create shortened url via L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"alt_prep"}
+{"query":"create shortened url using L2S","expected_action_key":"l2s-create-shortened-url","expected_app_slug":"l2s","app_name":"L2S","test_type":"alt_prep"}

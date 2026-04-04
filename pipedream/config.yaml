@@ -1,0 +1,140 @@
+# Pipedream Action Router
+# Dynamic HDC model that auto-builds from the Pipedream registry.
+# Routes NL requests to the correct Pipedream action across 3,000+ apps,
+# extracts required parameters, and executes via Pipedream Connect SDK.
+#
+# Two-stage pipeline:
+#   Stage 1: NL query → HDC similarity → best-matching action exemplar
+#   Stage 2: Validate required props → DONE (execute) or ASK (missing params)
+
+name: pipedream-action-router
+version: 0.1.0
+description: |
+  Routes natural language requests to Pipedream actions across 3,000+ APIs.
+  Exemplars are auto-generated from the Pipedream registry at build time.
+  At query time, HDC similarity selects the best action, validates required
+  parameters, and either executes via Pipedream Connect or asks for missing
+  information. Sub-millisecond routing, zero LLM calls.
+
+author: Glyphh AI
+license: Glyphh Commercial
+
+encoder:
+  dimensions: 10000
+  seed: 42
+
+auto_load_concepts: true
+
+tests:
+  file: tests.py
+  directory: tests/
+  data: tests/test-concepts.json
+
+layers:
+  intent:
+    weight: 0.4
+    roles:
+      action:
+        type: categorical
+        values:
+          - send
+          - search
+          - create
+          - get
+          - list
+          - update
+          - delete
+          - reply
+          - share
+          - upload
+          - track
+          - add
+          - remove
+          - set
+          - subscribe
+          - unsubscribe
+          - charge
+          - refund
+          - cancel
+          - invite
+          - assign
+          - comment
+          - export
+          - import
+          - sync
+          - trigger
+          - schedule
+          - none
+
+      target:
+        type: categorical
+        weight: 0.7
+
+      domain:
+        type: categorical
+        weight: 0.8
+        values:
+          - messaging
+          - email
+          - crm
+          - payments
+          - calendar
+          - files
+          - tickets
+          - analytics
+          - developer
+          - social
+          - marketing
+          - database
+          - ai
+          - productivity
+          - hr
+          - ecommerce
+          - none
+
+  semantics:
+    weight: 0.6
+    roles:
+      description:
+        type: bag_of_words
+      keywords:
+        type: bag_of_words
+        weight: 0.8
+
+similarity:
+  threshold: 0.40
+  top_k: 5
+  default_filter:
+    record_type: pattern
+
+disambiguation:
+  min_gap: 0.03
+
+# CognitiveLoop: adds episodic memory, slot extraction, confidence blending
+# Disabled by default — enable when feedback loop (confirm tool) is wired in.
+cognitive_loop:
+  enabled: false
+  dimension: 2000
+  confidence_threshold: 0.25
+
+# Execution provider: bolt-on action execution via Pipedream Connect SDK.
+# Requires env vars: PIPEDREAM_CLIENT_ID, PIPEDREAM_CLIENT_SECRET, PIPEDREAM_PROJECT_ID
+execute:
+  provider: pipedream
+  environment: production  # or "development" for sandbox
+
+# Pipedream Connect configuration
+pipedream:
+  # Registry cache TTL in hours (re-pull action catalog)
+  registry_ttl_hours: 24
+  # Max actions to encode per app (0 = all)
+  max_actions_per_app: 0
+  # Apps to exclude from auto-discovery (internal/deprecated)
+  exclude_apps: []
+  # Action execution timeout in seconds
+  execution_timeout: 30
+
+# Pattern-only model: the matched exemplar IS the action.
+# No gql_query_default — Stage 2 is not needed because all records are
+# patterns (record_type: pattern).  Execution happens via Pipedream Connect
+# after the match, not via GQL.

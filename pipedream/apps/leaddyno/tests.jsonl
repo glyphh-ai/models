@@ -1,0 +1,52 @@
+{"query":"Retrieve Lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"Retrieve Lead in LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"LeadDyno retrieve lead","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"get lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"get the lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"fetch lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"show me the lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"pull lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"check lead on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"get lead in LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"get lead via LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"get lead using LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"get lead with LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"LeadDyno get lead","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"LeadDyno get the lead","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"get contact record on LeadDyno","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_target"}
+{"query":"LeadDyno get contact record","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_target"}
+{"query":"get a leaddyno lead","expected_action_key":"leaddyno-retrieve-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"contextual"}
+{"query":"Create Purchase on LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"Create Purchase in LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"LeadDyno create purchase","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"create a purchase on LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"LeadDyno create a purchase","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"make a purchase on LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"LeadDyno make a purchase","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"create purchase via LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"create purchase using LeadDyno","expected_action_key":"leaddyno-create-purchase","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"Create Lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"Create Lead in LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"LeadDyno create lead","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"create a lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"make a lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"new lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"open a lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"start a lead on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"create lead via LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"create lead using LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"create lead with LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"LeadDyno create a lead","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"LeadDyno make a lead","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"create contact record on LeadDyno","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_target"}
+{"query":"LeadDyno create contact record","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_target"}
+{"query":"create a leaddyno lead","expected_action_key":"leaddyno-create-lead","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"contextual"}
+{"query":"Create Affiliate on LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"Create Affiliate in LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"LeadDyno create affiliate","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"action_name"}
+{"query":"create a affiliate on LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"LeadDyno create a affiliate","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"make a affiliate on LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"canonical"}
+{"query":"LeadDyno make a affiliate","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"app_first"}
+{"query":"create affiliate via LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}
+{"query":"create affiliate using LeadDyno","expected_action_key":"leaddyno-create-affiliate","expected_app_slug":"leaddyno","app_name":"LeadDyno","test_type":"alt_prep"}

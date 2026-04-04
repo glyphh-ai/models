@@ -1,0 +1,28 @@
+{"query":"Run Test on TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"Run Test in TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"TestLocally run test","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"trigger test on TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally trigger test","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"execute test on TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally execute test","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"trigger test in TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"trigger test via TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"trigger test using TestLocally","expected_action_key":"testlocally-run-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"List Tests on TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"List Tests in TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"TestLocally list tests","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"list all tests on TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally list all tests","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"show all tests on TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally show all tests","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"list tests via TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"list tests using TestLocally","expected_action_key":"testlocally-list-tests","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"Get Test on TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"Get Test in TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"TestLocally get test","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"action_name"}
+{"query":"get the test on TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally get the test","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"retrieve test on TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"canonical"}
+{"query":"TestLocally retrieve test","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"app_first"}
+{"query":"get test via TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}
+{"query":"get test using TestLocally","expected_action_key":"testlocally-get-test","expected_app_slug":"testlocally","app_name":"TestLocally","test_type":"alt_prep"}

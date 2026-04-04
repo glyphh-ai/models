@@ -1,0 +1,16 @@
+{"query":"Create Lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"action_name"}
+{"query":"Create Lead in RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"action_name"}
+{"query":"RealGeeks create lead","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"action_name"}
+{"query":"create a lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"canonical"}
+{"query":"make a lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"canonical"}
+{"query":"new lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"canonical"}
+{"query":"open a lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"canonical"}
+{"query":"start a lead on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"canonical"}
+{"query":"create lead via RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"alt_prep"}
+{"query":"create lead using RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"alt_prep"}
+{"query":"create lead with RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"alt_prep"}
+{"query":"RealGeeks create a lead","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"app_first"}
+{"query":"RealGeeks make a lead","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"app_first"}
+{"query":"create contact record on RealGeeks","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"alt_target"}
+{"query":"RealGeeks create contact record","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"alt_target"}
+{"query":"create a realgeeks lead","expected_action_key":"realgeeks-create-lead","expected_app_slug":"realgeeks","app_name":"RealGeeks","test_type":"contextual"}

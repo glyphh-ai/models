@@ -1,0 +1,33 @@
+{"query":"Upsert Point on Qdrant","expected_action_key":"qdrant-upsert-point","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Upsert Point in Qdrant","expected_action_key":"qdrant-upsert-point","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Qdrant upsert point","expected_action_key":"qdrant-upsert-point","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Search Points on Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Search Points in Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Qdrant search points","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"search for points on Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant search for points","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"find points on Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant find points","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"look for points on Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant look for points","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"search for points in Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"search for points via Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"search for points using Qdrant","expected_action_key":"qdrant-search-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"Get Points on Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Get Points in Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Qdrant get points","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"get the points on Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant get the points","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"retrieve points on Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant retrieve points","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"get points via Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"get points using Qdrant","expected_action_key":"qdrant-get-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"Delete Points on Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Delete Points in Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"Qdrant delete points","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"action_name"}
+{"query":"delete the points on Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant delete the points","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"remove the points on Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"canonical"}
+{"query":"Qdrant remove the points","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"app_first"}
+{"query":"delete points via Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}
+{"query":"delete points using Qdrant","expected_action_key":"qdrant-delete-points","expected_app_slug":"qdrant","app_name":"Qdrant","test_type":"alt_prep"}

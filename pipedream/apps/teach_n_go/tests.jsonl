@@ -1,0 +1,33 @@
+{"query":"Create Student on Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Student in Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Teach 'n Go create student","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Student on Teach N Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Student on teach_n_go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"create a student on Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"Teach 'n Go create a student","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"app_first"}
+{"query":"make a student on Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"Teach 'n Go make a student","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"app_first"}
+{"query":"create student via Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_prep"}
+{"query":"create student using Teach 'n Go","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_prep"}
+{"query":"Teach N Go create student","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_app_name"}
+{"query":"teach_n_go create student","expected_action_key":"teach_n_go-create-student","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_app_name"}
+{"query":"Create Prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Prospect in Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Teach 'n Go create prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Prospect on Teach N Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"Create Prospect on teach_n_go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"action_name"}
+{"query":"create a prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"make a prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"new prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"open a prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"start a prospect on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"canonical"}
+{"query":"create prospect via Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_prep"}
+{"query":"create prospect using Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_prep"}
+{"query":"create prospect with Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_prep"}
+{"query":"Teach 'n Go create a prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"app_first"}
+{"query":"Teach 'n Go make a prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"app_first"}
+{"query":"create contact record on Teach 'n Go","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_target"}
+{"query":"Teach 'n Go create contact record","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_target"}
+{"query":"Teach N Go create prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_app_name"}
+{"query":"teach_n_go create prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"alt_app_name"}
+{"query":"create a teach 'n go prospect","expected_action_key":"teach_n_go-create-prospect","expected_app_slug":"teach_n_go","app_name":"Teach 'n Go","test_type":"contextual"}

@@ -1,0 +1,25 @@
+{"query":"Create Lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"Create Lead in Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"Hyros create lead","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"create a lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"make a lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"new lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"open a lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"start a lead on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"create lead via Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_prep"}
+{"query":"create lead using Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_prep"}
+{"query":"create lead with Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_prep"}
+{"query":"Hyros create a lead","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"app_first"}
+{"query":"Hyros make a lead","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"app_first"}
+{"query":"create contact record on Hyros","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_target"}
+{"query":"Hyros create contact record","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_target"}
+{"query":"create a hyros lead","expected_action_key":"hyros-create-lead","expected_app_slug":"hyros","app_name":"Hyros","test_type":"contextual"}
+{"query":"Create Call on Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"Create Call in Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"Hyros create call","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"action_name"}
+{"query":"create a call on Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"Hyros create a call","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"app_first"}
+{"query":"make a call on Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"canonical"}
+{"query":"Hyros make a call","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"app_first"}
+{"query":"create call via Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_prep"}
+{"query":"create call using Hyros","expected_action_key":"hyros-create-call","expected_app_slug":"hyros","app_name":"Hyros","test_type":"alt_prep"}

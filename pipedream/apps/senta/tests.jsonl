@@ -1,0 +1,31 @@
+{"query":"Update Client on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"Update Client in Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"Senta update client","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"update the client on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"edit the client on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"modify the client on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"change the client on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"update client via Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"update client using Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"update client with Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"Senta update the client","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"app_first"}
+{"query":"Senta edit the client","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"app_first"}
+{"query":"update account on Senta","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_target"}
+{"query":"Senta update account","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_target"}
+{"query":"update a senta client","expected_action_key":"senta-update-client","expected_app_slug":"senta","app_name":"Senta","test_type":"contextual"}
+{"query":"Create Client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"Create Client in Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"Senta create client","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"action_name"}
+{"query":"create a client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"make a client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"new client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"open a client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"start a client on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"canonical"}
+{"query":"create client via Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"create client using Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"create client with Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_prep"}
+{"query":"Senta create a client","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"app_first"}
+{"query":"Senta make a client","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"app_first"}
+{"query":"create account on Senta","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_target"}
+{"query":"Senta create account","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"alt_target"}
+{"query":"create a senta client","expected_action_key":"senta-create-client","expected_app_slug":"senta","app_name":"Senta","test_type":"contextual"}

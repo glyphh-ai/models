@@ -1,0 +1,56 @@
+{"query":"List Policies on Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"List Policies in Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Expensify list policies","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"list all policies on Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify list all policies","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"show all policies on Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify show all policies","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"list policies via Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"list policies using Expensify","expected_action_key":"expensify-list-policies","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"Export Report on Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Export Report in Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Expensify export report","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"export the report on Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"download report on Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"download the report on Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"export report via Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"export report using Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"export report with Expensify","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"Expensify export the report","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"Expensify download report","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"export a expensify report","expected_action_key":"expensify-export-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"contextual"}
+{"query":"Export Report To PDF on Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Export Report To PDF in Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Expensify export report to pdf","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"export report pdf on Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify export report pdf","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"export the report pdf on Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify export the report pdf","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"download report pdf on Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify download report pdf","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"export report pdf in Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"export report pdf via Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"export report pdf using Expensify","expected_action_key":"expensify-export-report-to-pdf","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"Create Report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Create Report in Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Expensify create report","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"create a report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"make a report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"new report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"open a report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"start a report on Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"create report via Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"create report using Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"create report with Expensify","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"Expensify create a report","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"Expensify make a report","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"create a expensify report","expected_action_key":"expensify-create-report","expected_app_slug":"expensify","app_name":"Expensify","test_type":"contextual"}
+{"query":"Create Expense on Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Create Expense in Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"Expensify create expense","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"action_name"}
+{"query":"create a expense on Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify create a expense","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"make a expense on Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"canonical"}
+{"query":"Expensify make a expense","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"app_first"}
+{"query":"create expense via Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}
+{"query":"create expense using Expensify","expected_action_key":"expensify-create-expense","expected_app_slug":"expensify","app_name":"Expensify","test_type":"alt_prep"}

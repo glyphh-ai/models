@@ -1,0 +1,27 @@
+{"query":"List Datasets on Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"List Datasets in Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"Sigma list datasets","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"list all datasets on Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma list all datasets","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"show all datasets on Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma show all datasets","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"list datasets via Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}
+{"query":"list datasets using Sigma","expected_action_key":"sigma-list-datasets","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}
+{"query":"Create Workbook on Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"Create Workbook in Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"Sigma create workbook","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"create a workbook on Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma create a workbook","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"make a workbook on Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma make a workbook","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"create workbook via Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}
+{"query":"create workbook using Sigma","expected_action_key":"sigma-create-workbook","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}
+{"query":"Create Team on Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"Create Team in Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"Sigma create team","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"action_name"}
+{"query":"create a team on Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma create a team","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"make a team on Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"canonical"}
+{"query":"Sigma make a team","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"app_first"}
+{"query":"create team via Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}
+{"query":"create team using Sigma","expected_action_key":"sigma-create-team","expected_app_slug":"sigma","app_name":"Sigma","test_type":"alt_prep"}

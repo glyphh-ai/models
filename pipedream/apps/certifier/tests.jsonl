@@ -1,0 +1,12 @@
+{"query":"Issue Credential on Certifier","expected_action_key":"certifier-issue-credential","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"Issue Credential in Certifier","expected_action_key":"certifier-issue-credential","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"Certifier issue credential","expected_action_key":"certifier-issue-credential","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"Create Group on Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"Create Group in Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"Certifier create group","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"action_name"}
+{"query":"create a group on Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"canonical"}
+{"query":"Certifier create a group","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"app_first"}
+{"query":"make a group on Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"canonical"}
+{"query":"Certifier make a group","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"app_first"}
+{"query":"create group via Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"alt_prep"}
+{"query":"create group using Certifier","expected_action_key":"certifier-create-group","expected_app_slug":"certifier","app_name":"Certifier","test_type":"alt_prep"}

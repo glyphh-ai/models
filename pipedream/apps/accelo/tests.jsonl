@@ -1,0 +1,56 @@
+{"query":"Update Contact on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Update Contact in Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Accelo update contact","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"update the contact on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"edit the contact on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"modify the contact on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"change the contact on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"update contact via Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"update contact using Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"update contact with Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"Accelo update the contact","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"Accelo edit the contact","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"update contact record on Accelo","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"Accelo update contact record","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"update a accelo contact","expected_action_key":"accelo-update-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"contextual"}
+{"query":"Create Request on Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Create Request in Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Accelo create request","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"create a request on Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"Accelo create a request","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"make a request on Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"Accelo make a request","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"create request via Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"create request using Accelo","expected_action_key":"accelo-create-request","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"Create Prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Create Prospect in Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Accelo create prospect","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"create a prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"make a prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"new prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"open a prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"start a prospect on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"create prospect via Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"create prospect using Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"create prospect with Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"Accelo create a prospect","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"Accelo make a prospect","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"create contact record on Accelo","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"Accelo create contact record","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"create a accelo prospect","expected_action_key":"accelo-create-prospect","expected_app_slug":"accelo","app_name":"Accelo","test_type":"contextual"}
+{"query":"Create Contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Create Contact in Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"Accelo create contact","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"action_name"}
+{"query":"create a contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"make a contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"new contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"open a contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"start a contact on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"canonical"}
+{"query":"create contact via Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"create contact using Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"create contact with Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_prep"}
+{"query":"Accelo create a contact","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"Accelo make a contact","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"app_first"}
+{"query":"create contact record on Accelo","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"Accelo create contact record","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"alt_target"}
+{"query":"create a accelo contact","expected_action_key":"accelo-create-contact","expected_app_slug":"accelo","app_name":"Accelo","test_type":"contextual"}

@@ -1,0 +1,35 @@
+{"query":"List Jobs on Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"List Jobs in Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"Taleez list jobs","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"list all jobs on Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"Taleez list all jobs","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"show all jobs on Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"Taleez show all jobs","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"list jobs via Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"list jobs using Taleez","expected_action_key":"taleez-list-jobs","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"Create Candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"Create Candidate in Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"Taleez create candidate","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"create a candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"make a candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"new candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"open a candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"start a candidate on Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"create candidate via Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"create candidate using Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"create candidate with Taleez","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"Taleez create a candidate","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"Taleez make a candidate","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"create a taleez candidate","expected_action_key":"taleez-create-candidate","expected_app_slug":"taleez","app_name":"Taleez","test_type":"contextual"}
+{"query":"Add Candidate to Job on Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"Add Candidate to Job in Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"Taleez add candidate to job","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"action_name"}
+{"query":"add candidate job on Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"Taleez add candidate job","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"add a candidate job on Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"Taleez add a candidate job","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"add new candidate job on Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"canonical"}
+{"query":"Taleez add new candidate job","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"app_first"}
+{"query":"add candidate job in Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"add candidate job via Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}
+{"query":"add candidate job using Taleez","expected_action_key":"taleez-add-candidate-to-job","expected_app_slug":"taleez","app_name":"Taleez","test_type":"alt_prep"}

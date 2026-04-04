@@ -1,0 +1,43 @@
+{"query":"List Templates on TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"List Templates in TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"TemplateDocs list templates","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"list all templates on TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"show all templates on TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"get all templates on TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"show me all templates on TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"list templates via TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"list templates using TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"list templates with TemplateDocs","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"TemplateDocs list all templates","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"TemplateDocs show all templates","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"list a templatedocs templates","expected_action_key":"templatedocs-list-templates","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"contextual"}
+{"query":"Get Template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"Get Template in TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"TemplateDocs get template","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"get the template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"retrieve template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"fetch template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"show me the template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"pull template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"check template on TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"get template via TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"get template using TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"get template with TemplateDocs","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"TemplateDocs get the template","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"TemplateDocs retrieve template","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"get a templatedocs template","expected_action_key":"templatedocs-get-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"contextual"}
+{"query":"Generate Document on TemplateDocs","expected_action_key":"templatedocs-generate-document","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"Generate Document in TemplateDocs","expected_action_key":"templatedocs-generate-document","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"TemplateDocs generate document","expected_action_key":"templatedocs-generate-document","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"Delete Template on TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"Delete Template in TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"TemplateDocs delete template","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"action_name"}
+{"query":"delete the template on TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"remove the template on TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"destroy the template on TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"canonical"}
+{"query":"delete template via TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"delete template using TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"delete template with TemplateDocs","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"alt_prep"}
+{"query":"TemplateDocs delete the template","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"TemplateDocs remove the template","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"app_first"}
+{"query":"delete a templatedocs template","expected_action_key":"templatedocs-delete-template","expected_app_slug":"templatedocs","app_name":"TemplateDocs","test_type":"contextual"}

@@ -1,0 +1,52 @@
+{"query":"Update Task on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Update Task in Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Hostaway update task","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"update the task on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"edit the task on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"modify the task on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"change the task on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"update task via Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"update task using Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"update task with Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"Hostaway update the task","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"Hostaway edit the task","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"update story on Hostaway","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_target"}
+{"query":"Hostaway update story","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_target"}
+{"query":"update a hostaway task","expected_action_key":"hostaway-update-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"contextual"}
+{"query":"Send Message To Guest on Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Send Message To Guest in Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Hostaway send message to guest","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"send message guest on Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"Hostaway send message guest","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"send a message guest on Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"Hostaway send a message guest","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"post a message guest on Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"Hostaway post a message guest","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"send message guest in Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"send message guest via Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"send message guest using Hostaway","expected_action_key":"hostaway-send-message-to-guest","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"Create Task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Create Task in Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Hostaway create task","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"create a task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"make a task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"new task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"open a task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"start a task on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"create task via Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"create task using Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"create task with Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"Hostaway create a task","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"Hostaway make a task","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"create story on Hostaway","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_target"}
+{"query":"Hostaway create story","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_target"}
+{"query":"create a hostaway task","expected_action_key":"hostaway-create-task","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"contextual"}
+{"query":"Create Reservation on Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Create Reservation in Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"Hostaway create reservation","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"action_name"}
+{"query":"create a reservation on Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"Hostaway create a reservation","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"make a reservation on Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"canonical"}
+{"query":"Hostaway make a reservation","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"app_first"}
+{"query":"create reservation via Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}
+{"query":"create reservation using Hostaway","expected_action_key":"hostaway-create-reservation","expected_app_slug":"hostaway","app_name":"Hostaway","test_type":"alt_prep"}

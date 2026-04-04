@@ -1,0 +1,15 @@
+{"query":"New Deployment on New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"action_name"}
+{"query":"New Deployment in New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"action_name"}
+{"query":"New Relic new deployment","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"action_name"}
+{"query":"New Deployment on new_relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"action_name"}
+{"query":"create deployment on New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"canonical"}
+{"query":"New Relic create deployment","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"app_first"}
+{"query":"create a deployment on New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"canonical"}
+{"query":"New Relic create a deployment","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"app_first"}
+{"query":"make a deployment on New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"canonical"}
+{"query":"New Relic make a deployment","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"app_first"}
+{"query":"create deployment in New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"alt_prep"}
+{"query":"create deployment via New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"alt_prep"}
+{"query":"create deployment using New Relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"alt_prep"}
+{"query":"create deployment on new_relic","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"alt_app_name"}
+{"query":"new_relic create deployment","expected_action_key":"new_relic-new-deployment","expected_app_slug":"new_relic","app_name":"New Relic","test_type":"alt_app_name"}

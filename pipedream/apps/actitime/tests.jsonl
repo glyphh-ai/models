@@ -1,0 +1,44 @@
+{"query":"Modify Leave Time on actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"Modify Leave Time in actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"actiTIME modify leave time","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"update leave time on actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"actiTIME update leave time","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"update the leave time on actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"actiTIME update the leave time","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"edit the leave time on actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"actiTIME edit the leave time","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"update leave time in actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"update leave time via actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"update leave time using actiTIME","expected_action_key":"actitime-modify-leave-time","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"Create Task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"Create Task in actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"actiTIME create task","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"create a task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"make a task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"new task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"open a task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"start a task on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"create task via actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"create task using actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"create task with actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"actiTIME create a task","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"actiTIME make a task","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"create story on actiTIME","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_target"}
+{"query":"actiTIME create story","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_target"}
+{"query":"create a actitime task","expected_action_key":"actitime-create-task","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"contextual"}
+{"query":"Create Customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"Create Customer in actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"actiTIME create customer","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"action_name"}
+{"query":"create a customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"make a customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"new customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"open a customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"start a customer on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"canonical"}
+{"query":"create customer via actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"create customer using actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"create customer with actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_prep"}
+{"query":"actiTIME create a customer","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"actiTIME make a customer","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"app_first"}
+{"query":"create account on actiTIME","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_target"}
+{"query":"actiTIME create account","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"alt_target"}
+{"query":"create a actitime customer","expected_action_key":"actitime-create-customer","expected_app_slug":"actitime","app_name":"actiTIME","test_type":"contextual"}

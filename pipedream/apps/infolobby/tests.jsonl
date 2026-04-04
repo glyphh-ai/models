@@ -1,0 +1,16 @@
+{"query":"Create Comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"action_name"}
+{"query":"Create Comment in InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"action_name"}
+{"query":"InfoLobby create comment","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"action_name"}
+{"query":"create a comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"canonical"}
+{"query":"make a comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"canonical"}
+{"query":"new comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"canonical"}
+{"query":"open a comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"canonical"}
+{"query":"start a comment on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"canonical"}
+{"query":"create comment via InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"alt_prep"}
+{"query":"create comment using InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"alt_prep"}
+{"query":"create comment with InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"alt_prep"}
+{"query":"InfoLobby create a comment","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"app_first"}
+{"query":"InfoLobby make a comment","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"app_first"}
+{"query":"create note on InfoLobby","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"alt_target"}
+{"query":"InfoLobby create note","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"alt_target"}
+{"query":"create a infolobby comment","expected_action_key":"infolobby-create-comment","expected_app_slug":"infolobby","app_name":"InfoLobby","test_type":"contextual"}

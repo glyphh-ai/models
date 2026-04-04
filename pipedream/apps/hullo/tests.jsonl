@@ -1,0 +1,17 @@
+{"query":"Send Message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"action_name"}
+{"query":"Send Message in Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"action_name"}
+{"query":"Hullo send message","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"action_name"}
+{"query":"send a message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"canonical"}
+{"query":"post a message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"canonical"}
+{"query":"send out message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"canonical"}
+{"query":"fire off message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"canonical"}
+{"query":"send message via Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_prep"}
+{"query":"send message using Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_prep"}
+{"query":"send message with Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_prep"}
+{"query":"Hullo send a message","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"app_first"}
+{"query":"Hullo post a message","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"app_first"}
+{"query":"send msg on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_target"}
+{"query":"Hullo send msg","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_target"}
+{"query":"send chat message on Hullo","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_target"}
+{"query":"Hullo send chat message","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"alt_target"}
+{"query":"send a hullo message","expected_action_key":"hullo-send-message","expected_app_slug":"hullo","app_name":"Hullo","test_type":"contextual"}

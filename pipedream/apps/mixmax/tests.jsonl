@@ -1,0 +1,83 @@
+{"query":"Update Contact on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Update Contact in MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax update contact","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"update the contact on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"edit the contact on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"modify the contact on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"change the contact on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"update contact via MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"update contact using MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"update contact with MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"MixMax update the contact","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"MixMax edit the contact","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"update contact record on MixMax","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"MixMax update contact record","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"update a mixmax contact","expected_action_key":"mixmax-update-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"contextual"}
+{"query":"Search Contacts on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Search Contacts in MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax search contacts","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"search for contacts on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"find contacts on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"look for contacts on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"locate contacts on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"search for contacts in MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"search for contacts via MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"search for contacts using MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"search for contacts with MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"MixMax search for contacts","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"MixMax find contacts","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"MixMax look for contacts","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"search for contact record on MixMax","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"MixMax search for contact record","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"search for a mixmax contacts","expected_action_key":"mixmax-search-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"contextual"}
+{"query":"Get Contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Get Contacts in MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax get contacts","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"get the contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"retrieve contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"fetch contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"show me the contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"pull contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"check contacts on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"get contacts via MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"get contacts using MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"get contacts with MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"MixMax get the contacts","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"MixMax retrieve contacts","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"get contact record on MixMax","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"MixMax get contact record","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"get a mixmax contacts","expected_action_key":"mixmax-get-contacts","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"contextual"}
+{"query":"Get Contact Groups on MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Get Contact Groups in MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax get contact groups","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"get the contact groups on MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"MixMax get the contact groups","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"retrieve contact groups on MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"MixMax retrieve contact groups","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"get contact groups via MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"get contact groups using MixMax","expected_action_key":"mixmax-get-contact-groups","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"Create Contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Create Contact in MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax create contact","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"create a contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"make a contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"new contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"open a contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"start a contact on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"create contact via MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"create contact using MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"create contact with MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"MixMax create a contact","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"MixMax make a contact","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"create contact record on MixMax","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"MixMax create contact record","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_target"}
+{"query":"create a mixmax contact","expected_action_key":"mixmax-create-contact","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"contextual"}
+{"query":"Create Contact Group on MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"Create Contact Group in MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"MixMax create contact group","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"action_name"}
+{"query":"create a contact group on MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"MixMax create a contact group","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"make a contact group on MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"canonical"}
+{"query":"MixMax make a contact group","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"app_first"}
+{"query":"create contact group via MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}
+{"query":"create contact group using MixMax","expected_action_key":"mixmax-create-contact-group","expected_app_slug":"mixmax","app_name":"MixMax","test_type":"alt_prep"}

@@ -1,0 +1,46 @@
+{"query":"List Templates on Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"List Templates in Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Templated list templates","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"list all templates on Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"show all templates on Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"get all templates on Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"show me all templates on Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"list templates via Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"list templates using Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"list templates with Templated","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"Templated list all templates","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"Templated show all templates","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"list a templated templates","expected_action_key":"templated-list-templates","expected_app_slug":"templated","app_name":"Templated","test_type":"contextual"}
+{"query":"List Template Layers on Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"List Template Layers in Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Templated list template layers","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"list all template layers on Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"Templated list all template layers","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"show all template layers on Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"Templated show all template layers","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"list template layers via Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"list template layers using Templated","expected_action_key":"templated-list-template-layers","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"Get Template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Get Template in Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Templated get template","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"get the template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"retrieve template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"fetch template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"show me the template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"pull template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"check template on Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"get template via Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"get template using Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"get template with Templated","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"Templated get the template","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"Templated retrieve template","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"get a templated template","expected_action_key":"templated-get-template","expected_app_slug":"templated","app_name":"Templated","test_type":"contextual"}
+{"query":"Create Render on Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Create Render in Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"Templated create render","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"action_name"}
+{"query":"create a render on Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"Templated create a render","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"make a render on Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"canonical"}
+{"query":"Templated make a render","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"app_first"}
+{"query":"create render via Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}
+{"query":"create render using Templated","expected_action_key":"templated-create-render","expected_app_slug":"templated","app_name":"Templated","test_type":"alt_prep"}

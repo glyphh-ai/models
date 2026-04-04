@@ -1,0 +1,12 @@
+{"query":"Send SMS on 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"action_name"}
+{"query":"Send SMS in 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"action_name"}
+{"query":"360NRS send sms","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"action_name"}
+{"query":"Send SMS on  360nrs","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"action_name"}
+{"query":"Send SMS on _360nrs","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"action_name"}
+{"query":"send a sms on 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"canonical"}
+{"query":"360NRS send a sms","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"app_first"}
+{"query":"post a sms on 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"canonical"}
+{"query":"360NRS post a sms","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"app_first"}
+{"query":"send sms via 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"alt_prep"}
+{"query":"send sms using 360NRS","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"alt_prep"}
+{"query":"_360nrs send sms","expected_action_key":"_360nrs-send-sms","expected_app_slug":"_360nrs","app_name":"360NRS","test_type":"alt_app_name"}

@@ -1,0 +1,119 @@
+{"query":"Add Tag to Conversation on Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Add Tag to Conversation in Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa add tag to conversation","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"add tag conversation on Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add tag conversation","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add a tag conversation on Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add a tag conversation","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add new tag conversation on Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add new tag conversation","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add tag conversation in Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"add tag conversation via Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"add tag conversation using Dixa","expected_action_key":"dixa-tag-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"List Notes on Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"List Notes in Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa list notes","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"list all notes on Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"show all notes on Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"get all notes on Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"show me all notes on Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"list notes via Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"list notes using Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"list notes with Dixa","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Dixa list all notes","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"Dixa show all notes","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"list a dixa notes","expected_action_key":"dixa-list-notes","expected_app_slug":"dixa","app_name":"Dixa","test_type":"contextual"}
+{"query":"List Messages on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"List Messages in Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa list messages","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"list all messages on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"show all messages on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"get all messages on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"show me all messages on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"list messages via Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"list messages using Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"list messages with Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Dixa list all messages","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"Dixa show all messages","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"list msg on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_target"}
+{"query":"Dixa list msg","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_target"}
+{"query":"list chat message on Dixa","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_target"}
+{"query":"Dixa list chat message","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_target"}
+{"query":"list a dixa messages","expected_action_key":"dixa-list-messages","expected_app_slug":"dixa","app_name":"Dixa","test_type":"contextual"}
+{"query":"Get Conversation on Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Get Conversation in Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa get conversation","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"get the conversation on Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa get the conversation","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"retrieve conversation on Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa retrieve conversation","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"get conversation via Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"get conversation using Dixa","expected_action_key":"dixa-get-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Get Article on Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Get Article in Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa get article","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"get the article on Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa get the article","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"retrieve article on Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa retrieve article","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"get article via Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"get article using Dixa","expected_action_key":"dixa-get-article","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Get Article Translations on Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Get Article Translations in Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa get article translations","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"get the article translations on Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa get the article translations","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"retrieve article translations on Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa retrieve article translations","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"get article translations via Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"get article translations using Dixa","expected_action_key":"dixa-get-article-translations","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Create Note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Create Note in Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa create note","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"create a note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"make a note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"new note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"open a note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"start a note on Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"create note via Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"create note using Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"create note with Dixa","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Dixa create a note","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"Dixa make a note","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"create a dixa note","expected_action_key":"dixa-create-note","expected_app_slug":"dixa","app_name":"Dixa","test_type":"contextual"}
+{"query":"Create Conversation on Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Create Conversation in Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa create conversation","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"create a conversation on Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa create a conversation","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"make a conversation on Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa make a conversation","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"create conversation via Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"create conversation using Dixa","expected_action_key":"dixa-create-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Close Conversation on Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Close Conversation in Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa close conversation","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"archive conversation on Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa archive conversation","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"archive the conversation on Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa archive the conversation","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"close the conversation on Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa close the conversation","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"archive conversation in Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"archive conversation via Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"archive conversation using Dixa","expected_action_key":"dixa-close-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"Claim Conversation on Dixa","expected_action_key":"dixa-claim-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Claim Conversation in Dixa","expected_action_key":"dixa-claim-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa claim conversation","expected_action_key":"dixa-claim-conversation","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Add Message to Conversation on Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Add Message to Conversation in Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"Dixa add message to conversation","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"action_name"}
+{"query":"add message conversation on Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add message conversation","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add a message conversation on Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add a message conversation","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add new message conversation on Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"canonical"}
+{"query":"Dixa add new message conversation","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"app_first"}
+{"query":"add message conversation in Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"add message conversation via Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}
+{"query":"add message conversation using Dixa","expected_action_key":"dixa-add-message","expected_app_slug":"dixa","app_name":"Dixa","test_type":"alt_prep"}

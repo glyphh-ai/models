@@ -1,0 +1,9 @@
+{"query":"Send Query on Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"action_name"}
+{"query":"Send Query in Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"action_name"}
+{"query":"Vext send query","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"action_name"}
+{"query":"send a query on Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"canonical"}
+{"query":"Vext send a query","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"app_first"}
+{"query":"post a query on Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"canonical"}
+{"query":"Vext post a query","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"app_first"}
+{"query":"send query via Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"alt_prep"}
+{"query":"send query using Vext","expected_action_key":"vext-send-query","expected_app_slug":"vext","app_name":"Vext","test_type":"alt_prep"}

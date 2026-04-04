@@ -1,0 +1,32 @@
+{"query":"Create Task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"Create Task in FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"FreeAgent create task","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"create a task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"make a task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"new task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"open a task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"start a task on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"create task via FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"create task using FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"create task with FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"FreeAgent create a task","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"app_first"}
+{"query":"FreeAgent make a task","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"app_first"}
+{"query":"create story on FreeAgent","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_target"}
+{"query":"FreeAgent create story","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_target"}
+{"query":"create a freeagent task","expected_action_key":"freeagent-create-task","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"contextual"}
+{"query":"Create Contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"Create Contact in FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"FreeAgent create contact","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"action_name"}
+{"query":"create a contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"make a contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"new contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"open a contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"start a contact on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"canonical"}
+{"query":"create contact via FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"create contact using FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"create contact with FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_prep"}
+{"query":"FreeAgent create a contact","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"app_first"}
+{"query":"FreeAgent make a contact","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"app_first"}
+{"query":"create contact record on FreeAgent","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_target"}
+{"query":"FreeAgent create contact record","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"alt_target"}
+{"query":"create a freeagent contact","expected_action_key":"freeagent-create-contact","expected_app_slug":"freeagent","app_name":"FreeAgent","test_type":"contextual"}

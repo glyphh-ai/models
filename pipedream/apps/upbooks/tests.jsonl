@@ -1,0 +1,21 @@
+{"query":"Record Outward Payment on UpBooks","expected_action_key":"upbooks-record-outward-payment","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"Record Outward Payment in UpBooks","expected_action_key":"upbooks-record-outward-payment","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"UpBooks record outward payment","expected_action_key":"upbooks-record-outward-payment","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"Create Expense Category on UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"Create Expense Category in UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"UpBooks create expense category","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"create a expense category on UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"canonical"}
+{"query":"UpBooks create a expense category","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"app_first"}
+{"query":"make a expense category on UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"canonical"}
+{"query":"UpBooks make a expense category","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"app_first"}
+{"query":"create expense category via UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"alt_prep"}
+{"query":"create expense category using UpBooks","expected_action_key":"upbooks-create-expense-category","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"alt_prep"}
+{"query":"Add New Employee on UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"Add New Employee in UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"UpBooks add new employee","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"action_name"}
+{"query":"add a new employee on UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"canonical"}
+{"query":"UpBooks add a new employee","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"app_first"}
+{"query":"add new new employee on UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"canonical"}
+{"query":"UpBooks add new new employee","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"app_first"}
+{"query":"add new employee via UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"alt_prep"}
+{"query":"add new employee using UpBooks","expected_action_key":"upbooks-add-employee","expected_app_slug":"upbooks","app_name":"UpBooks","test_type":"alt_prep"}

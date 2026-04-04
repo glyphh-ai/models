@@ -1,0 +1,41 @@
+{"query":"Create Reminder on Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Create Reminder in Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Rex create reminder","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"create a reminder on Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"Rex create a reminder","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"make a reminder on Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"Rex make a reminder","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"create reminder via Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"create reminder using Rex","expected_action_key":"rex-create-reminder","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"Create Lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Create Lead in Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Rex create lead","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"create a lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"make a lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"new lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"open a lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"start a lead on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"create lead via Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"create lead using Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"create lead with Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"Rex create a lead","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"Rex make a lead","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"create contact record on Rex","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_target"}
+{"query":"Rex create contact record","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_target"}
+{"query":"create a rex lead","expected_action_key":"rex-create-lead","expected_app_slug":"rex","app_name":"Rex","test_type":"contextual"}
+{"query":"Create Contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Create Contact in Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"Rex create contact","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"action_name"}
+{"query":"create a contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"make a contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"new contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"open a contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"start a contact on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"canonical"}
+{"query":"create contact via Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"create contact using Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"create contact with Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_prep"}
+{"query":"Rex create a contact","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"Rex make a contact","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"app_first"}
+{"query":"create contact record on Rex","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_target"}
+{"query":"Rex create contact record","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"alt_target"}
+{"query":"create a rex contact","expected_action_key":"rex-create-contact","expected_app_slug":"rex","app_name":"Rex","test_type":"contextual"}

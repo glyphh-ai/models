@@ -1,0 +1,35 @@
+{"query":"Run Cypher Query on Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Run Cypher Query in Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Neo4j AuraDB run cypher query","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Run Cypher Query on neo4j_auradb","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"trigger cypher query on Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB trigger cypher query","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"execute cypher query on Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB execute cypher query","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"trigger cypher query in Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"trigger cypher query via Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"trigger cypher query using Neo4j AuraDB","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"trigger cypher query on neo4j_auradb","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_app_name"}
+{"query":"neo4j_auradb trigger cypher query","expected_action_key":"neo4j_auradb-run-query","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_app_name"}
+{"query":"Create Relationship on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Create Relationship in Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Neo4j AuraDB create relationship","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Create Relationship on neo4j_auradb","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"create a relationship on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB create a relationship","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"make a relationship on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB make a relationship","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"create relationship via Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"create relationship using Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"neo4j_auradb create relationship","expected_action_key":"neo4j_auradb-create-relationship","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_app_name"}
+{"query":"Create Node on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Create Node in Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Neo4j AuraDB create node","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"Create Node on neo4j_auradb","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"action_name"}
+{"query":"create a node on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB create a node","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"make a node on Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"canonical"}
+{"query":"Neo4j AuraDB make a node","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"app_first"}
+{"query":"create node via Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"create node using Neo4j AuraDB","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_prep"}
+{"query":"neo4j_auradb create node","expected_action_key":"neo4j_auradb-create-node","expected_app_slug":"neo4j_auradb","app_name":"Neo4j AuraDB","test_type":"alt_app_name"}

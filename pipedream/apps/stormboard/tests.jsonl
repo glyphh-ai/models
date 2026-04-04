@@ -1,0 +1,24 @@
+{"query":"New Storm on Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"New Storm in Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"Stormboard new storm","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"create storm on Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard create storm","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"create a storm on Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard create a storm","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"make a storm on Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard make a storm","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"create storm in Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}
+{"query":"create storm via Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}
+{"query":"create storm using Stormboard","expected_action_key":"stormboard-new-storm","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}
+{"query":"New Idea on Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"New Idea in Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"Stormboard new idea","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"action_name"}
+{"query":"create idea on Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard create idea","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"create a idea on Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard create a idea","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"make a idea on Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"canonical"}
+{"query":"Stormboard make a idea","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"app_first"}
+{"query":"create idea in Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}
+{"query":"create idea via Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}
+{"query":"create idea using Stormboard","expected_action_key":"stormboard-new-idea","expected_app_slug":"stormboard","app_name":"Stormboard","test_type":"alt_prep"}

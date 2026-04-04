@@ -1,0 +1,28 @@
+{"query":"Track Event on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"Track Event in GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"GoSquared track event","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"track a event on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"log event on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"record event on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"track event via GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}
+{"query":"track event using GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}
+{"query":"track event with GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}
+{"query":"GoSquared track a event","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"app_first"}
+{"query":"GoSquared log event","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"app_first"}
+{"query":"track meeting on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_target"}
+{"query":"GoSquared track meeting","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_target"}
+{"query":"track calendar event on GoSquared","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_target"}
+{"query":"GoSquared track calendar event","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_target"}
+{"query":"track a gosquared event","expected_action_key":"gosquared-track-event","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"contextual"}
+{"query":"Create/Update Profile on GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"Create/Update Profile in GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"GoSquared create/update profile","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"action_name"}
+{"query":"create profile on GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"GoSquared create profile","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"app_first"}
+{"query":"create a profile on GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"GoSquared create a profile","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"app_first"}
+{"query":"make a profile on GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"canonical"}
+{"query":"GoSquared make a profile","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"app_first"}
+{"query":"create profile in GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}
+{"query":"create profile via GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}
+{"query":"create profile using GoSquared","expected_action_key":"gosquared-create-update-profile","expected_app_slug":"gosquared","app_name":"GoSquared","test_type":"alt_prep"}

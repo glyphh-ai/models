@@ -1,0 +1,74 @@
+{"query":"Remove Paylink on Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Remove Paylink in Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx remove paylink","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"remove the paylink on Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx remove the paylink","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"take out paylink on Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx take out paylink","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"remove paylink via Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"remove paylink using Payrexx","expected_action_key":"payrexx-remove-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"List Invoices on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"List Invoices in Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx list invoices","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"list all invoices on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"show all invoices on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"get all invoices on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"show me all invoices on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"list invoices via Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"list invoices using Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"list invoices with Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"Payrexx list all invoices","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"Payrexx show all invoices","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"list bill on Payrexx","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_target"}
+{"query":"Payrexx list bill","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_target"}
+{"query":"list a payrexx invoices","expected_action_key":"payrexx-list-invoices","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"contextual"}
+{"query":"Delete Invoice on Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Delete Invoice in Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx delete invoice","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"delete the invoice on Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"remove the invoice on Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"destroy the invoice on Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"delete invoice via Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"delete invoice using Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"delete invoice with Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"Payrexx delete the invoice","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"Payrexx remove the invoice","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"delete bill on Payrexx","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_target"}
+{"query":"Payrexx delete bill","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_target"}
+{"query":"delete a payrexx invoice","expected_action_key":"payrexx-delete-invoice","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"contextual"}
+{"query":"Delete Gateway on Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Delete Gateway in Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx delete gateway","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"delete the gateway on Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx delete the gateway","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"remove the gateway on Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx remove the gateway","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"delete gateway via Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"delete gateway using Payrexx","expected_action_key":"payrexx-delete-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"Create Paylink on Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Create Paylink in Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx create paylink","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"create a paylink on Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx create a paylink","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"make a paylink on Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx make a paylink","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"create paylink via Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"create paylink using Payrexx","expected_action_key":"payrexx-create-paylink","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"Create Manual Payout on Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Create Manual Payout in Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx create manual payout","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"create a manual payout on Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx create a manual payout","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"make a manual payout on Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx make a manual payout","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"create manual payout via Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"create manual payout using Payrexx","expected_action_key":"payrexx-create-manual-payout","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"Create Gateway on Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Create Gateway in Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"Payrexx create gateway","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"action_name"}
+{"query":"create a gateway on Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx create a gateway","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"make a gateway on Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"canonical"}
+{"query":"Payrexx make a gateway","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"app_first"}
+{"query":"create gateway via Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}
+{"query":"create gateway using Payrexx","expected_action_key":"payrexx-create-gateway","expected_app_slug":"payrexx","app_name":"Payrexx","test_type":"alt_prep"}

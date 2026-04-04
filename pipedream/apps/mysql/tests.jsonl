@@ -1,0 +1,103 @@
+{"query":"Update Row on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Update Row in MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL update row","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"update the row on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"edit the row on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"modify the row on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"change the row on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"update row via MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"update row using MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"update row with MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"MySQL update the row","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"MySQL edit the row","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"update entry on MySQL","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"MySQL update entry","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"update a mysql row","expected_action_key":"mysql-update-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"contextual"}
+{"query":"Find Row on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Find Row in MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL find row","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"search for row on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"look for row on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"search row on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"locate row on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"search for row in MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"search for row via MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"search for row using MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"search for row with MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"MySQL search for row","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"MySQL look for row","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"search for entry on MySQL","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"MySQL search for entry","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"search for a mysql row","expected_action_key":"mysql-find-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"contextual"}
+{"query":"Execute Stored Procedure on MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Execute Stored Procedure in MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL execute stored procedure","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"trigger stored procedure on MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL trigger stored procedure","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"run stored procedure on MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL run stored procedure","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"trigger stored procedure in MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger stored procedure via MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger stored procedure using MySQL","expected_action_key":"mysql-execute-stored-procedure","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"Execute SQL Query on MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Execute SQL Query in MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL execute sql query","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"trigger sql query on MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL trigger sql query","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"run sql query on MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL run sql query","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"trigger sql query in MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger sql query via MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger sql query using MySQL","expected_action_key":"mysql-execute-raw-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"Execute Query on MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Execute Query in MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL execute query","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"trigger query on MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL trigger query","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"run query on MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL run query","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"trigger query in MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger query via MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"trigger query using MySQL","expected_action_key":"mysql-execute-query","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"Delete Row on MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Delete Row in MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL delete row","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"delete the row on MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"remove the row on MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"destroy the row on MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"delete row via MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"delete row using MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"delete row with MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"MySQL delete the row","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"MySQL remove the row","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"delete entry on MySQL","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"MySQL delete entry","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"delete a mysql row","expected_action_key":"mysql-delete-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"contextual"}
+{"query":"Create Row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Create Row in MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL create row","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"create a row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"make a row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"new row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"open a row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"start a row on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"create row via MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"create row using MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"create row with MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"MySQL create a row","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"MySQL make a row","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"create entry on MySQL","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"MySQL create entry","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_target"}
+{"query":"create a mysql row","expected_action_key":"mysql-create-row","expected_app_slug":"mysql","app_name":"MySQL","test_type":"contextual"}
+{"query":"Query SQL Database on MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"Query SQL Database in MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"MySQL query sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"action_name"}
+{"query":"get sql database on MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL get sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"get the sql database on MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL get the sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"retrieve sql database on MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"canonical"}
+{"query":"MySQL retrieve sql database","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"app_first"}
+{"query":"get sql database in MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"get sql database via MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}
+{"query":"get sql database using MySQL","expected_action_key":"database-query-sql-database","expected_app_slug":"mysql","app_name":"MySQL","test_type":"alt_prep"}

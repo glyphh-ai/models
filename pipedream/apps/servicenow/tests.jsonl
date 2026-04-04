@@ -1,0 +1,60 @@
+{"query":"Update Table Record on ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Update Table Record in ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow update table record","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"update the table record on ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow update the table record","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"edit the table record on ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow edit the table record","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"update table record via ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"update table record using ServiceNow","expected_action_key":"servicenow-update-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"Get Table Records on ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Get Table Records in ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow get table records","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"get the table records on ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow get the table records","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"retrieve table records on ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow retrieve table records","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"get table records via ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"get table records using ServiceNow","expected_action_key":"servicenow-get-table-records","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"Get Table Record by ID on ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Get Table Record by ID in ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow get table record by id","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"get table record id on ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow get table record id","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"get the table record id on ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow get the table record id","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"retrieve table record id on ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow retrieve table record id","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"get table record id in ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"get table record id via ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"get table record id using ServiceNow","expected_action_key":"servicenow-get-table-record-by-id","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"Get Record Counts by Field on ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Get Record Counts by Field in ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow get record counts by field","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"get record counts field on ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow get record counts field","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"get the record counts field on ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow get the record counts field","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"retrieve record counts field on ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow retrieve record counts field","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"get record counts field in ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"get record counts field via ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"get record counts field using ServiceNow","expected_action_key":"servicenow-get-record-counts-by-field","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"Delete Table Record on ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Delete Table Record in ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow delete table record","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"delete the table record on ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow delete the table record","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"remove the table record on ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow remove the table record","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"delete table record via ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"delete table record using ServiceNow","expected_action_key":"servicenow-delete-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"Create Table Record on ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"Create Table Record in ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"ServiceNow create table record","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"action_name"}
+{"query":"create a table record on ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow create a table record","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"make a table record on ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"canonical"}
+{"query":"ServiceNow make a table record","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"app_first"}
+{"query":"create table record via ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}
+{"query":"create table record using ServiceNow","expected_action_key":"servicenow-create-table-record","expected_app_slug":"servicenow","app_name":"ServiceNow","test_type":"alt_prep"}

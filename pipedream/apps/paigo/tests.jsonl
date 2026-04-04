@@ -1,0 +1,50 @@
+{"query":"Onboard Customer on Paigo","expected_action_key":"paigo-onboard-customer","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Onboard Customer in Paigo","expected_action_key":"paigo-onboard-customer","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo onboard customer","expected_action_key":"paigo-onboard-customer","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Measure Usage on Paigo","expected_action_key":"paigo-measure-usage","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Measure Usage in Paigo","expected_action_key":"paigo-measure-usage","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo measure usage","expected_action_key":"paigo-measure-usage","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Get Invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Get Invoice in Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo get invoice","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"get the invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"retrieve invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"fetch invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"show me the invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"pull invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"check invoice on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"get invoice via Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"get invoice using Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"get invoice with Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"Paigo get the invoice","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"Paigo retrieve invoice","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"get bill on Paigo","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_target"}
+{"query":"Paigo get bill","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_target"}
+{"query":"get a paigo invoice","expected_action_key":"paigo-get-invoice","expected_app_slug":"paigo","app_name":"Paigo","test_type":"contextual"}
+{"query":"Create Offering on Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Create Offering in Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo create offering","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"create a offering on Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo create a offering","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"make a offering on Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo make a offering","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"create offering via Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"create offering using Paigo","expected_action_key":"paigo-create-offering","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"Create Dimension on Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Create Dimension in Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo create dimension","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"create a dimension on Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo create a dimension","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"make a dimension on Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo make a dimension","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"create dimension via Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"create dimension using Paigo","expected_action_key":"paigo-create-dimension","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"Add Credits on Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Add Credits in Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"Paigo add credits","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"action_name"}
+{"query":"add a credits on Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo add a credits","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"add new credits on Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"canonical"}
+{"query":"Paigo add new credits","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"app_first"}
+{"query":"add credits via Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}
+{"query":"add credits using Paigo","expected_action_key":"paigo-add-credits","expected_app_slug":"paigo","app_name":"Paigo","test_type":"alt_prep"}

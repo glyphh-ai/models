@@ -1,0 +1,20 @@
+{"query":"Send Message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}
+{"query":"Send Message in DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}
+{"query":"DailyBot send message","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}
+{"query":"send a message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"canonical"}
+{"query":"post a message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"canonical"}
+{"query":"send out message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"canonical"}
+{"query":"fire off message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"canonical"}
+{"query":"send message via DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_prep"}
+{"query":"send message using DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_prep"}
+{"query":"send message with DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_prep"}
+{"query":"DailyBot send a message","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"app_first"}
+{"query":"DailyBot post a message","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"app_first"}
+{"query":"send msg on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_target"}
+{"query":"DailyBot send msg","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_target"}
+{"query":"send chat message on DailyBot","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_target"}
+{"query":"DailyBot send chat message","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"alt_target"}
+{"query":"send a dailybot message","expected_action_key":"dailybot-send-message","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"contextual"}
+{"query":"Give Kudos on DailyBot","expected_action_key":"dailybot-give-kudos","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}
+{"query":"Give Kudos in DailyBot","expected_action_key":"dailybot-give-kudos","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}
+{"query":"DailyBot give kudos","expected_action_key":"dailybot-give-kudos","expected_app_slug":"dailybot","app_name":"DailyBot","test_type":"action_name"}

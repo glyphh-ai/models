@@ -1,0 +1,9 @@
+{"query":"Send SMS on kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"action_name"}
+{"query":"Send SMS in kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"action_name"}
+{"query":"kwtsms send sms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"action_name"}
+{"query":"send a sms on kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"canonical"}
+{"query":"kwtsms send a sms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"app_first"}
+{"query":"post a sms on kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"canonical"}
+{"query":"kwtsms post a sms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"app_first"}
+{"query":"send sms via kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"alt_prep"}
+{"query":"send sms using kwtsms","expected_action_key":"kwtsms-send-sms","expected_app_slug":"kwtsms","app_name":"kwtsms","test_type":"alt_prep"}

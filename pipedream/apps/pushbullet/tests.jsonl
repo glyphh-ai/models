@@ -1,0 +1,18 @@
+{"query":"Send push on Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"Send push in Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"Pushbullet send push","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"send a push on Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"canonical"}
+{"query":"Pushbullet send a push","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"app_first"}
+{"query":"post a push on Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"canonical"}
+{"query":"Pushbullet post a push","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"app_first"}
+{"query":"send push via Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"alt_prep"}
+{"query":"send push using Pushbullet","expected_action_key":"pushbullet-send-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"alt_prep"}
+{"query":"Delete push on Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"Delete push in Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"Pushbullet delete push","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"action_name"}
+{"query":"delete the push on Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"canonical"}
+{"query":"Pushbullet delete the push","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"app_first"}
+{"query":"remove the push on Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"canonical"}
+{"query":"Pushbullet remove the push","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"app_first"}
+{"query":"delete push via Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"alt_prep"}
+{"query":"delete push using Pushbullet","expected_action_key":"pushbullet-delete-push","expected_app_slug":"pushbullet","app_name":"Pushbullet","test_type":"alt_prep"}

@@ -1,0 +1,36 @@
+{"query":"List Organizations on Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"List Organizations in Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Codacy list organizations","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"list all organizations on Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy list all organizations","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"show all organizations on Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy show all organizations","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"list organizations via Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"list organizations using Codacy","expected_action_key":"codacy-list-organizations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"List Integrations on Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"List Integrations in Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Codacy list integrations","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"list all integrations on Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy list all integrations","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"show all integrations on Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy show all integrations","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"list integrations via Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"list integrations using Codacy","expected_action_key":"codacy-list-integrations","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"Get Authenticated User on Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Get Authenticated User in Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Codacy get authenticated user","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"get the authenticated user on Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy get the authenticated user","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"retrieve authenticated user on Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy retrieve authenticated user","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"get authenticated user via Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"get authenticated user using Codacy","expected_action_key":"codacy-get-user","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"Delete Integration on Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Delete Integration in Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"Codacy delete integration","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"action_name"}
+{"query":"delete the integration on Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy delete the integration","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"remove the integration on Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"canonical"}
+{"query":"Codacy remove the integration","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"app_first"}
+{"query":"delete integration via Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}
+{"query":"delete integration using Codacy","expected_action_key":"codacy-delete-integration","expected_app_slug":"codacy","app_name":"Codacy","test_type":"alt_prep"}

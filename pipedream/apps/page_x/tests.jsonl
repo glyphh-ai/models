@@ -1,0 +1,11 @@
+{"query":"Add New Lead on PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"action_name"}
+{"query":"Add New Lead in PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"action_name"}
+{"query":"PAGE X add new lead","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"action_name"}
+{"query":"Add New Lead on page_x","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"action_name"}
+{"query":"add a new lead on PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"canonical"}
+{"query":"PAGE X add a new lead","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"app_first"}
+{"query":"add new new lead on PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"canonical"}
+{"query":"PAGE X add new new lead","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"app_first"}
+{"query":"add new lead via PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"alt_prep"}
+{"query":"add new lead using PAGE X","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"alt_prep"}
+{"query":"page_x add new lead","expected_action_key":"page_x-add-new-lead","expected_app_slug":"page_x","app_name":"PAGE X","test_type":"alt_app_name"}

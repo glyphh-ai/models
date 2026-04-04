@@ -1,0 +1,121 @@
+{"query":"Update Stock on Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Update Stock in Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee update stock","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"update the stock on Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee update the stock","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"edit the stock on Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee edit the stock","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"update stock via Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"update stock using Billbee","expected_action_key":"billbee-update-stock","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Update Order on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Update Order in Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee update order","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"update the order on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"edit the order on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"modify the order on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"change the order on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"update order via Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"update order using Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"update order with Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Billbee update the order","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"Billbee edit the order","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"update purchase on Billbee","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"Billbee update purchase","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"update a billbee order","expected_action_key":"billbee-update-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"contextual"}
+{"query":"List Products on Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"List Products in Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee list products","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"list all products on Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee list all products","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"show all products on Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee show all products","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"list products via Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"list products using Billbee","expected_action_key":"billbee-list-products","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"List Orders on Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"List Orders in Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee list orders","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"list all orders on Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee list all orders","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"show all orders on Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee show all orders","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"list orders via Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"list orders using Billbee","expected_action_key":"billbee-list-orders","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"List Customers on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"List Customers in Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee list customers","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"list all customers on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"show all customers on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"get all customers on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"show me all customers on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"list customers via Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"list customers using Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"list customers with Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Billbee list all customers","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"Billbee show all customers","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"list account on Billbee","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"Billbee list account","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"list a billbee customers","expected_action_key":"billbee-list-customers","expected_app_slug":"billbee","app_name":"Billbee","test_type":"contextual"}
+{"query":"Get Order By ID on Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Get Order By ID in Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee get order by id","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"get order id on Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee get order id","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"get the order id on Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee get the order id","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"retrieve order id on Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee retrieve order id","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"get order id in Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"get order id via Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"get order id using Billbee","expected_action_key":"billbee-get-order-by-id","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Create Order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Create Order in Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee create order","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"create a order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"make a order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"new order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"open a order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"start a order on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"create order via Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"create order using Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"create order with Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Billbee create a order","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"Billbee make a order","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"create purchase on Billbee","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"Billbee create purchase","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_target"}
+{"query":"create a billbee order","expected_action_key":"billbee-create-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"contextual"}
+{"query":"Create Invoice For Order on Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Create Invoice For Order in Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee create invoice for order","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"create invoice order on Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee create invoice order","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"create a invoice order on Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee create a invoice order","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"make a invoice order on Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee make a invoice order","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"create invoice order in Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"create invoice order via Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"create invoice order using Billbee","expected_action_key":"billbee-create-invoice-for-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Change Order State on Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Change Order State in Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee change order state","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"update order state on Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee update order state","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"update the order state on Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee update the order state","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"edit the order state on Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee edit the order state","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"update order state in Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"update order state via Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"update order state using Billbee","expected_action_key":"billbee-change-order-state","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"Add Shipment To Order on Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Add Shipment To Order in Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"Billbee add shipment to order","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"action_name"}
+{"query":"add shipment order on Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee add shipment order","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"add a shipment order on Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee add a shipment order","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"add new shipment order on Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"canonical"}
+{"query":"Billbee add new shipment order","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"app_first"}
+{"query":"add shipment order in Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"add shipment order via Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}
+{"query":"add shipment order using Billbee","expected_action_key":"billbee-add-shipment-to-order","expected_app_slug":"billbee","app_name":"Billbee","test_type":"alt_prep"}

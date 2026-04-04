@@ -1,0 +1,21 @@
+{"query":"Search Incidents on LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"Search Incidents in LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"LinearB search incidents","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"search for incidents on LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"canonical"}
+{"query":"LinearB search for incidents","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"app_first"}
+{"query":"find incidents on LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"canonical"}
+{"query":"LinearB find incidents","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"app_first"}
+{"query":"look for incidents on LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"canonical"}
+{"query":"LinearB look for incidents","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"app_first"}
+{"query":"search for incidents in LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"alt_prep"}
+{"query":"search for incidents via LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"alt_prep"}
+{"query":"search for incidents using LinearB","expected_action_key":"linearb-search-incidents","expected_app_slug":"linearb","app_name":"LinearB","test_type":"alt_prep"}
+{"query":"Create Incident on LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"Create Incident in LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"LinearB create incident","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"action_name"}
+{"query":"create a incident on LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"canonical"}
+{"query":"LinearB create a incident","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"app_first"}
+{"query":"make a incident on LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"canonical"}
+{"query":"LinearB make a incident","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"app_first"}
+{"query":"create incident via LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"alt_prep"}
+{"query":"create incident using LinearB","expected_action_key":"linearb-create-incident","expected_app_slug":"linearb","app_name":"LinearB","test_type":"alt_prep"}

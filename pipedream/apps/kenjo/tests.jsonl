@@ -1,0 +1,34 @@
+{"query":"Create Leave Request on Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Create Leave Request in Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Kenjo create leave request","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"create a leave request on Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"Kenjo create a leave request","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"make a leave request on Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"Kenjo make a leave request","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"create leave request via Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"create leave request using Kenjo","expected_action_key":"kenjo-create-leave-request","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"Create Employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Create Employee in Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Kenjo create employee","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"create a employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"make a employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"new employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"open a employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"start a employee on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"create employee via Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"create employee using Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"create employee with Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"Kenjo create a employee","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"Kenjo make a employee","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"create staff member on Kenjo","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_target"}
+{"query":"Kenjo create staff member","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_target"}
+{"query":"create a kenjo employee","expected_action_key":"kenjo-create-employee","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"contextual"}
+{"query":"Create Attendance Entry on Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Create Attendance Entry in Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"Kenjo create attendance entry","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"action_name"}
+{"query":"create a attendance entry on Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"Kenjo create a attendance entry","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"make a attendance entry on Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"canonical"}
+{"query":"Kenjo make a attendance entry","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"app_first"}
+{"query":"create attendance entry via Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}
+{"query":"create attendance entry using Kenjo","expected_action_key":"kenjo-create-attendance-entry","expected_app_slug":"kenjo","app_name":"Kenjo","test_type":"alt_prep"}

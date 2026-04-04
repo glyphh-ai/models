@@ -1,0 +1,18 @@
+{"query":"Update Job on Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"Update Job in Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"Tidy update job","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"update the job on Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"canonical"}
+{"query":"Tidy update the job","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"app_first"}
+{"query":"edit the job on Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"canonical"}
+{"query":"Tidy edit the job","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"app_first"}
+{"query":"update job via Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"alt_prep"}
+{"query":"update job using Tidy","expected_action_key":"tidy-update-job","expected_app_slug":"tidy","app_name":"Tidy","test_type":"alt_prep"}
+{"query":"Create Address on Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"Create Address in Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"Tidy create address","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"action_name"}
+{"query":"create a address on Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"canonical"}
+{"query":"Tidy create a address","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"app_first"}
+{"query":"make a address on Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"canonical"}
+{"query":"Tidy make a address","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"app_first"}
+{"query":"create address via Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"alt_prep"}
+{"query":"create address using Tidy","expected_action_key":"tidy-create-address","expected_app_slug":"tidy","app_name":"Tidy","test_type":"alt_prep"}

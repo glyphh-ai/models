@@ -1,0 +1,19 @@
+{"query":"Find Shipment on Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"Find Shipment in Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"Easyship find shipment","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"search for shipment on Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"canonical"}
+{"query":"Easyship search for shipment","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"app_first"}
+{"query":"look for shipment on Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"canonical"}
+{"query":"Easyship look for shipment","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"app_first"}
+{"query":"search for shipment in Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"alt_prep"}
+{"query":"search for shipment via Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"alt_prep"}
+{"query":"search for shipment using Easyship","expected_action_key":"easyship-find-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"alt_prep"}
+{"query":"Create Shipment on Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"Create Shipment in Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"Easyship create shipment","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"action_name"}
+{"query":"create a shipment on Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"canonical"}
+{"query":"Easyship create a shipment","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"app_first"}
+{"query":"make a shipment on Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"canonical"}
+{"query":"Easyship make a shipment","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"app_first"}
+{"query":"create shipment via Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"alt_prep"}
+{"query":"create shipment using Easyship","expected_action_key":"easyship-create-shipment","expected_app_slug":"easyship","app_name":"Easyship","test_type":"alt_prep"}

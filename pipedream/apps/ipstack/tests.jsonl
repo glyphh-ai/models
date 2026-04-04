@@ -1,0 +1,12 @@
+{"query":"IP Lookup on ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"action_name"}
+{"query":"IP Lookup in ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"action_name"}
+{"query":"ipstack ip lookup","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"action_name"}
+{"query":"get lookup on ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"canonical"}
+{"query":"ipstack get lookup","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"app_first"}
+{"query":"get the lookup on ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"canonical"}
+{"query":"ipstack get the lookup","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"app_first"}
+{"query":"retrieve lookup on ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"canonical"}
+{"query":"ipstack retrieve lookup","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"app_first"}
+{"query":"get lookup in ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"alt_prep"}
+{"query":"get lookup via ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"alt_prep"}
+{"query":"get lookup using ipstack","expected_action_key":"ipstack-ip-lookup","expected_app_slug":"ipstack","app_name":"ipstack","test_type":"alt_prep"}

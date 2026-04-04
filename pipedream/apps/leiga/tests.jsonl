@@ -1,0 +1,14 @@
+{"query":"Create Issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"action_name"}
+{"query":"Create Issue in Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"action_name"}
+{"query":"Leiga create issue","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"action_name"}
+{"query":"create a issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"canonical"}
+{"query":"make a issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"canonical"}
+{"query":"new issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"canonical"}
+{"query":"open a issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"canonical"}
+{"query":"start a issue on Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"canonical"}
+{"query":"create issue via Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"alt_prep"}
+{"query":"create issue using Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"alt_prep"}
+{"query":"create issue with Leiga","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"alt_prep"}
+{"query":"Leiga create a issue","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"app_first"}
+{"query":"Leiga make a issue","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"app_first"}
+{"query":"create a leiga issue","expected_action_key":"leiga-create-issue","expected_app_slug":"leiga","app_name":"Leiga","test_type":"contextual"}

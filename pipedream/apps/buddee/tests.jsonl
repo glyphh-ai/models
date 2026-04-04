@@ -1,0 +1,58 @@
+{"query":"List Time Registrations on Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"List Time Registrations in Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Buddee list time registrations","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"list all time registrations on Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee list all time registrations","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"show all time registrations on Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee show all time registrations","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"list time registrations via Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"list time registrations using Buddee","expected_action_key":"buddee-list-time-registrations","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"List Leave Requests on Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"List Leave Requests in Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Buddee list leave requests","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"list all leave requests on Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee list all leave requests","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"show all leave requests on Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee show all leave requests","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"list leave requests via Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"list leave requests using Buddee","expected_action_key":"buddee-list-leave-requests","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"List Employees on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"List Employees in Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Buddee list employees","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"list all employees on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"show all employees on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"get all employees on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"show me all employees on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"list employees via Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"list employees using Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"list employees with Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"Buddee list all employees","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"Buddee show all employees","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"list staff member on Buddee","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_target"}
+{"query":"Buddee list staff member","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_target"}
+{"query":"list a buddee employees","expected_action_key":"buddee-list-employees","expected_app_slug":"buddee","app_name":"Buddee","test_type":"contextual"}
+{"query":"Create Leave Request on Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Create Leave Request in Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Buddee create leave request","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"create a leave request on Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee create a leave request","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"make a leave request on Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"Buddee make a leave request","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"create leave request via Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"create leave request using Buddee","expected_action_key":"buddee-create-leave-request","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"Create Employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Create Employee in Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"Buddee create employee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"action_name"}
+{"query":"create a employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"make a employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"new employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"open a employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"start a employee on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"canonical"}
+{"query":"create employee via Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"create employee using Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"create employee with Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_prep"}
+{"query":"Buddee create a employee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"Buddee make a employee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"app_first"}
+{"query":"create staff member on Buddee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_target"}
+{"query":"Buddee create staff member","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"alt_target"}
+{"query":"create a buddee employee","expected_action_key":"buddee-create-employee","expected_app_slug":"buddee","app_name":"Buddee","test_type":"contextual"}

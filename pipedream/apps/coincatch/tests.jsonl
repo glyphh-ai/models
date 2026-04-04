@@ -1,0 +1,100 @@
+{"query":"List Symbols on CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"List Symbols in CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch list symbols","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"list all symbols on CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"show all symbols on CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"get all symbols on CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"show me all symbols on CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"list symbols via CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"list symbols using CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"list symbols with CoinCatch","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"CoinCatch list all symbols","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"CoinCatch show all symbols","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"list a coincatch symbols","expected_action_key":"coincatch-list-symbols","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"contextual"}
+{"query":"Get Symbol Mark Price on CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Symbol Mark Price in CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get symbol mark price","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the symbol mark price on CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the symbol mark price","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve symbol mark price on CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve symbol mark price","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get symbol mark price via CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get symbol mark price using CoinCatch","expected_action_key":"coincatch-get-symbol-mark-price","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get Single Symbol Ticker on CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Single Symbol Ticker in CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get single symbol ticker","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the single symbol ticker on CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the single symbol ticker","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve single symbol ticker on CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve single symbol ticker","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get single symbol ticker via CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get single symbol ticker using CoinCatch","expected_action_key":"coincatch-get-single-symbol-ticker","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get Single Account on CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Single Account in CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get single account","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the single account on CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the single account","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve single account on CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve single account","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get single account via CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get single account using CoinCatch","expected_action_key":"coincatch-get-single-account","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get Position Tier on CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Position Tier in CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get position tier","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the position tier on CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the position tier","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve position tier on CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve position tier","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get position tier via CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get position tier using CoinCatch","expected_action_key":"coincatch-get-position-tier","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get Open Orders on CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Open Orders in CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get open orders","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the open orders on CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the open orders","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve open orders on CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve open orders","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get open orders via CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get open orders using CoinCatch","expected_action_key":"coincatch-get-open-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get History Orders on CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get History Orders in CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get history orders","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the history orders on CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the history orders","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve history orders on CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve history orders","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get history orders via CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get history orders using CoinCatch","expected_action_key":"coincatch-get-history-orders","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get History Funding Rate on CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get History Funding Rate in CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get history funding rate","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the history funding rate on CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the history funding rate","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve history funding rate on CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve history funding rate","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get history funding rate via CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get history funding rate using CoinCatch","expected_action_key":"coincatch-get-history-funding-rate","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"Get Depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Depth in CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get depth","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"retrieve depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"fetch depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"show me the depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"pull depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"check depth on CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"get depth via CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get depth using CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get depth with CoinCatch","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"CoinCatch get the depth","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"CoinCatch retrieve depth","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get a coincatch depth","expected_action_key":"coincatch-get-depth","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"contextual"}
+{"query":"Get Candle Data on CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"Get Candle Data in CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"CoinCatch get candle data","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"action_name"}
+{"query":"get the candle data on CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch get the candle data","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"retrieve candle data on CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"canonical"}
+{"query":"CoinCatch retrieve candle data","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"app_first"}
+{"query":"get candle data via CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}
+{"query":"get candle data using CoinCatch","expected_action_key":"coincatch-get-candle-data","expected_app_slug":"coincatch","app_name":"CoinCatch","test_type":"alt_prep"}

@@ -1,0 +1,31 @@
+{"query":"Update Task on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"Update Task in TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"TeamGantt update task","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"update the task on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"edit the task on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"modify the task on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"change the task on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"update task via TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"update task using TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"update task with TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"TeamGantt update the task","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"app_first"}
+{"query":"TeamGantt edit the task","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"app_first"}
+{"query":"update story on TeamGantt","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_target"}
+{"query":"TeamGantt update story","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_target"}
+{"query":"update a teamgantt task","expected_action_key":"teamgantt-update-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"contextual"}
+{"query":"Create Task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"Create Task in TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"TeamGantt create task","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"action_name"}
+{"query":"create a task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"make a task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"new task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"open a task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"start a task on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"canonical"}
+{"query":"create task via TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"create task using TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"create task with TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_prep"}
+{"query":"TeamGantt create a task","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"app_first"}
+{"query":"TeamGantt make a task","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"app_first"}
+{"query":"create story on TeamGantt","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_target"}
+{"query":"TeamGantt create story","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"alt_target"}
+{"query":"create a teamgantt task","expected_action_key":"teamgantt-create-task","expected_app_slug":"teamgantt","app_name":"TeamGantt","test_type":"contextual"}

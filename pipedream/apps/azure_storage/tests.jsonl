@@ -1,0 +1,33 @@
+{"query":"Upload Blob on Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Upload Blob in Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Azure Storage upload blob","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Upload Blob on azure_storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"upload a blob on Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage upload a blob","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"upload the blob on Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage upload the blob","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"upload blob via Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"upload blob using Azure Storage","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"azure_storage upload blob","expected_action_key":"azure_storage-upload-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_app_name"}
+{"query":"Delete Blob on Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Delete Blob in Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Azure Storage delete blob","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Delete Blob on azure_storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"delete the blob on Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage delete the blob","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"remove the blob on Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage remove the blob","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"delete blob via Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"delete blob using Azure Storage","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"azure_storage delete blob","expected_action_key":"azure_storage-delete-blob","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_app_name"}
+{"query":"Create Container on Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Create Container in Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Azure Storage create container","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"Create Container on azure_storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"action_name"}
+{"query":"create a container on Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage create a container","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"make a container on Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"canonical"}
+{"query":"Azure Storage make a container","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"app_first"}
+{"query":"create container via Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"create container using Azure Storage","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_prep"}
+{"query":"azure_storage create container","expected_action_key":"azure_storage-create-container","expected_app_slug":"azure_storage","app_name":"Azure Storage","test_type":"alt_app_name"}

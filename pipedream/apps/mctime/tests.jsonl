@@ -1,0 +1,6 @@
+{"query":"Stop Clocking on McTime","expected_action_key":"mctime-stop-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}
+{"query":"Stop Clocking in McTime","expected_action_key":"mctime-stop-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}
+{"query":"McTime stop clocking","expected_action_key":"mctime-stop-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}
+{"query":"Start Clocking on McTime","expected_action_key":"mctime-start-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}
+{"query":"Start Clocking in McTime","expected_action_key":"mctime-start-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}
+{"query":"McTime start clocking","expected_action_key":"mctime-start-clocking","expected_app_slug":"mctime","app_name":"McTime","test_type":"action_name"}

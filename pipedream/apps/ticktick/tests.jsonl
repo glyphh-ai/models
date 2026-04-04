@@ -1,0 +1,47 @@
+{"query":"Update a Task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"Update a Task in TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"TickTick update a task","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"update task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"update the task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"edit the task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"modify the task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"change the task on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"update task in TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"update task via TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"update task using TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"update task with TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"TickTick update task","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"TickTick update the task","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"TickTick edit the task","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"update story on TickTick","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_target"}
+{"query":"TickTick update story","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_target"}
+{"query":"update a ticktick task","expected_action_key":"ticktick-update-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"contextual"}
+{"query":"List Projects on TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"List Projects in TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"TickTick list projects","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"list all projects on TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"TickTick list all projects","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"show all projects on TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"TickTick show all projects","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"list projects via TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"list projects using TickTick","expected_action_key":"ticktick-list-projects","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"Create a Task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"Create a Task in TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"TickTick create a task","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"create task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"make a task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"new task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"open a task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"start a task on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"canonical"}
+{"query":"create task in TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"create task via TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"create task using TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"create task with TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_prep"}
+{"query":"TickTick create task","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"TickTick make a task","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"app_first"}
+{"query":"create story on TickTick","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_target"}
+{"query":"TickTick create story","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"alt_target"}
+{"query":"create a ticktick task","expected_action_key":"ticktick-create-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"contextual"}
+{"query":"Complete a Task on TickTick","expected_action_key":"ticktick-complete-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"Complete a Task in TickTick","expected_action_key":"ticktick-complete-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}
+{"query":"TickTick complete a task","expected_action_key":"ticktick-complete-task","expected_app_slug":"ticktick","app_name":"TickTick","test_type":"action_name"}

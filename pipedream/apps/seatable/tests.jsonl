@@ -1,0 +1,45 @@
+{"query":"Update Row on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"Update Row in SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"SeaTable update row","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"update the row on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"edit the row on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"modify the row on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"change the row on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"update row via SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"update row using SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"update row with SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"SeaTable update the row","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"SeaTable edit the row","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"update entry on SeaTable","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"SeaTable update entry","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"update a seatable row","expected_action_key":"seatable-update-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"contextual"}
+{"query":"Delete Row on SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"Delete Row in SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"SeaTable delete row","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"delete the row on SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"remove the row on SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"destroy the row on SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"delete row via SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"delete row using SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"delete row with SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"SeaTable delete the row","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"SeaTable remove the row","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"delete entry on SeaTable","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"SeaTable delete entry","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"delete a seatable row","expected_action_key":"seatable-delete-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"contextual"}
+{"query":"Create Row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"Create Row in SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"SeaTable create row","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"action_name"}
+{"query":"create a row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"make a row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"new row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"open a row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"start a row on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"canonical"}
+{"query":"create row via SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"create row using SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"create row with SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_prep"}
+{"query":"SeaTable create a row","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"SeaTable make a row","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"app_first"}
+{"query":"create entry on SeaTable","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"SeaTable create entry","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"alt_target"}
+{"query":"create a seatable row","expected_action_key":"seatable-create-row","expected_app_slug":"seatable","app_name":"SeaTable","test_type":"contextual"}

@@ -1,0 +1,18 @@
+{"query":"Find User on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"action_name"}
+{"query":"Find User in Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"action_name"}
+{"query":"Userflow find user","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"action_name"}
+{"query":"search for user on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"canonical"}
+{"query":"look for user on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"canonical"}
+{"query":"search user on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"canonical"}
+{"query":"locate user on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"canonical"}
+{"query":"search for user in Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_prep"}
+{"query":"search for user via Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_prep"}
+{"query":"search for user using Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_prep"}
+{"query":"search for user with Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_prep"}
+{"query":"Userflow search for user","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"app_first"}
+{"query":"Userflow look for user","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"app_first"}
+{"query":"search for member on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_target"}
+{"query":"Userflow search for member","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_target"}
+{"query":"search for person on Userflow","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_target"}
+{"query":"Userflow search for person","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"alt_target"}
+{"query":"search for a userflow user","expected_action_key":"userflow-find-user","expected_app_slug":"userflow","app_name":"Userflow","test_type":"contextual"}

@@ -1,0 +1,511 @@
+{"query":"Update Task on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Task in ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update task","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the task on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"edit the task on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"modify the task on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"change the task on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"update task via ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update task using ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update task with ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp update the task","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp edit the task","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update story on ClickUp","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp update story","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"update a clickup task","expected_action_key":"clickup-update-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Update Space on ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Space in ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update space","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the space on ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp update the space","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"edit the space on ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp edit the space","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update space via ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update space using ClickUp","expected_action_key":"clickup-update-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Update List on ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update List in ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update list","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the list on ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"edit the list on ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"modify the list on ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"change the list on ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"update list via ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update list using ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update list with ClickUp","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp update the list","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp edit the list","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update a clickup list","expected_action_key":"clickup-update-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Update Folder on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Folder in ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update folder","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the folder on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"edit the folder on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"modify the folder on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"change the folder on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"update folder via ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update folder using ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update folder with ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp update the folder","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp edit the folder","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update directory on ClickUp","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp update directory","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"update a clickup folder","expected_action_key":"clickup-update-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Update Comment on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Comment in ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update comment","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the comment on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"edit the comment on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"modify the comment on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"change the comment on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"update comment via ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update comment using ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update comment with ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp update the comment","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp edit the comment","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update note on ClickUp","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp update note","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"update a clickup comment","expected_action_key":"clickup-update-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Update Checklist on ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Checklist in ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update checklist","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the checklist on ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp update the checklist","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"edit the checklist on ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp edit the checklist","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update checklist via ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update checklist using ClickUp","expected_action_key":"clickup-update-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Update Checklist Item on ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Update Checklist Item in ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp update checklist item","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"update the checklist item on ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp update the checklist item","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"edit the checklist item on ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp edit the checklist item","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"update checklist item via ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"update checklist item using ClickUp","expected_action_key":"clickup-update-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Stop Time Entry on ClickUp","expected_action_key":"clickup-stop-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Stop Time Entry in ClickUp","expected_action_key":"clickup-stop-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp stop time entry","expected_action_key":"clickup-stop-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Start Time Entry on ClickUp","expected_action_key":"clickup-start-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Start Time Entry in ClickUp","expected_action_key":"clickup-start-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp start time entry","expected_action_key":"clickup-start-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get View on ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get View in ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get view","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the view on ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the view","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve view on ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve view","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get view via ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get view using ClickUp","expected_action_key":"clickup-get-view","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get View Tasks on ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get View Tasks in ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get view tasks","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the view tasks on ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the view tasks","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve view tasks on ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve view tasks","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get view tasks via ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get view tasks using ClickUp","expected_action_key":"clickup-get-view-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get View Comments on ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get View Comments in ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get view comments","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the view comments on ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the view comments","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve view comments on ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve view comments","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get view comments via ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get view comments using ClickUp","expected_action_key":"clickup-get-view-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Team Views on ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Team Views in ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get team views","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the team views on ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the team views","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve team views on ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve team views","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get team views via ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get team views using ClickUp","expected_action_key":"clickup-get-team-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Tasks in ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get tasks","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"retrieve tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"fetch tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"show me the tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"pull tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"check tasks on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"get tasks via ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get tasks using ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get tasks with ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp get the tasks","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp retrieve tasks","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get story on ClickUp","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp get story","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"get a clickup tasks","expected_action_key":"clickup-get-tasks","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Get Task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Task in ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get task","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"retrieve task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"fetch task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"show me the task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"pull task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"check task on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"get task via ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get task using ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get task with ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp get the task","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp retrieve task","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get story on ClickUp","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp get story","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"get a clickup task","expected_action_key":"clickup-get-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Get Task Templates on ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Task Templates in ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get task templates","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the task templates on ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the task templates","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve task templates on ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve task templates","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get task templates via ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get task templates using ClickUp","expected_action_key":"clickup-get-task-templates","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Task Comments on ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Task Comments in ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get task comments","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the task comments on ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the task comments","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve task comments on ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve task comments","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get task comments via ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get task comments using ClickUp","expected_action_key":"clickup-get-task-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Spaces on ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Spaces in ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get spaces","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the spaces on ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the spaces","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve spaces on ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve spaces","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get spaces via ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get spaces using ClickUp","expected_action_key":"clickup-get-spaces","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Space on ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Space in ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get space","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the space on ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the space","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve space on ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve space","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get space via ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get space using ClickUp","expected_action_key":"clickup-get-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Space Views on ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Space Views in ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get space views","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the space views on ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the space views","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve space views on ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve space views","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get space views via ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get space views using ClickUp","expected_action_key":"clickup-get-space-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Lists on ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Lists in ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get lists","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the lists on ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the lists","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve lists on ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve lists","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get lists via ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get lists using ClickUp","expected_action_key":"clickup-get-lists","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get List on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get List in ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get list","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"retrieve list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"fetch list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"show me the list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"pull list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"check list on ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"get list via ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get list using ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get list with ClickUp","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp get the list","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp retrieve list","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get a clickup list","expected_action_key":"clickup-get-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Get List Views on ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get List Views in ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get list views","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the list views on ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the list views","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve list views on ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve list views","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get list views via ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get list views using ClickUp","expected_action_key":"clickup-get-list-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get List Comments on ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get List Comments in ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get list comments","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the list comments on ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the list comments","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve list comments on ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve list comments","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get list comments via ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get list comments using ClickUp","expected_action_key":"clickup-get-list-comments","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Get Folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Folders in ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get folders","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"retrieve folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"fetch folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"show me the folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"pull folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"check folders on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"get folders via ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get folders using ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get folders with ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp get the folders","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp retrieve folders","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get directory on ClickUp","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp get directory","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"get a clickup folders","expected_action_key":"clickup-get-folders","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Get Folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Folder in ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get folder","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"retrieve folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"fetch folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"show me the folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"pull folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"check folder on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"get folder via ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get folder using ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get folder with ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp get the folder","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp retrieve folder","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get directory on ClickUp","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp get directory","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"get a clickup folder","expected_action_key":"clickup-get-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Get Folder Views on ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Get Folder Views in ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp get folder views","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"get the folder views on ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp get the folder views","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"retrieve folder views on ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp retrieve folder views","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"get folder views via ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"get folder views using ClickUp","expected_action_key":"clickup-get-folder-views","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Delete Task on ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Task in ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete task","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the task on ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"remove the task on ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"destroy the task on ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"delete task via ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete task using ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete task with ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp delete the task","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp remove the task","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete story on ClickUp","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp delete story","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"delete a clickup task","expected_action_key":"clickup-delete-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Delete Space on ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Space in ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete space","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the space on ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp delete the space","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"remove the space on ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp remove the space","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete space via ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete space using ClickUp","expected_action_key":"clickup-delete-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Delete List on ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete List in ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete list","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the list on ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"remove the list on ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"destroy the list on ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"delete list via ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete list using ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete list with ClickUp","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp delete the list","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp remove the list","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete a clickup list","expected_action_key":"clickup-delete-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Delete Folder on ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Folder in ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete folder","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the folder on ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"remove the folder on ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"destroy the folder on ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"delete folder via ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete folder using ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete folder with ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp delete the folder","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp remove the folder","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete directory on ClickUp","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp delete directory","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"delete a clickup folder","expected_action_key":"clickup-delete-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Delete Comment on ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Comment in ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete comment","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the comment on ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"remove the comment on ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"destroy the comment on ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"delete comment via ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete comment using ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete comment with ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp delete the comment","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp remove the comment","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete note on ClickUp","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp delete note","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"delete a clickup comment","expected_action_key":"clickup-delete-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Delete Checklist on ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Checklist in ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete checklist","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the checklist on ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp delete the checklist","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"remove the checklist on ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp remove the checklist","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete checklist via ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete checklist using ClickUp","expected_action_key":"clickup-delete-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Delete Checklist Item on ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Delete Checklist Item in ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp delete checklist item","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"delete the checklist item on ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp delete the checklist item","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"remove the checklist item on ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp remove the checklist item","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"delete checklist item via ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"delete checklist item using ClickUp","expected_action_key":"clickup-delete-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create View Comment on ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create View Comment in ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create view comment","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a view comment on ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a view comment","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a view comment on ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a view comment","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create view comment via ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create view comment using ClickUp","expected_action_key":"clickup-create-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Time Entry on ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Time Entry in ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create time entry","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a time entry on ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a time entry","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a time entry on ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a time entry","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create time entry via ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create time entry using ClickUp","expected_action_key":"clickup-create-time-entry","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Threaded Comment on ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Threaded Comment in ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create threaded comment","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a threaded comment on ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a threaded comment","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a threaded comment on ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a threaded comment","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create threaded comment via ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create threaded comment using ClickUp","expected_action_key":"clickup-create-threaded-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Task in ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create task","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"make a task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"new task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"open a task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"start a task on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"create task via ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create task using ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create task with ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp create a task","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp make a task","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create story on ClickUp","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp create story","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"create a clickup task","expected_action_key":"clickup-create-task","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Create Task From Template on ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Task From Template in ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create task from template","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create task template on ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create task template","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create a task template on ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a task template","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a task template on ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a task template","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create task template in ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create task template via ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create task template using ClickUp","expected_action_key":"clickup-create-task-from-template","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Task Comment on ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Task Comment in ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create task comment","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a task comment on ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a task comment","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a task comment on ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a task comment","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create task comment via ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create task comment using ClickUp","expected_action_key":"clickup-create-task-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Space on ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Space in ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create space","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a space on ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a space","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a space on ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a space","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create space via ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create space using ClickUp","expected_action_key":"clickup-create-space","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create List on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create List in ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create list","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a list on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"make a list on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"new list on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"open a list on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"start a list on ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"create list via ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create list using ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create list with ClickUp","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp create a list","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp make a list","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create a clickup list","expected_action_key":"clickup-create-list","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Create List Comment on ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create List Comment in ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create list comment","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a list comment on ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a list comment","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a list comment on ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a list comment","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create list comment via ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create list comment using ClickUp","expected_action_key":"clickup-create-list-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Folder in ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create folder","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"make a folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"new folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"open a folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"start a folder on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"create folder via ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create folder using ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create folder with ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"ClickUp create a folder","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"ClickUp make a folder","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create directory on ClickUp","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"ClickUp create directory","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_target"}
+{"query":"create a clickup folder","expected_action_key":"clickup-create-folder","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"contextual"}
+{"query":"Create Checklist on ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Checklist in ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create checklist","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a checklist on ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a checklist","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a checklist on ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a checklist","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create checklist via ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create checklist using ClickUp","expected_action_key":"clickup-create-checklist","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Checklist Item on ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Checklist Item in ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create checklist item","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a checklist item on ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a checklist item","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a checklist item on ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a checklist item","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create checklist item via ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create checklist item using ClickUp","expected_action_key":"clickup-create-checklist-item","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"Create Chat View Comment on ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"Create Chat View Comment in ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"ClickUp create chat view comment","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"action_name"}
+{"query":"create a chat view comment on ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp create a chat view comment","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"make a chat view comment on ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"canonical"}
+{"query":"ClickUp make a chat view comment","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"app_first"}
+{"query":"create chat view comment via ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}
+{"query":"create chat view comment using ClickUp","expected_action_key":"clickup-create-chat-view-comment","expected_app_slug":"clickup","app_name":"ClickUp","test_type":"alt_prep"}

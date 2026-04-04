@@ -1,0 +1,81 @@
+{"query":"List Surveys on Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"List Surveys in Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate list surveys","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"list all surveys on Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate list all surveys","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"show all surveys on Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate show all surveys","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"list surveys via Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"list surveys using Survicate","expected_action_key":"survicate-list-surveys","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"List Responses on Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"List Responses in Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate list responses","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"list all responses on Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate list all responses","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"show all responses on Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate show all responses","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"list responses via Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"list responses using Survicate","expected_action_key":"survicate-list-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"List Respondent Responses on Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"List Respondent Responses in Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate list respondent responses","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"list all respondent responses on Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate list all respondent responses","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"show all respondent responses on Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate show all respondent responses","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"list respondent responses via Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"list respondent responses using Survicate","expected_action_key":"survicate-list-respondent-responses","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"List Respondent Attributes on Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"List Respondent Attributes in Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate list respondent attributes","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"list all respondent attributes on Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate list all respondent attributes","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"show all respondent attributes on Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate show all respondent attributes","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"list respondent attributes via Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"list respondent attributes using Survicate","expected_action_key":"survicate-list-respondent-attributes","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"List Questions on Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"List Questions in Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate list questions","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"list all questions on Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate list all questions","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"show all questions on Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate show all questions","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"list questions via Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"list questions using Survicate","expected_action_key":"survicate-list-questions","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"Get Survey on Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Get Survey in Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate get survey","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"get the survey on Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate get the survey","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"retrieve survey on Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate retrieve survey","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"get survey via Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"get survey using Survicate","expected_action_key":"survicate-get-survey","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"Get Response on Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Get Response in Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate get response","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"get the response on Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate get the response","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"retrieve response on Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate retrieve response","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"get response via Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"get response using Survicate","expected_action_key":"survicate-get-response","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"Get Personal Data Counters on Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Get Personal Data Counters in Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate get personal data counters","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"get the personal data counters on Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate get the personal data counters","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"retrieve personal data counters on Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate retrieve personal data counters","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"get personal data counters via Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"get personal data counters using Survicate","expected_action_key":"survicate-get-personal-data-counters","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"Delete Personal Data on Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Delete Personal Data in Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"Survicate delete personal data","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"action_name"}
+{"query":"delete the personal data on Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate delete the personal data","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"remove the personal data on Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"canonical"}
+{"query":"Survicate remove the personal data","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"app_first"}
+{"query":"delete personal data via Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}
+{"query":"delete personal data using Survicate","expected_action_key":"survicate-delete-personal-data","expected_app_slug":"survicate","app_name":"Survicate","test_type":"alt_prep"}

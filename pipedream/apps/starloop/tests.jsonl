@@ -1,0 +1,22 @@
+{"query":"Send Invite on Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"Send Invite in Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"Starloop send invite","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"send a invite on Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"post a invite on Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"send out invite on Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"fire off invite on Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"send invite via Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"alt_prep"}
+{"query":"send invite using Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"alt_prep"}
+{"query":"send invite with Starloop","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"alt_prep"}
+{"query":"Starloop send a invite","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"app_first"}
+{"query":"Starloop post a invite","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"app_first"}
+{"query":"send a starloop invite","expected_action_key":"starloop-send-invite","expected_app_slug":"starloop","app_name":"Starloop","test_type":"contextual"}
+{"query":"List IDs on Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"List IDs in Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"Starloop list ids","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"action_name"}
+{"query":"list all ids on Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"Starloop list all ids","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"app_first"}
+{"query":"show all ids on Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"canonical"}
+{"query":"Starloop show all ids","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"app_first"}
+{"query":"list ids via Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"alt_prep"}
+{"query":"list ids using Starloop","expected_action_key":"starloop-list-ids","expected_app_slug":"starloop","app_name":"Starloop","test_type":"alt_prep"}

@@ -1,0 +1,92 @@
+{"query":"Update Document on DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Update Document in DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate update document","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"update the document on DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"edit the document on DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"modify the document on DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"change the document on DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"update document via DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"update document using DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"update document with DocuGenerate","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate update the document","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate edit the document","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"update a docugenerate document","expected_action_key":"docugenerate-update-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}
+{"query":"List Templates on DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"List Templates in DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate list templates","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"list all templates on DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"show all templates on DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"get all templates on DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"show me all templates on DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"list templates via DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"list templates using DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"list templates with DocuGenerate","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate list all templates","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate show all templates","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"list a docugenerate templates","expected_action_key":"docugenerate-list-templates","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}
+{"query":"List Documents on DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"List Documents in DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate list documents","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"list all documents on DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"DocuGenerate list all documents","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"show all documents on DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"DocuGenerate show all documents","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"list documents via DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"list documents using DocuGenerate","expected_action_key":"docugenerate-list-documents","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"Get Template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Get Template in DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate get template","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"get the template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"retrieve template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"fetch template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"show me the template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"pull template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"check template on DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"get template via DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"get template using DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"get template with DocuGenerate","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate get the template","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate retrieve template","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"get a docugenerate template","expected_action_key":"docugenerate-get-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}
+{"query":"Get Document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Get Document in DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate get document","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"get the document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"retrieve document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"fetch document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"show me the document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"pull document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"check document on DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"get document via DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"get document using DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"get document with DocuGenerate","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate get the document","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate retrieve document","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"get a docugenerate document","expected_action_key":"docugenerate-get-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}
+{"query":"Generate Document on DocuGenerate","expected_action_key":"docugenerate-generate-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Generate Document in DocuGenerate","expected_action_key":"docugenerate-generate-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate generate document","expected_action_key":"docugenerate-generate-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Delete Template on DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Delete Template in DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate delete template","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"delete the template on DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"remove the template on DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"destroy the template on DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"delete template via DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"delete template using DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"delete template with DocuGenerate","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate delete the template","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate remove the template","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"delete a docugenerate template","expected_action_key":"docugenerate-delete-template","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}
+{"query":"Delete Document on DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"Delete Document in DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"DocuGenerate delete document","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"action_name"}
+{"query":"delete the document on DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"remove the document on DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"destroy the document on DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"canonical"}
+{"query":"delete document via DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"delete document using DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"delete document with DocuGenerate","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"alt_prep"}
+{"query":"DocuGenerate delete the document","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"DocuGenerate remove the document","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"app_first"}
+{"query":"delete a docugenerate document","expected_action_key":"docugenerate-delete-document","expected_app_slug":"docugenerate","app_name":"DocuGenerate","test_type":"contextual"}

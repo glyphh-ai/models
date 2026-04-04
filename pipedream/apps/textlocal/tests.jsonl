@@ -1,0 +1,25 @@
+{"query":"Send SMS on Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"Send SMS in Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"Textlocal send sms","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"send a sms on Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"Textlocal send a sms","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"app_first"}
+{"query":"post a sms on Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"Textlocal post a sms","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"app_first"}
+{"query":"send sms via Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_prep"}
+{"query":"send sms using Textlocal","expected_action_key":"textlocal-send-sms","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_prep"}
+{"query":"Create Contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"Create Contact in Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"Textlocal create contact","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"action_name"}
+{"query":"create a contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"make a contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"new contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"open a contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"start a contact on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"canonical"}
+{"query":"create contact via Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_prep"}
+{"query":"create contact using Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_prep"}
+{"query":"create contact with Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_prep"}
+{"query":"Textlocal create a contact","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"app_first"}
+{"query":"Textlocal make a contact","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"app_first"}
+{"query":"create contact record on Textlocal","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_target"}
+{"query":"Textlocal create contact record","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"alt_target"}
+{"query":"create a textlocal contact","expected_action_key":"textlocal-create-contact","expected_app_slug":"textlocal","app_name":"Textlocal","test_type":"contextual"}

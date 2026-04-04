@@ -1,0 +1,25 @@
+{"query":"Create Lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"Create Lead in Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"Workiz create lead","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"create a lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"make a lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"new lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"open a lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"start a lead on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"create lead via Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_prep"}
+{"query":"create lead using Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_prep"}
+{"query":"create lead with Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_prep"}
+{"query":"Workiz create a lead","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"app_first"}
+{"query":"Workiz make a lead","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"app_first"}
+{"query":"create contact record on Workiz","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_target"}
+{"query":"Workiz create contact record","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_target"}
+{"query":"create a workiz lead","expected_action_key":"workiz-create-lead","expected_app_slug":"workiz","app_name":"Workiz","test_type":"contextual"}
+{"query":"Create Job on Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"Create Job in Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"Workiz create job","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"action_name"}
+{"query":"create a job on Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"Workiz create a job","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"app_first"}
+{"query":"make a job on Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"canonical"}
+{"query":"Workiz make a job","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"app_first"}
+{"query":"create job via Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_prep"}
+{"query":"create job using Workiz","expected_action_key":"workiz-create-job","expected_app_slug":"workiz","app_name":"Workiz","test_type":"alt_prep"}

@@ -1,0 +1,12 @@
+{"query":"Shorten URL on UrlBae","expected_action_key":"urlbae-shorten-url","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"Shorten URL in UrlBae","expected_action_key":"urlbae-shorten-url","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"UrlBae shorten url","expected_action_key":"urlbae-shorten-url","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"Create QRCode on UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"Create QRCode in UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"UrlBae create qrcode","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"action_name"}
+{"query":"create a qrcode on UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"canonical"}
+{"query":"UrlBae create a qrcode","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"app_first"}
+{"query":"make a qrcode on UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"canonical"}
+{"query":"UrlBae make a qrcode","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"app_first"}
+{"query":"create qrcode via UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"alt_prep"}
+{"query":"create qrcode using UrlBae","expected_action_key":"urlbae-create-qrcode","expected_app_slug":"urlbae","app_name":"UrlBae","test_type":"alt_prep"}

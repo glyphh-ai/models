@@ -1,0 +1,47 @@
+{"query":"Update Contact on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Update Contact in Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Nimble update contact","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"update the contact on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"edit the contact on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"modify the contact on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"change the contact on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"update contact via Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"update contact using Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"update contact with Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"Nimble update the contact","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"Nimble edit the contact","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"update contact record on Nimble","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"Nimble update contact record","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"update a nimble contact","expected_action_key":"nimble-update-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"contextual"}
+{"query":"Create Task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Create Task in Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Nimble create task","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"create a task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"make a task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"new task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"open a task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"start a task on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"create task via Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"create task using Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"create task with Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"Nimble create a task","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"Nimble make a task","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"create story on Nimble","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"Nimble create story","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"create a nimble task","expected_action_key":"nimble-create-task","expected_app_slug":"nimble","app_name":"Nimble","test_type":"contextual"}
+{"query":"Create Contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Create Contact in Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"Nimble create contact","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"action_name"}
+{"query":"create a contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"make a contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"new contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"open a contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"start a contact on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"canonical"}
+{"query":"create contact via Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"create contact using Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"create contact with Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_prep"}
+{"query":"Nimble create a contact","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"Nimble make a contact","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"app_first"}
+{"query":"create contact record on Nimble","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"Nimble create contact record","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"alt_target"}
+{"query":"create a nimble contact","expected_action_key":"nimble-create-contact","expected_app_slug":"nimble","app_name":"Nimble","test_type":"contextual"}

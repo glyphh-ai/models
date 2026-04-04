@@ -1,0 +1,101 @@
+{"query":"Upload File on pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Upload File in pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud upload file","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"upload a file on pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"upload the file on pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"upload file via pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"upload file using pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"upload file with pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"pCloud upload a file","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud upload the file","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"upload document on pCloud","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"pCloud upload document","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"upload a pcloud file","expected_action_key":"pcloud-upload-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"contextual"}
+{"query":"Rename Folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Rename Folder in pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud rename folder","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"update folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"update the folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"edit the folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"modify the folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"change the folder on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"update folder in pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update folder via pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update folder using pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update folder with pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"pCloud update folder","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud update the folder","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud edit the folder","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"update directory on pCloud","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"pCloud update directory","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"update a pcloud folder","expected_action_key":"pcloud-rename-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"contextual"}
+{"query":"Rename File on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Rename File in pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud rename file","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"update file on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"update the file on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"edit the file on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"modify the file on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"change the file on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"update file in pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update file via pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update file using pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"update file with pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"pCloud update file","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud update the file","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud edit the file","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"update document on pCloud","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"pCloud update document","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"update a pcloud file","expected_action_key":"pcloud-rename-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"contextual"}
+{"query":"Move Folder on pCloud","expected_action_key":"pcloud-move-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Move Folder in pCloud","expected_action_key":"pcloud-move-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud move folder","expected_action_key":"pcloud-move-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Move File on pCloud","expected_action_key":"pcloud-move-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Move File in pCloud","expected_action_key":"pcloud-move-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud move file","expected_action_key":"pcloud-move-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"List Contents on pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"List Contents in pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud list contents","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"list all contents on pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"pCloud list all contents","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"show all contents on pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"pCloud show all contents","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"list contents via pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"list contents using pCloud","expected_action_key":"pcloud-list-contents","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"Download File on pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Download File in pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud download file","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"export file on pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"export the file on pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"download the file on pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"export file in pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"export file via pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"export file using pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"export file with pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"pCloud export file","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud export the file","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"export document on pCloud","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"pCloud export document","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"export a pcloud file","expected_action_key":"pcloud-download-files","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"contextual"}
+{"query":"Create Folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Create Folder in pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud create folder","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"create a folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"make a folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"new folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"open a folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"start a folder on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"canonical"}
+{"query":"create folder via pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"create folder using pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"create folder with pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_prep"}
+{"query":"pCloud create a folder","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"pCloud make a folder","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"app_first"}
+{"query":"create directory on pCloud","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"pCloud create directory","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"alt_target"}
+{"query":"create a pcloud folder","expected_action_key":"pcloud-create-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"contextual"}
+{"query":"Copy Folder on pCloud","expected_action_key":"pcloud-copy-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Copy Folder in pCloud","expected_action_key":"pcloud-copy-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud copy folder","expected_action_key":"pcloud-copy-folder","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Copy File on pCloud","expected_action_key":"pcloud-copy-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"Copy File in pCloud","expected_action_key":"pcloud-copy-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}
+{"query":"pCloud copy file","expected_action_key":"pcloud-copy-file","expected_app_slug":"pcloud","app_name":"pCloud","test_type":"action_name"}

@@ -1,0 +1,16 @@
+{"query":"Create Order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"action_name"}
+{"query":"Create Order in ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"action_name"}
+{"query":"ShipStation create order","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"action_name"}
+{"query":"create a order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"canonical"}
+{"query":"make a order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"canonical"}
+{"query":"new order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"canonical"}
+{"query":"open a order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"canonical"}
+{"query":"start a order on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"canonical"}
+{"query":"create order via ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"alt_prep"}
+{"query":"create order using ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"alt_prep"}
+{"query":"create order with ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"alt_prep"}
+{"query":"ShipStation create a order","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"app_first"}
+{"query":"ShipStation make a order","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"app_first"}
+{"query":"create purchase on ShipStation","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"alt_target"}
+{"query":"ShipStation create purchase","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"alt_target"}
+{"query":"create a shipstation order","expected_action_key":"shipstation-create-order","expected_app_slug":"shipstation","app_name":"ShipStation","test_type":"contextual"}

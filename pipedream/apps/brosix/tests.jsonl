@@ -1,0 +1,17 @@
+{"query":"Send Message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"action_name"}
+{"query":"Send Message in Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"action_name"}
+{"query":"Brosix send message","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"action_name"}
+{"query":"send a message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"canonical"}
+{"query":"post a message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"canonical"}
+{"query":"send out message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"canonical"}
+{"query":"fire off message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"canonical"}
+{"query":"send message via Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_prep"}
+{"query":"send message using Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_prep"}
+{"query":"send message with Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_prep"}
+{"query":"Brosix send a message","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"app_first"}
+{"query":"Brosix post a message","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"app_first"}
+{"query":"send msg on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_target"}
+{"query":"Brosix send msg","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_target"}
+{"query":"send chat message on Brosix","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_target"}
+{"query":"Brosix send chat message","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"alt_target"}
+{"query":"send a brosix message","expected_action_key":"brosix-send-message","expected_app_slug":"brosix","app_name":"Brosix","test_type":"contextual"}

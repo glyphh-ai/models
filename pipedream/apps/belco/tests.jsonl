@@ -1,0 +1,113 @@
+{"query":"Send Message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Send Message in Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco send message","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"send a message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"post a message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"send out message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"fire off message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"send message via Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"send message using Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"send message with Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Belco send a message","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"Belco post a message","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"send msg on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"Belco send msg","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"send chat message on Belco","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"Belco send chat message","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"send a belco message","expected_action_key":"belco-send-message","expected_app_slug":"belco","app_name":"Belco","test_type":"contextual"}
+{"query":"Retrieve Conversation on Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Retrieve Conversation in Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco retrieve conversation","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"get conversation on Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco get conversation","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"get the conversation on Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco get the conversation","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"get conversation in Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"get conversation via Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"get conversation using Belco","expected_action_key":"belco-retrieve-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Reply to Conversation on Belco","expected_action_key":"belco-reply-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Reply to Conversation in Belco","expected_action_key":"belco-reply-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco reply to conversation","expected_action_key":"belco-reply-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Reopen Conversation on Belco","expected_action_key":"belco-reopen-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Reopen Conversation in Belco","expected_action_key":"belco-reopen-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco reopen conversation","expected_action_key":"belco-reopen-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"List Users on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"List Users in Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco list users","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"list all users on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"show all users on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"get all users on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"show me all users on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"list users via Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"list users using Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"list users with Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Belco list all users","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"Belco show all users","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"list member on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"Belco list member","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"list person on Belco","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"Belco list person","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_target"}
+{"query":"list a belco users","expected_action_key":"belco-list-users","expected_app_slug":"belco","app_name":"Belco","test_type":"contextual"}
+{"query":"List All Conversations on Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"List All Conversations in Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco list all conversations","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"list all all conversations on Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco list all all conversations","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"show all all conversations on Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco show all all conversations","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"list all conversations via Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"list all conversations using Belco","expected_action_key":"belco-list-all-conversations","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Get Contact Details on Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Get Contact Details in Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco get contact details","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"get the contact details on Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco get the contact details","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"retrieve contact details on Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco retrieve contact details","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"get contact details via Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"get contact details using Belco","expected_action_key":"belco-get-contact-details","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Create Conversation on Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Create Conversation in Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco create conversation","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"create a conversation on Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco create a conversation","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"make a conversation on Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco make a conversation","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"create conversation via Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"create conversation using Belco","expected_action_key":"belco-create-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Close Conversation on Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Close Conversation in Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco close conversation","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"archive conversation on Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco archive conversation","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"archive the conversation on Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco archive the conversation","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"close the conversation on Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco close the conversation","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"archive conversation in Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"archive conversation via Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"archive conversation using Belco","expected_action_key":"belco-close-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Add Tags to Conversation on Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Add Tags to Conversation in Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco add tags to conversation","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"add tags conversation on Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add tags conversation","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add a tags conversation on Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add a tags conversation","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add new tags conversation on Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add new tags conversation","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add tags conversation in Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"add tags conversation via Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"add tags conversation using Belco","expected_action_key":"belco-add-tags-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"Add Note to Conversation on Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Add Note to Conversation in Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"Belco add note to conversation","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"action_name"}
+{"query":"add note conversation on Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add note conversation","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add a note conversation on Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add a note conversation","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add new note conversation on Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"canonical"}
+{"query":"Belco add new note conversation","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"app_first"}
+{"query":"add note conversation in Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"add note conversation via Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}
+{"query":"add note conversation using Belco","expected_action_key":"belco-add-note-to-conversation","expected_app_slug":"belco","app_name":"Belco","test_type":"alt_prep"}

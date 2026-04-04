@@ -1,0 +1,12 @@
+{"query":"Linkup Search on Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"action_name"}
+{"query":"Linkup Search in Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"action_name"}
+{"query":"Linkup linkup search","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"action_name"}
+{"query":"search for search on Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"canonical"}
+{"query":"Linkup search for search","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"app_first"}
+{"query":"find search on Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"canonical"}
+{"query":"Linkup find search","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"app_first"}
+{"query":"look for search on Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"canonical"}
+{"query":"Linkup look for search","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"app_first"}
+{"query":"search for search in Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"alt_prep"}
+{"query":"search for search via Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"alt_prep"}
+{"query":"search for search using Linkup","expected_action_key":"linkup-search","expected_app_slug":"linkup","app_name":"Linkup","test_type":"alt_prep"}

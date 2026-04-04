@@ -1,0 +1,41 @@
+{"query":"Search News on World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Search News in World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"World News API search news","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Search News on world_news_api","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"search for news on World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API search for news","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"find news on World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API find news","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"look for news on World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API look for news","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"search for news in World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"search for news via World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"search for news using World News API","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"search for news on world_news_api","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_app_name"}
+{"query":"world_news_api search for news","expected_action_key":"world_news_api-search-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_app_name"}
+{"query":"Get Geo Coordinates on World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Get Geo Coordinates in World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"World News API get geo coordinates","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Get Geo Coordinates on world_news_api","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"get the geo coordinates on World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API get the geo coordinates","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"retrieve geo coordinates on World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API retrieve geo coordinates","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"get geo coordinates via World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"get geo coordinates using World News API","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"world_news_api get geo coordinates","expected_action_key":"world_news_api-get-geo-coordinates","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_app_name"}
+{"query":"Extract News on World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Extract News in World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"World News API extract news","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"Extract News on world_news_api","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"action_name"}
+{"query":"create news on World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API create news","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"create a news on World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API create a news","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"make a news on World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"canonical"}
+{"query":"World News API make a news","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"app_first"}
+{"query":"create news in World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"create news via World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"create news using World News API","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_prep"}
+{"query":"create news on world_news_api","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_app_name"}
+{"query":"world_news_api create news","expected_action_key":"world_news_api-extract-news","expected_app_slug":"world_news_api","app_name":"World News API","test_type":"alt_app_name"}

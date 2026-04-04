@@ -1,0 +1,9 @@
+{"query":"Get Recording on Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"action_name"}
+{"query":"Get Recording in Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"action_name"}
+{"query":"Grain get recording","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"action_name"}
+{"query":"get the recording on Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"canonical"}
+{"query":"Grain get the recording","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"app_first"}
+{"query":"retrieve recording on Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"canonical"}
+{"query":"Grain retrieve recording","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"app_first"}
+{"query":"get recording via Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"alt_prep"}
+{"query":"get recording using Grain","expected_action_key":"grain-get-recording","expected_app_slug":"grain","app_name":"Grain","test_type":"alt_prep"}

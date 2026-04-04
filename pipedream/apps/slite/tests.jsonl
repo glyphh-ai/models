@@ -1,0 +1,39 @@
+{"query":"Update Document on Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Update Document in Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Slite update document","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"update the document on Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"edit the document on Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"modify the document on Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"change the document on Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"update document via Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"update document using Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"update document with Slite","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"Slite update the document","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"Slite edit the document","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"update a slite document","expected_action_key":"slite-update-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"contextual"}
+{"query":"Fetch Sub-Documents on Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Fetch Sub-Documents in Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Slite fetch sub-documents","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"get sub-documents on Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"Slite get sub-documents","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"get the sub-documents on Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"Slite get the sub-documents","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"retrieve sub-documents on Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"Slite retrieve sub-documents","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"get sub-documents in Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"get sub-documents via Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"get sub-documents using Slite","expected_action_key":"slite-fetch-sub-docs","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"Create Document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Create Document in Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"Slite create document","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"action_name"}
+{"query":"create a document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"make a document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"new document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"open a document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"start a document on Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"canonical"}
+{"query":"create document via Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"create document using Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"create document with Slite","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"alt_prep"}
+{"query":"Slite create a document","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"Slite make a document","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"app_first"}
+{"query":"create a slite document","expected_action_key":"slite-create-doc","expected_app_slug":"slite","app_name":"Slite","test_type":"contextual"}

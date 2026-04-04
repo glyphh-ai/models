@@ -1,0 +1,37 @@
+{"query":"Send Message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"Send Message in BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"BotConversa send message","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"send a message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"post a message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"send out message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"fire off message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"send message via BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"send message using BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"send message with BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"BotConversa send a message","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"BotConversa post a message","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"send msg on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_target"}
+{"query":"BotConversa send msg","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_target"}
+{"query":"send chat message on BotConversa","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_target"}
+{"query":"BotConversa send chat message","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_target"}
+{"query":"send a botconversa message","expected_action_key":"botconversa-send-message","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"contextual"}
+{"query":"Create Subscriber on BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"Create Subscriber in BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"BotConversa create subscriber","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"create a subscriber on BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"BotConversa create a subscriber","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"make a subscriber on BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"BotConversa make a subscriber","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"create subscriber via BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"create subscriber using BotConversa","expected_action_key":"botconversa-create-subscriber","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"Add Tag on BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"Add Tag in BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"BotConversa add tag","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"action_name"}
+{"query":"add a tag on BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"add new tag on BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"canonical"}
+{"query":"add tag via BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"add tag using BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"add tag with BotConversa","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"alt_prep"}
+{"query":"BotConversa add a tag","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"BotConversa add new tag","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"app_first"}
+{"query":"add a botconversa tag","expected_action_key":"botconversa-add-tag","expected_app_slug":"botconversa","app_name":"BotConversa","test_type":"contextual"}

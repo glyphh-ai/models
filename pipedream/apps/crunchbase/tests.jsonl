@@ -1,0 +1,21 @@
+{"query":"Search Organizations on Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"Search Organizations in Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"Crunchbase search organizations","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"search for organizations on Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"canonical"}
+{"query":"Crunchbase search for organizations","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"app_first"}
+{"query":"find organizations on Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"canonical"}
+{"query":"Crunchbase find organizations","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"app_first"}
+{"query":"look for organizations on Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"canonical"}
+{"query":"Crunchbase look for organizations","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"app_first"}
+{"query":"search for organizations in Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"alt_prep"}
+{"query":"search for organizations via Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"alt_prep"}
+{"query":"search for organizations using Crunchbase","expected_action_key":"crunchbase-search-organizations","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"alt_prep"}
+{"query":"Get Organization Details on Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"Get Organization Details in Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"Crunchbase get organization details","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"action_name"}
+{"query":"get the organization details on Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"canonical"}
+{"query":"Crunchbase get the organization details","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"app_first"}
+{"query":"retrieve organization details on Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"canonical"}
+{"query":"Crunchbase retrieve organization details","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"app_first"}
+{"query":"get organization details via Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"alt_prep"}
+{"query":"get organization details using Crunchbase","expected_action_key":"crunchbase-get-organization","expected_app_slug":"crunchbase","app_name":"Crunchbase","test_type":"alt_prep"}

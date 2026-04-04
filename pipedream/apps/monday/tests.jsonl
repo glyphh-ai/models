@@ -1,0 +1,115 @@
+{"query":"Update Item Name on monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Update Item Name in monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday update item name","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"update the item name on monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday update the item name","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"edit the item name on monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday edit the item name","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"update item name via monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"update item name using monday","expected_action_key":"monday-update-item-name","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Update Column Values on monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Update Column Values in monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday update column values","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"update the column values on monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday update the column values","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"edit the column values on monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday edit the column values","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"update column values via monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"update column values using monday","expected_action_key":"monday-update-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Get Items By Column Value on monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Get Items By Column Value in monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday get items by column value","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"get items column value on monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday get items column value","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"get the items column value on monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday get the items column value","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"retrieve items column value on monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday retrieve items column value","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"get items column value in monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"get items column value via monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"get items column value using monday","expected_action_key":"monday-get-items-by-column-value","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Get Column Values on monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Get Column Values in monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday get column values","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"get the column values on monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday get the column values","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"retrieve column values on monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday retrieve column values","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"get column values via monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"get column values using monday","expected_action_key":"monday-get-column-values","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Get Board Items Page on monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Get Board Items Page in monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday get board items page","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"get the board items page on monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday get the board items page","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"retrieve board items page on monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday retrieve board items page","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"get board items page via monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"get board items page using monday","expected_action_key":"monday-get-board-items-page","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Create an Update on monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create an Update in monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create an update","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create update on monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday create update","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create a update on monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday create a update","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"make a update on monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday make a update","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create update in monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create update via monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create update using monday","expected_action_key":"monday-create-update","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Create Subitem on monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create Subitem in monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create subitem","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create a subitem on monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday create a subitem","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"make a subitem on monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday make a subitem","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create subitem via monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create subitem using monday","expected_action_key":"monday-create-subitem","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Create Item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create Item in monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create item","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create a item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"make a item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"new item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"open a item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"start a item on monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"create item via monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create item using monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create item with monday","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"monday create a item","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"monday make a item","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create a monday item","expected_action_key":"monday-create-item","expected_app_slug":"monday","app_name":"monday","test_type":"contextual"}
+{"query":"Create Group on monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create Group in monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create group","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create a group on monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday create a group","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"make a group on monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday make a group","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create group via monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create group using monday","expected_action_key":"monday-create-group","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Create Column on monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create Column in monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create column","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create a column on monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday create a column","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"make a column on monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"monday make a column","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create column via monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create column using monday","expected_action_key":"monday-create-column","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"Create Board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"Create Board in monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"monday create board","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"action_name"}
+{"query":"create a board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"make a board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"new board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"open a board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"start a board on monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"canonical"}
+{"query":"create board via monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create board using monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"create board with monday","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"alt_prep"}
+{"query":"monday create a board","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"monday make a board","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"app_first"}
+{"query":"create a monday board","expected_action_key":"monday-create-board","expected_app_slug":"monday","app_name":"monday","test_type":"contextual"}

@@ -1,0 +1,12 @@
+{"query":"WHOIS lookup on IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"action_name"}
+{"query":"WHOIS lookup in IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"action_name"}
+{"query":"IP2WHOIS whois lookup","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"action_name"}
+{"query":"get lookup on IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"canonical"}
+{"query":"IP2WHOIS get lookup","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"app_first"}
+{"query":"get the lookup on IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"canonical"}
+{"query":"IP2WHOIS get the lookup","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"app_first"}
+{"query":"retrieve lookup on IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"canonical"}
+{"query":"IP2WHOIS retrieve lookup","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"app_first"}
+{"query":"get lookup in IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"alt_prep"}
+{"query":"get lookup via IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"alt_prep"}
+{"query":"get lookup using IP2WHOIS","expected_action_key":"ip2whois-query-domain-info","expected_app_slug":"ip2whois","app_name":"IP2WHOIS","test_type":"alt_prep"}

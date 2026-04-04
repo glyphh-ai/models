@@ -1,0 +1,62 @@
+{"query":"Update Customer on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Update Customer in Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Printavo update customer","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"update the customer on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"edit the customer on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"modify the customer on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"change the customer on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"update customer via Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"update customer using Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"update customer with Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"Printavo update the customer","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"Printavo edit the customer","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"update account on Printavo","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"Printavo update account","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"update a printavo customer","expected_action_key":"printavo-update-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"contextual"}
+{"query":"Search Customers on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Search Customers in Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Printavo search customers","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"search for customers on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"find customers on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"look for customers on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"locate customers on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"search for customers in Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"search for customers via Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"search for customers using Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"search for customers with Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"Printavo search for customers","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"Printavo find customers","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"Printavo look for customers","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"search for account on Printavo","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"Printavo search for account","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"search for a printavo customers","expected_action_key":"printavo-search-customers","expected_app_slug":"printavo","app_name":"Printavo","test_type":"contextual"}
+{"query":"Delete Customer on Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Delete Customer in Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Printavo delete customer","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"delete the customer on Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"remove the customer on Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"destroy the customer on Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"delete customer via Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"delete customer using Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"delete customer with Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"Printavo delete the customer","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"Printavo remove the customer","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"delete account on Printavo","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"Printavo delete account","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"delete a printavo customer","expected_action_key":"printavo-delete-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"contextual"}
+{"query":"Create Customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Create Customer in Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"Printavo create customer","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"action_name"}
+{"query":"create a customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"make a customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"new customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"open a customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"start a customer on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"canonical"}
+{"query":"create customer via Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"create customer using Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"create customer with Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_prep"}
+{"query":"Printavo create a customer","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"Printavo make a customer","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"app_first"}
+{"query":"create account on Printavo","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"Printavo create account","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"alt_target"}
+{"query":"create a printavo customer","expected_action_key":"printavo-create-customer","expected_app_slug":"printavo","app_name":"Printavo","test_type":"contextual"}

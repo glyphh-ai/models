@@ -1,0 +1,24 @@
+{"query":"List Accounts on Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"List Accounts in Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"Amilia list accounts","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"list all accounts on Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"Amilia list all accounts","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"app_first"}
+{"query":"show all accounts on Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"Amilia show all accounts","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"app_first"}
+{"query":"list accounts via Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"alt_prep"}
+{"query":"list accounts using Amilia","expected_action_key":"amilia-list-accounts","expected_app_slug":"amilia","app_name":"Amilia","test_type":"alt_prep"}
+{"query":"Get Account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"Get Account in Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"Amilia get account","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"action_name"}
+{"query":"get the account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"retrieve account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"fetch account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"show me the account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"pull account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"check account on Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"canonical"}
+{"query":"get account via Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"alt_prep"}
+{"query":"get account using Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"alt_prep"}
+{"query":"get account with Amilia","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"alt_prep"}
+{"query":"Amilia get the account","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"app_first"}
+{"query":"Amilia retrieve account","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"app_first"}
+{"query":"get a amilia account","expected_action_key":"amilia-get-account","expected_app_slug":"amilia","app_name":"Amilia","test_type":"contextual"}

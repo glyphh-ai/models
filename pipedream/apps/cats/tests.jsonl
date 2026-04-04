@@ -1,0 +1,42 @@
+{"query":"Create Contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"Create Contact in CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"CATS create contact","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"create a contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"make a contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"new contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"open a contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"start a contact on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"create contact via CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"create contact using CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"create contact with CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"CATS create a contact","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"CATS make a contact","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"create contact record on CATS","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_target"}
+{"query":"CATS create contact record","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_target"}
+{"query":"create a cats contact","expected_action_key":"cats-create-contact","expected_app_slug":"cats","app_name":"CATS","test_type":"contextual"}
+{"query":"Create Candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"Create Candidate in CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"CATS create candidate","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"create a candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"make a candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"new candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"open a candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"start a candidate on CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"create candidate via CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"create candidate using CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"create candidate with CATS","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"CATS create a candidate","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"CATS make a candidate","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"create a cats candidate","expected_action_key":"cats-create-candidate","expected_app_slug":"cats","app_name":"CATS","test_type":"contextual"}
+{"query":"Add Candidate to Job Pipeline on CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"Add Candidate to Job Pipeline in CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"CATS add candidate to job pipeline","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"action_name"}
+{"query":"add candidate job pipeline on CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"CATS add candidate job pipeline","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"add a candidate job pipeline on CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"CATS add a candidate job pipeline","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"add new candidate job pipeline on CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"canonical"}
+{"query":"CATS add new candidate job pipeline","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"app_first"}
+{"query":"add candidate job pipeline in CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"add candidate job pipeline via CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}
+{"query":"add candidate job pipeline using CATS","expected_action_key":"cats-add-candidate-pipeline","expected_app_slug":"cats","app_name":"CATS","test_type":"alt_prep"}

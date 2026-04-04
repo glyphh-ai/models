@@ -1,0 +1,17 @@
+{"query":"Send Message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"action_name"}
+{"query":"Send Message in ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"action_name"}
+{"query":"ChatFly send message","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"action_name"}
+{"query":"send a message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"canonical"}
+{"query":"post a message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"canonical"}
+{"query":"send out message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"canonical"}
+{"query":"fire off message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"canonical"}
+{"query":"send message via ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_prep"}
+{"query":"send message using ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_prep"}
+{"query":"send message with ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_prep"}
+{"query":"ChatFly send a message","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"app_first"}
+{"query":"ChatFly post a message","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"app_first"}
+{"query":"send msg on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_target"}
+{"query":"ChatFly send msg","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_target"}
+{"query":"send chat message on ChatFly","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_target"}
+{"query":"ChatFly send chat message","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"alt_target"}
+{"query":"send a chatfly message","expected_action_key":"chatfly-send-message","expected_app_slug":"chatfly","app_name":"ChatFly","test_type":"contextual"}

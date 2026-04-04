@@ -1,0 +1,358 @@
+{"query":"Update Card on Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Update Card in Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello update card","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"update the card on Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello update the card","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"edit the card on Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello edit the card","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"update card via Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"update card using Trello","expected_action_key":"trello-update-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Search Members on Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Search Members in Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello search members","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for members on Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"find members on Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"look for members on Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"locate members on Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"search for members in Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for members via Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for members using Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for members with Trello","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello search for members","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello find members","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello look for members","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for a trello members","expected_action_key":"trello-search-members","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Search Checklists on Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Search Checklists in Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello search checklists","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for checklists on Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello search for checklists","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"find checklists on Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello find checklists","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"look for checklists on Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello look for checklists","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for checklists in Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for checklists via Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for checklists using Trello","expected_action_key":"trello-search-checklists","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Search Cards on Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Search Cards in Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello search cards","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for cards on Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello search for cards","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"find cards on Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello find cards","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"look for cards on Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello look for cards","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for cards in Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for cards via Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for cards using Trello","expected_action_key":"trello-search-cards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Search Boards on Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Search Boards in Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello search boards","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for boards on Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello search for boards","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"find boards on Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello find boards","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"look for boards on Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello look for boards","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for boards in Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for boards via Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for boards using Trello","expected_action_key":"trello-search-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Rename List on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Rename List in Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello rename list","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"update list on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"update the list on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"edit the list on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"modify the list on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"change the list on Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"update list in Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"update list via Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"update list using Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"update list with Trello","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello update list","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello update the list","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello edit the list","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"update a trello list","expected_action_key":"trello-rename-list","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Remove Card Label on Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Remove Card Label in Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello remove card label","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"remove the card label on Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello remove the card label","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"take out card label on Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello take out card label","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"remove card label via Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"remove card label using Trello","expected_action_key":"trello-remove-label-from-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Move Card to List on Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Move Card to List in Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello move card to list","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"list card list on Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello list card list","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"list all card list on Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello list all card list","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"show all card list on Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello show all card list","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"list card list in Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"list card list via Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"list card list using Trello","expected_action_key":"trello-move-card-to-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"List Boards on Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"List Boards in Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello list boards","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"list all boards on Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello list all boards","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"show all boards on Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello show all boards","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"list boards via Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"list boards using Trello","expected_action_key":"trello-list-boards","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Get Member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get Member in Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get member","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get the member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"retrieve member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"fetch member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"show me the member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"pull member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"check member on Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"get member via Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get member using Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get member with Trello","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello get the member","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello retrieve member","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get a trello member","expected_action_key":"trello-get-member","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Get List on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get List in Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get list","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get the list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"retrieve list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"fetch list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"show me the list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"pull list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"check list on Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"get list via Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get list using Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get list with Trello","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello get the list","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello retrieve list","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get a trello list","expected_action_key":"trello-get-list","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Get Cards On A Board on Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get Cards On A Board in Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get cards on a board","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get cards board on Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello get cards board","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get the cards board on Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello get the cards board","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"retrieve cards board on Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello retrieve cards board","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get cards board in Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get cards board via Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get cards board using Trello","expected_action_key":"trello-get-cards-on-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Get Cards In A List on Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get Cards In A List in Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get cards in a list","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get cards list on Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello get cards list","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get the cards list on Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello get the cards list","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"retrieve cards list on Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello retrieve cards list","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get cards list in Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get cards list via Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get cards list using Trello","expected_action_key":"trello-get-cards-in-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Get Card on Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get Card in Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get card","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get the card on Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello get the card","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"retrieve card on Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello retrieve card","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get card via Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get card using Trello","expected_action_key":"trello-get-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Get Board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Get Board in Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello get board","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"get the board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"retrieve board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"fetch board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"show me the board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"pull board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"check board on Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"get board via Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get board using Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"get board with Trello","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello get the board","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello retrieve board","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"get a trello board","expected_action_key":"trello-get-board","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Find a List on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Find a List in Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello find a list","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for list on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"find list on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"look for list on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"search list on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"locate list on Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"search for list in Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for list via Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for list using Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for list with Trello","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello search for list","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello find list","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello look for list","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for a trello list","expected_action_key":"trello-find-list","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Find a Label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Find a Label in Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello find a label","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"search for label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"find label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"look for label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"search label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"locate label on Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"search for label in Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for label via Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for label using Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"search for label with Trello","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello search for label","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello find label","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello look for label","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"search for a trello label","expected_action_key":"trello-find-labels","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Delete Checklist on Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Delete Checklist in Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello delete checklist","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"delete the checklist on Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello delete the checklist","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"remove the checklist on Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello remove the checklist","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"delete checklist via Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"delete checklist using Trello","expected_action_key":"trello-delete-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Create a List on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Create a List in Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello create a list","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"create list on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"make a list on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"new list on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"open a list on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"start a list on Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"create list in Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create list via Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create list using Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create list with Trello","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello create list","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello make a list","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"create a trello list","expected_action_key":"trello-create-list","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Create Label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Create Label in Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello create label","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"create a label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"make a label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"new label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"open a label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"start a label on Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"create label via Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create label using Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create label with Trello","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello create a label","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello make a label","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"create a trello label","expected_action_key":"trello-create-label","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Create a Checklist Item on Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Create a Checklist Item in Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello create a checklist item","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"create checklist item on Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello create checklist item","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"make a checklist item on Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello make a checklist item","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"create checklist item in Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create checklist item via Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create checklist item using Trello","expected_action_key":"trello-create-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Create Card on Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Create Card in Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello create card","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"create a card on Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello create a card","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"make a card on Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello make a card","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"create card via Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create card using Trello","expected_action_key":"trello-create-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Create a Board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Create a Board in Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello create a board","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"create board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"make a board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"new board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"open a board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"start a board on Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"create board in Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create board via Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create board using Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"create board with Trello","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello create board","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello make a board","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"create a trello board","expected_action_key":"trello-create-board","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Complete a Checklist Item on Trello","expected_action_key":"trello-complete-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Complete a Checklist Item in Trello","expected_action_key":"trello-complete-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello complete a checklist item","expected_action_key":"trello-complete-checklist-item","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Archive Card on Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Archive Card in Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello archive card","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"archive the card on Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello archive the card","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"close the card on Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello close the card","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"archive card via Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"archive card using Trello","expected_action_key":"trello-archive-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Add Member to Card on Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Add Member to Card in Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello add member to card","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"add member card on Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add member card","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add a member card on Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add a member card","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add new member card on Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add new member card","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add member card in Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add member card via Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add member card using Trello","expected_action_key":"trello-add-member-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Add Existing Label to Card on Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Add Existing Label to Card in Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello add existing label to card","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"add existing label card on Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add existing label card","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add a existing label card on Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add a existing label card","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add new existing label card on Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add new existing label card","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add existing label card in Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add existing label card via Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add existing label card using Trello","expected_action_key":"trello-add-existing-label-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Add Comment on Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Add Comment in Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello add comment","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"add a comment on Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"add new comment on Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"add comment via Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add comment using Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add comment with Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Trello add a comment","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"Trello add new comment","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add note on Trello","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_target"}
+{"query":"Trello add note","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_target"}
+{"query":"add a trello comment","expected_action_key":"trello-add-comment","expected_app_slug":"trello","app_name":"Trello","test_type":"contextual"}
+{"query":"Add Checklist on Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Add Checklist in Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello add checklist","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"add a checklist on Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add a checklist","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add new checklist on Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add new checklist","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add checklist via Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add checklist using Trello","expected_action_key":"trello-add-checklist","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"Add Attachment To Card on Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Add Attachment To Card in Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"Trello add attachment to card","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"action_name"}
+{"query":"add attachment card on Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add attachment card","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add a attachment card on Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add a attachment card","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add new attachment card on Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"canonical"}
+{"query":"Trello add new attachment card","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"app_first"}
+{"query":"add attachment card in Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add attachment card via Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}
+{"query":"add attachment card using Trello","expected_action_key":"trello-add-attachment-to-card","expected_app_slug":"trello","app_name":"Trello","test_type":"alt_prep"}

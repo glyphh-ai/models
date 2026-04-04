@@ -1,0 +1,32 @@
+{"query":"Create Post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"Create Post in Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"Circle create post","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"create a post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"make a post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"new post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"open a post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"start a post on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"create post via Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"create post using Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"create post with Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"Circle create a post","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"app_first"}
+{"query":"Circle make a post","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"app_first"}
+{"query":"create status update on Circle","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_target"}
+{"query":"Circle create status update","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_target"}
+{"query":"create a circle post","expected_action_key":"circle-create-post","expected_app_slug":"circle","app_name":"Circle","test_type":"contextual"}
+{"query":"Create Comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"Create Comment in Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"Circle create comment","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"action_name"}
+{"query":"create a comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"make a comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"new comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"open a comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"start a comment on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"canonical"}
+{"query":"create comment via Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"create comment using Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"create comment with Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_prep"}
+{"query":"Circle create a comment","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"app_first"}
+{"query":"Circle make a comment","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"app_first"}
+{"query":"create note on Circle","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_target"}
+{"query":"Circle create note","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"alt_target"}
+{"query":"create a circle comment","expected_action_key":"circle-create-comment","expected_app_slug":"circle","app_name":"Circle","test_type":"contextual"}

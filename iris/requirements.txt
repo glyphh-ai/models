@@ -1,0 +1,29 @@
+# Glyphh Iris — CV dependencies (model only, not SDK)
+# All optional — extractors degrade gracefully if missing
+
+# Face embedding (ArcFace, 512-dim)
+insightface>=0.7
+onnxruntime>=1.16        # Required by insightface
+
+# Pose estimation (33 keypoints, Tasks API)
+mediapipe>=0.10
+
+# Depth estimation (MiDaS via torch hub)
+torch>=2.0
+timm>=0.9               # Required by MiDaS
+
+# OCR (text + bounding boxes)
+paddleocr>=3.0
+paddlepaddle>=3.0        # Required by paddleocr
+
+# Object detection (YOLO v8)
+ultralytics>=8.0
+
+# Color palette (K-means clustering)
+scikit-learn>=1.3
+
+# Image I/O
+pillow>=10.0
+
+# Array operations
+numpy>=1.24

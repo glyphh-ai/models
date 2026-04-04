@@ -1,0 +1,517 @@
+{"query":"Upload File on Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Upload File in Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive upload file","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Upload File on google_drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"upload a file on Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"upload the file on Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"upload file via Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"upload file using Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"upload file with Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive upload a file","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive upload the file","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"upload document on Google Drive","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive upload document","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive upload file","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"upload a google drive file","expected_action_key":"google_drive-upload-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Update Shared Drive on Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Shared Drive in Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive update shared drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Shared Drive on google_drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"update the shared drive on Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive update the shared drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"edit the shared drive on Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive edit the shared drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"update shared drive via Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update shared drive using Google Drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive update shared drive","expected_action_key":"google_drive-update-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Update Reply on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Reply in Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive update reply","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Reply on google_drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"update the reply on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"edit the reply on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"modify the reply on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"change the reply on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"update reply via Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update reply using Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update reply with Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive update the reply","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive edit the reply","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"update note on Google Drive","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive update note","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive update reply","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"update a google drive reply","expected_action_key":"google_drive-update-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Update File on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update File in Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive update file","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update File on google_drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"update the file on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"edit the file on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"modify the file on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"change the file on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"update file via Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update file using Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update file with Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive update the file","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive edit the file","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"update document on Google Drive","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive update document","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive update file","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"update a google drive file","expected_action_key":"google_drive-update-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Update Comment on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Comment in Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive update comment","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Update Comment on google_drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"update the comment on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"edit the comment on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"modify the comment on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"change the comment on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"update comment via Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update comment using Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"update comment with Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive update the comment","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive edit the comment","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"update note on Google Drive","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive update note","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive update comment","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"update a google drive comment","expected_action_key":"google_drive-update-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Search for Shared Drives on Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Search for Shared Drives in Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive search for shared drives","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Search for Shared Drives on google_drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"find shared drives on Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive find shared drives","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"look for shared drives on Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive look for shared drives","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"search for shared drives via Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for shared drives using Google Drive","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive search for shared drives","expected_action_key":"google_drive-search-shared-drives","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Resolve Comment on Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Resolve Comment in Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive resolve comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Resolve Comment on google_drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"comment on comment on Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"add a comment to comment on Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"leave a comment on comment on Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"comment on comment in Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment via Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment using Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment with Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive comment on comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive add a comment to comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive leave a comment on comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"comment on note on Google Drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive comment on note","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"comment on comment on google_drive","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive comment on comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"comment on a google drive comment","expected_action_key":"google_drive-resolve-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Resolve Access Proposals on Google Drive","expected_action_key":"google_drive-resolve-access-proposal","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Resolve Access Proposals in Google Drive","expected_action_key":"google_drive-resolve-access-proposal","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive resolve access proposals","expected_action_key":"google_drive-resolve-access-proposal","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Resolve Access Proposals on google_drive","expected_action_key":"google_drive-resolve-access-proposal","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Reply to Comment on Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Reply to Comment in Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive reply to comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Reply to Comment on google_drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"comment on comment on Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"add a comment to comment on Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"leave a comment on comment on Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"comment on comment in Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment via Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment using Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"comment on comment with Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive comment on comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive add a comment to comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive leave a comment on comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"comment on note on Google Drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive comment on note","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"comment on comment on google_drive","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive comment on comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"comment on a google drive comment","expected_action_key":"google_drive-reply-to-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Remove File Sharing Permission on Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Remove File Sharing Permission in Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive remove file sharing permission","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Remove File Sharing Permission on google_drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"remove the file sharing permission on Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive remove the file sharing permission","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"take out file sharing permission on Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive take out file sharing permission","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"remove file sharing permission via Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"remove file sharing permission using Google Drive","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive remove file sharing permission","expected_action_key":"google_drive-remove-file-sharing-permission","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Move File on Google Drive","expected_action_key":"google_drive-move-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Move File in Google Drive","expected_action_key":"google_drive-move-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive move file","expected_action_key":"google_drive-move-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Move File on google_drive","expected_action_key":"google_drive-move-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Move File to Trash on Google Drive","expected_action_key":"google_drive-move-file-to-trash","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Move File to Trash in Google Drive","expected_action_key":"google_drive-move-file-to-trash","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive move file to trash","expected_action_key":"google_drive-move-file-to-trash","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Move File to Trash on google_drive","expected_action_key":"google_drive-move-file-to-trash","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Replies on Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Replies in Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive list replies","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Replies on google_drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"list all replies on Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive list all replies","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"show all replies on Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive show all replies","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"list replies via Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list replies using Google Drive","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive list replies","expected_action_key":"google_drive-list-replies","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"List Files on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Files in Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive list files","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Files on google_drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"list all files on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"show all files on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"get all files on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"show me all files on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"list files via Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list files using Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list files with Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive list all files","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive show all files","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"list document on Google Drive","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive list document","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive list files","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"list a google drive files","expected_action_key":"google_drive-list-files","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"List Comments on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Comments in Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive list comments","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Comments on google_drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"list all comments on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"show all comments on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"get all comments on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"show me all comments on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"list comments via Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list comments using Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list comments with Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive list all comments","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive show all comments","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"list note on Google Drive","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive list note","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive list comments","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"list a google drive comments","expected_action_key":"google_drive-list-comments","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"List Access Proposals on Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Access Proposals in Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive list access proposals","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"List Access Proposals on google_drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"list all access proposals on Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive list all access proposals","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"show all access proposals on Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive show all access proposals","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"list access proposals via Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"list access proposals using Google Drive","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive list access proposals","expected_action_key":"google_drive-list-access-proposals","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get Shared Drive on Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Shared Drive in Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get shared drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Shared Drive on google_drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get the shared drive on Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the shared drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve shared drive on Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve shared drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get shared drive via Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get shared drive using Google Drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive get shared drive","expected_action_key":"google_drive-get-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get Reply By ID on Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Reply By ID in Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get reply by id","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Reply By ID on google_drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get reply id on Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get reply id","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get the reply id on Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the reply id","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve reply id on Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve reply id","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get reply id in Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get reply id via Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get reply id using Google Drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get reply id on google_drive","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive get reply id","expected_action_key":"google_drive-get-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get Folder ID for a Path on Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Folder ID for a Path in Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get folder id for a path","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Folder ID for a Path on google_drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get folder id path on Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get folder id path","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get the folder id path on Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the folder id path","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve folder id path on Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve folder id path","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get folder id path in Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get folder id path via Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get folder id path using Google Drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get folder id path on google_drive","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive get folder id path","expected_action_key":"google_drive-get-folder-id-for-path","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get File By ID on Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get File By ID in Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get file by id","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get File By ID on google_drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get file id on Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get file id","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get the file id on Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the file id","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve file id on Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve file id","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get file id in Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get file id via Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get file id using Google Drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get file id on google_drive","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive get file id","expected_action_key":"google_drive-get-file-by-id","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get Current User on Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Current User in Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get current user","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Current User on google_drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get the current user on Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the current user","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve current user on Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve current user","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get current user via Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get current user using Google Drive","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive get current user","expected_action_key":"google_drive-get-current-user","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Get Comment By ID on Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Comment By ID in Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive get comment by id","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Get Comment By ID on google_drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"get comment id on Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get comment id","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get the comment id on Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive get the comment id","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"retrieve comment id on Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive retrieve comment id","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"get comment id in Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get comment id via Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get comment id using Google Drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"get comment id on google_drive","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive get comment id","expected_action_key":"google_drive-get-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Find Spreadsheets on Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Spreadsheets in Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive find spreadsheets","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Spreadsheets on google_drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"search for spreadsheets on Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive search for spreadsheets","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"look for spreadsheets on Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive look for spreadsheets","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"search for spreadsheets in Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for spreadsheets via Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for spreadsheets using Google Drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for spreadsheets on google_drive","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive search for spreadsheets","expected_action_key":"google_drive-find-spreadsheets","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Find Forms on Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Forms in Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive find forms","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Forms on google_drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"search for forms on Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive search for forms","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"look for forms on Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive look for forms","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"search for forms in Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for forms via Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for forms using Google Drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for forms on google_drive","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive search for forms","expected_action_key":"google_drive-find-forms","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Find Folder on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Folder in Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive find folder","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find Folder on google_drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"search for folder on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"look for folder on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"search folder on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"locate folder on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"search for folder in Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for folder via Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for folder using Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for folder with Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive search for folder","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive look for folder","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"search for directory on Google Drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive search for directory","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"search for folder on google_drive","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive search for folder","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"search for a google drive folder","expected_action_key":"google_drive-find-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Find File on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find File in Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive find file","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Find File on google_drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"search for file on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"look for file on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"search file on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"locate file on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"search for file in Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for file via Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for file using Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"search for file with Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive search for file","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive look for file","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"search for document on Google Drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive search for document","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"search for file on google_drive","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive search for file","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"search for a google drive file","expected_action_key":"google_drive-find-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Download File on Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Download File in Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive download file","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Download File on google_drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"export file on Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"export the file on Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"download the file on Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"export file in Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"export file via Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"export file using Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"export file with Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive export file","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive export the file","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"export document on Google Drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive export document","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"export file on google_drive","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive export file","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"export a google drive file","expected_action_key":"google_drive-download-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Delete Shared Drive on Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Shared Drive in Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive delete shared drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Shared Drive on google_drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"delete the shared drive on Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive delete the shared drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"remove the shared drive on Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive remove the shared drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"delete shared drive via Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete shared drive using Google Drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive delete shared drive","expected_action_key":"google_drive-delete-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Delete Reply on Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Reply in Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive delete reply","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Reply on google_drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"delete the reply on Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"remove the reply on Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"destroy the reply on Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"delete reply via Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete reply using Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete reply with Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive delete the reply","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive remove the reply","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"delete note on Google Drive","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive delete note","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive delete reply","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"delete a google drive reply","expected_action_key":"google_drive-delete-reply","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Delete File on Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete File in Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive delete file","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete File on google_drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"delete the file on Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"remove the file on Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"destroy the file on Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"delete file via Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete file using Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete file with Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive delete the file","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive remove the file","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"delete document on Google Drive","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive delete document","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive delete file","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"delete a google drive file","expected_action_key":"google_drive-delete-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Delete Comment on Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Comment in Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive delete comment","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Delete Comment on google_drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"delete the comment on Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"remove the comment on Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"destroy the comment on Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"delete comment via Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete comment using Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"delete comment with Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive delete the comment","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive remove the comment","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"delete note on Google Drive","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive delete note","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive delete comment","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"delete a google drive comment","expected_action_key":"google_drive-delete-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Create Shared Drive on Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create Shared Drive in Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive create shared drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create Shared Drive on google_drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"create a shared drive on Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive create a shared drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"make a shared drive on Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive make a shared drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create shared drive via Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create shared drive using Google Drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive create shared drive","expected_action_key":"google_drive-create-shared-drive","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Create Folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create Folder in Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive create folder","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create Folder on google_drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"create a folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"make a folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"new folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"open a folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"start a folder on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"create folder via Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create folder using Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create folder with Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive create a folder","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive make a folder","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create directory on Google Drive","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive create directory","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive create folder","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"create a google drive folder","expected_action_key":"google_drive-create-folder","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}
+{"query":"Create New File From Text on Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create New File From Text in Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive create new file from text","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create New File From Text on google_drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"create new file text on Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive create new file text","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create a new file text on Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive create a new file text","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"make a new file text on Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive make a new file text","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create new file text in Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file text via Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file text using Google Drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file text on google_drive","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive create new file text","expected_action_key":"google_drive-create-file-from-text","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Create New File From Template on Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create New File From Template in Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive create new file from template","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Create New File From Template on google_drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"create new file template on Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive create new file template","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create a new file template on Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive create a new file template","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"make a new file template on Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive make a new file template","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"create new file template in Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file template via Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file template using Google Drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"create new file template on google_drive","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"google_drive create new file template","expected_action_key":"google_drive-create-file-from-template","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Copy File on Google Drive","expected_action_key":"google_drive-copy-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Copy File in Google Drive","expected_action_key":"google_drive-copy-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive copy file","expected_action_key":"google_drive-copy-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Copy File on google_drive","expected_action_key":"google_drive-copy-file","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Share File or Folder on Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Share File or Folder in Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive share file or folder","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Share File or Folder on google_drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"share the file or folder on Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive share the file or folder","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"share a file or folder on Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"Google Drive share a file or folder","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"share file or folder via Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"share file or folder using Google Drive","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"google_drive share file or folder","expected_action_key":"google_drive-add-file-sharing-preference","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"Add Comment on Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Add Comment in Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Google Drive add comment","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"Add Comment on google_drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"action_name"}
+{"query":"add a comment on Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"add new comment on Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"canonical"}
+{"query":"add comment via Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"add comment using Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"add comment with Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_prep"}
+{"query":"Google Drive add a comment","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"Google Drive add new comment","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"app_first"}
+{"query":"add note on Google Drive","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"Google Drive add note","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_target"}
+{"query":"google_drive add comment","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"alt_app_name"}
+{"query":"add a google drive comment","expected_action_key":"google_drive-add-comment","expected_app_slug":"google_drive","app_name":"Google Drive","test_type":"contextual"}

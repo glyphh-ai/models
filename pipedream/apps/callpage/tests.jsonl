@@ -1,0 +1,9 @@
+{"query":"Create SMS on CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"action_name"}
+{"query":"Create SMS in CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"action_name"}
+{"query":"CallPage create sms","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"action_name"}
+{"query":"create a sms on CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"canonical"}
+{"query":"CallPage create a sms","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"app_first"}
+{"query":"make a sms on CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"canonical"}
+{"query":"CallPage make a sms","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"app_first"}
+{"query":"create sms via CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"alt_prep"}
+{"query":"create sms using CallPage","expected_action_key":"callpage-create-sms","expected_app_slug":"callpage","app_name":"CallPage","test_type":"alt_prep"}

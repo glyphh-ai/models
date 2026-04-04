@@ -1,0 +1,78 @@
+{"query":"Send Message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Send Message in Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx send message","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"send a message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"post a message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"send out message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"fire off message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"send message via Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"send message using Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"send message with Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Telnyx send a message","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"Telnyx post a message","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"send msg on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"Telnyx send msg","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"send chat message on Telnyx","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"Telnyx send chat message","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"send a telnyx message","expected_action_key":"telnyx-send-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"contextual"}
+{"query":"Send Group Message on Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Send Group Message in Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx send group message","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"send a group message on Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx send a group message","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"post a group message on Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx post a group message","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"send group message via Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"send group message using Telnyx","expected_action_key":"telnyx-send-group-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Send Fax on Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Send Fax in Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx send fax","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"send a fax on Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx send a fax","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"post a fax on Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx post a fax","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"send fax via Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"send fax using Telnyx","expected_action_key":"telnyx-send-fax","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Get Phone Numbers on Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Get Phone Numbers in Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx get phone numbers","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"get the phone numbers on Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx get the phone numbers","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"retrieve phone numbers on Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx retrieve phone numbers","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"get phone numbers via Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"get phone numbers using Telnyx","expected_action_key":"telnyx-get-phone-numbers","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Get Messaging Profiles on Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Get Messaging Profiles in Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx get messaging profiles","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"get the messaging profiles on Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx get the messaging profiles","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"retrieve messaging profiles on Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"Telnyx retrieve messaging profiles","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"get messaging profiles via Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"get messaging profiles using Telnyx","expected_action_key":"telnyx-get-messaging-profiles","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Retrieve a Message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Retrieve a Message in Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx retrieve a message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"get message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"get the message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"retrieve message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"fetch message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"show me the message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"pull message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"check message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"canonical"}
+{"query":"get message in Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"get message via Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"get message using Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"get message with Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_prep"}
+{"query":"Telnyx get message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"Telnyx get the message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"Telnyx retrieve message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"app_first"}
+{"query":"get msg on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"Telnyx get msg","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"get chat message on Telnyx","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"Telnyx get chat message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"alt_target"}
+{"query":"get a telnyx message","expected_action_key":"telnyx-get-message","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"contextual"}
+{"query":"Dial Number on Telnyx","expected_action_key":"telnyx-dial-number","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Dial Number in Telnyx","expected_action_key":"telnyx-dial-number","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}
+{"query":"Telnyx dial number","expected_action_key":"telnyx-dial-number","expected_app_slug":"telnyx","app_name":"Telnyx","test_type":"action_name"}

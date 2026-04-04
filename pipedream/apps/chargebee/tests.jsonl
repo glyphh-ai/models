@@ -1,0 +1,32 @@
+{"query":"Create Subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"Create Subscription in Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"Chargebee create subscription","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"create a subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"make a subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"new subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"open a subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"start a subscription on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"create subscription via Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"create subscription using Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"create subscription with Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"Chargebee create a subscription","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"app_first"}
+{"query":"Chargebee make a subscription","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"app_first"}
+{"query":"create plan on Chargebee","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_target"}
+{"query":"Chargebee create plan","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_target"}
+{"query":"create a chargebee subscription","expected_action_key":"chargebee-create-subscription","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"contextual"}
+{"query":"Create Customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"Create Customer in Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"Chargebee create customer","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"action_name"}
+{"query":"create a customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"make a customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"new customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"open a customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"start a customer on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"canonical"}
+{"query":"create customer via Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"create customer using Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"create customer with Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_prep"}
+{"query":"Chargebee create a customer","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"app_first"}
+{"query":"Chargebee make a customer","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"app_first"}
+{"query":"create account on Chargebee","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_target"}
+{"query":"Chargebee create account","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"alt_target"}
+{"query":"create a chargebee customer","expected_action_key":"chargebee-create-customer","expected_app_slug":"chargebee","app_name":"Chargebee","test_type":"contextual"}

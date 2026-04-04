@@ -1,0 +1,47 @@
+{"query":"Find Project on Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Find Project in Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Roll find project","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"search for project on Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll search for project","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"look for project on Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll look for project","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"search for project in Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"search for project via Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"search for project using Roll","expected_action_key":"roll-find-project","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"Find Company on Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Find Company in Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Roll find company","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"search for company on Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll search for company","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"look for company on Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll look for company","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"search for company in Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"search for company via Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"search for company using Roll","expected_action_key":"roll-find-company","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"Create Time Record on Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Create Time Record in Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Roll create time record","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"create a time record on Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll create a time record","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"make a time record on Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll make a time record","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"create time record via Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"create time record using Roll","expected_action_key":"roll-create-time","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"Create Project on Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Create Project in Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Roll create project","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"create a project on Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll create a project","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"make a project on Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll make a project","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"create project via Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"create project using Roll","expected_action_key":"roll-create-project","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"Create Company on Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Create Company in Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"Roll create company","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"action_name"}
+{"query":"create a company on Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll create a company","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"make a company on Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"canonical"}
+{"query":"Roll make a company","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"app_first"}
+{"query":"create company via Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}
+{"query":"create company using Roll","expected_action_key":"roll-create-company","expected_app_slug":"roll","app_name":"Roll","test_type":"alt_prep"}

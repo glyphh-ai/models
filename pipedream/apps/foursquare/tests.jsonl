@@ -1,0 +1,21 @@
+{"query":"Create Tip on Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"Create Tip in Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"Foursquare create tip","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"create a tip on Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"canonical"}
+{"query":"Foursquare create a tip","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"app_first"}
+{"query":"make a tip on Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"canonical"}
+{"query":"Foursquare make a tip","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"app_first"}
+{"query":"create tip via Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"alt_prep"}
+{"query":"create tip using Foursquare","expected_action_key":"foursquare-create-tip","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"alt_prep"}
+{"query":"Create Check In on Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"Create Check In in Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"Foursquare create check in","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"action_name"}
+{"query":"create check on Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"canonical"}
+{"query":"Foursquare create check","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"app_first"}
+{"query":"create a check on Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"canonical"}
+{"query":"Foursquare create a check","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"app_first"}
+{"query":"make a check on Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"canonical"}
+{"query":"Foursquare make a check","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"app_first"}
+{"query":"create check in Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"alt_prep"}
+{"query":"create check via Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"alt_prep"}
+{"query":"create check using Foursquare","expected_action_key":"foursquare-create-check-in","expected_app_slug":"foursquare","app_name":"Foursquare","test_type":"alt_prep"}

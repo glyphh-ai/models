@@ -1,0 +1,40 @@
+{"query":"Update Task on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Update Task in Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Float update task","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"update the task on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"edit the task on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"modify the task on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"change the task on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"update task via Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"update task using Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"update task with Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"Float update the task","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"Float edit the task","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"update story on Float","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_target"}
+{"query":"Float update story","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_target"}
+{"query":"update a float task","expected_action_key":"float-update-task","expected_app_slug":"float","app_name":"Float","test_type":"contextual"}
+{"query":"Create Task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Create Task in Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Float create task","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"create a task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"make a task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"new task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"open a task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"start a task on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"create task via Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"create task using Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"create task with Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"Float create a task","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"Float make a task","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"create story on Float","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_target"}
+{"query":"Float create story","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"alt_target"}
+{"query":"create a float task","expected_action_key":"float-create-task","expected_app_slug":"float","app_name":"Float","test_type":"contextual"}
+{"query":"Create Project on Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Create Project in Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"Float create project","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"action_name"}
+{"query":"create a project on Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"Float create a project","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"make a project on Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"canonical"}
+{"query":"Float make a project","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"app_first"}
+{"query":"create project via Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}
+{"query":"create project using Float","expected_action_key":"float-create-project","expected_app_slug":"float","app_name":"Float","test_type":"alt_prep"}

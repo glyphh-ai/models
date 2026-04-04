@@ -1,0 +1,185 @@
+{"query":"Update Ticket on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Update Ticket in Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk update ticket","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"update the ticket on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"edit the ticket on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"modify the ticket on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"change the ticket on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"update ticket via Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"update ticket using Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"update ticket with Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Zendesk update the ticket","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk edit the ticket","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"update issue on Zendesk","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"Zendesk update issue","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"update a zendesk ticket","expected_action_key":"zendesk-update-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"contextual"}
+{"query":"Set Ticket Tags on Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Set Ticket Tags in Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk set ticket tags","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"set the ticket tags on Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk set the ticket tags","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"configure the ticket tags on Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk configure the ticket tags","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"set ticket tags via Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"set ticket tags using Zendesk","expected_action_key":"zendesk-set-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Search Tickets on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Search Tickets in Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk search tickets","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"search for tickets on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"find tickets on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"look for tickets on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"locate tickets on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"search for tickets in Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"search for tickets via Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"search for tickets using Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"search for tickets with Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Zendesk search for tickets","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk find tickets","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk look for tickets","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"search for issue on Zendesk","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"Zendesk search for issue","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"search for a zendesk tickets","expected_action_key":"zendesk-search-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"contextual"}
+{"query":"Remove Ticket Tags on Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Remove Ticket Tags in Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk remove ticket tags","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"remove the ticket tags on Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk remove the ticket tags","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"take out ticket tags on Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk take out ticket tags","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"remove ticket tags via Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"remove ticket tags using Zendesk","expected_action_key":"zendesk-remove-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"List Tickets on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Tickets in Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list tickets","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all tickets on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"show all tickets on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"get all tickets on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"show me all tickets on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"list tickets via Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list tickets using Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list tickets with Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Zendesk list all tickets","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk show all tickets","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list issue on Zendesk","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"Zendesk list issue","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"list a zendesk tickets","expected_action_key":"zendesk-list-tickets","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"contextual"}
+{"query":"List Ticket Comments on Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Ticket Comments in Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list ticket comments","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all ticket comments on Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk list all ticket comments","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"show all ticket comments on Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk show all ticket comments","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list ticket comments via Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list ticket comments using Zendesk","expected_action_key":"zendesk-list-ticket-comments","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"List Macros on Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Macros in Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list macros","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all macros on Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk list all macros","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"show all macros on Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk show all macros","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list macros via Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list macros using Zendesk","expected_action_key":"zendesk-list-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"List Locales on Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Locales in Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list locales","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all locales on Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk list all locales","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"show all locales on Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk show all locales","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list locales via Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list locales using Zendesk","expected_action_key":"zendesk-list-locales","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"List Articles on Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Articles in Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list articles","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all articles on Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk list all articles","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"show all articles on Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk show all articles","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list articles via Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list articles using Zendesk","expected_action_key":"zendesk-list-articles","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"List Active Macros on Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"List Active Macros in Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk list active macros","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"list all active macros on Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk list all active macros","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"show all active macros on Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk show all active macros","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"list active macros via Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"list active macros using Zendesk","expected_action_key":"zendesk-list-active-macros","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Get User Info on Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Get User Info in Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk get user info","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"get the user info on Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk get the user info","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"retrieve user info on Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk retrieve user info","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"get user info via Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"get user info using Zendesk","expected_action_key":"zendesk-get-user-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Get Ticket Info on Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Get Ticket Info in Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk get ticket info","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"get the ticket info on Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk get the ticket info","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"retrieve ticket info on Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk retrieve ticket info","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"get ticket info via Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"get ticket info using Zendesk","expected_action_key":"zendesk-get-ticket-info","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Get Macro on Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Get Macro in Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk get macro","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"get the macro on Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk get the macro","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"retrieve macro on Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk retrieve macro","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"get macro via Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"get macro using Zendesk","expected_action_key":"zendesk-get-macro","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Get Article on Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Get Article in Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk get article","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"get the article on Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk get the article","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"retrieve article on Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk retrieve article","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"get article via Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"get article using Zendesk","expected_action_key":"zendesk-get-article","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Delete Ticket on Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Delete Ticket in Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk delete ticket","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"delete the ticket on Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"remove the ticket on Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"destroy the ticket on Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"delete ticket via Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"delete ticket using Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"delete ticket with Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Zendesk delete the ticket","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk remove the ticket","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"delete issue on Zendesk","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"Zendesk delete issue","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"delete a zendesk ticket","expected_action_key":"zendesk-delete-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"contextual"}
+{"query":"Create Ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Create Ticket in Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk create ticket","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"create a ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"make a ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"new ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"open a ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"start a ticket on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"create ticket via Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"create ticket using Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"create ticket with Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"Zendesk create a ticket","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"Zendesk make a ticket","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"create issue on Zendesk","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"Zendesk create issue","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_target"}
+{"query":"create a zendesk ticket","expected_action_key":"zendesk-create-ticket","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"contextual"}
+{"query":"Add Ticket Tags on Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Add Ticket Tags in Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"Zendesk add ticket tags","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"action_name"}
+{"query":"add a ticket tags on Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk add a ticket tags","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"add new ticket tags on Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"canonical"}
+{"query":"Zendesk add new ticket tags","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"app_first"}
+{"query":"add ticket tags via Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}
+{"query":"add ticket tags using Zendesk","expected_action_key":"zendesk-add-ticket-tags","expected_app_slug":"zendesk","app_name":"Zendesk","test_type":"alt_prep"}

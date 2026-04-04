@@ -1,0 +1,16 @@
+{"query":"Create Post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"action_name"}
+{"query":"Create Post in Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"action_name"}
+{"query":"Typeflo create post","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"action_name"}
+{"query":"create a post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"canonical"}
+{"query":"make a post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"canonical"}
+{"query":"new post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"canonical"}
+{"query":"open a post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"canonical"}
+{"query":"start a post on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"canonical"}
+{"query":"create post via Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"alt_prep"}
+{"query":"create post using Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"alt_prep"}
+{"query":"create post with Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"alt_prep"}
+{"query":"Typeflo create a post","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"app_first"}
+{"query":"Typeflo make a post","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"app_first"}
+{"query":"create status update on Typeflo","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"alt_target"}
+{"query":"Typeflo create status update","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"alt_target"}
+{"query":"create a typeflo post","expected_action_key":"typeflo-create-post","expected_app_slug":"typeflo","app_name":"Typeflo","test_type":"contextual"}

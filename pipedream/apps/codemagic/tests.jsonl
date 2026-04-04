@@ -1,0 +1,27 @@
+{"query":"List Applications on Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"List Applications in Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"Codemagic list applications","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"list all applications on Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic list all applications","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"show all applications on Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic show all applications","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"list applications via Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}
+{"query":"list applications using Codemagic","expected_action_key":"codemagic-list-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}
+{"query":"Create Variable on Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"Create Variable in Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"Codemagic create variable","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"create a variable on Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic create a variable","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"make a variable on Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic make a variable","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"create variable via Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}
+{"query":"create variable using Codemagic","expected_action_key":"codemagic-create-variable","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}
+{"query":"Create Application on Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"Create Application in Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"Codemagic create application","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"action_name"}
+{"query":"create a application on Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic create a application","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"make a application on Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"canonical"}
+{"query":"Codemagic make a application","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"app_first"}
+{"query":"create application via Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}
+{"query":"create application using Codemagic","expected_action_key":"codemagic-add-application","expected_app_slug":"codemagic","app_name":"Codemagic","test_type":"alt_prep"}

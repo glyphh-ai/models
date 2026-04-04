@@ -1,0 +1,68 @@
+{"query":"Upsert Contact on Intercom","expected_action_key":"intercom-upsert-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Upsert Contact in Intercom","expected_action_key":"intercom-upsert-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom upsert contact","expected_action_key":"intercom-upsert-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Send Message To Contact on Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Send Message To Contact in Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom send message to contact","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"send message contact on Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom send message contact","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"send a message contact on Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom send a message contact","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"post a message contact on Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom post a message contact","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"send message contact in Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"send message contact via Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"send message contact using Intercom","expected_action_key":"intercom-send-message-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"Send Incoming Message on Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Send Incoming Message in Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom send incoming message","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"send a incoming message on Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom send a incoming message","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"post a incoming message on Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom post a incoming message","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"send incoming message via Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"send incoming message using Intercom","expected_action_key":"intercom-send-incoming-message","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"Retrieve A Conversation on Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Retrieve A Conversation in Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom retrieve a conversation","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"get conversation on Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom get conversation","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"get the conversation on Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom get the conversation","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"retrieve conversation on Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom retrieve conversation","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"get conversation in Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"get conversation via Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"get conversation using Intercom","expected_action_key":"intercom-retrieve-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"Reply To Conversation on Intercom","expected_action_key":"intercom-reply-to-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Reply To Conversation in Intercom","expected_action_key":"intercom-reply-to-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom reply to conversation","expected_action_key":"intercom-reply-to-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Manage A Conversation on Intercom","expected_action_key":"intercom-manage-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Manage A Conversation in Intercom","expected_action_key":"intercom-manage-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom manage a conversation","expected_action_key":"intercom-manage-conversation","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Create Note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Create Note in Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom create note","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"create a note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"make a note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"new note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"open a note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"start a note on Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"create note via Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"create note using Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"create note with Intercom","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"Intercom create a note","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"Intercom make a note","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"create a intercom note","expected_action_key":"intercom-create-note","expected_app_slug":"intercom","app_name":"Intercom","test_type":"contextual"}
+{"query":"Add Tag To Contact on Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Add Tag To Contact in Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"Intercom add tag to contact","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"action_name"}
+{"query":"add tag contact on Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom add tag contact","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"add a tag contact on Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom add a tag contact","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"add new tag contact on Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"canonical"}
+{"query":"Intercom add new tag contact","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"app_first"}
+{"query":"add tag contact in Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"add tag contact via Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}
+{"query":"add tag contact using Intercom","expected_action_key":"intercom-add-tag-to-contact","expected_app_slug":"intercom","app_name":"Intercom","test_type":"alt_prep"}

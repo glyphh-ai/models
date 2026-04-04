@@ -1,0 +1,25 @@
+{"query":"Create Task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"Create Task in Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"Teamcamp create task","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"create a task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"make a task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"new task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"open a task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"start a task on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"create task via Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_prep"}
+{"query":"create task using Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_prep"}
+{"query":"create task with Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_prep"}
+{"query":"Teamcamp create a task","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"app_first"}
+{"query":"Teamcamp make a task","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"app_first"}
+{"query":"create story on Teamcamp","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_target"}
+{"query":"Teamcamp create story","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_target"}
+{"query":"create a teamcamp task","expected_action_key":"teamcamp-create-task","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"contextual"}
+{"query":"Create Project on Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"Create Project in Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"Teamcamp create project","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"action_name"}
+{"query":"create a project on Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"Teamcamp create a project","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"app_first"}
+{"query":"make a project on Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"canonical"}
+{"query":"Teamcamp make a project","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"app_first"}
+{"query":"create project via Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_prep"}
+{"query":"create project using Teamcamp","expected_action_key":"teamcamp-create-project","expected_app_slug":"teamcamp","app_name":"Teamcamp","test_type":"alt_prep"}

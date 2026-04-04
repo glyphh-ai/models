@@ -1,0 +1,33 @@
+{"query":"Send SMS on SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send SMS in SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"SMS Messages send sms","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send SMS on sms_messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"send a sms on SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages send a sms","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"post a sms on SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages post a sms","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"send sms via SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"send sms using SMS Messages","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"sms_messages send sms","expected_action_key":"sms_messages-send-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_app_name"}
+{"query":"Send Registered SMS on SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send Registered SMS in SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"SMS Messages send registered sms","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send Registered SMS on sms_messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"send a registered sms on SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages send a registered sms","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"post a registered sms on SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages post a registered sms","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"send registered sms via SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"send registered sms using SMS Messages","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"sms_messages send registered sms","expected_action_key":"sms_messages-send-registered-sms","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_app_name"}
+{"query":"Send Registered SMS Contract on SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send Registered SMS Contract in SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"SMS Messages send registered sms contract","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"Send Registered SMS Contract on sms_messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"action_name"}
+{"query":"send a registered sms contract on SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages send a registered sms contract","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"post a registered sms contract on SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"canonical"}
+{"query":"SMS Messages post a registered sms contract","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"app_first"}
+{"query":"send registered sms contract via SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"send registered sms contract using SMS Messages","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_prep"}
+{"query":"sms_messages send registered sms contract","expected_action_key":"sms_messages-send-registered-sms-contract","expected_app_slug":"sms_messages","app_name":"SMS Messages","test_type":"alt_app_name"}

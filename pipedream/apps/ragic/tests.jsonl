@@ -1,0 +1,35 @@
+{"query":"Update Record on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"Update Record in Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"Ragic update record","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"update the record on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"edit the record on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"modify the record on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"change the record on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"update record via Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"update record using Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"update record with Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"Ragic update the record","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"app_first"}
+{"query":"Ragic edit the record","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"app_first"}
+{"query":"update row on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"Ragic update row","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"update entry on Ragic","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"Ragic update entry","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"update a ragic record","expected_action_key":"ragic-update-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"contextual"}
+{"query":"Create Record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"Create Record in Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"Ragic create record","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"action_name"}
+{"query":"create a record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"make a record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"new record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"open a record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"start a record on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"canonical"}
+{"query":"create record via Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"create record using Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"create record with Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_prep"}
+{"query":"Ragic create a record","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"app_first"}
+{"query":"Ragic make a record","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"app_first"}
+{"query":"create row on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"Ragic create row","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"create entry on Ragic","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"Ragic create entry","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"alt_target"}
+{"query":"create a ragic record","expected_action_key":"ragic-create-record","expected_app_slug":"ragic","app_name":"Ragic","test_type":"contextual"}

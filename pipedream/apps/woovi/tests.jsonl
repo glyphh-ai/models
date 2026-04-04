@@ -1,0 +1,35 @@
+{"query":"Delete Charge on Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Delete Charge in Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Woovi delete charge","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"delete the charge on Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"remove the charge on Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"destroy the charge on Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"delete charge via Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"delete charge using Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"delete charge with Woovi","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"Woovi delete the charge","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"Woovi remove the charge","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"delete a woovi charge","expected_action_key":"woovi-delete-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"contextual"}
+{"query":"Create Charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Create Charge in Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Woovi create charge","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"create a charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"make a charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"new charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"open a charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"start a charge on Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"create charge via Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"create charge using Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"create charge with Woovi","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"Woovi create a charge","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"Woovi make a charge","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"create a woovi charge","expected_action_key":"woovi-create-charge","expected_app_slug":"woovi","app_name":"Woovi","test_type":"contextual"}
+{"query":"Create Charge Refund on Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Create Charge Refund in Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"Woovi create charge refund","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"action_name"}
+{"query":"create a charge refund on Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"Woovi create a charge refund","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"make a charge refund on Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"canonical"}
+{"query":"Woovi make a charge refund","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"app_first"}
+{"query":"create charge refund via Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}
+{"query":"create charge refund using Woovi","expected_action_key":"woovi-create-charge-refund","expected_app_slug":"woovi","app_name":"Woovi","test_type":"alt_prep"}

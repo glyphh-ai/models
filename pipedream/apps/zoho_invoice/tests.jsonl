@@ -1,0 +1,29 @@
+{"query":"Create Invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Create Invoice in Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Zoho Invoice create invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Create Invoice on zoho_invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"create a invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"make a invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"new invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"open a invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"start a invoice on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"create invoice via Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_prep"}
+{"query":"create invoice using Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_prep"}
+{"query":"create invoice with Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_prep"}
+{"query":"Zoho Invoice create a invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"app_first"}
+{"query":"Zoho Invoice make a invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"app_first"}
+{"query":"create bill on Zoho Invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_target"}
+{"query":"Zoho Invoice create bill","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_target"}
+{"query":"zoho_invoice create invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_app_name"}
+{"query":"create a zoho invoice invoice","expected_action_key":"zoho_invoice-create-invoice","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"contextual"}
+{"query":"Create Estimate on Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Create Estimate in Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Zoho Invoice create estimate","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"Create Estimate on zoho_invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"action_name"}
+{"query":"create a estimate on Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"Zoho Invoice create a estimate","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"app_first"}
+{"query":"make a estimate on Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"canonical"}
+{"query":"Zoho Invoice make a estimate","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"app_first"}
+{"query":"create estimate via Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_prep"}
+{"query":"create estimate using Zoho Invoice","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_prep"}
+{"query":"zoho_invoice create estimate","expected_action_key":"zoho_invoice-create-estimate","expected_app_slug":"zoho_invoice","app_name":"Zoho Invoice","test_type":"alt_app_name"}

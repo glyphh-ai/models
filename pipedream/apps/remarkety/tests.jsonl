@@ -1,0 +1,24 @@
+{"query":"List Products on Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"List Products in Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"Remarkety list products","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"list all products on Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"Remarkety list all products","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"app_first"}
+{"query":"show all products on Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"Remarkety show all products","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"app_first"}
+{"query":"list products via Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_prep"}
+{"query":"list products using Remarkety","expected_action_key":"remarkety-list-products","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_prep"}
+{"query":"List Customers on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"List Customers in Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"Remarkety list customers","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"action_name"}
+{"query":"list all customers on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"show all customers on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"get all customers on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"show me all customers on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"canonical"}
+{"query":"list customers via Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_prep"}
+{"query":"list customers using Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_prep"}
+{"query":"list customers with Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_prep"}
+{"query":"Remarkety list all customers","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"app_first"}
+{"query":"Remarkety show all customers","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"app_first"}
+{"query":"list account on Remarkety","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_target"}
+{"query":"Remarkety list account","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"alt_target"}
+{"query":"list a remarkety customers","expected_action_key":"remarkety-list-customers","expected_app_slug":"remarkety","app_name":"Remarkety","test_type":"contextual"}

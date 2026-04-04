@@ -1,0 +1,597 @@
+{"query":"Write Off Invoice on Stripe","expected_action_key":"stripe-write-off-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Write Off Invoice in Stripe","expected_action_key":"stripe-write-off-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe write off invoice","expected_action_key":"stripe-write-off-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Void Invoice on Stripe","expected_action_key":"stripe-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Void Invoice in Stripe","expected_action_key":"stripe-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe void invoice","expected_action_key":"stripe-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update a Refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update a Refund in Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update a refund","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update the refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"edit the refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"modify the refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"change the refund on Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update refund in Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update refund via Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update refund using Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update refund with Stripe","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe update refund","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe update the refund","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe edit the refund","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update a stripe refund","expected_action_key":"stripe-update-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Update a Payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update a Payout in Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update a payout","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update the payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"edit the payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"modify the payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"change the payout on Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update payout in Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update payout via Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update payout using Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update payout with Stripe","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe update payout","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe update the payout","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe edit the payout","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update a stripe payout","expected_action_key":"stripe-update-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Update a Payment Intent on Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update a Payment Intent in Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update a payment intent","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update payment intent on Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe update payment intent","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update the payment intent on Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe update the payment intent","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"edit the payment intent on Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe edit the payment intent","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update payment intent in Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update payment intent via Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update payment intent using Stripe","expected_action_key":"stripe-update-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Update Invoice on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update Invoice in Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update invoice","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update the invoice on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"edit the invoice on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"modify the invoice on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"change the invoice on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update invoice via Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update invoice using Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update invoice with Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe update the invoice","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe edit the invoice","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update bill on Stripe","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe update bill","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"update a stripe invoice","expected_action_key":"stripe-update-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Update Invoice Line Item on Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update Invoice Line Item in Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update invoice line item","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update the invoice line item on Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe update the invoice line item","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"edit the invoice line item on Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe edit the invoice line item","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update invoice line item via Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update invoice line item using Stripe","expected_action_key":"stripe-update-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Update a Customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Update a Customer in Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe update a customer","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"update customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update the customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"edit the customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"modify the customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"change the customer on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"update customer in Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update customer via Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update customer using Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"update customer with Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe update customer","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe update the customer","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe edit the customer","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"update account on Stripe","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe update account","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"update a stripe customer","expected_action_key":"stripe-update-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Send Invoice on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Send Invoice in Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe send invoice","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"send a invoice on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"post a invoice on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"send out invoice on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fire off invoice on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"send invoice via Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"send invoice using Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"send invoice with Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe send a invoice","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe post a invoice","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"send bill on Stripe","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe send bill","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"send a stripe invoice","expected_action_key":"stripe-send-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Search Subscriptions on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Search Subscriptions in Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe search subscriptions","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"search for subscriptions on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"find subscriptions on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"look for subscriptions on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"locate subscriptions on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"search for subscriptions in Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for subscriptions via Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for subscriptions using Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for subscriptions with Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe search for subscriptions","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe find subscriptions","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe look for subscriptions","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"search for plan on Stripe","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe search for plan","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"search for a stripe subscriptions","expected_action_key":"stripe-search-subscriptions","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Search Customers on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Search Customers in Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe search customers","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"search for customers on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"find customers on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"look for customers on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"locate customers on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"search for customers in Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for customers via Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for customers using Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"search for customers with Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe search for customers","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe find customers","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe look for customers","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"search for account on Stripe","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe search for account","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"search for a stripe customers","expected_action_key":"stripe-search-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve a Refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Refund in Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a refund","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"retrieve refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check refund on Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get refund in Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get refund via Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get refund using Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get refund with Stripe","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get refund","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the refund","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe retrieve refund","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get a stripe refund","expected_action_key":"stripe-retrieve-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve Product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve Product in Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve product","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check product on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get product in Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get product via Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get product using Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get product with Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get product","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the product","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get item on Stripe","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe get item","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"get a stripe product","expected_action_key":"stripe-retrieve-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve a Price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Price in Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a price","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"retrieve price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check price on Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get price in Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get price via Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get price using Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get price with Stripe","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get price","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the price","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe retrieve price","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get a stripe price","expected_action_key":"stripe-retrieve-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve a Payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Payout in Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a payout","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"retrieve payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check payout on Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get payout in Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get payout via Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get payout using Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get payout with Stripe","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get payout","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the payout","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe retrieve payout","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get a stripe payout","expected_action_key":"stripe-retrieve-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve a Payment Intent on Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Payment Intent in Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a payment intent","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get payment intent on Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get payment intent","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get the payment intent on Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get the payment intent","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"retrieve payment intent on Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe retrieve payment intent","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get payment intent in Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get payment intent via Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get payment intent using Stripe","expected_action_key":"stripe-retrieve-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Retrieve an Invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve an Invoice in Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve an invoice","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"retrieve invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check invoice on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get invoice in Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get invoice via Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get invoice using Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get invoice with Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get invoice","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the invoice","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe retrieve invoice","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get bill on Stripe","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe get bill","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"get a stripe invoice","expected_action_key":"stripe-retrieve-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve Invoice Line Item on Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve Invoice Line Item in Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve invoice line item","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get invoice line item on Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get invoice line item","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get the invoice line item on Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get the invoice line item","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get invoice line item in Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get invoice line item via Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get invoice line item using Stripe","expected_action_key":"stripe-retrieve-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Retrieve a Customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Customer in Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a customer","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get the customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"retrieve customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"fetch customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me the customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"pull customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"check customer on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get customer in Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get customer via Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get customer using Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get customer with Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe get customer","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe get the customer","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe retrieve customer","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get account on Stripe","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe get account","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"get a stripe customer","expected_action_key":"stripe-retrieve-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Retrieve a Checkout Session on Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve a Checkout Session in Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve a checkout session","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get checkout session on Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get checkout session","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get the checkout session on Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get the checkout session","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"retrieve checkout session on Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe retrieve checkout session","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get checkout session in Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get checkout session via Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get checkout session using Stripe","expected_action_key":"stripe-retrieve-checkout-session","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Retrieve Checkout Session Line Items on Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve Checkout Session Line Items in Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve checkout session line items","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get checkout session line items on Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get checkout session line items","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get the checkout session line items on Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get the checkout session line items","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get checkout session line items in Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get checkout session line items via Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get checkout session line items using Stripe","expected_action_key":"stripe-retrieve-checkout-session-line-items","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Retrieve the Current Balance on Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Retrieve the Current Balance in Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe retrieve the current balance","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"get current balance on Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get current balance","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get the current balance on Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe get the current balance","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"retrieve current balance on Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe retrieve current balance","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"get current balance in Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get current balance via Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"get current balance using Stripe","expected_action_key":"stripe-retrieve-balance","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"List Refunds on Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Refunds in Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list refunds","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all refunds on Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe list all refunds","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"show all refunds on Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe show all refunds","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list refunds via Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list refunds using Stripe","expected_action_key":"stripe-list-refunds","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"List Payouts on Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Payouts in Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list payouts","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all payouts on Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe list all payouts","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"show all payouts on Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe show all payouts","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list payouts via Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list payouts using Stripe","expected_action_key":"stripe-list-payouts","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"List Payment Intents on Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Payment Intents in Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list payment intents","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all payment intents on Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe list all payment intents","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"show all payment intents on Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe show all payment intents","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list payment intents via Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list payment intents using Stripe","expected_action_key":"stripe-list-payment-intents","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"List Invoices on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Invoices in Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list invoices","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all invoices on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show all invoices on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get all invoices on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me all invoices on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"list invoices via Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list invoices using Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list invoices with Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe list all invoices","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe show all invoices","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list bill on Stripe","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe list bill","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"list a stripe invoices","expected_action_key":"stripe-list-invoices","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"List Customers on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Customers in Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list customers","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all customers on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show all customers on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"get all customers on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"show me all customers on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"list customers via Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list customers using Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list customers with Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe list all customers","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe show all customers","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list account on Stripe","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe list account","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"list a stripe customers","expected_action_key":"stripe-list-customers","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"List Balance History on Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"List Balance History in Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe list balance history","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"list all balance history on Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe list all balance history","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"show all balance history on Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe show all balance history","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"list balance history via Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"list balance history using Stripe","expected_action_key":"stripe-list-balance-history","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Finalize Draft Invoice on Stripe","expected_action_key":"stripe-finalize-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Finalize Draft Invoice in Stripe","expected_action_key":"stripe-finalize-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe finalize draft invoice","expected_action_key":"stripe-finalize-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Delete Or Void Invoice on Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Delete Or Void Invoice in Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe delete or void invoice","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"delete the or void invoice on Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe delete the or void invoice","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"remove the or void invoice on Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe remove the or void invoice","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"delete or void invoice via Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"delete or void invoice using Stripe","expected_action_key":"stripe-delete-or-void-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Delete Invoice Line Item on Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Delete Invoice Line Item in Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe delete invoice line item","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"delete the invoice line item on Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe delete the invoice line item","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"remove the invoice line item on Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe remove the invoice line item","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"delete invoice line item via Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"delete invoice line item using Stripe","expected_action_key":"stripe-delete-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Delete a Customer on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Delete a Customer in Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe delete a customer","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"delete customer on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"delete the customer on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"remove the customer on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"destroy the customer on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"delete customer in Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"delete customer via Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"delete customer using Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"delete customer with Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe delete customer","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe delete the customer","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe remove the customer","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"delete account on Stripe","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe delete account","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"delete a stripe customer","expected_action_key":"stripe-delete-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create Subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Subscription in Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create subscription","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a subscription on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create subscription via Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create subscription using Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create subscription with Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create a subscription","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a subscription","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create plan on Stripe","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe create plan","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"create a stripe subscription","expected_action_key":"stripe-create-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create A Refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create A Refund in Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create a refund","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a refund on Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create refund in Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create refund via Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create refund using Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create refund with Stripe","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create refund","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a refund","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create a stripe refund","expected_action_key":"stripe-create-refund","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create Product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Product in Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create product","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a product on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create product via Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create product using Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create product with Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create a product","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a product","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create item on Stripe","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe create item","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"create a stripe product","expected_action_key":"stripe-create-product","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create Price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Price in Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create price","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a price on Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create price via Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create price using Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create price with Stripe","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create a price","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a price","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create a stripe price","expected_action_key":"stripe-create-price","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create a Payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create a Payout in Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create a payout","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a payout on Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create payout in Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create payout via Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create payout using Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create payout with Stripe","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create payout","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a payout","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create a stripe payout","expected_action_key":"stripe-create-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create a Payment Intent on Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create a Payment Intent in Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create a payment intent","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create payment intent on Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe create payment intent","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"make a payment intent on Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe make a payment intent","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create payment intent in Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create payment intent via Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create payment intent using Stripe","expected_action_key":"stripe-create-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Create Invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Invoice in Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create invoice","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a invoice on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create invoice via Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create invoice using Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create invoice with Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create a invoice","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a invoice","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create bill on Stripe","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe create bill","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"create a stripe invoice","expected_action_key":"stripe-create-invoice","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create Invoice Line Item on Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Invoice Line Item in Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create invoice line item","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a invoice line item on Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe create a invoice line item","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"make a invoice line item on Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe make a invoice line item","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create invoice line item via Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create invoice line item using Stripe","expected_action_key":"stripe-create-invoice-item","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Create a Customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create a Customer in Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create a customer","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"make a customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"new customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"open a customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"start a customer on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"create customer in Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create customer via Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create customer using Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create customer with Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe create customer","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"Stripe make a customer","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create account on Stripe","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe create account","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"create a stripe customer","expected_action_key":"stripe-create-customer","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Create Billing Meter on Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create Billing Meter in Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create billing meter","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create a billing meter on Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe create a billing meter","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"make a billing meter on Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe make a billing meter","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create billing meter via Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create billing meter using Stripe","expected_action_key":"stripe-create-billing-meter","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Confirm A Payment Intent on Stripe","expected_action_key":"stripe-confirm-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Confirm A Payment Intent in Stripe","expected_action_key":"stripe-confirm-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe confirm a payment intent","expected_action_key":"stripe-confirm-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Capture a Payment Intent on Stripe","expected_action_key":"stripe-capture-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Capture a Payment Intent in Stripe","expected_action_key":"stripe-capture-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe capture a payment intent","expected_action_key":"stripe-capture-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Cancel Subscription on Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Cancel Subscription in Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe cancel subscription","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"cancel the subscription on Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"cancel subscription via Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel subscription using Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel subscription with Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Stripe cancel the subscription","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"cancel plan on Stripe","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"Stripe cancel plan","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_target"}
+{"query":"cancel a stripe subscription","expected_action_key":"stripe-cancel-subscription","expected_app_slug":"stripe","app_name":"Stripe","test_type":"contextual"}
+{"query":"Cancel A Payment Intent on Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Cancel A Payment Intent in Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe cancel a payment intent","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"cancel payment intent on Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe cancel payment intent","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"cancel the payment intent on Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe cancel the payment intent","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"cancel payment intent in Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel payment intent via Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel payment intent using Stripe","expected_action_key":"stripe-cancel-payment-intent","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Cancel Or Reverse A Payout on Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Cancel Or Reverse A Payout in Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe cancel or reverse a payout","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"cancel or reverse payout on Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe cancel or reverse payout","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"cancel the or reverse payout on Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe cancel the or reverse payout","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"cancel or reverse payout in Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel or reverse payout via Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"cancel or reverse payout using Stripe","expected_action_key":"stripe-cancel-or-reverse-payout","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"Create a Usage Record on Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Create a Usage Record in Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"Stripe create a usage record","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"action_name"}
+{"query":"create usage record on Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe create usage record","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"make a usage record on Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"canonical"}
+{"query":"Stripe make a usage record","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"app_first"}
+{"query":"create usage record in Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create usage record via Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}
+{"query":"create usage record using Stripe","expected_action_key":"stripe-create-usage-record","expected_app_slug":"stripe","app_name":"Stripe","test_type":"alt_prep"}

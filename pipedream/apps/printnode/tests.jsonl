@@ -1,0 +1,27 @@
+{"query":"Send Print Job on PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"Send Print Job in PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"PrintNode send print job","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"send a print job on PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode send a print job","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"post a print job on PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode post a print job","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"send print job via PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}
+{"query":"send print job using PrintNode","expected_action_key":"printnode-send-print-job","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}
+{"query":"List Print Jobs on PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"List Print Jobs in PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"PrintNode list print jobs","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"list all print jobs on PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode list all print jobs","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"show all print jobs on PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode show all print jobs","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"list print jobs via PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}
+{"query":"list print jobs using PrintNode","expected_action_key":"printnode-list-print-jobs","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}
+{"query":"Get Printer on PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"Get Printer in PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"PrintNode get printer","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"action_name"}
+{"query":"get the printer on PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode get the printer","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"retrieve printer on PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"canonical"}
+{"query":"PrintNode retrieve printer","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"app_first"}
+{"query":"get printer via PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}
+{"query":"get printer using PrintNode","expected_action_key":"printnode-get-printer","expected_app_slug":"printnode","app_name":"PrintNode","test_type":"alt_prep"}

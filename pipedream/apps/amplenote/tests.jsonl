@@ -1,0 +1,30 @@
+{"query":"Create Task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"Create Task in Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"Amplenote create task","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"create a task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"make a task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"new task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"open a task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"start a task on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"create task via Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"create task using Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"create task with Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"Amplenote create a task","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"app_first"}
+{"query":"Amplenote make a task","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"app_first"}
+{"query":"create story on Amplenote","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_target"}
+{"query":"Amplenote create story","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_target"}
+{"query":"create a amplenote task","expected_action_key":"amplenote-create-task","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"contextual"}
+{"query":"Create Note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"Create Note in Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"Amplenote create note","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"action_name"}
+{"query":"create a note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"make a note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"new note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"open a note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"start a note on Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"canonical"}
+{"query":"create note via Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"create note using Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"create note with Amplenote","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"alt_prep"}
+{"query":"Amplenote create a note","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"app_first"}
+{"query":"Amplenote make a note","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"app_first"}
+{"query":"create a amplenote note","expected_action_key":"amplenote-create-note","expected_app_slug":"amplenote","app_name":"Amplenote","test_type":"contextual"}

@@ -1,0 +1,10 @@
+{"query":"Create a simple card on Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"action_name"}
+{"query":"Create a simple card in Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"action_name"}
+{"query":"Supernotes create a simple card","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"action_name"}
+{"query":"create simple card on Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"canonical"}
+{"query":"Supernotes create simple card","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"app_first"}
+{"query":"make a simple card on Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"canonical"}
+{"query":"Supernotes make a simple card","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"app_first"}
+{"query":"create simple card in Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"alt_prep"}
+{"query":"create simple card via Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"alt_prep"}
+{"query":"create simple card using Supernotes","expected_action_key":"supernotes-create-simple-card","expected_app_slug":"supernotes","app_name":"Supernotes","test_type":"alt_prep"}

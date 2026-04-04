@@ -1,0 +1,32 @@
+{"query":"Run Workflow on Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Run Workflow in Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Skyvern run workflow","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"trigger workflow on Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"execute workflow on Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"start workflow on Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"launch workflow on Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"trigger workflow in Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"trigger workflow via Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"trigger workflow using Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"trigger workflow with Skyvern","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"Skyvern trigger workflow","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"Skyvern execute workflow","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"trigger a skyvern workflow","expected_action_key":"skyvern-run-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"contextual"}
+{"query":"Get Workflow Run Details on Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Get Workflow Run Details in Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Skyvern get workflow run details","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"get the workflow run details on Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"Skyvern get the workflow run details","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"retrieve workflow run details on Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"Skyvern retrieve workflow run details","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"get workflow run details via Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"get workflow run details using Skyvern","expected_action_key":"skyvern-get-workflow","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"Create and Run Task on Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Create and Run Task in Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"Skyvern create and run task","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"action_name"}
+{"query":"create a and run task on Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"Skyvern create a and run task","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"make a and run task on Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"canonical"}
+{"query":"Skyvern make a and run task","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"app_first"}
+{"query":"create and run task via Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}
+{"query":"create and run task using Skyvern","expected_action_key":"skyvern-create-run-task","expected_app_slug":"skyvern","app_name":"Skyvern","test_type":"alt_prep"}

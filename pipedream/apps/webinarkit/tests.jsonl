@@ -1,0 +1,30 @@
+{"query":"Register Attendee on WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"Register Attendee in WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"WebinarKit register attendee","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"create attendee on WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit create attendee","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"create a attendee on WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit create a attendee","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"make a attendee on WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit make a attendee","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"create attendee in WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"create attendee via WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"create attendee using WebinarKit","expected_action_key":"webinarkit-register-attendee","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"List Webinars on WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"List Webinars in WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"WebinarKit list webinars","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"list all webinars on WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit list all webinars","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"show all webinars on WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit show all webinars","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"list webinars via WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"list webinars using WebinarKit","expected_action_key":"webinarkit-list-webinars","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"List Scheduled Sessions on WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"List Scheduled Sessions in WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"WebinarKit list scheduled sessions","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"action_name"}
+{"query":"list all scheduled sessions on WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit list all scheduled sessions","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"show all scheduled sessions on WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"canonical"}
+{"query":"WebinarKit show all scheduled sessions","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"app_first"}
+{"query":"list scheduled sessions via WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}
+{"query":"list scheduled sessions using WebinarKit","expected_action_key":"webinarkit-list-scheduled-sessions","expected_app_slug":"webinarkit","app_name":"WebinarKit","test_type":"alt_prep"}

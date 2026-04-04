@@ -1,0 +1,45 @@
+{"query":"Send Message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"Send Message in sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"sendSMS send message","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"send a message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"post a message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"send out message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"fire off message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"send message via sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"send message using sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"send message with sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"sendSMS send a message","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"sendSMS post a message","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"send msg on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"sendSMS send msg","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"send chat message on sendSMS","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"sendSMS send chat message","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"send a sendsms message","expected_action_key":"sendsms-send-message","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"contextual"}
+{"query":"Send Message with Unsubscribe Link on sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"Send Message with Unsubscribe Link in sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"sendSMS send message with unsubscribe link","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"send message unsubscribe link on sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"sendSMS send message unsubscribe link","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"send a message unsubscribe link on sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"sendSMS send a message unsubscribe link","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"post a message unsubscribe link on sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"sendSMS post a message unsubscribe link","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"send message unsubscribe link in sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"send message unsubscribe link via sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"send message unsubscribe link using sendSMS","expected_action_key":"sendsms-send-message-with-unsubscribe-link","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"Check Blocklist on sendSMS","expected_action_key":"sendsms-check-blocklist","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"Check Blocklist in sendSMS","expected_action_key":"sendsms-check-blocklist","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"sendSMS check blocklist","expected_action_key":"sendsms-check-blocklist","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"Add Contact on sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"Add Contact in sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"sendSMS add contact","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"action_name"}
+{"query":"add a contact on sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"add new contact on sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"canonical"}
+{"query":"add contact via sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"add contact using sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"add contact with sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_prep"}
+{"query":"sendSMS add a contact","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"sendSMS add new contact","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"app_first"}
+{"query":"add contact record on sendSMS","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"sendSMS add contact record","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"alt_target"}
+{"query":"add a sendsms contact","expected_action_key":"sendsms-add-contact","expected_app_slug":"sendsms","app_name":"sendSMS","test_type":"contextual"}

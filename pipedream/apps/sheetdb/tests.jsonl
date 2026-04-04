@@ -1,0 +1,48 @@
+{"query":"Update Rows on SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"Update Rows in SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"SheetDB update rows","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"update the rows on SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB update the rows","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"edit the rows on SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB edit the rows","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"update rows via SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"update rows using SheetDB","expected_action_key":"sheetdb-update-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"Search Content on SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"Search Content in SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"SheetDB search content","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"search for content on SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB search for content","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"find content on SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB find content","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"look for content on SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB look for content","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"search for content in SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"search for content via SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"search for content using SheetDB","expected_action_key":"sheetdb-search-content","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"Get Column Names on SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"Get Column Names in SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"SheetDB get column names","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"get the column names on SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB get the column names","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"retrieve column names on SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB retrieve column names","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"get column names via SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"get column names using SheetDB","expected_action_key":"sheetdb-get-column-names","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"Delete Rows on SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"Delete Rows in SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"SheetDB delete rows","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"delete the rows on SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB delete the rows","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"remove the rows on SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB remove the rows","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"delete rows via SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"delete rows using SheetDB","expected_action_key":"sheetdb-delete-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"Create Rows on SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"Create Rows in SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"SheetDB create rows","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"action_name"}
+{"query":"create a rows on SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB create a rows","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"make a rows on SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"canonical"}
+{"query":"SheetDB make a rows","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"app_first"}
+{"query":"create rows via SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}
+{"query":"create rows using SheetDB","expected_action_key":"sheetdb-create-rows","expected_app_slug":"sheetdb","app_name":"SheetDB","test_type":"alt_prep"}

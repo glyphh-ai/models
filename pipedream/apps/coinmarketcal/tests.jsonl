@@ -1,0 +1,41 @@
+{"query":"Search Events on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"Search Events in CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"CoinMarketCal search events","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"search for events on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"find events on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"look for events on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"locate events on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"search for events in CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"search for events via CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"search for events using CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"search for events with CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"CoinMarketCal search for events","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"CoinMarketCal find events","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"CoinMarketCal look for events","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"search for meeting on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_target"}
+{"query":"CoinMarketCal search for meeting","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_target"}
+{"query":"search for calendar event on CoinMarketCal","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_target"}
+{"query":"CoinMarketCal search for calendar event","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_target"}
+{"query":"search for a coinmarketcal events","expected_action_key":"coinmarketcal-search-events","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"contextual"}
+{"query":"List Coins on CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"List Coins in CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"CoinMarketCal list coins","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"list all coins on CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"show all coins on CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"get all coins on CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"show me all coins on CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"list coins via CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"list coins using CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"list coins with CoinMarketCal","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"CoinMarketCal list all coins","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"CoinMarketCal show all coins","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"list a coinmarketcal coins","expected_action_key":"coinmarketcal-list-coins","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"contextual"}
+{"query":"List Categories on CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"List Categories in CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"CoinMarketCal list categories","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"action_name"}
+{"query":"list all categories on CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"CoinMarketCal list all categories","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"show all categories on CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"canonical"}
+{"query":"CoinMarketCal show all categories","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"app_first"}
+{"query":"list categories via CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}
+{"query":"list categories using CoinMarketCal","expected_action_key":"coinmarketcal-list-categories","expected_app_slug":"coinmarketcal","app_name":"CoinMarketCal","test_type":"alt_prep"}

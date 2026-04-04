@@ -1,0 +1,9 @@
+{"query":"Upload picture on imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"action_name"}
+{"query":"Upload picture in imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"action_name"}
+{"query":"imgbb upload picture","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"action_name"}
+{"query":"upload a picture on imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"canonical"}
+{"query":"imgbb upload a picture","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"app_first"}
+{"query":"upload the picture on imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"canonical"}
+{"query":"imgbb upload the picture","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"app_first"}
+{"query":"upload picture via imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"alt_prep"}
+{"query":"upload picture using imgbb","expected_action_key":"imgbb-upload-picture","expected_app_slug":"imgbb","app_name":"imgbb","test_type":"alt_prep"}

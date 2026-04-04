@@ -1,0 +1,137 @@
+{"query":"Update Contact on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Update Contact in Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic update contact","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"update the contact on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"edit the contact on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"modify the contact on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"change the contact on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"update contact via Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"update contact using Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"update contact with Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Mautic update the contact","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic edit the contact","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"update contact record on Mautic","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"Mautic update contact record","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"update a mautic contact","expected_action_key":"mautic-update-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"contextual"}
+{"query":"Search Contacts on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Search Contacts in Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic search contacts","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"search for contacts on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"find contacts on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"look for contacts on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"locate contacts on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"search for contacts in Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for contacts via Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for contacts using Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for contacts with Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Mautic search for contacts","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic find contacts","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic look for contacts","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"search for contact record on Mautic","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"Mautic search for contact record","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"search for a mautic contacts","expected_action_key":"mautic-search-contacts","expected_app_slug":"mautic","app_name":"Mautic","test_type":"contextual"}
+{"query":"Search Companies on Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Search Companies in Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic search companies","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"search for companies on Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic search for companies","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"find companies on Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic find companies","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"look for companies on Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic look for companies","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"search for companies in Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for companies via Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for companies using Mautic","expected_action_key":"mautic-search-companies","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Search Campaigns on Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Search Campaigns in Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic search campaigns","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"search for campaigns on Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic search for campaigns","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"find campaigns on Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic find campaigns","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"look for campaigns on Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic look for campaigns","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"search for campaigns in Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for campaigns via Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"search for campaigns using Mautic","expected_action_key":"mautic-search-campaigns","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"List Available Contact Fields on Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"List Available Contact Fields in Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic list available contact fields","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"list all available contact fields on Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic list all available contact fields","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"show all available contact fields on Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic show all available contact fields","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"list available contact fields via Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"list available contact fields using Mautic","expected_action_key":"mautic-list-available-contact-fields","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Get Contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Get Contact in Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic get contact","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"get the contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"retrieve contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"fetch contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"show me the contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"pull contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"check contact on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"get contact via Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"get contact using Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"get contact with Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Mautic get the contact","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic retrieve contact","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"get contact record on Mautic","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"Mautic get contact record","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"get a mautic contact","expected_action_key":"mautic-get-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"contextual"}
+{"query":"Get Campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Get Campaign in Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic get campaign","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"get the campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"retrieve campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"fetch campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"show me the campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"pull campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"check campaign on Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"get campaign via Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"get campaign using Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"get campaign with Mautic","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Mautic get the campaign","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic retrieve campaign","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"get a mautic campaign","expected_action_key":"mautic-get-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"contextual"}
+{"query":"Delete Company on Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Delete Company in Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic delete company","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"delete the company on Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic delete the company","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"remove the company on Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic remove the company","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"delete company via Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"delete company using Mautic","expected_action_key":"mautic-delete-company","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Create Contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Create Contact in Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic create contact","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"create a contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"make a contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"new contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"open a contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"start a contact on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"create contact via Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"create contact using Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"create contact with Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"Mautic create a contact","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"Mautic make a contact","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"create contact record on Mautic","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"Mautic create contact record","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_target"}
+{"query":"create a mautic contact","expected_action_key":"mautic-create-contact","expected_app_slug":"mautic","app_name":"Mautic","test_type":"contextual"}
+{"query":"Clone Campaign on Mautic","expected_action_key":"mautic-clone-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Clone Campaign in Mautic","expected_action_key":"mautic-clone-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic clone campaign","expected_action_key":"mautic-clone-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Add Contact to a Campaign on Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Add Contact to a Campaign in Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"Mautic add contact to a campaign","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"action_name"}
+{"query":"add contact campaign on Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic add contact campaign","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"add a contact campaign on Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic add a contact campaign","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"add new contact campaign on Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"canonical"}
+{"query":"Mautic add new contact campaign","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"app_first"}
+{"query":"add contact campaign in Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"add contact campaign via Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}
+{"query":"add contact campaign using Mautic","expected_action_key":"mautic-add-contact-to-campaign","expected_app_slug":"mautic","app_name":"Mautic","test_type":"alt_prep"}

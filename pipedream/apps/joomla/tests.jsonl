@@ -1,0 +1,22 @@
+{"query":"Update Article on Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Update Article in Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Joomla! update article","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Update Article on Joomla","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"update the article on Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"canonical"}
+{"query":"Joomla! update the article","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"app_first"}
+{"query":"edit the article on Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"canonical"}
+{"query":"Joomla! edit the article","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"app_first"}
+{"query":"update article via Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_prep"}
+{"query":"update article using Joomla!","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_prep"}
+{"query":"Joomla update article","expected_action_key":"joomla-update-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_app_name"}
+{"query":"Create Article on Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Create Article in Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Joomla! create article","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"Create Article on Joomla","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"action_name"}
+{"query":"create a article on Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"canonical"}
+{"query":"Joomla! create a article","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"app_first"}
+{"query":"make a article on Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"canonical"}
+{"query":"Joomla! make a article","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"app_first"}
+{"query":"create article via Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_prep"}
+{"query":"create article using Joomla!","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_prep"}
+{"query":"Joomla create article","expected_action_key":"joomla-create-article","expected_app_slug":"joomla","app_name":"Joomla!","test_type":"alt_app_name"}

@@ -1,0 +1,41 @@
+{"query":"Update Order on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"Update Order in ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"ShipHero update order","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"update the order on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"edit the order on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"modify the order on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"change the order on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"update order via ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"update order using ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"update order with ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"ShipHero update the order","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"ShipHero edit the order","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"update purchase on ShipHero","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_target"}
+{"query":"ShipHero update purchase","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_target"}
+{"query":"update a shiphero order","expected_action_key":"shiphero-update-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"contextual"}
+{"query":"List Products on ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"List Products in ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"ShipHero list products","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"list all products on ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"ShipHero list all products","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"show all products on ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"ShipHero show all products","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"list products via ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"list products using ShipHero","expected_action_key":"shiphero-list-products","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"Get Order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"Get Order in ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"ShipHero get order","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"action_name"}
+{"query":"get the order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"retrieve order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"fetch order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"show me the order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"pull order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"check order on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"canonical"}
+{"query":"get order via ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"get order using ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"get order with ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_prep"}
+{"query":"ShipHero get the order","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"ShipHero retrieve order","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"app_first"}
+{"query":"get purchase on ShipHero","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_target"}
+{"query":"ShipHero get purchase","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"alt_target"}
+{"query":"get a shiphero order","expected_action_key":"shiphero-get-order","expected_app_slug":"shiphero","app_name":"ShipHero","test_type":"contextual"}

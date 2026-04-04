@@ -1,0 +1,51 @@
+{"query":"Update Event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Update Event in Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Teamup update event","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"update the event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"edit the event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"modify the event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"change the event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"update event via Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"update event using Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"update event with Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"Teamup update the event","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"Teamup edit the event","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"update meeting on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup update meeting","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"update calendar event on Teamup","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup update calendar event","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"update a teamup event","expected_action_key":"teamup-update-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"contextual"}
+{"query":"Delete Event on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Delete Event in Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Teamup delete event","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"delete the event on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"remove the event on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"destroy the event on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"delete event via Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"delete event using Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"delete event with Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"Teamup delete the event","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"Teamup remove the event","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"delete meeting on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup delete meeting","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"delete calendar event on Teamup","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup delete calendar event","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"delete a teamup event","expected_action_key":"teamup-delete-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"contextual"}
+{"query":"Create Event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Create Event in Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"Teamup create event","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"action_name"}
+{"query":"create a event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"make a event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"new event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"open a event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"start a event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"canonical"}
+{"query":"create event via Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"create event using Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"create event with Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_prep"}
+{"query":"Teamup create a event","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"Teamup make a event","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"app_first"}
+{"query":"create meeting on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup create meeting","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"create calendar event on Teamup","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"Teamup create calendar event","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"alt_target"}
+{"query":"create a teamup event","expected_action_key":"teamup-create-event","expected_app_slug":"teamup","app_name":"Teamup","test_type":"contextual"}

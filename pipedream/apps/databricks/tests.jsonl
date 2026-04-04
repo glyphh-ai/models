@@ -1,0 +1,366 @@
+{"query":"Upsert Vector Search Index Data on Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Upsert Vector Search Index Data in Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks upsert vector search index data","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"search for vector search index data on Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks search for vector search index data","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"find vector search index data on Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks find vector search index data","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"look for vector search index data on Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks look for vector search index data","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"search for vector search index data in Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"search for vector search index data via Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"search for vector search index data using Databricks","expected_action_key":"databricks-upsert-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Update Job on Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Update Job in Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks update job","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"update the job on Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks update the job","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"edit the job on Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks edit the job","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"update job via Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"update job using Databricks","expected_action_key":"databricks-update-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Sync Vector Search Index on Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Sync Vector Search Index in Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks sync vector search index","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"sync the vector search index on Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks sync the vector search index","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"synchronize vector search index on Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks synchronize vector search index","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"sync vector search index via Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"sync vector search index using Databricks","expected_action_key":"databricks-sync-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Stop SQL Warehouse on Databricks","expected_action_key":"databricks-stop-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Stop SQL Warehouse in Databricks","expected_action_key":"databricks-stop-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks stop sql warehouse","expected_action_key":"databricks-stop-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Start SQL Warehouse on Databricks","expected_action_key":"databricks-start-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Start SQL Warehouse in Databricks","expected_action_key":"databricks-start-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks start sql warehouse","expected_action_key":"databricks-start-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Set SQL Warehouse Permissions on Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Set SQL Warehouse Permissions in Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks set sql warehouse permissions","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"set the sql warehouse permissions on Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks set the sql warehouse permissions","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"configure the sql warehouse permissions on Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks configure the sql warehouse permissions","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"set sql warehouse permissions via Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"set sql warehouse permissions using Databricks","expected_action_key":"databricks-set-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Set SQL Warehouse Config on Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Set SQL Warehouse Config in Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks set sql warehouse config","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"set the sql warehouse config on Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks set the sql warehouse config","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"configure the sql warehouse config on Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks configure the sql warehouse config","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"set sql warehouse config via Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"set sql warehouse config using Databricks","expected_action_key":"databricks-set-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Set Job Permissions on Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Set Job Permissions in Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks set job permissions","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"set the job permissions on Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks set the job permissions","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"configure the job permissions on Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks configure the job permissions","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"set job permissions via Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"set job permissions using Databricks","expected_action_key":"databricks-set-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Scan Vector Search Index on Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Scan Vector Search Index in Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks scan vector search index","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"search for vector search index on Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks search for vector search index","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"find vector search index on Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks find vector search index","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"look for vector search index on Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks look for vector search index","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"search for vector search index in Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"search for vector search index via Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"search for vector search index using Databricks","expected_action_key":"databricks-scan-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Run Job Now on Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Run Job Now in Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks run job now","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"trigger job now on Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks trigger job now","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"execute job now on Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks execute job now","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"trigger job now in Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"trigger job now via Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"trigger job now using Databricks","expected_action_key":"databricks-run-job-now","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Reset Job on Databricks","expected_action_key":"databricks-reset-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Reset Job in Databricks","expected_action_key":"databricks-reset-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks reset job","expected_action_key":"databricks-reset-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Repair Run on Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Repair Run in Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks repair run","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"trigger run on Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks trigger run","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"run run on Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks run run","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"execute run on Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks execute run","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"trigger run in Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"trigger run via Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"trigger run using Databricks","expected_action_key":"databricks-repair-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Query Vector Search Index on Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Query Vector Search Index in Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks query vector search index","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get vector search index on Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get vector search index","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get the vector search index on Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the vector search index","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve vector search index on Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve vector search index","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get vector search index in Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get vector search index via Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get vector search index using Databricks","expected_action_key":"databricks-query-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"List Vector Search Indexes on Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"List Vector Search Indexes in Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks list vector search indexes","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"list all vector search indexes on Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks list all vector search indexes","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"show all vector search indexes on Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks show all vector search indexes","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"list vector search indexes via Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"list vector search indexes using Databricks","expected_action_key":"databricks-list-vector-search-indexes","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"List SQL Warehouses on Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"List SQL Warehouses in Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks list sql warehouses","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"list all sql warehouses on Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks list all sql warehouses","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"show all sql warehouses on Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks show all sql warehouses","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"list sql warehouses via Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"list sql warehouses using Databricks","expected_action_key":"databricks-list-sql-warehouses","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"List Runs on Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"List Runs in Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks list runs","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"list all runs on Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks list all runs","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"show all runs on Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks show all runs","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"list runs via Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"list runs using Databricks","expected_action_key":"databricks-list-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"List Jobs on Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"List Jobs in Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks list jobs","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"list all jobs on Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks list all jobs","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"show all jobs on Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks show all jobs","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"list jobs via Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"list jobs using Databricks","expected_action_key":"databricks-list-jobs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"List Endpoints on Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"List Endpoints in Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks list endpoints","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"list all endpoints on Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks list all endpoints","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"show all endpoints on Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks show all endpoints","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"list endpoints via Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"list endpoints using Databricks","expected_action_key":"databricks-list-endpoints","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Vector Search Index on Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Vector Search Index in Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get vector search index","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the vector search index on Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the vector search index","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve vector search index on Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve vector search index","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get vector search index via Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get vector search index using Databricks","expected_action_key":"databricks-get-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get SQL Warehouse on Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get SQL Warehouse in Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get sql warehouse","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the sql warehouse on Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the sql warehouse","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve sql warehouse on Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve sql warehouse","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get sql warehouse via Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get sql warehouse using Databricks","expected_action_key":"databricks-get-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get SQL Warehouse Permissions on Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get SQL Warehouse Permissions in Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get sql warehouse permissions","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the sql warehouse permissions on Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the sql warehouse permissions","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve sql warehouse permissions on Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve sql warehouse permissions","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get sql warehouse permissions via Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get sql warehouse permissions using Databricks","expected_action_key":"databricks-get-sql-warehouse-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get SQL Warehouse Config on Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get SQL Warehouse Config in Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get sql warehouse config","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the sql warehouse config on Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the sql warehouse config","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve sql warehouse config on Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve sql warehouse config","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get sql warehouse config via Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get sql warehouse config using Databricks","expected_action_key":"databricks-get-sql-warehouse-config","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Run on Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Run in Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get run","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the run on Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the run","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve run on Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve run","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get run via Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get run using Databricks","expected_action_key":"databricks-get-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Run Output on Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Run Output in Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get run output","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the run output on Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the run output","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve run output on Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve run output","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get run output via Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get run output using Databricks","expected_action_key":"databricks-get-run-output","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Job on Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Job in Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get job","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the job on Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the job","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve job on Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve job","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get job via Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get job using Databricks","expected_action_key":"databricks-get-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Job Permissions on Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Job Permissions in Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get job permissions","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the job permissions on Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the job permissions","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve job permissions on Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve job permissions","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get job permissions via Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get job permissions using Databricks","expected_action_key":"databricks-get-job-permissions","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Get Endpoint on Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Get Endpoint in Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks get endpoint","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"get the endpoint on Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks get the endpoint","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"retrieve endpoint on Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks retrieve endpoint","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"get endpoint via Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"get endpoint using Databricks","expected_action_key":"databricks-get-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Export Run on Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Export Run in Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks export run","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"export the run on Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks export the run","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"download run on Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks download run","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"export run via Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"export run using Databricks","expected_action_key":"databricks-export-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Edit SQL Warehouse on Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Edit SQL Warehouse in Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks edit sql warehouse","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"update sql warehouse on Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks update sql warehouse","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"update the sql warehouse on Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks update the sql warehouse","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"edit the sql warehouse on Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks edit the sql warehouse","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"update sql warehouse in Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"update sql warehouse via Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"update sql warehouse using Databricks","expected_action_key":"databricks-edit-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete Vector Search Index on Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete Vector Search Index in Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete vector search index","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete the vector search index on Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the vector search index","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the vector search index on Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the vector search index","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete vector search index via Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete vector search index using Databricks","expected_action_key":"databricks-delete-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete Data from Vector Search Index on Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete Data from Vector Search Index in Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete data from vector search index","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete data vector search index on Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete data vector search index","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete the data vector search index on Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the data vector search index","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the data vector search index on Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the data vector search index","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete data vector search index in Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete data vector search index via Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete data vector search index using Databricks","expected_action_key":"databricks-delete-vector-search-index-data","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete SQL Warehouse on Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete SQL Warehouse in Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete sql warehouse","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete the sql warehouse on Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the sql warehouse","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the sql warehouse on Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the sql warehouse","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete sql warehouse via Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete sql warehouse using Databricks","expected_action_key":"databricks-delete-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete Run on Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete Run in Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete run","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete the run on Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the run","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the run on Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the run","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete run via Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete run using Databricks","expected_action_key":"databricks-delete-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete Job on Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete Job in Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete job","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete the job on Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the job","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the job on Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the job","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete job via Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete job using Databricks","expected_action_key":"databricks-delete-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Delete Endpoint on Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Delete Endpoint in Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks delete endpoint","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"delete the endpoint on Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks delete the endpoint","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"remove the endpoint on Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks remove the endpoint","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"delete endpoint via Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"delete endpoint using Databricks","expected_action_key":"databricks-delete-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Create Vector Search Index on Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Create Vector Search Index in Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks create vector search index","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"create a vector search index on Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks create a vector search index","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"make a vector search index on Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks make a vector search index","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"create vector search index via Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"create vector search index using Databricks","expected_action_key":"databricks-create-vector-search-index","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Create SQL Warehouse on Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Create SQL Warehouse in Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks create sql warehouse","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"create a sql warehouse on Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks create a sql warehouse","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"make a sql warehouse on Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks make a sql warehouse","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"create sql warehouse via Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"create sql warehouse using Databricks","expected_action_key":"databricks-create-sql-warehouse","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Create Job on Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Create Job in Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks create job","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"create a job on Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks create a job","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"make a job on Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks make a job","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"create job via Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"create job using Databricks","expected_action_key":"databricks-create-job","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Create Endpoint on Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Create Endpoint in Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks create endpoint","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"create a endpoint on Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks create a endpoint","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"make a endpoint on Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks make a endpoint","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"create endpoint via Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"create endpoint using Databricks","expected_action_key":"databricks-create-endpoint","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Cancel Run on Databricks","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Cancel Run in Databricks","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks cancel run","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"cancel the run on Databricks","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks cancel the run","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"cancel run via Databricks","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"cancel run using Databricks","expected_action_key":"databricks-cancel-run","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"Cancel All Runs on Databricks","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Cancel All Runs in Databricks","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"Databricks cancel all runs","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"action_name"}
+{"query":"cancel the all runs on Databricks","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"canonical"}
+{"query":"Databricks cancel the all runs","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"app_first"}
+{"query":"cancel all runs via Databricks","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}
+{"query":"cancel all runs using Databricks","expected_action_key":"databricks-cancel-all-runs","expected_app_slug":"databricks","app_name":"Databricks","test_type":"alt_prep"}

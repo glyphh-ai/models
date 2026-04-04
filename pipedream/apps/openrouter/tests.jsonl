@@ -1,0 +1,28 @@
+{"query":"Send Completion Request on OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"Send Completion Request in OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"OpenRouter send completion request","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"send a completion request on OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter send a completion request","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"post a completion request on OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter post a completion request","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"send completion request via OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"send completion request using OpenRouter","expected_action_key":"openrouter-send-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"Send Chat Completion Request on OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"Send Chat Completion Request in OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"OpenRouter send chat completion request","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"send a chat completion request on OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter send a chat completion request","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"post a chat completion request on OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter post a chat completion request","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"send chat completion request via OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"send chat completion request using OpenRouter","expected_action_key":"openrouter-send-chat-completion-request","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"Retrieve Available Models on OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"Retrieve Available Models in OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"OpenRouter retrieve available models","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"action_name"}
+{"query":"get available models on OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter get available models","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"get the available models on OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"canonical"}
+{"query":"OpenRouter get the available models","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"app_first"}
+{"query":"get available models in OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"get available models via OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}
+{"query":"get available models using OpenRouter","expected_action_key":"openrouter-retrieve-available-models","expected_app_slug":"openrouter","app_name":"OpenRouter","test_type":"alt_prep"}

@@ -1,0 +1,9 @@
+{"query":"Get Patient on Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"action_name"}
+{"query":"Get Patient in Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"action_name"}
+{"query":"Cliniko get patient","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"action_name"}
+{"query":"get the patient on Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"canonical"}
+{"query":"Cliniko get the patient","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"app_first"}
+{"query":"retrieve patient on Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"canonical"}
+{"query":"Cliniko retrieve patient","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"app_first"}
+{"query":"get patient via Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"alt_prep"}
+{"query":"get patient using Cliniko","expected_action_key":"cliniko-get-patient","expected_app_slug":"cliniko","app_name":"Cliniko","test_type":"alt_prep"}

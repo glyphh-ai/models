@@ -1,0 +1,38 @@
+{"query":"Update Row on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"Update Row in CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"CloudTables update row","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"update the row on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"edit the row on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"modify the row on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"change the row on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"update row via CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"update row using CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"update row with CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"CloudTables update the row","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"CloudTables edit the row","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"update entry on CloudTables","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_target"}
+{"query":"CloudTables update entry","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_target"}
+{"query":"update a cloudtables row","expected_action_key":"cloudtables-update-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"contextual"}
+{"query":"Delete Row on CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"Delete Row in CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"CloudTables delete row","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"delete the row on CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"remove the row on CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"destroy the row on CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"delete row via CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"delete row using CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"delete row with CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"CloudTables delete the row","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"CloudTables remove the row","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"delete entry on CloudTables","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_target"}
+{"query":"CloudTables delete entry","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_target"}
+{"query":"delete a cloudtables row","expected_action_key":"cloudtables-delete-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"contextual"}
+{"query":"Add Single Row on CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"Add Single Row in CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"CloudTables add single row","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"action_name"}
+{"query":"add a single row on CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"CloudTables add a single row","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"add new single row on CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"canonical"}
+{"query":"CloudTables add new single row","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"app_first"}
+{"query":"add single row via CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}
+{"query":"add single row using CloudTables","expected_action_key":"cloudtables-add-single-row","expected_app_slug":"cloudtables","app_name":"CloudTables","test_type":"alt_prep"}

@@ -1,0 +1,9 @@
+{"query":"Send Console Command on ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"action_name"}
+{"query":"Send Console Command in ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"action_name"}
+{"query":"ReisHost send console command","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"action_name"}
+{"query":"send a console command on ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"canonical"}
+{"query":"ReisHost send a console command","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"app_first"}
+{"query":"post a console command on ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"canonical"}
+{"query":"ReisHost post a console command","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"app_first"}
+{"query":"send console command via ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"alt_prep"}
+{"query":"send console command using ReisHost","expected_action_key":"reishost-send-console-command","expected_app_slug":"reishost","app_name":"ReisHost","test_type":"alt_prep"}

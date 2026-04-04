@@ -1,0 +1,37 @@
+{"query":"Get Users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"Get Users in ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"ChatBot get users","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"get the users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"retrieve users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"fetch users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"show me the users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"pull users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"check users on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"get users via ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"get users using ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"get users with ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"ChatBot get the users","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"app_first"}
+{"query":"ChatBot retrieve users","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"app_first"}
+{"query":"get member on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"ChatBot get member","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"get person on ChatBot","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"ChatBot get person","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"get a chatbot users","expected_action_key":"chatbot-get-users","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"contextual"}
+{"query":"Create User on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"Create User in ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"ChatBot create user","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"action_name"}
+{"query":"create a user on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"make a user on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"new user on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"open a user on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"start a user on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"canonical"}
+{"query":"create user via ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"create user using ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"create user with ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_prep"}
+{"query":"ChatBot create a user","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"app_first"}
+{"query":"ChatBot make a user","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"app_first"}
+{"query":"create member on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"ChatBot create member","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"create person on ChatBot","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"ChatBot create person","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"alt_target"}
+{"query":"create a chatbot user","expected_action_key":"chatbot-create-user","expected_app_slug":"chatbot","app_name":"ChatBot","test_type":"contextual"}

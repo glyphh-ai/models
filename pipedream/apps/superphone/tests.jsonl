@@ -1,0 +1,41 @@
+{"query":"Update Contact on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"Update Contact in SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"SuperPhone update contact","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"update the contact on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"edit the contact on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"modify the contact on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"change the contact on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"update contact via SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"update contact using SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"update contact with SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"SuperPhone update the contact","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"SuperPhone edit the contact","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"update contact record on SuperPhone","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"SuperPhone update contact record","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"update a superphone contact","expected_action_key":"superphone-update-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"contextual"}
+{"query":"Send Message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"Send Message in SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"SuperPhone send message","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"send a message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"post a message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"send out message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"fire off message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"send message via SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"send message using SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"send message with SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"SuperPhone send a message","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"SuperPhone post a message","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"send msg on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"SuperPhone send msg","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"send chat message on SuperPhone","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"SuperPhone send chat message","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_target"}
+{"query":"send a superphone message","expected_action_key":"superphone-send-message","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"contextual"}
+{"query":"Create New Contact on SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"Create New Contact in SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"SuperPhone create new contact","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"action_name"}
+{"query":"create a new contact on SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"SuperPhone create a new contact","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"make a new contact on SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"canonical"}
+{"query":"SuperPhone make a new contact","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"app_first"}
+{"query":"create new contact via SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}
+{"query":"create new contact using SuperPhone","expected_action_key":"superphone-create-new-contact","expected_app_slug":"superphone","app_name":"SuperPhone","test_type":"alt_prep"}

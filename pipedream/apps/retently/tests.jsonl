@@ -1,0 +1,28 @@
+{"query":"Create Customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"Create Customer in Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"Retently create customer","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"create a customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"make a customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"new customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"open a customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"start a customer on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"create customer via Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}
+{"query":"create customer using Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}
+{"query":"create customer with Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}
+{"query":"Retently create a customer","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"app_first"}
+{"query":"Retently make a customer","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"app_first"}
+{"query":"create account on Retently","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_target"}
+{"query":"Retently create account","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_target"}
+{"query":"create a retently customer","expected_action_key":"retently-create-customer","expected_app_slug":"retently","app_name":"Retently","test_type":"contextual"}
+{"query":"Add Tags to Response on Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"Add Tags to Response in Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"Retently add tags to response","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"action_name"}
+{"query":"add tags response on Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"Retently add tags response","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"app_first"}
+{"query":"add a tags response on Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"Retently add a tags response","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"app_first"}
+{"query":"add new tags response on Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"canonical"}
+{"query":"Retently add new tags response","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"app_first"}
+{"query":"add tags response in Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}
+{"query":"add tags response via Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}
+{"query":"add tags response using Retently","expected_action_key":"retently-add-tags-to-response","expected_app_slug":"retently","app_name":"Retently","test_type":"alt_prep"}

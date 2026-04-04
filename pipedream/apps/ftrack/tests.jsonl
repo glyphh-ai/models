@@ -1,0 +1,33 @@
+{"query":"Update Task on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"Update Task in FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"FTrack update task","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"update the task on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"edit the task on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"modify the task on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"change the task on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"update task via FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"update task using FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"update task with FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"FTrack update the task","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"FTrack edit the task","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"update story on FTrack","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_target"}
+{"query":"FTrack update story","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_target"}
+{"query":"update a ftrack task","expected_action_key":"ftrack-update-task","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"contextual"}
+{"query":"List Schemas on FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"List Schemas in FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"FTrack list schemas","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"list all schemas on FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"FTrack list all schemas","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"show all schemas on FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"FTrack show all schemas","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"list schemas via FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"list schemas using FTrack","expected_action_key":"ftrack-list-schemas","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"Get Task Info on FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"Get Task Info in FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"FTrack get task info","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"action_name"}
+{"query":"get the task info on FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"FTrack get the task info","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"retrieve task info on FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"canonical"}
+{"query":"FTrack retrieve task info","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"app_first"}
+{"query":"get task info via FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}
+{"query":"get task info using FTrack","expected_action_key":"ftrack-get-task-info","expected_app_slug":"ftrack","app_name":"FTrack","test_type":"alt_prep"}

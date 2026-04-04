@@ -1,0 +1,16 @@
+{"query":"Create Invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"action_name"}
+{"query":"Create Invoice in Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"action_name"}
+{"query":"Finmei create invoice","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"action_name"}
+{"query":"create a invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"canonical"}
+{"query":"make a invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"canonical"}
+{"query":"new invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"canonical"}
+{"query":"open a invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"canonical"}
+{"query":"start a invoice on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"canonical"}
+{"query":"create invoice via Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"alt_prep"}
+{"query":"create invoice using Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"alt_prep"}
+{"query":"create invoice with Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"alt_prep"}
+{"query":"Finmei create a invoice","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"app_first"}
+{"query":"Finmei make a invoice","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"app_first"}
+{"query":"create bill on Finmei","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"alt_target"}
+{"query":"Finmei create bill","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"alt_target"}
+{"query":"create a finmei invoice","expected_action_key":"finmei-create-invoice","expected_app_slug":"finmei","app_name":"Finmei","test_type":"contextual"}

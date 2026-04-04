@@ -1,0 +1,34 @@
+{"query":"List Jobs on NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"List Jobs in NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"NewsCatcher list jobs","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"list all jobs on NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"show all jobs on NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"get all jobs on NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"show me all jobs on NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"list jobs via NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"list jobs using NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"list jobs with NewsCatcher","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"NewsCatcher list all jobs","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"NewsCatcher show all jobs","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"list a newscatcher jobs","expected_action_key":"newscatcher-list-jobs","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"contextual"}
+{"query":"Get Job Results on NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"Get Job Results in NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"NewsCatcher get job results","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"get the job results on NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"NewsCatcher get the job results","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"retrieve job results on NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"NewsCatcher retrieve job results","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"get job results via NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"get job results using NewsCatcher","expected_action_key":"newscatcher-get-job-results","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"Create Job on NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"Create Job in NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"NewsCatcher create job","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"create a job on NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"NewsCatcher create a job","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"make a job on NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"canonical"}
+{"query":"NewsCatcher make a job","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"app_first"}
+{"query":"create job via NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"create job using NewsCatcher","expected_action_key":"newscatcher-create-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"alt_prep"}
+{"query":"Continue Job on NewsCatcher","expected_action_key":"newscatcher-continue-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"Continue Job in NewsCatcher","expected_action_key":"newscatcher-continue-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}
+{"query":"NewsCatcher continue job","expected_action_key":"newscatcher-continue-job","expected_app_slug":"newscatcher","app_name":"NewsCatcher","test_type":"action_name"}

@@ -1,0 +1,15 @@
+{"query":"Start Someone on a Workflow on Drip","expected_action_key":"drip-start-someone-on-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"Start Someone on a Workflow in Drip","expected_action_key":"drip-start-someone-on-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"Drip start someone on a workflow","expected_action_key":"drip-start-someone-on-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"List Subscribers on Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"List Subscribers in Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"Drip list subscribers","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"list all subscribers on Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"canonical"}
+{"query":"Drip list all subscribers","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"app_first"}
+{"query":"show all subscribers on Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"canonical"}
+{"query":"Drip show all subscribers","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"app_first"}
+{"query":"list subscribers via Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"alt_prep"}
+{"query":"list subscribers using Drip","expected_action_key":"drip-list-subscribers","expected_app_slug":"drip","app_name":"Drip","test_type":"alt_prep"}
+{"query":"Activate Workflow on Drip","expected_action_key":"drip-activate-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"Activate Workflow in Drip","expected_action_key":"drip-activate-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}
+{"query":"Drip activate workflow","expected_action_key":"drip-activate-workflow","expected_app_slug":"drip","app_name":"Drip","test_type":"action_name"}

@@ -1,0 +1,18 @@
+{"query":"Create Event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"action_name"}
+{"query":"Create Event in Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"action_name"}
+{"query":"Fomo create event","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"action_name"}
+{"query":"create a event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"canonical"}
+{"query":"make a event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"canonical"}
+{"query":"new event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"canonical"}
+{"query":"open a event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"canonical"}
+{"query":"start a event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"canonical"}
+{"query":"create event via Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_prep"}
+{"query":"create event using Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_prep"}
+{"query":"create event with Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_prep"}
+{"query":"Fomo create a event","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"app_first"}
+{"query":"Fomo make a event","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"app_first"}
+{"query":"create meeting on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_target"}
+{"query":"Fomo create meeting","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_target"}
+{"query":"create calendar event on Fomo","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_target"}
+{"query":"Fomo create calendar event","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"alt_target"}
+{"query":"create a fomo event","expected_action_key":"fomo-create-event","expected_app_slug":"fomo","app_name":"Fomo","test_type":"contextual"}

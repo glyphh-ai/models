@@ -1,0 +1,16 @@
+{"query":"Create Post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"action_name"}
+{"query":"Create Post in DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"action_name"}
+{"query":"DropInBlog create post","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"action_name"}
+{"query":"create a post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"canonical"}
+{"query":"make a post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"canonical"}
+{"query":"new post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"canonical"}
+{"query":"open a post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"canonical"}
+{"query":"start a post on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"canonical"}
+{"query":"create post via DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"alt_prep"}
+{"query":"create post using DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"alt_prep"}
+{"query":"create post with DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"alt_prep"}
+{"query":"DropInBlog create a post","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"app_first"}
+{"query":"DropInBlog make a post","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"app_first"}
+{"query":"create status update on DropInBlog","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"alt_target"}
+{"query":"DropInBlog create status update","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"alt_target"}
+{"query":"create a dropinblog post","expected_action_key":"dropinblog-create-post","expected_app_slug":"dropinblog","app_name":"DropInBlog","test_type":"contextual"}

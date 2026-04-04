@@ -1,0 +1,47 @@
+{"query":"Update Subscription on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Update Subscription in Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Chargify update subscription","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"update the subscription on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"edit the subscription on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"modify the subscription on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"change the subscription on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"update subscription via Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"update subscription using Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"update subscription with Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"Chargify update the subscription","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"Chargify edit the subscription","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"update plan on Chargify","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"Chargify update plan","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"update a chargify subscription","expected_action_key":"chargify-update-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"contextual"}
+{"query":"Create Subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Create Subscription in Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Chargify create subscription","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"create a subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"make a subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"new subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"open a subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"start a subscription on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"create subscription via Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"create subscription using Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"create subscription with Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"Chargify create a subscription","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"Chargify make a subscription","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"create plan on Chargify","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"Chargify create plan","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"create a chargify subscription","expected_action_key":"chargify-create-subscription","expected_app_slug":"chargify","app_name":"Chargify","test_type":"contextual"}
+{"query":"Create Customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Create Customer in Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"Chargify create customer","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"action_name"}
+{"query":"create a customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"make a customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"new customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"open a customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"start a customer on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"canonical"}
+{"query":"create customer via Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"create customer using Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"create customer with Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_prep"}
+{"query":"Chargify create a customer","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"Chargify make a customer","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"app_first"}
+{"query":"create account on Chargify","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"Chargify create account","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"alt_target"}
+{"query":"create a chargify customer","expected_action_key":"chargify-create-customer","expected_app_slug":"chargify","app_name":"Chargify","test_type":"contextual"}

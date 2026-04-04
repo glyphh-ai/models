@@ -1,0 +1,228 @@
+{"query":"Validate Email on Twilio SendGrid","expected_action_key":"sendgrid-validate-email","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Validate Email in Twilio SendGrid","expected_action_key":"sendgrid-validate-email","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid validate email","expected_action_key":"sendgrid-validate-email","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Validate Email on Sendgrid","expected_action_key":"sendgrid-validate-email","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Send Email Single Recipient on Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Send Email Single Recipient in Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid send email single recipient","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Send Email Single Recipient on Sendgrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"send a email single recipient on Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid send a email single recipient","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"post a email single recipient on Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid post a email single recipient","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"send email single recipient via Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"send email single recipient using Twilio SendGrid","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid send email single recipient","expected_action_key":"sendgrid-send-email-single-recipient","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Search Contacts on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Search Contacts in Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid search contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Search Contacts on Sendgrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"search for contacts on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"find contacts on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"look for contacts on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"locate contacts on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"search for contacts in Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"search for contacts via Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"search for contacts using Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"search for contacts with Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Twilio SendGrid search for contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Twilio SendGrid find contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Twilio SendGrid look for contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"search for contact record on Twilio SendGrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_target"}
+{"query":"Twilio SendGrid search for contact record","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_target"}
+{"query":"search for contacts on Sendgrid","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Sendgrid search for contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"search for a twilio sendgrid contacts","expected_action_key":"sendgrid-search-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"contextual"}
+{"query":"Remove Contact From List on Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Remove Contact From List in Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid remove contact from list","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Remove Contact From List on Sendgrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"remove contact list on Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid remove contact list","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"remove the contact list on Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid remove the contact list","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"take out contact list on Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid take out contact list","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"remove contact list in Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"remove contact list via Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"remove contact list using Twilio SendGrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"remove contact list on Sendgrid","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Sendgrid remove contact list","expected_action_key":"sendgrid-remove-contact-from-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"List Global Suppressions on Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"List Global Suppressions in Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid list global suppressions","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"List Global Suppressions on Sendgrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"list all global suppressions on Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid list all global suppressions","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"show all global suppressions on Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid show all global suppressions","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"list global suppressions via Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"list global suppressions using Twilio SendGrid","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid list global suppressions","expected_action_key":"sendgrid-list-global-suppressions","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"List Blocks on Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"List Blocks in Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid list blocks","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"List Blocks on Sendgrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"list all blocks on Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"show all blocks on Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"get all blocks on Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"show me all blocks on Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"list blocks via Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"list blocks using Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"list blocks with Twilio SendGrid","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Twilio SendGrid list all blocks","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Twilio SendGrid show all blocks","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Sendgrid list blocks","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"list a twilio sendgrid blocks","expected_action_key":"sendgrid-list-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"contextual"}
+{"query":"Get Contact Lists on Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get Contact Lists in Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid get contact lists","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get Contact Lists on Sendgrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"get the contact lists on Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get the contact lists","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"retrieve contact lists on Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid retrieve contact lists","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get contact lists via Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get contact lists using Twilio SendGrid","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid get contact lists","expected_action_key":"sendgrid-get-contact-lists","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Get All Bounces on Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get All Bounces in Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid get all bounces","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get All Bounces on Sendgrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"get the all bounces on Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get the all bounces","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"retrieve all bounces on Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid retrieve all bounces","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get all bounces via Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get all bounces using Twilio SendGrid","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid get all bounces","expected_action_key":"sendgrid-get-all-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Get A Global Suppression on Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get A Global Suppression in Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid get a global suppression","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get A Global Suppression on Sendgrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"get global suppression on Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get global suppression","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get the global suppression on Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get the global suppression","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"retrieve global suppression on Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid retrieve global suppression","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get global suppression in Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get global suppression via Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get global suppression using Twilio SendGrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get global suppression on Sendgrid","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Sendgrid get global suppression","expected_action_key":"sendgrid-get-a-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Get a Block on Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get a Block in Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid get a block","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Get a Block on Sendgrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"get block on Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get block","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get the block on Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid get the block","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"retrieve block on Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid retrieve block","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"get block in Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get block via Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get block using Twilio SendGrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"get block on Sendgrid","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Sendgrid get block","expected_action_key":"sendgrid-get-a-block","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Delete List on Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete List in Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid delete list","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete List on Sendgrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"delete the list on Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"remove the list on Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"destroy the list on Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"delete list via Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete list using Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete list with Twilio SendGrid","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Twilio SendGrid delete the list","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Twilio SendGrid remove the list","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Sendgrid delete list","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"delete a twilio sendgrid list","expected_action_key":"sendgrid-delete-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"contextual"}
+{"query":"Delete Global Suppression on Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Global Suppression in Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid delete global suppression","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Global Suppression on Sendgrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"delete the global suppression on Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid delete the global suppression","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"remove the global suppression on Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid remove the global suppression","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"delete global suppression via Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete global suppression using Twilio SendGrid","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid delete global suppression","expected_action_key":"sendgrid-delete-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Delete Contacts on Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Contacts in Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid delete contacts","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Contacts on Sendgrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"delete the contacts on Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"remove the contacts on Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"destroy the contacts on Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"delete contacts via Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete contacts using Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete contacts with Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Twilio SendGrid delete the contacts","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"Twilio SendGrid remove the contacts","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"delete contact record on Twilio SendGrid","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_target"}
+{"query":"Twilio SendGrid delete contact record","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_target"}
+{"query":"Sendgrid delete contacts","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"delete a twilio sendgrid contacts","expected_action_key":"sendgrid-delete-contacts","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"contextual"}
+{"query":"Delete Bounces on Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Bounces in Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid delete bounces","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Bounces on Sendgrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"delete the bounces on Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid delete the bounces","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"remove the bounces on Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid remove the bounces","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"delete bounces via Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete bounces using Twilio SendGrid","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid delete bounces","expected_action_key":"sendgrid-delete-bounces","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Delete Blocks on Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Blocks in Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid delete blocks","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Delete Blocks on Sendgrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"delete the blocks on Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid delete the blocks","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"remove the blocks on Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid remove the blocks","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"delete blocks via Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"delete blocks using Twilio SendGrid","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid delete blocks","expected_action_key":"sendgrid-delete-blocks","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Create Send on Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Create Send in Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid create send","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Create Send on Sendgrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"create a send on Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid create a send","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"make a send on Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid make a send","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"create send via Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"create send using Twilio SendGrid","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid create send","expected_action_key":"sendgrid-create-send","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Create Contact List on Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Create Contact List in Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid create contact list","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Create Contact List on Sendgrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"create a contact list on Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid create a contact list","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"make a contact list on Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid make a contact list","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"create contact list via Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"create contact list using Twilio SendGrid","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"Sendgrid create contact list","expected_action_key":"sendgrid-create-contact-list","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Add Email to Global Suppression on Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Add Email to Global Suppression in Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Twilio SendGrid add email to global suppression","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"Add Email to Global Suppression on Sendgrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"action_name"}
+{"query":"add email global suppression on Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid add email global suppression","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"add a email global suppression on Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid add a email global suppression","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"add new email global suppression on Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"canonical"}
+{"query":"Twilio SendGrid add new email global suppression","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"app_first"}
+{"query":"add email global suppression in Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"add email global suppression via Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"add email global suppression using Twilio SendGrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_prep"}
+{"query":"add email global suppression on Sendgrid","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}
+{"query":"Sendgrid add email global suppression","expected_action_key":"sendgrid-add-email-to-global-suppression","expected_app_slug":"sendgrid","app_name":"Twilio SendGrid","test_type":"alt_app_name"}

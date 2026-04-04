@@ -1,0 +1,33 @@
+{"query":"Push Message to Existing Chat on InsertChat","expected_action_key":"insertchat-push-message-existing-chat","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"Push Message to Existing Chat in InsertChat","expected_action_key":"insertchat-push-message-existing-chat","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"InsertChat push message to existing chat","expected_action_key":"insertchat-push-message-existing-chat","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"Delete Lead on InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"Delete Lead in InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"InsertChat delete lead","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"delete the lead on InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"remove the lead on InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"destroy the lead on InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"delete lead via InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"delete lead using InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"delete lead with InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"InsertChat delete the lead","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"app_first"}
+{"query":"InsertChat remove the lead","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"app_first"}
+{"query":"delete contact record on InsertChat","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_target"}
+{"query":"InsertChat delete contact record","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_target"}
+{"query":"delete a insertchat lead","expected_action_key":"insertchat-delete-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"contextual"}
+{"query":"Create Lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"Create Lead in InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"InsertChat create lead","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"action_name"}
+{"query":"create a lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"make a lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"new lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"open a lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"start a lead on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"canonical"}
+{"query":"create lead via InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"create lead using InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"create lead with InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_prep"}
+{"query":"InsertChat create a lead","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"app_first"}
+{"query":"InsertChat make a lead","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"app_first"}
+{"query":"create contact record on InsertChat","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_target"}
+{"query":"InsertChat create contact record","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"alt_target"}
+{"query":"create a insertchat lead","expected_action_key":"insertchat-create-lead","expected_app_slug":"insertchat","app_name":"InsertChat","test_type":"contextual"}

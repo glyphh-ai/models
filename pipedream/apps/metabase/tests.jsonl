@@ -1,0 +1,57 @@
+{"query":"Run Query on Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Run Query in Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Metabase run query","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"trigger query on Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase trigger query","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"execute query on Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase execute query","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"trigger query in Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"trigger query via Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"trigger query using Metabase","expected_action_key":"metabase-run-query","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"Get Database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Get Database in Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Metabase get database","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"get the database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"retrieve database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"fetch database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"show me the database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"pull database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"check database on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"get database via Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"get database using Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"get database with Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"Metabase get the database","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"Metabase retrieve database","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"get db on Metabase","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_target"}
+{"query":"Metabase get db","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_target"}
+{"query":"get a metabase database","expected_action_key":"metabase-get-database","expected_app_slug":"metabase","app_name":"Metabase","test_type":"contextual"}
+{"query":"Get Dashboard on Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Get Dashboard in Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Metabase get dashboard","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"get the dashboard on Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase get the dashboard","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"retrieve dashboard on Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase retrieve dashboard","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"get dashboard via Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"get dashboard using Metabase","expected_action_key":"metabase-get-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"Export Query with Format on Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Export Query with Format in Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Metabase export query with format","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"export query format on Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase export query format","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"export the query format on Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase export the query format","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"download query format on Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase download query format","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"export query format in Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"export query format via Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"export query format using Metabase","expected_action_key":"metabase-export-query-with-format","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"Create Dashboard on Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Create Dashboard in Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"Metabase create dashboard","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"action_name"}
+{"query":"create a dashboard on Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase create a dashboard","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"make a dashboard on Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"canonical"}
+{"query":"Metabase make a dashboard","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"app_first"}
+{"query":"create dashboard via Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}
+{"query":"create dashboard using Metabase","expected_action_key":"metabase-create-dashboard","expected_app_slug":"metabase","app_name":"Metabase","test_type":"alt_prep"}

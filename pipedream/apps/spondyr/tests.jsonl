@@ -1,0 +1,9 @@
+{"query":"Create Spondyr on Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"action_name"}
+{"query":"Create Spondyr in Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"action_name"}
+{"query":"Spondyr create spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"action_name"}
+{"query":"create a spondyr on Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"canonical"}
+{"query":"Spondyr create a spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"app_first"}
+{"query":"make a spondyr on Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"canonical"}
+{"query":"Spondyr make a spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"app_first"}
+{"query":"create spondyr via Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"alt_prep"}
+{"query":"create spondyr using Spondyr","expected_action_key":"spondyr-create-spondyr","expected_app_slug":"spondyr","app_name":"Spondyr","test_type":"alt_prep"}

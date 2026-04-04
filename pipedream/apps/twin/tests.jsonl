@@ -1,0 +1,12 @@
+{"query":"Get Task Details on Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}
+{"query":"Get Task Details in Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}
+{"query":"Twin get task details","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}
+{"query":"get the task details on Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"canonical"}
+{"query":"Twin get the task details","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"app_first"}
+{"query":"retrieve task details on Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"canonical"}
+{"query":"Twin retrieve task details","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"app_first"}
+{"query":"get task details via Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"alt_prep"}
+{"query":"get task details using Twin","expected_action_key":"twin-get-task-details","expected_app_slug":"twin","app_name":"Twin","test_type":"alt_prep"}
+{"query":"Browse on Twin","expected_action_key":"twin-browse","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}
+{"query":"Browse in Twin","expected_action_key":"twin-browse","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}
+{"query":"Twin browse","expected_action_key":"twin-browse","expected_app_slug":"twin","app_name":"Twin","test_type":"action_name"}

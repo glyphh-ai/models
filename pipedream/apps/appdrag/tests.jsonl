@@ -1,0 +1,44 @@
+{"query":"Update Row on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"Update Row in AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"AppDrag update row","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"update the row on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"edit the row on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"modify the row on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"change the row on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"update row via AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"update row using AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"update row with AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"AppDrag update the row","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"AppDrag edit the row","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"update entry on AppDrag","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_target"}
+{"query":"AppDrag update entry","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_target"}
+{"query":"update a appdrag row","expected_action_key":"appdrag-update-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"contextual"}
+{"query":"Insert Row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"Insert Row in AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"AppDrag insert row","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"create row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"create a row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"make a row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"new row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"open a row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"start a row on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"create row in AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"create row via AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"create row using AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"create row with AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"AppDrag create row","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"AppDrag create a row","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"AppDrag make a row","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"create entry on AppDrag","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_target"}
+{"query":"AppDrag create entry","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_target"}
+{"query":"create a appdrag row","expected_action_key":"appdrag-insert-row","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"contextual"}
+{"query":"Execute API Function on AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"Execute API Function in AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"AppDrag execute api function","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"action_name"}
+{"query":"trigger api function on AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"AppDrag trigger api function","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"run api function on AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"canonical"}
+{"query":"AppDrag run api function","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"app_first"}
+{"query":"trigger api function in AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"trigger api function via AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}
+{"query":"trigger api function using AppDrag","expected_action_key":"appdrag-execute-api-function","expected_app_slug":"appdrag","app_name":"AppDrag","test_type":"alt_prep"}

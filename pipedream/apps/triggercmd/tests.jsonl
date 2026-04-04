@@ -1,0 +1,12 @@
+{"query":"Trigger a command on TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"action_name"}
+{"query":"Trigger a command in TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"action_name"}
+{"query":"TRIGGERcmd trigger a command","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"action_name"}
+{"query":"trigger command on TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"canonical"}
+{"query":"TRIGGERcmd trigger command","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"app_first"}
+{"query":"run command on TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"canonical"}
+{"query":"TRIGGERcmd run command","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"app_first"}
+{"query":"execute command on TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"canonical"}
+{"query":"TRIGGERcmd execute command","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"app_first"}
+{"query":"trigger command in TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"alt_prep"}
+{"query":"trigger command via TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"alt_prep"}
+{"query":"trigger command using TRIGGERcmd","expected_action_key":"triggercmd-trigger-command","expected_app_slug":"triggercmd","app_name":"TRIGGERcmd","test_type":"alt_prep"}

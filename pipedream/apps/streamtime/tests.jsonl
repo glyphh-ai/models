@@ -1,0 +1,34 @@
+{"query":"Update To-Do on Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Update To-Do in Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Streamtime update to-do","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"update the to-do on Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"Streamtime update the to-do","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"edit the to-do on Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"Streamtime edit the to-do","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"update to-do via Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"update to-do using Streamtime","expected_action_key":"streamtime-update-to-do","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"Create Job on Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Create Job in Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Streamtime create job","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"create a job on Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"Streamtime create a job","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"make a job on Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"Streamtime make a job","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"create job via Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"create job using Streamtime","expected_action_key":"streamtime-create-job","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"Create Contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Create Contact in Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"Streamtime create contact","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"action_name"}
+{"query":"create a contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"make a contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"new contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"open a contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"start a contact on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"canonical"}
+{"query":"create contact via Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"create contact using Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"create contact with Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_prep"}
+{"query":"Streamtime create a contact","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"Streamtime make a contact","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"app_first"}
+{"query":"create contact record on Streamtime","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_target"}
+{"query":"Streamtime create contact record","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"alt_target"}
+{"query":"create a streamtime contact","expected_action_key":"streamtime-create-contact","expected_app_slug":"streamtime","app_name":"Streamtime","test_type":"contextual"}

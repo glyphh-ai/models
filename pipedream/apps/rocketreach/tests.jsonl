@@ -1,0 +1,24 @@
+{"query":"lookup profile on RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"lookup profile in RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"RocketReach lookup profile","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"get profile on RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach get profile","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"get the profile on RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach get the profile","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"retrieve profile on RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach retrieve profile","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"get profile in RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}
+{"query":"get profile via RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}
+{"query":"get profile using RocketReach","expected_action_key":"rocketreach-lookup-profile","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}
+{"query":"lookup company on RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"lookup company in RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"RocketReach lookup company","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"action_name"}
+{"query":"get company on RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach get company","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"get the company on RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach get the company","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"retrieve company on RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"canonical"}
+{"query":"RocketReach retrieve company","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"app_first"}
+{"query":"get company in RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}
+{"query":"get company via RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}
+{"query":"get company using RocketReach","expected_action_key":"rocketreach-lookup-company","expected_app_slug":"rocketreach","app_name":"RocketReach","test_type":"alt_prep"}

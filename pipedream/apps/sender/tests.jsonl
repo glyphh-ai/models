@@ -1,0 +1,42 @@
+{"query":"Update Subscriber on Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Update Subscriber in Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Sender update subscriber","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"update the subscriber on Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender update the subscriber","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"edit the subscriber on Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender edit the subscriber","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"update subscriber via Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"update subscriber using Sender","expected_action_key":"sender-update-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"Remove Subscriber From Group on Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Remove Subscriber From Group in Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Sender remove subscriber from group","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"remove subscriber group on Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender remove subscriber group","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"remove the subscriber group on Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender remove the subscriber group","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"take out subscriber group on Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender take out subscriber group","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"remove subscriber group in Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"remove subscriber group via Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"remove subscriber group using Sender","expected_action_key":"sender-remove-subscriber-from-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"Create Subscriber on Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Create Subscriber in Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Sender create subscriber","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"create a subscriber on Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender create a subscriber","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"make a subscriber on Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender make a subscriber","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"create subscriber via Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"create subscriber using Sender","expected_action_key":"sender-create-subscriber","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"Add Subscriber To Group on Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Add Subscriber To Group in Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"Sender add subscriber to group","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"action_name"}
+{"query":"add subscriber group on Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender add subscriber group","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"add a subscriber group on Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender add a subscriber group","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"add new subscriber group on Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"canonical"}
+{"query":"Sender add new subscriber group","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"app_first"}
+{"query":"add subscriber group in Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"add subscriber group via Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}
+{"query":"add subscriber group using Sender","expected_action_key":"sender-add-subscriber-to-group","expected_app_slug":"sender","app_name":"Sender","test_type":"alt_prep"}

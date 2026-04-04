@@ -1,0 +1,47 @@
+{"query":"Get Tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Get Tasks in Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Elorus get tasks","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"get the tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"retrieve tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"fetch tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"show me the tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"pull tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"check tasks on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"get tasks via Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"get tasks using Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"get tasks with Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"Elorus get the tasks","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"Elorus retrieve tasks","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"get story on Elorus","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"Elorus get story","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"get a elorus tasks","expected_action_key":"elorus-get-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"contextual"}
+{"query":"Delete Tasks on Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Delete Tasks in Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Elorus delete tasks","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"delete the tasks on Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"remove the tasks on Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"destroy the tasks on Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"delete tasks via Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"delete tasks using Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"delete tasks with Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"Elorus delete the tasks","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"Elorus remove the tasks","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"delete story on Elorus","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"Elorus delete story","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"delete a elorus tasks","expected_action_key":"elorus-delete-tasks","expected_app_slug":"elorus","app_name":"Elorus","test_type":"contextual"}
+{"query":"Create Task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Create Task in Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"Elorus create task","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"action_name"}
+{"query":"create a task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"make a task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"new task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"open a task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"start a task on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"canonical"}
+{"query":"create task via Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"create task using Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"create task with Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_prep"}
+{"query":"Elorus create a task","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"Elorus make a task","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"app_first"}
+{"query":"create story on Elorus","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"Elorus create story","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"alt_target"}
+{"query":"create a elorus task","expected_action_key":"elorus-create-task","expected_app_slug":"elorus","app_name":"Elorus","test_type":"contextual"}

@@ -1,0 +1,35 @@
+{"query":"Update Organization on Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"Update Organization in Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"Favro update organization","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"update the organization on Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"Favro update the organization","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"edit the organization on Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"Favro edit the organization","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"update organization via Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"update organization using Favro","expected_action_key":"favro-update-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"List Users on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"List Users in Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"Favro list users","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"list all users on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"show all users on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"get all users on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"show me all users on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"list users via Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"list users using Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"list users with Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"Favro list all users","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"Favro show all users","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"list member on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_target"}
+{"query":"Favro list member","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_target"}
+{"query":"list person on Favro","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_target"}
+{"query":"Favro list person","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_target"}
+{"query":"list a favro users","expected_action_key":"favro-list-users","expected_app_slug":"favro","app_name":"Favro","test_type":"contextual"}
+{"query":"Create Organization on Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"Create Organization in Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"Favro create organization","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"action_name"}
+{"query":"create a organization on Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"Favro create a organization","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"make a organization on Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"canonical"}
+{"query":"Favro make a organization","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"app_first"}
+{"query":"create organization via Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}
+{"query":"create organization using Favro","expected_action_key":"favro-create-organization","expected_app_slug":"favro","app_name":"Favro","test_type":"alt_prep"}

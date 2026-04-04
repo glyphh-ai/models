@@ -1,0 +1,17 @@
+{"query":"Create an Invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"action_name"}
+{"query":"Create an Invite in Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"action_name"}
+{"query":"Envoy create an invite","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"action_name"}
+{"query":"create invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"create a invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"make a invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"new invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"open a invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"start a invite on Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"canonical"}
+{"query":"create invite in Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"alt_prep"}
+{"query":"create invite via Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"alt_prep"}
+{"query":"create invite using Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"alt_prep"}
+{"query":"create invite with Envoy","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"alt_prep"}
+{"query":"Envoy create invite","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"app_first"}
+{"query":"Envoy create a invite","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"app_first"}
+{"query":"Envoy make a invite","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"app_first"}
+{"query":"create a envoy invite","expected_action_key":"envoy-create-an-invite","expected_app_slug":"envoy","app_name":"Envoy","test_type":"contextual"}

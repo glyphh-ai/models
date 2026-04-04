@@ -1,0 +1,45 @@
+{"query":"Update Order on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"Update Order in WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"WICS update order","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"update the order on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"edit the order on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"modify the order on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"change the order on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"update order via WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"update order using WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"update order with WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"WICS update the order","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"WICS edit the order","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"update purchase on WICS","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_target"}
+{"query":"WICS update purchase","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_target"}
+{"query":"update a wics order","expected_action_key":"wics-update-order","expected_app_slug":"wics","app_name":"WICS","test_type":"contextual"}
+{"query":"List Order Shipments on WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"List Order Shipments in WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"WICS list order shipments","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"list all order shipments on WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS list all order shipments","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"show all order shipments on WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS show all order shipments","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"list order shipments via WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"list order shipments using WICS","expected_action_key":"wics-list-order-shipments","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"Get Order by Additional Reference on WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"Get Order by Additional Reference in WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"WICS get order by additional reference","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"get order additional reference on WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS get order additional reference","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"get the order additional reference on WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS get the order additional reference","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"retrieve order additional reference on WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS retrieve order additional reference","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"get order additional reference in WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"get order additional reference via WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"get order additional reference using WICS","expected_action_key":"wics-get-order-by-additional-reference","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"Delete Order Line on WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"Delete Order Line in WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"WICS delete order line","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"action_name"}
+{"query":"delete the order line on WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS delete the order line","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"remove the order line on WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"canonical"}
+{"query":"WICS remove the order line","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"app_first"}
+{"query":"delete order line via WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}
+{"query":"delete order line using WICS","expected_action_key":"wics-delete-order-line","expected_app_slug":"wics","app_name":"WICS","test_type":"alt_prep"}

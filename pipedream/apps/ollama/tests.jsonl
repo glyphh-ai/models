@@ -1,0 +1,48 @@
+{"query":"Show Model Information on Ollama","expected_action_key":"ollama-show-model-information","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Show Model Information in Ollama","expected_action_key":"ollama-show-model-information","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama show model information","expected_action_key":"ollama-show-model-information","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Push Model to Library on Ollama","expected_action_key":"ollama-push-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Push Model to Library in Ollama","expected_action_key":"ollama-push-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama push model to library","expected_action_key":"ollama-push-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Pull Model on Ollama","expected_action_key":"ollama-pull-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Pull Model in Ollama","expected_action_key":"ollama-pull-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama pull model","expected_action_key":"ollama-pull-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"List Local Models on Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"List Local Models in Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama list local models","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"list all local models on Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama list all local models","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"show all local models on Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama show all local models","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"list local models via Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"list local models using Ollama","expected_action_key":"ollama-list-local-models","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"Generate Embeddings on Ollama","expected_action_key":"ollama-generate-embeddings","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Generate Embeddings in Ollama","expected_action_key":"ollama-generate-embeddings","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama generate embeddings","expected_action_key":"ollama-generate-embeddings","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Generate Completion on Ollama","expected_action_key":"ollama-generate-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Generate Completion in Ollama","expected_action_key":"ollama-generate-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama generate completion","expected_action_key":"ollama-generate-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Generate Chat Completion on Ollama","expected_action_key":"ollama-generate-chat-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Generate Chat Completion in Ollama","expected_action_key":"ollama-generate-chat-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama generate chat completion","expected_action_key":"ollama-generate-chat-completion","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Delete Model on Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Delete Model in Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama delete model","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"delete the model on Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama delete the model","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"remove the model on Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama remove the model","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"delete model via Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"delete model using Ollama","expected_action_key":"ollama-delete-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"Create Model on Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Create Model in Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama create model","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"create a model on Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama create a model","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"make a model on Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"canonical"}
+{"query":"Ollama make a model","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"app_first"}
+{"query":"create model via Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"create model using Ollama","expected_action_key":"ollama-create-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"alt_prep"}
+{"query":"Copy Model on Ollama","expected_action_key":"ollama-copy-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Copy Model in Ollama","expected_action_key":"ollama-copy-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}
+{"query":"Ollama copy model","expected_action_key":"ollama-copy-model","expected_app_slug":"ollama","app_name":"Ollama","test_type":"action_name"}

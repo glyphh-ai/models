@@ -1,0 +1,27 @@
+{"query":"Update Pass on PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"Update Pass in PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"PassSlot update pass","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"update the pass on PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot update the pass","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"edit the pass on PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot edit the pass","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"update pass via PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}
+{"query":"update pass using PassSlot","expected_action_key":"passslot-update-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}
+{"query":"Delete Pass on PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"Delete Pass in PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"PassSlot delete pass","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"delete the pass on PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot delete the pass","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"remove the pass on PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot remove the pass","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"delete pass via PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}
+{"query":"delete pass using PassSlot","expected_action_key":"passslot-delete-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}
+{"query":"Create Pass on PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"Create Pass in PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"PassSlot create pass","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"action_name"}
+{"query":"create a pass on PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot create a pass","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"make a pass on PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"canonical"}
+{"query":"PassSlot make a pass","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"app_first"}
+{"query":"create pass via PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}
+{"query":"create pass using PassSlot","expected_action_key":"passslot-create-pass","expected_app_slug":"passslot","app_name":"PassSlot","test_type":"alt_prep"}

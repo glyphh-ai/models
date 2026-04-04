@@ -1,0 +1,73 @@
+{"query":"Send SMS on RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Send SMS in RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral send sms","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"send a sms on RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"RingCentral send a sms","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"post a sms on RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"RingCentral post a sms","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"send sms via RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"send sms using RingCentral","expected_action_key":"ringcentral-send-sms","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"Make  CallOut on RingCentral","expected_action_key":"ringcentral-make-callout","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Make  CallOut in RingCentral","expected_action_key":"ringcentral-make-callout","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral make  callout","expected_action_key":"ringcentral-make-callout","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Get Message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Get Message in RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral get message","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"get the message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"retrieve message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"fetch message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"show me the message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"pull message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"check message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"get message via RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"get message using RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"get message with RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"RingCentral get the message","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"RingCentral retrieve message","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"get msg on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"RingCentral get msg","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"get chat message on RingCentral","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"RingCentral get chat message","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"get a ringcentral message","expected_action_key":"ringcentral-get-message","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"contextual"}
+{"query":"Download Recording on RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Download Recording in RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral download recording","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"export recording on RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"RingCentral export recording","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"export the recording on RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"RingCentral export the recording","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"export recording in RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"export recording via RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"export recording using RingCentral","expected_action_key":"ringcentral-download-recording","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"Create Meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Create Meeting in RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral create meeting","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"create a meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"make a meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"new meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"open a meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"start a meeting on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"create meeting via RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"create meeting using RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"create meeting with RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"RingCentral create a meeting","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"RingCentral make a meeting","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"create calendar event on RingCentral","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"RingCentral create calendar event","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"create a ringcentral meeting","expected_action_key":"ringcentral-create-meeting","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"contextual"}
+{"query":"Create Contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"Create Contact in RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"RingCentral create contact","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"action_name"}
+{"query":"create a contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"make a contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"new contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"open a contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"start a contact on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"canonical"}
+{"query":"create contact via RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"create contact using RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"create contact with RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_prep"}
+{"query":"RingCentral create a contact","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"RingCentral make a contact","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"app_first"}
+{"query":"create contact record on RingCentral","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"RingCentral create contact record","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"alt_target"}
+{"query":"create a ringcentral contact","expected_action_key":"ringcentral-create-contact","expected_app_slug":"ringcentral","app_name":"RingCentral","test_type":"contextual"}

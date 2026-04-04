@@ -1,0 +1,36 @@
+{"query":"Send Message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Send Message in Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Pidj send message","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"send a message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"post a message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"send out message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"fire off message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"send message via Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"send message using Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"send message with Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"Pidj send a message","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"app_first"}
+{"query":"Pidj post a message","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"app_first"}
+{"query":"send msg on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"Pidj send msg","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"send chat message on Pidj","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"Pidj send chat message","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"send a pidj message","expected_action_key":"pidj-send-message","expected_app_slug":"pidj","app_name":"Pidj","test_type":"contextual"}
+{"query":"Initiate Survey on Pidj","expected_action_key":"pidj-initiate-survey","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Initiate Survey in Pidj","expected_action_key":"pidj-initiate-survey","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Pidj initiate survey","expected_action_key":"pidj-initiate-survey","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Create Contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Create Contact in Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"Pidj create contact","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"action_name"}
+{"query":"create a contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"make a contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"new contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"open a contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"start a contact on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"canonical"}
+{"query":"create contact via Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"create contact using Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"create contact with Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_prep"}
+{"query":"Pidj create a contact","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"app_first"}
+{"query":"Pidj make a contact","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"app_first"}
+{"query":"create contact record on Pidj","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"Pidj create contact record","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"alt_target"}
+{"query":"create a pidj contact","expected_action_key":"pidj-create-contact","expected_app_slug":"pidj","app_name":"Pidj","test_type":"contextual"}

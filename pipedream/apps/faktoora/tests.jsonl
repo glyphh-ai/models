@@ -1,0 +1,31 @@
+{"query":"Download Invoice on faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"Download Invoice in faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"faktoora download invoice","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"export invoice on faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"export the invoice on faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"download the invoice on faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"export invoice in faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"export invoice via faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"export invoice using faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"export invoice with faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"faktoora export invoice","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"app_first"}
+{"query":"faktoora export the invoice","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"app_first"}
+{"query":"export bill on faktoora","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_target"}
+{"query":"faktoora export bill","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_target"}
+{"query":"export a faktoora invoice","expected_action_key":"faktoora-get-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"contextual"}
+{"query":"Create Invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"Create Invoice in faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"faktoora create invoice","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"action_name"}
+{"query":"create a invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"make a invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"new invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"open a invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"start a invoice on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"canonical"}
+{"query":"create invoice via faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"create invoice using faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"create invoice with faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_prep"}
+{"query":"faktoora create a invoice","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"app_first"}
+{"query":"faktoora make a invoice","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"app_first"}
+{"query":"create bill on faktoora","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_target"}
+{"query":"faktoora create bill","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"alt_target"}
+{"query":"create a faktoora invoice","expected_action_key":"faktoora-create-invoice","expected_app_slug":"faktoora","app_name":"faktoora","test_type":"contextual"}

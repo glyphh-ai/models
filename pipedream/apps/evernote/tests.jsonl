@@ -1,0 +1,36 @@
+{"query":"Update Note on Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Update Note in Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Evernote update note","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"update the note on Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"edit the note on Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"modify the note on Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"change the note on Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"update note via Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"update note using Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"update note with Evernote","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"Evernote update the note","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"Evernote edit the note","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"update a evernote note","expected_action_key":"evernote-update-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"contextual"}
+{"query":"Create Notebook on Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Create Notebook in Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Evernote create notebook","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"create a notebook on Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"Evernote create a notebook","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"make a notebook on Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"Evernote make a notebook","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"create notebook via Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"create notebook using Evernote","expected_action_key":"evernote-create-notebook","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"Create Note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Create Note in Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"Evernote create note","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"action_name"}
+{"query":"create a note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"make a note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"new note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"open a note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"start a note on Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"canonical"}
+{"query":"create note via Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"create note using Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"create note with Evernote","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"alt_prep"}
+{"query":"Evernote create a note","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"Evernote make a note","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"app_first"}
+{"query":"create a evernote note","expected_action_key":"evernote-create-note","expected_app_slug":"evernote","app_name":"Evernote","test_type":"contextual"}

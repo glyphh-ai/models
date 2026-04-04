@@ -1,0 +1,78 @@
+{"query":"List Contacts on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"List Contacts in Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Missive list contacts","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"list all contacts on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"show all contacts on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"get all contacts on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"show me all contacts on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"list contacts via Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"list contacts using Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"list contacts with Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"Missive list all contacts","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"Missive show all contacts","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"list contact record on Missive","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"Missive list contact record","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"list a missive contacts","expected_action_key":"missive-list-contacts","expected_app_slug":"missive","app_name":"Missive","test_type":"contextual"}
+{"query":"Get Contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Get Contact in Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Missive get contact","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"get the contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"retrieve contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"fetch contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"show me the contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"pull contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"check contact on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"get contact via Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"get contact using Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"get contact with Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"Missive get the contact","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"Missive retrieve contact","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"get contact record on Missive","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"Missive get contact record","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"get a missive contact","expected_action_key":"missive-get-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"contextual"}
+{"query":"Create Post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Create Post in Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Missive create post","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"create a post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"make a post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"new post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"open a post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"start a post on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"create post via Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create post using Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create post with Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"Missive create a post","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"Missive make a post","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"create status update on Missive","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"Missive create status update","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"create a missive post","expected_action_key":"missive-create-post","expected_app_slug":"missive","app_name":"Missive","test_type":"contextual"}
+{"query":"Create Draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Create Draft in Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Missive create draft","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"create a draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"make a draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"new draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"open a draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"start a draft on Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"create draft via Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create draft using Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create draft with Missive","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"Missive create a draft","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"Missive make a draft","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"create a missive draft","expected_action_key":"missive-create-draft","expected_app_slug":"missive","app_name":"Missive","test_type":"contextual"}
+{"query":"Create Contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Create Contact in Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"Missive create contact","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"action_name"}
+{"query":"create a contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"make a contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"new contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"open a contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"start a contact on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"canonical"}
+{"query":"create contact via Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create contact using Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"create contact with Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_prep"}
+{"query":"Missive create a contact","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"Missive make a contact","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"app_first"}
+{"query":"create contact record on Missive","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"Missive create contact record","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"alt_target"}
+{"query":"create a missive contact","expected_action_key":"missive-create-contact","expected_app_slug":"missive","app_name":"Missive","test_type":"contextual"}

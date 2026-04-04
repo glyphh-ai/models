@@ -1,0 +1,36 @@
+{"query":"Run App on Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Run App in Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Flipando run app","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"trigger app on Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"Flipando trigger app","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"execute app on Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"Flipando execute app","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"trigger app in Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"trigger app via Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"trigger app using Flipando","expected_action_key":"flipando-run-app","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"Get Task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Get Task in Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Flipando get task","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"get the task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"retrieve task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"fetch task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"show me the task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"pull task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"check task on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"get task via Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"get task using Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"get task with Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"Flipando get the task","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"Flipando retrieve task","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"get story on Flipando","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_target"}
+{"query":"Flipando get story","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_target"}
+{"query":"get a flipando task","expected_action_key":"flipando-get-task","expected_app_slug":"flipando","app_name":"Flipando","test_type":"contextual"}
+{"query":"Get All Apps on Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Get All Apps in Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"Flipando get all apps","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"action_name"}
+{"query":"get the all apps on Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"Flipando get the all apps","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"retrieve all apps on Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"canonical"}
+{"query":"Flipando retrieve all apps","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"app_first"}
+{"query":"get all apps via Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}
+{"query":"get all apps using Flipando","expected_action_key":"flipando-get-all-apps","expected_app_slug":"flipando","app_name":"Flipando","test_type":"alt_prep"}

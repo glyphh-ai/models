@@ -1,0 +1,27 @@
+{"query":"Get Schema on Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Get Schema in Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Weaviate get schema","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"get the schema on Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate get the schema","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"retrieve schema on Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate retrieve schema","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"get schema via Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}
+{"query":"get schema using Weaviate","expected_action_key":"weaviate-get-schema","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}
+{"query":"Delete Class on Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Delete Class in Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Weaviate delete class","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"delete the class on Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate delete the class","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"remove the class on Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate remove the class","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"delete class via Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}
+{"query":"delete class using Weaviate","expected_action_key":"weaviate-delete-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}
+{"query":"Create Class on Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Create Class in Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"Weaviate create class","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"action_name"}
+{"query":"create a class on Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate create a class","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"make a class on Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"canonical"}
+{"query":"Weaviate make a class","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"app_first"}
+{"query":"create class via Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}
+{"query":"create class using Weaviate","expected_action_key":"weaviate-create-class","expected_app_slug":"weaviate","app_name":"Weaviate","test_type":"alt_prep"}

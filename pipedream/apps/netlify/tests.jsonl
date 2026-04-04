@@ -1,0 +1,36 @@
+{"query":"Rollback Deploy on Netlify","expected_action_key":"netlify-rollback-deploy","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Rollback Deploy in Netlify","expected_action_key":"netlify-rollback-deploy","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Netlify rollback deploy","expected_action_key":"netlify-rollback-deploy","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"List Site Deploys on Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"List Site Deploys in Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Netlify list site deploys","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"list all site deploys on Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"Netlify list all site deploys","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"show all site deploys on Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"Netlify show all site deploys","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"list site deploys via Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"list site deploys using Netlify","expected_action_key":"netlify-list-site-deploys","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"List Files on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"List Files in Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Netlify list files","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"list all files on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"show all files on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"get all files on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"show me all files on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"list files via Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"list files using Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"list files with Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"Netlify list all files","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"Netlify show all files","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"list document on Netlify","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_target"}
+{"query":"Netlify list document","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_target"}
+{"query":"list a netlify files","expected_action_key":"netlify-list-files","expected_app_slug":"netlify","app_name":"Netlify","test_type":"contextual"}
+{"query":"Get Site on Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Get Site in Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"Netlify get site","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"action_name"}
+{"query":"get the site on Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"Netlify get the site","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"retrieve site on Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"canonical"}
+{"query":"Netlify retrieve site","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"app_first"}
+{"query":"get site via Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}
+{"query":"get site using Netlify","expected_action_key":"netlify-get-site","expected_app_slug":"netlify","app_name":"Netlify","test_type":"alt_prep"}

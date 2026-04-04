@@ -1,0 +1,24 @@
+{"query":"Set a Key Value on KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"Set a Key Value in KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"KVdb set a key value","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"set key value on KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb set key value","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"set the key value on KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb set the key value","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"configure the key value on KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb configure the key value","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"set key value in KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}
+{"query":"set key value via KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}
+{"query":"set key value using KVdb","expected_action_key":"kvdb-set-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}
+{"query":"Get a Key Value on KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"Get a Key Value in KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"KVdb get a key value","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"action_name"}
+{"query":"get key value on KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb get key value","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"get the key value on KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb get the key value","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"retrieve key value on KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"canonical"}
+{"query":"KVdb retrieve key value","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"app_first"}
+{"query":"get key value in KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}
+{"query":"get key value via KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}
+{"query":"get key value using KVdb","expected_action_key":"kvdb-get-key-value","expected_app_slug":"kvdb","app_name":"KVdb","test_type":"alt_prep"}

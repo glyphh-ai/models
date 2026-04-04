@@ -1,0 +1,25 @@
+{"query":"Create Voucher on eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"Create Voucher in eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"eTermin create voucher","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"create a voucher on eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"eTermin create a voucher","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"app_first"}
+{"query":"make a voucher on eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"eTermin make a voucher","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"app_first"}
+{"query":"create voucher via eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_prep"}
+{"query":"create voucher using eTermin","expected_action_key":"etermin-create-voucher","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_prep"}
+{"query":"Create Contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"Create Contact in eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"eTermin create contact","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"action_name"}
+{"query":"create a contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"make a contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"new contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"open a contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"start a contact on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"canonical"}
+{"query":"create contact via eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_prep"}
+{"query":"create contact using eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_prep"}
+{"query":"create contact with eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_prep"}
+{"query":"eTermin create a contact","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"app_first"}
+{"query":"eTermin make a contact","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"app_first"}
+{"query":"create contact record on eTermin","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_target"}
+{"query":"eTermin create contact record","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"alt_target"}
+{"query":"create a etermin contact","expected_action_key":"etermin-create-contact","expected_app_slug":"etermin","app_name":"eTermin","test_type":"contextual"}

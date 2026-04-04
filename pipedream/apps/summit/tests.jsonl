@@ -1,0 +1,19 @@
+{"query":"Run Model on Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"Run Model in Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"Summit run model","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"trigger model on Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"canonical"}
+{"query":"Summit trigger model","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"app_first"}
+{"query":"execute model on Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"canonical"}
+{"query":"Summit execute model","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"app_first"}
+{"query":"trigger model in Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"alt_prep"}
+{"query":"trigger model via Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"alt_prep"}
+{"query":"trigger model using Summit","expected_action_key":"summit-run-model","expected_app_slug":"summit","app_name":"Summit","test_type":"alt_prep"}
+{"query":"List Models on Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"List Models in Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"Summit list models","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"action_name"}
+{"query":"list all models on Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"canonical"}
+{"query":"Summit list all models","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"app_first"}
+{"query":"show all models on Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"canonical"}
+{"query":"Summit show all models","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"app_first"}
+{"query":"list models via Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"alt_prep"}
+{"query":"list models using Summit","expected_action_key":"summit-list-models","expected_app_slug":"summit","app_name":"Summit","test_type":"alt_prep"}

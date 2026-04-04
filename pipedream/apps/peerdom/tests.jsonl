@@ -1,0 +1,39 @@
+{"query":"Update Role on Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Update Role in Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Peerdom update role","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"update the role on Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"edit the role on Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"modify the role on Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"change the role on Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"update role via Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"update role using Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"update role with Peerdom","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"Peerdom update the role","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"Peerdom edit the role","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"update a peerdom role","expected_action_key":"peerdom-update-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"contextual"}
+{"query":"Create Role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Create Role in Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Peerdom create role","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"create a role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"make a role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"new role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"open a role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"start a role on Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"create role via Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"create role using Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"create role with Peerdom","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"Peerdom create a role","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"Peerdom make a role","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"create a peerdom role","expected_action_key":"peerdom-create-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"contextual"}
+{"query":"Assign Member to Role on Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Assign Member to Role in Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"Peerdom assign member to role","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"action_name"}
+{"query":"assign member role on Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"Peerdom assign member role","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"assign the member role on Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"Peerdom assign the member role","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"assign a member role on Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"canonical"}
+{"query":"Peerdom assign a member role","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"app_first"}
+{"query":"assign member role in Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"assign member role via Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}
+{"query":"assign member role using Peerdom","expected_action_key":"peerdom-assign-member-to-role","expected_app_slug":"peerdom","app_name":"Peerdom","test_type":"alt_prep"}

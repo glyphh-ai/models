@@ -1,0 +1,15 @@
+{"query":"Ping Server on Proxy Spider","expected_action_key":"proxy_spider-ping-server","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"Ping Server in Proxy Spider","expected_action_key":"proxy_spider-ping-server","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"Proxy Spider ping server","expected_action_key":"proxy_spider-ping-server","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"Ping Server on proxy_spider","expected_action_key":"proxy_spider-ping-server","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"List Proxies on Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"List Proxies in Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"Proxy Spider list proxies","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"List Proxies on proxy_spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"action_name"}
+{"query":"list all proxies on Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"canonical"}
+{"query":"Proxy Spider list all proxies","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"app_first"}
+{"query":"show all proxies on Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"canonical"}
+{"query":"Proxy Spider show all proxies","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"app_first"}
+{"query":"list proxies via Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"alt_prep"}
+{"query":"list proxies using Proxy Spider","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"alt_prep"}
+{"query":"proxy_spider list proxies","expected_action_key":"proxy_spider-list-proxies","expected_app_slug":"proxy_spider","app_name":"Proxy Spider","test_type":"alt_app_name"}

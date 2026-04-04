@@ -1,0 +1,28 @@
+{"query":"Upvote Project on Productlane","expected_action_key":"productlane-upvote-project","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Upvote Project in Productlane","expected_action_key":"productlane-upvote-project","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Productlane upvote project","expected_action_key":"productlane-upvote-project","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Create Feedback on Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Create Feedback in Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Productlane create feedback","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"create a feedback on Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"Productlane create a feedback","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"app_first"}
+{"query":"make a feedback on Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"Productlane make a feedback","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"app_first"}
+{"query":"create feedback via Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_prep"}
+{"query":"create feedback using Productlane","expected_action_key":"productlane-create-feedback","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_prep"}
+{"query":"Create Contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Create Contact in Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"Productlane create contact","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"action_name"}
+{"query":"create a contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"make a contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"new contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"open a contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"start a contact on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"canonical"}
+{"query":"create contact via Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_prep"}
+{"query":"create contact using Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_prep"}
+{"query":"create contact with Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_prep"}
+{"query":"Productlane create a contact","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"app_first"}
+{"query":"Productlane make a contact","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"app_first"}
+{"query":"create contact record on Productlane","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_target"}
+{"query":"Productlane create contact record","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"alt_target"}
+{"query":"create a productlane contact","expected_action_key":"productlane-create-contact","expected_app_slug":"productlane","app_name":"Productlane","test_type":"contextual"}

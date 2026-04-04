@@ -1,0 +1,36 @@
+{"query":"Update Project on Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Update Project in Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Semgrep update project","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"update the project on Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep update the project","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"edit the project on Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep edit the project","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"update project via Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"update project using Semgrep","expected_action_key":"semgrep-update-project","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"Get Projects on Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Get Projects in Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Semgrep get projects","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"get the projects on Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep get the projects","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"retrieve projects on Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep retrieve projects","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"get projects via Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"get projects using Semgrep","expected_action_key":"semgrep-get-projects","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"Get Findings on Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Get Findings in Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Semgrep get findings","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"get the findings on Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep get the findings","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"retrieve findings on Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep retrieve findings","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"get findings via Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"get findings using Semgrep","expected_action_key":"semgrep-get-findings","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"Get Deployments on Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Get Deployments in Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"Semgrep get deployments","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"action_name"}
+{"query":"get the deployments on Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep get the deployments","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"retrieve deployments on Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"canonical"}
+{"query":"Semgrep retrieve deployments","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"app_first"}
+{"query":"get deployments via Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}
+{"query":"get deployments using Semgrep","expected_action_key":"semgrep-get-deployments","expected_app_slug":"semgrep","app_name":"Semgrep","test_type":"alt_prep"}

@@ -1,0 +1,448 @@
+{"query":"Search for Orders on Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Orders in Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth search for orders","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Orders on Shopify","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"find orders on Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth find orders","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"look for orders on Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth look for orders","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"search for orders via Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"search for orders using Shopify OAuth","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify search for orders","expected_action_key":"shopify-search-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Update Product on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Product in Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update product","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Product on Shopify","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the product on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"edit the product on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"modify the product on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"change the product on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"update product via Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update product using Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update product with Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth update the product","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth edit the product","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update item on Shopify OAuth","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth update item","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify update product","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"update a shopify oauth product","expected_action_key":"shopify-update-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Update Product Variant on Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Product Variant in Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update product variant","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Product Variant on Shopify","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the product variant on Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth update the product variant","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"edit the product variant on Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth edit the product variant","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update product variant via Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update product variant using Shopify OAuth","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify update product variant","expected_action_key":"shopify-update-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Update Page on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Page in Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update page","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Page on Shopify","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the page on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"edit the page on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"modify the page on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"change the page on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"update page via Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update page using Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update page with Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth update the page","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth edit the page","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update document on Shopify OAuth","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth update document","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify update page","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"update a shopify oauth page","expected_action_key":"shopify-update-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Update Order on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Order in Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update order","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Order on Shopify","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the order on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"edit the order on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"modify the order on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"change the order on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"update order via Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update order using Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update order with Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth update the order","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth edit the order","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update purchase on Shopify OAuth","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth update purchase","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify update order","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"update a shopify oauth order","expected_action_key":"shopify-update-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Update Metaobject on Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Metaobject in Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update metaobject","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Metaobject on Shopify","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the metaobject on Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth update the metaobject","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"edit the metaobject on Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth edit the metaobject","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update metaobject via Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update metaobject using Shopify OAuth","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify update metaobject","expected_action_key":"shopify-update-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Update Metafield on Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Metafield in Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update metafield","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Metafield on Shopify","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the metafield on Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth update the metafield","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"edit the metafield on Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth edit the metafield","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update metafield via Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update metafield using Shopify OAuth","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify update metafield","expected_action_key":"shopify-update-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Update Inventory Level on Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Inventory Level in Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update inventory level","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Inventory Level on Shopify","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the inventory level on Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth update the inventory level","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"edit the inventory level on Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth edit the inventory level","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update inventory level via Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update inventory level using Shopify OAuth","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify update inventory level","expected_action_key":"shopify-update-inventory-level","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Update Article on Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Article in Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth update article","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Update Article on Shopify","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"update the article on Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth update the article","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"edit the article on Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth edit the article","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"update article via Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"update article using Shopify OAuth","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify update article","expected_action_key":"shopify-update-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Search for Products on Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Products in Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth search for products","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Products on Shopify","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"find products on Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth find products","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"look for products on Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth look for products","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"search for products via Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"search for products using Shopify OAuth","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify search for products","expected_action_key":"shopify-search-products","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Search for Product Variant on Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Product Variant in Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth search for product variant","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Search for Product Variant on Shopify","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"find product variant on Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth find product variant","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"look for product variant on Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth look for product variant","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"search for product variant via Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"search for product variant using Shopify OAuth","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify search for product variant","expected_action_key":"shopify-search-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Pages in Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get pages","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Pages on Shopify","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"retrieve pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"fetch pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"show me the pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"pull pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"check pages on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"get pages via Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get pages using Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get pages with Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth get the pages","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth retrieve pages","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get document on Shopify OAuth","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth get document","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify get pages","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"get a shopify oauth pages","expected_action_key":"shopify-get-pages","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Get Metaobjects on Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Metaobjects in Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get metaobjects","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Metaobjects on Shopify","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the metaobjects on Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the metaobjects","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve metaobjects on Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve metaobjects","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get metaobjects via Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get metaobjects using Shopify OAuth","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get metaobjects","expected_action_key":"shopify-get-metaobjects","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Metafields on Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Metafields in Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get metafields","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Metafields on Shopify","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the metafields on Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the metafields","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve metafields on Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve metafields","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get metafields via Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get metafields using Shopify OAuth","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get metafields","expected_action_key":"shopify-get-metafields","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Fulfillment Orders on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Fulfillment Orders in Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get fulfillment orders","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Fulfillment Orders on Shopify","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the fulfillment orders on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the fulfillment orders","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve fulfillment orders on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve fulfillment orders","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get fulfillment orders via Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get fulfillment orders using Shopify OAuth","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get fulfillment orders","expected_action_key":"shopify-get-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Fulfillment Order on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Fulfillment Order in Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get fulfillment order","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Fulfillment Order on Shopify","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the fulfillment order on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the fulfillment order","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve fulfillment order on Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve fulfillment order","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get fulfillment order via Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get fulfillment order using Shopify OAuth","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get fulfillment order","expected_action_key":"shopify-get-fulfillment-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Draft Orders on Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Draft Orders in Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get draft orders","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Draft Orders on Shopify","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the draft orders on Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the draft orders","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve draft orders on Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve draft orders","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get draft orders via Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get draft orders using Shopify OAuth","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get draft orders","expected_action_key":"shopify-get-draft-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Draft Order on Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Draft Order in Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get draft order","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Draft Order on Shopify","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the draft order on Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the draft order","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve draft order on Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve draft order","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get draft order via Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get draft order using Shopify OAuth","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get draft order","expected_action_key":"shopify-get-draft-order","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Customers in Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get customers","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Customers on Shopify","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"retrieve customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"fetch customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"show me the customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"pull customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"check customers on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"get customers via Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get customers using Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get customers with Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth get the customers","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth retrieve customers","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get account on Shopify OAuth","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth get account","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify get customers","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"get a shopify oauth customers","expected_action_key":"shopify-get-customers","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Get Customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Customer in Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get customer","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Customer on Shopify","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"retrieve customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"fetch customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"show me the customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"pull customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"check customer on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"get customer via Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get customer using Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get customer with Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth get the customer","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth retrieve customer","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get account on Shopify OAuth","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth get account","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify get customer","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"get a shopify oauth customer","expected_action_key":"shopify-get-customer","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Get Assigned Fulfillment Orders on Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Assigned Fulfillment Orders in Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get assigned fulfillment orders","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Assigned Fulfillment Orders on Shopify","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the assigned fulfillment orders on Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the assigned fulfillment orders","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve assigned fulfillment orders on Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve assigned fulfillment orders","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get assigned fulfillment orders via Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get assigned fulfillment orders using Shopify OAuth","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get assigned fulfillment orders","expected_action_key":"shopify-get-assigned-fulfillment-orders","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Get Articles on Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Articles in Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth get articles","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Get Articles on Shopify","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"get the articles on Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth get the articles","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"retrieve articles on Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth retrieve articles","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"get articles via Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"get articles using Shopify OAuth","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify get articles","expected_action_key":"shopify-get-articles","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Delete Page on Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Page in Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth delete page","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Page on Shopify","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"delete the page on Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"remove the page on Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"destroy the page on Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"delete page via Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"delete page using Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"delete page with Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth delete the page","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth remove the page","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"delete document on Shopify OAuth","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth delete document","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify delete page","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"delete a shopify oauth page","expected_action_key":"shopify-delete-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Delete Metafield on Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Metafield in Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth delete metafield","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Metafield on Shopify","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"delete the metafield on Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth delete the metafield","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"remove the metafield on Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth remove the metafield","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"delete metafield via Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"delete metafield using Shopify OAuth","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify delete metafield","expected_action_key":"shopify-delete-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Delete Blog on Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Blog in Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth delete blog","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Blog on Shopify","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"delete the blog on Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth delete the blog","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"remove the blog on Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth remove the blog","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"delete blog via Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"delete blog using Shopify OAuth","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify delete blog","expected_action_key":"shopify-delete-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Delete Article on Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Article in Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth delete article","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Delete Article on Shopify","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"delete the article on Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth delete the article","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"remove the article on Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth remove the article","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"delete article via Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"delete article using Shopify OAuth","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify delete article","expected_action_key":"shopify-delete-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Smart Collection on Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Smart Collection in Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create smart collection","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Smart Collection on Shopify","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a smart collection on Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a smart collection","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a smart collection on Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a smart collection","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create smart collection via Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create smart collection using Shopify OAuth","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create smart collection","expected_action_key":"shopify-create-smart-collection","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Product in Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create product","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Product on Shopify","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"make a product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"new product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"open a product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"start a product on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"create product via Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create product using Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create product with Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth create a product","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth make a product","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create item on Shopify OAuth","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth create item","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify create product","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"create a shopify oauth product","expected_action_key":"shopify-create-product","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Create Product Variant on Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Product Variant in Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create product variant","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Product Variant on Shopify","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a product variant on Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a product variant","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a product variant on Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a product variant","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create product variant via Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create product variant using Shopify OAuth","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create product variant","expected_action_key":"shopify-create-product-variant","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Page in Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create page","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Page on Shopify","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"make a page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"new page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"open a page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"start a page on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"create page via Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create page using Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create page with Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth create a page","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth make a page","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create document on Shopify OAuth","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify OAuth create document","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_target"}
+{"query":"Shopify create page","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"create a shopify oauth page","expected_action_key":"shopify-create-page","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}
+{"query":"Create Metaobject on Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Metaobject in Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create metaobject","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Metaobject on Shopify","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a metaobject on Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a metaobject","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a metaobject on Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a metaobject","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create metaobject via Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create metaobject using Shopify OAuth","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create metaobject","expected_action_key":"shopify-create-metaobject","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Metafield on Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Metafield in Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create metafield","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Metafield on Shopify","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a metafield on Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a metafield","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a metafield on Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a metafield","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create metafield via Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create metafield using Shopify OAuth","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create metafield","expected_action_key":"shopify-create-metafield","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Blog on Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Blog in Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create blog","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Blog on Shopify","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a blog on Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a blog","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a blog on Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a blog","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create blog via Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create blog using Shopify OAuth","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create blog","expected_action_key":"shopify-create-blog","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Create Article on Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Article in Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth create article","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Create Article on Shopify","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"create a article on Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth create a article","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"make a article on Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"Shopify OAuth make a article","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"create article via Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"create article using Shopify OAuth","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify create article","expected_action_key":"shopify-create-article","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"Add Tags on Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Add Tags in Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Shopify OAuth add tags","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"Add Tags on Shopify","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"action_name"}
+{"query":"add a tags on Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"add new tags on Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"canonical"}
+{"query":"add tags via Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"add tags using Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"add tags with Shopify OAuth","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_prep"}
+{"query":"Shopify OAuth add a tags","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify OAuth add new tags","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"app_first"}
+{"query":"Shopify add tags","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"alt_app_name"}
+{"query":"add a shopify oauth tags","expected_action_key":"shopify-add-tags","expected_app_slug":"shopify","app_name":"Shopify (OAuth)","test_type":"contextual"}

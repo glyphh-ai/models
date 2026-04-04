@@ -1,0 +1,39 @@
+{"query":"GET /time_zone/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /time_zone/{ip_address} in Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"Ipdata Co get /time_zone/{ip_address}","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /time_zone/{ip_address} on ipdata.co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /time_zone/{ip_address} on ipdata_co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"get the /time_zone/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co get the /time_zone/{ip_address}","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"retrieve /time_zone/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co retrieve /time_zone/{ip_address}","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"get /time_zone/{ip_address} via Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"get /time_zone/{ip_address} using Ipdata Co","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"ipdata.co get /time_zone/{ip_address}","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}
+{"query":"ipdata_co get /time_zone/{ip_address}","expected_action_key":"ipdata_co-get-time-zone","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}
+{"query":"GET /{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /{ip_address} in Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"Ipdata Co get /{ip_address}","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /{ip_address} on ipdata.co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /{ip_address} on ipdata_co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"get the /{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co get the /{ip_address}","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"retrieve /{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co retrieve /{ip_address}","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"get /{ip_address} via Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"get /{ip_address} using Ipdata Co","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"ipdata.co get /{ip_address}","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}
+{"query":"ipdata_co get /{ip_address}","expected_action_key":"ipdata_co-get-ip-data","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}
+{"query":"GET /carrier/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /carrier/{ip_address} in Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"Ipdata Co get /carrier/{ip_address}","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /carrier/{ip_address} on ipdata.co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"GET /carrier/{ip_address} on ipdata_co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"action_name"}
+{"query":"get the /carrier/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co get the /carrier/{ip_address}","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"retrieve /carrier/{ip_address} on Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"canonical"}
+{"query":"Ipdata Co retrieve /carrier/{ip_address}","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"app_first"}
+{"query":"get /carrier/{ip_address} via Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"get /carrier/{ip_address} using Ipdata Co","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_prep"}
+{"query":"ipdata.co get /carrier/{ip_address}","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}
+{"query":"ipdata_co get /carrier/{ip_address}","expected_action_key":"ipdata_co-get-carrier","expected_app_slug":"ipdata_co","app_name":"ipdata.co","test_type":"alt_app_name"}

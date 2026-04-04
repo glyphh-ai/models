@@ -1,0 +1,16 @@
+{"query":"Create Customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"action_name"}
+{"query":"Create Customer in GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"action_name"}
+{"query":"GatherUp create customer","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"action_name"}
+{"query":"create a customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"canonical"}
+{"query":"make a customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"canonical"}
+{"query":"new customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"canonical"}
+{"query":"open a customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"canonical"}
+{"query":"start a customer on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"canonical"}
+{"query":"create customer via GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"alt_prep"}
+{"query":"create customer using GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"alt_prep"}
+{"query":"create customer with GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"alt_prep"}
+{"query":"GatherUp create a customer","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"app_first"}
+{"query":"GatherUp make a customer","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"app_first"}
+{"query":"create account on GatherUp","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"alt_target"}
+{"query":"GatherUp create account","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"alt_target"}
+{"query":"create a gatherup customer","expected_action_key":"gatherup-create-customer","expected_app_slug":"gatherup","app_name":"GatherUp","test_type":"contextual"}

@@ -1,0 +1,24 @@
+{"query":"Track actions your users perform on Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Track actions your users perform in Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment track actions your users perform","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"track a actions your users perform on Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"canonical"}
+{"query":"Segment track a actions your users perform","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"app_first"}
+{"query":"log actions your users perform on Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"canonical"}
+{"query":"Segment log actions your users perform","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"app_first"}
+{"query":"track actions your users perform via Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"alt_prep"}
+{"query":"track actions your users perform using Segment","expected_action_key":"segment-track","expected_app_slug":"segment","app_name":"Segment","test_type":"alt_prep"}
+{"query":"Record whenever a user sees a screen on Segment","expected_action_key":"segment-screen","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Record whenever a user sees a screen in Segment","expected_action_key":"segment-screen","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment record whenever a user sees a screen","expected_action_key":"segment-screen","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Record page views on your website on Segment","expected_action_key":"segment-page","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Record page views on your website in Segment","expected_action_key":"segment-page","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment record page views on your website","expected_action_key":"segment-page","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Identify a user, tie them to their actions and record traits about them on Segment","expected_action_key":"segment-identify","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Identify a user, tie them to their actions and record traits about them in Segment","expected_action_key":"segment-identify","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment identify a user, tie them to their actions and record traits about them","expected_action_key":"segment-identify","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Associate an identified user with a group on Segment","expected_action_key":"segment-group","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Associate an identified user with a group in Segment","expected_action_key":"segment-group","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment associate an identified user with a group","expected_action_key":"segment-group","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Associate one identity with another on Segment","expected_action_key":"segment-alias","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Associate one identity with another in Segment","expected_action_key":"segment-alias","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}
+{"query":"Segment associate one identity with another","expected_action_key":"segment-alias","expected_app_slug":"segment","app_name":"Segment","test_type":"action_name"}

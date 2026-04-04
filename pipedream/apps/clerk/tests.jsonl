@@ -1,0 +1,88 @@
+{"query":"Update User on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Update User in Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk update user","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"update the user on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"edit the user on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"modify the user on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"change the user on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"update user via Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"update user using Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"update user with Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"Clerk update the user","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"Clerk edit the user","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"update member on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk update member","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"update person on Clerk","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk update person","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"update a clerk user","expected_action_key":"clerk-update-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"contextual"}
+{"query":"Get User on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Get User in Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk get user","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"get the user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"retrieve user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"fetch user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"show me the user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"pull user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"check user on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"get user via Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"get user using Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"get user with Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"Clerk get the user","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"Clerk retrieve user","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"get member on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk get member","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"get person on Clerk","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk get person","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"get a clerk user","expected_action_key":"clerk-get-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"contextual"}
+{"query":"Get User Memberships on Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Get User Memberships in Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk get user memberships","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"get the user memberships on Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"Clerk get the user memberships","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"retrieve user memberships on Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"Clerk retrieve user memberships","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"get user memberships via Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"get user memberships using Clerk","expected_action_key":"clerk-get-user-membership","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"Delete User on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Delete User in Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk delete user","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"delete the user on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"remove the user on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"destroy the user on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"delete user via Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"delete user using Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"delete user with Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"Clerk delete the user","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"Clerk remove the user","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"delete member on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk delete member","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"delete person on Clerk","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk delete person","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"delete a clerk user","expected_action_key":"clerk-delete-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"contextual"}
+{"query":"Create User on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Create User in Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk create user","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"create a user on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"make a user on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"new user on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"open a user on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"start a user on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"create user via Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"create user using Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"create user with Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"Clerk create a user","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"Clerk make a user","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"create member on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk create member","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"create person on Clerk","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"Clerk create person","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_target"}
+{"query":"create a clerk user","expected_action_key":"clerk-create-user","expected_app_slug":"clerk","app_name":"Clerk","test_type":"contextual"}
+{"query":"Create User Invitation on Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Create User Invitation in Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"Clerk create user invitation","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"action_name"}
+{"query":"create a user invitation on Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"Clerk create a user invitation","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"make a user invitation on Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"canonical"}
+{"query":"Clerk make a user invitation","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"app_first"}
+{"query":"create user invitation via Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}
+{"query":"create user invitation using Clerk","expected_action_key":"clerk-create-user-invitation","expected_app_slug":"clerk","app_name":"Clerk","test_type":"alt_prep"}

@@ -1,0 +1,177 @@
+{"query":"Upload a File on Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Upload a File in Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox upload a file","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"upload file on Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"upload the file on Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"upload file in Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"upload file via Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"upload file using Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"upload file with Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Dropbox upload file","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox upload the file","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"upload document on Dropbox","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"Dropbox upload document","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"upload a dropbox file","expected_action_key":"dropbox-upload-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"contextual"}
+{"query":"Search files and folders on Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Search files and folders in Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox search files and folders","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"search for files and folders on Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox search for files and folders","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"find files and folders on Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox find files and folders","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"look for files and folders on Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox look for files and folders","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"search for files and folders in Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"search for files and folders via Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"search for files and folders using Dropbox","expected_action_key":"dropbox-search-files-folders","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Restore a File on Dropbox","expected_action_key":"dropbox-restore-a-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Restore a File in Dropbox","expected_action_key":"dropbox-restore-a-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox restore a file","expected_action_key":"dropbox-restore-a-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Rename a File/Folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Rename a File/Folder in Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox rename a file/folder","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"update file/folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"update the file/folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"edit the file/folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"modify the file/folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"change the file/folder on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"update file/folder in Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"update file/folder via Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"update file/folder using Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"update file/folder with Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Dropbox update file/folder","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox update the file/folder","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox edit the file/folder","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"update document on Dropbox","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"Dropbox update document","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"update a dropbox file/folder","expected_action_key":"dropbox-rename-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"contextual"}
+{"query":"Move a File/Folder on Dropbox","expected_action_key":"dropbox-move-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Move a File/Folder in Dropbox","expected_action_key":"dropbox-move-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox move a file/folder","expected_action_key":"dropbox-move-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"List Shared Links on Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"List Shared Links in Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox list shared links","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"list all shared links on Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox list all shared links","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"show all shared links on Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox show all shared links","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"list shared links via Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"list shared links using Dropbox","expected_action_key":"dropbox-list-shared-links","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"List File Revisions on Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"List File Revisions in Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox list file revisions","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"list all file revisions on Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox list all file revisions","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"show all file revisions on Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox show all file revisions","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"list file revisions via Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"list file revisions using Dropbox","expected_action_key":"dropbox-list-file-revisions","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"List All Files/Subfolders in a Folder on Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"List All Files/Subfolders in a Folder in Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox list all files/subfolders in a folder","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"list all files/subfolders folder on Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox list all files/subfolders folder","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"list all all files/subfolders folder on Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox list all all files/subfolders folder","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"show all all files/subfolders folder on Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox show all all files/subfolders folder","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"list all files/subfolders folder in Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"list all files/subfolders folder via Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"list all files/subfolders folder using Dropbox","expected_action_key":"dropbox-list-file-folders-in-a-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Get Shared Link Metadata on Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Get Shared Link Metadata in Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox get shared link metadata","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"get the shared link metadata on Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox get the shared link metadata","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"retrieve shared link metadata on Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox retrieve shared link metadata","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"get shared link metadata via Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"get shared link metadata using Dropbox","expected_action_key":"dropbox-get-shared-link-metadata","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Get Shared Link File on Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Get Shared Link File in Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox get shared link file","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"get the shared link file on Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox get the shared link file","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"retrieve shared link file on Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox retrieve shared link file","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"get shared link file via Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"get shared link file using Dropbox","expected_action_key":"dropbox-get-shared-link-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Download File to TMP on Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Download File to TMP in Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox download file to tmp","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"export file tmp on Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox export file tmp","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"export the file tmp on Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox export the file tmp","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"download file tmp on Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox download file tmp","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"export file tmp in Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"export file tmp via Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"export file tmp using Dropbox","expected_action_key":"dropbox-download-file-to-tmp","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Delete a File/Folder on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Delete a File/Folder in Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox delete a file/folder","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"delete file/folder on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"delete the file/folder on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"remove the file/folder on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"destroy the file/folder on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"delete file/folder in Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"delete file/folder via Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"delete file/folder using Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"delete file/folder with Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Dropbox delete file/folder","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox delete the file/folder","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox remove the file/folder","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"delete document on Dropbox","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"Dropbox delete document","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"delete a dropbox file/folder","expected_action_key":"dropbox-delete-file-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"contextual"}
+{"query":"Create/Update a Share Link on Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Create/Update a Share Link in Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox create/update a share link","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"create share link on Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox create share link","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create a share link on Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox create a share link","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"make a share link on Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox make a share link","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create share link in Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create share link via Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create share link using Dropbox","expected_action_key":"dropbox-create-update-share-link","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Create or Append to a Text File on Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Create or Append to a Text File in Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox create or append to a text file","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"create or append text file on Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox create or append text file","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create a or append text file on Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox create a or append text file","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"make a or append text file on Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox make a or append text file","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create or append text file in Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create or append text file via Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create or append text file using Dropbox","expected_action_key":"dropbox-create-or-append-to-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Create folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Create folder in Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox create folder","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"create a folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"make a folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"new folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"open a folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"start a folder on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"create folder via Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create folder using Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create folder with Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"Dropbox create a folder","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"Dropbox make a folder","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create directory on Dropbox","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"Dropbox create directory","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_target"}
+{"query":"create a dropbox folder","expected_action_key":"dropbox-create-folder","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"contextual"}
+{"query":"Create a Text File on Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Create a Text File in Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"Dropbox create a text file","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"action_name"}
+{"query":"create text file on Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox create text file","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"make a text file on Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"canonical"}
+{"query":"Dropbox make a text file","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"app_first"}
+{"query":"create text file in Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create text file via Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}
+{"query":"create text file using Dropbox","expected_action_key":"dropbox-create-a-text-file","expected_app_slug":"dropbox","app_name":"Dropbox","test_type":"alt_prep"}

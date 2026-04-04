@@ -1,0 +1,9 @@
+{"query":"Create Booking on Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"action_name"}
+{"query":"Create Booking in Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"action_name"}
+{"query":"Uplisting create booking","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"action_name"}
+{"query":"create a booking on Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"canonical"}
+{"query":"Uplisting create a booking","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"app_first"}
+{"query":"make a booking on Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"canonical"}
+{"query":"Uplisting make a booking","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"app_first"}
+{"query":"create booking via Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"alt_prep"}
+{"query":"create booking using Uplisting","expected_action_key":"uplisting-create-booking","expected_app_slug":"uplisting","app_name":"Uplisting","test_type":"alt_prep"}

@@ -1,0 +1,55 @@
+{"query":"Update Customer on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Update Customer in Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Splynx update customer","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"update the customer on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"edit the customer on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"modify the customer on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"change the customer on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"update customer via Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"update customer using Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"update customer with Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"Splynx update the customer","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"Splynx edit the customer","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"update account on Splynx","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"Splynx update account","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"update a splynx customer","expected_action_key":"splynx-update-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"contextual"}
+{"query":"List Customers on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"List Customers in Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Splynx list customers","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"list all customers on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"show all customers on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"get all customers on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"show me all customers on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"list customers via Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"list customers using Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"list customers with Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"Splynx list all customers","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"Splynx show all customers","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"list account on Splynx","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"Splynx list account","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"list a splynx customers","expected_action_key":"splynx-list-customers","expected_app_slug":"splynx","app_name":"Splynx","test_type":"contextual"}
+{"query":"Create Internet Service on Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Create Internet Service in Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Splynx create internet service","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"create a internet service on Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"Splynx create a internet service","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"make a internet service on Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"Splynx make a internet service","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"create internet service via Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"create internet service using Splynx","expected_action_key":"splynx-create-internet-service","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"Create Customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Create Customer in Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"Splynx create customer","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"action_name"}
+{"query":"create a customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"make a customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"new customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"open a customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"start a customer on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"canonical"}
+{"query":"create customer via Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"create customer using Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"create customer with Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_prep"}
+{"query":"Splynx create a customer","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"Splynx make a customer","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"app_first"}
+{"query":"create account on Splynx","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"Splynx create account","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"alt_target"}
+{"query":"create a splynx customer","expected_action_key":"splynx-create-customer","expected_app_slug":"splynx","app_name":"Splynx","test_type":"contextual"}

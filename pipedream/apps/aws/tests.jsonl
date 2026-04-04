@@ -1,0 +1,228 @@
+{"query":"SQS - Send Message on AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"SQS - Send Message in AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS sqs - send message","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"send send message on AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send send message","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send a send message on AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send a send message","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"post a send message on AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS post a send message","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send send message in AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send message via AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send message using AWS","expected_action_key":"aws-sqs-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"SNS - Send Message on AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"SNS - Send Message in AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS sns - send message","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"send send message on AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send send message","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send a send message on AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send a send message","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"post a send message on AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS post a send message","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send send message in AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send message via AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send message using AWS","expected_action_key":"aws-sns-send-message","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"S3 - Upload Files on AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"S3 - Upload Files in AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS s3 - upload files","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"upload upload files on AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload upload files","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload a upload files on AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload a upload files","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload the upload files on AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload the upload files","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload upload files in AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"upload upload files via AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"upload upload files using AWS","expected_action_key":"aws-s3-upload-files","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"S3 - Upload Base64 As File on AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"S3 - Upload Base64 As File in AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS s3 - upload base64 as file","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"upload upload base64 as file on AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload upload base64 as file","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload a upload base64 as file on AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload a upload base64 as file","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload the upload base64 as file on AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS upload the upload base64 as file","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"upload upload base64 as file in AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"upload upload base64 as file via AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"upload upload base64 as file using AWS","expected_action_key":"aws-s3-upload-base64-as-file","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"S3 - Generate Presigned URL on AWS","expected_action_key":"aws-s3-generate-presigned-url","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"S3 - Generate Presigned URL in AWS","expected_action_key":"aws-s3-generate-presigned-url","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS s3 - generate presigned url","expected_action_key":"aws-s3-generate-presigned-url","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"S3 - Download File to /tmp on AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"S3 - Download File to /tmp in AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS s3 - download file to /tmp","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"export download file /tmp on AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS export download file /tmp","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"export the download file /tmp on AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS export the download file /tmp","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"download download file /tmp on AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS download download file /tmp","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"export download file /tmp in AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"export download file /tmp via AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"export download file /tmp using AWS","expected_action_key":"aws-s3-download-file-to-tmp","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"Redshift - Update Rows on AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Redshift - Update Rows in AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS redshift - update rows","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"update update rows on AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update update rows","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update the update rows on AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update the update rows","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"edit the update rows on AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS edit the update rows","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update update rows in AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update rows via AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update rows using AWS","expected_action_key":"aws-redshift-update-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"Redshift - Query Database on AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Redshift - Query Database in AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS redshift - query database","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"get query database on AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get query database","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get the query database on AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get the query database","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"retrieve query database on AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS retrieve query database","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get query database in AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get query database via AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get query database using AWS","expected_action_key":"aws-redshift-query-database","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"Redshift - Delete Rows on AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Redshift - Delete Rows in AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS redshift - delete rows","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"delete delete rows on AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS delete delete rows","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"delete the delete rows on AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS delete the delete rows","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"remove the delete rows on AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS remove the delete rows","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"delete delete rows in AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"delete delete rows via AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"delete delete rows using AWS","expected_action_key":"aws-redshift-delete-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"Redshift - Create Rows on AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Redshift - Create Rows in AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS redshift - create rows","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"create create rows on AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create create rows","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create a create rows on AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create a create rows","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"make a create rows on AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS make a create rows","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create create rows in AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create rows via AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create rows using AWS","expected_action_key":"aws-redshift-create-rows","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"Lambda - Invoke Function on AWS","expected_action_key":"aws-lambda-invoke-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Lambda - Invoke Function in AWS","expected_action_key":"aws-lambda-invoke-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS lambda - invoke function","expected_action_key":"aws-lambda-invoke-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Lambda - Create Function on AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"Lambda - Create Function in AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS lambda - create function","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"create create function on AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create create function","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create a create function on AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create a create function","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"make a create function on AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS make a create function","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create create function in AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create function via AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create function using AWS","expected_action_key":"aws-lambda-create-function","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"EventBridge - Send Event to Event Bus on AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"EventBridge - Send Event to Event Bus in AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS eventbridge - send event to event bus","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"send send event event bus on AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send send event event bus","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send a send event event bus on AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS send a send event event bus","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"post a send event event bus on AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS post a send event event bus","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"send send event event bus in AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send event event bus via AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"send send event event bus using AWS","expected_action_key":"aws-eventbridge-send-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Update Table on AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Update Table in AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - update table","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"update update table on AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update update table","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update the update table on AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update the update table","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"edit the update table on AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS edit the update table","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update update table in AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update table via AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update table using AWS","expected_action_key":"aws-dynamodb-update-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Update Item on AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Update Item in AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - update item","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"update update item on AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update update item","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update the update item on AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS update the update item","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"edit the update item on AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS edit the update item","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"update update item in AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update item via AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"update update item using AWS","expected_action_key":"aws-dynamodb-update-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Scan on AWS","expected_action_key":"aws-dynamodb-scan","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Scan in AWS","expected_action_key":"aws-dynamodb-scan","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - scan","expected_action_key":"aws-dynamodb-scan","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Query on AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Query in AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - query","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"get query on AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get query","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get the query on AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get the query","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"retrieve query on AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS retrieve query","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get query in AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get query via AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get query using AWS","expected_action_key":"aws-dynamodb-query","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Put Item on AWS","expected_action_key":"aws-dynamodb-put-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Put Item in AWS","expected_action_key":"aws-dynamodb-put-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - put item","expected_action_key":"aws-dynamodb-put-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Get Item on AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Get Item in AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - get item","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"get get item on AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get get item","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get the get item on AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS get the get item","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"retrieve get item on AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS retrieve get item","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"get get item in AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get get item via AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"get get item using AWS","expected_action_key":"aws-dynamodb-get-item","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Execute Statement on AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Execute Statement in AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - execute statement","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"trigger execute statement on AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS trigger execute statement","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"run execute statement on AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS run execute statement","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"execute execute statement on AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS execute execute statement","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"trigger execute statement in AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"trigger execute statement via AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"trigger execute statement using AWS","expected_action_key":"aws-dynamodb-execute-statement","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"DynamoDB - Create Table on AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"DynamoDB - Create Table in AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS dynamodb - create table","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"create create table on AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create create table","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create a create table on AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS create a create table","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"make a create table on AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS make a create table","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"create create table in AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create table via AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"create create table using AWS","expected_action_key":"aws-dynamodb-create-table","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"CloudWatch Logs - Put Log Event on AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"CloudWatch Logs - Put Log Event in AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"AWS cloudwatch logs - put log event","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"action_name"}
+{"query":"track logs put log event on AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS track logs put log event","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"track a logs put log event on AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS track a logs put log event","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"log logs put log event on AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"canonical"}
+{"query":"AWS log logs put log event","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"app_first"}
+{"query":"track logs put log event in AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"track logs put log event via AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}
+{"query":"track logs put log event using AWS","expected_action_key":"aws-cloudwatch-logs-put-log-event","expected_app_slug":"aws","app_name":"AWS","test_type":"alt_prep"}

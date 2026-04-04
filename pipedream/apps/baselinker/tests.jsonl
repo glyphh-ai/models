@@ -1,0 +1,34 @@
+{"query":"Update Order Status on BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"Update Order Status in BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"BaseLinker update order status","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"update the order status on BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"BaseLinker update the order status","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"edit the order status on BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"BaseLinker edit the order status","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"update order status via BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"update order status using BaseLinker","expected_action_key":"baselinker-update-order-status","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"Delete Inventory Product on BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"Delete Inventory Product in BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"BaseLinker delete inventory product","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"delete the inventory product on BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"BaseLinker delete the inventory product","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"remove the inventory product on BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"BaseLinker remove the inventory product","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"delete inventory product via BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"delete inventory product using BaseLinker","expected_action_key":"baselinker-delete-inventory-product","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"Create Order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"Create Order in BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"BaseLinker create order","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"action_name"}
+{"query":"create a order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"make a order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"new order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"open a order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"start a order on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"canonical"}
+{"query":"create order via BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"create order using BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"create order with BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_prep"}
+{"query":"BaseLinker create a order","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"BaseLinker make a order","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"app_first"}
+{"query":"create purchase on BaseLinker","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_target"}
+{"query":"BaseLinker create purchase","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"alt_target"}
+{"query":"create a baselinker order","expected_action_key":"baselinker-create-order","expected_app_slug":"baselinker","app_name":"BaseLinker","test_type":"contextual"}

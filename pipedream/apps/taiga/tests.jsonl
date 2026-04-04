@@ -1,0 +1,135 @@
+{"query":"Update User Story on Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Update User Story in Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga update user story","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"update the user story on Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga update the user story","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"edit the user story on Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga edit the user story","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"update user story via Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"update user story using Taiga","expected_action_key":"taiga-update-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Update Task on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Update Task in Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga update task","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"update the task on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"edit the task on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"modify the task on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"change the task on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"update task via Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"update task using Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"update task with Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga update the task","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga edit the task","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"update story on Taiga","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"Taiga update story","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"update a taiga task","expected_action_key":"taiga-update-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Update Issue on Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Update Issue in Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga update issue","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"update the issue on Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"edit the issue on Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"modify the issue on Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"change the issue on Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"update issue via Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"update issue using Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"update issue with Taiga","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga update the issue","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga edit the issue","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"update a taiga issue","expected_action_key":"taiga-update-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Get User Story on Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Get User Story in Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga get user story","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"get the user story on Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga get the user story","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"retrieve user story on Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga retrieve user story","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"get user story via Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"get user story using Taiga","expected_action_key":"taiga-get-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Get Issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Get Issue in Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga get issue","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"get the issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"retrieve issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"fetch issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"show me the issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"pull issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"check issue on Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"get issue via Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"get issue using Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"get issue with Taiga","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga get the issue","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga retrieve issue","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"get a taiga issue","expected_action_key":"taiga-get-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Delete User Story on Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Delete User Story in Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga delete user story","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"delete the user story on Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga delete the user story","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"remove the user story on Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga remove the user story","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"delete user story via Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"delete user story using Taiga","expected_action_key":"taiga-delete-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Delete Task on Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Delete Task in Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga delete task","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"delete the task on Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"remove the task on Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"destroy the task on Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"delete task via Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"delete task using Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"delete task with Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga delete the task","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga remove the task","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"delete story on Taiga","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"Taiga delete story","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"delete a taiga task","expected_action_key":"taiga-delete-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Delete Issue on Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Delete Issue in Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga delete issue","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"delete the issue on Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"remove the issue on Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"destroy the issue on Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"delete issue via Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"delete issue using Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"delete issue with Taiga","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga delete the issue","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga remove the issue","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"delete a taiga issue","expected_action_key":"taiga-delete-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Create User Story on Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Create User Story in Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga create user story","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"create a user story on Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga create a user story","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"make a user story on Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"Taiga make a user story","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"create user story via Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"create user story using Taiga","expected_action_key":"taiga-create-userstory","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Create Task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Create Task in Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga create task","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"create a task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"make a task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"new task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"open a task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"start a task on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"create task via Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"create task using Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"create task with Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga create a task","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga make a task","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"create story on Taiga","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"Taiga create story","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_target"}
+{"query":"create a taiga task","expected_action_key":"taiga-create-task","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}
+{"query":"Create Issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Create Issue in Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"Taiga create issue","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"action_name"}
+{"query":"create a issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"make a issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"new issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"open a issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"start a issue on Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"canonical"}
+{"query":"create issue via Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"create issue using Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"create issue with Taiga","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"alt_prep"}
+{"query":"Taiga create a issue","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"Taiga make a issue","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"app_first"}
+{"query":"create a taiga issue","expected_action_key":"taiga-create-issue","expected_app_slug":"taiga","app_name":"Taiga","test_type":"contextual"}

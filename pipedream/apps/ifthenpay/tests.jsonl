@@ -1,0 +1,21 @@
+{"query":"Issue Refund on ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"Issue Refund in ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"ifthenpay issue refund","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"refund refund on ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"canonical"}
+{"query":"refund the refund on ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"canonical"}
+{"query":"refund refund in ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}
+{"query":"refund refund via ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}
+{"query":"refund refund using ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}
+{"query":"refund refund with ifthenpay","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}
+{"query":"ifthenpay refund refund","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"app_first"}
+{"query":"ifthenpay refund the refund","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"app_first"}
+{"query":"refund a ifthenpay refund","expected_action_key":"ifthenpay-issue-refund","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"contextual"}
+{"query":"Create Payment Reference on ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"Create Payment Reference in ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"ifthenpay create payment reference","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"action_name"}
+{"query":"create a payment reference on ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"canonical"}
+{"query":"ifthenpay create a payment reference","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"app_first"}
+{"query":"make a payment reference on ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"canonical"}
+{"query":"ifthenpay make a payment reference","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"app_first"}
+{"query":"create payment reference via ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}
+{"query":"create payment reference using ifthenpay","expected_action_key":"ifthenpay-create-payment-reference","expected_app_slug":"ifthenpay","app_name":"ifthenpay","test_type":"alt_prep"}

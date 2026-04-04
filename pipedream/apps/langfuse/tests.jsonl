@@ -1,0 +1,19 @@
+{"query":"Log Trace on Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"Log Trace in Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"Langfuse log trace","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"track trace on Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"canonical"}
+{"query":"Langfuse track trace","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"app_first"}
+{"query":"track a trace on Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"canonical"}
+{"query":"Langfuse track a trace","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"app_first"}
+{"query":"track trace in Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"alt_prep"}
+{"query":"track trace via Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"alt_prep"}
+{"query":"track trace using Langfuse","expected_action_key":"langfuse-log-trace","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"alt_prep"}
+{"query":"Add Feedback on Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"Add Feedback in Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"Langfuse add feedback","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"action_name"}
+{"query":"add a feedback on Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"canonical"}
+{"query":"Langfuse add a feedback","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"app_first"}
+{"query":"add new feedback on Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"canonical"}
+{"query":"Langfuse add new feedback","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"app_first"}
+{"query":"add feedback via Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"alt_prep"}
+{"query":"add feedback using Langfuse","expected_action_key":"langfuse-add-feedback","expected_app_slug":"langfuse","app_name":"Langfuse","test_type":"alt_prep"}

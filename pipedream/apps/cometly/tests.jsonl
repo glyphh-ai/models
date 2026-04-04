@@ -1,0 +1,17 @@
+{"query":"Send Event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"action_name"}
+{"query":"Send Event in Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"action_name"}
+{"query":"Cometly send event","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"action_name"}
+{"query":"send a event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"canonical"}
+{"query":"post a event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"canonical"}
+{"query":"send out event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"canonical"}
+{"query":"fire off event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"canonical"}
+{"query":"send event via Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_prep"}
+{"query":"send event using Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_prep"}
+{"query":"send event with Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_prep"}
+{"query":"Cometly send a event","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"app_first"}
+{"query":"Cometly post a event","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"app_first"}
+{"query":"send meeting on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_target"}
+{"query":"Cometly send meeting","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_target"}
+{"query":"send calendar event on Cometly","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_target"}
+{"query":"Cometly send calendar event","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"alt_target"}
+{"query":"send a cometly event","expected_action_key":"cometly-send-event","expected_app_slug":"cometly","app_name":"Cometly","test_type":"contextual"}

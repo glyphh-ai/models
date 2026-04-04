@@ -1,0 +1,64 @@
+{
+  "queries": [
+    {
+      "question": "how do I install the Glyphh SDK",
+      "_expected_category": "getting_started",
+      "_expected_match": "gs_install"
+    },
+    {
+      "question": "what is a Glyph and how does encoding work",
+      "_expected_category": "sdk",
+      "_expected_match": "sdk_what_glyph"
+    },
+    {
+      "question": "how do I start the runtime server locally",
+      "_expected_category": "runtime",
+      "_expected_match": "rt_start_server"
+    },
+    {
+      "question": "what CLI commands are available",
+      "_expected_category": "cli",
+      "_expected_match": "cli_commands"
+    },
+    {
+      "question": "how do I build a custom model",
+      "_expected_category": "models",
+      "_expected_match": "mod_custom_model"
+    },
+    {
+      "question": "what is hyperdimensional computing and how does HDC work",
+      "_expected_category": "architecture",
+      "_expected_match": "arch_hdc"
+    },
+    {
+      "question": "how do I deploy Glyphh to Heroku",
+      "_expected_category": "deployment",
+      "_expected_match": "dep_heroku"
+    },
+    {
+      "question": "what are the pricing tiers",
+      "_expected_category": "pricing",
+      "_expected_match": "pr_tiers"
+    },
+    {
+      "question": "how does authentication work with API tokens",
+      "_expected_category": "security",
+      "_expected_match": "sec_api_token"
+    },
+    {
+      "question": "my similarity scores are really low",
+      "_expected_category": "troubleshooting",
+      "_expected_match": "ts_low_scores"
+    },
+    {
+      "question": "how do I get help or contact support",
+      "_expected_category": "general",
+      "_expected_match": "gen_support"
+    },
+    {
+      "question": "what database does the runtime use",
+      "_expected_category": "runtime",
+      "_expected_match": "rt_database"
+    }
+  ]
+}

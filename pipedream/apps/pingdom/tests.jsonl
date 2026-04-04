@@ -1,0 +1,9 @@
+{"query":"Create HTTP Check on Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"action_name"}
+{"query":"Create HTTP Check in Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"action_name"}
+{"query":"Pingdom create http check","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"action_name"}
+{"query":"create a http check on Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"canonical"}
+{"query":"Pingdom create a http check","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"app_first"}
+{"query":"make a http check on Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"canonical"}
+{"query":"Pingdom make a http check","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"app_first"}
+{"query":"create http check via Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"alt_prep"}
+{"query":"create http check using Pingdom","expected_action_key":"pingdom-create-http-check","expected_app_slug":"pingdom","app_name":"Pingdom","test_type":"alt_prep"}

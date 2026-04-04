@@ -1,0 +1,37 @@
+{"query":"Run Search on Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Run Search in Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Splunk run search","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"trigger search on Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"Splunk trigger search","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"execute search on Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"Splunk execute search","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"trigger search in Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"trigger search via Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"trigger search using Splunk","expected_action_key":"splunk-run-search","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"Get Search Job Status on Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Get Search Job Status in Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Splunk get search job status","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"get the search job status on Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"Splunk get the search job status","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"retrieve search job status on Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"Splunk retrieve search job status","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"get search job status via Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"get search job status using Splunk","expected_action_key":"splunk-get-search-job-status","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"Create Event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Create Event in Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"Splunk create event","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"action_name"}
+{"query":"create a event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"make a event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"new event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"open a event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"start a event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"canonical"}
+{"query":"create event via Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"create event using Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"create event with Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_prep"}
+{"query":"Splunk create a event","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"Splunk make a event","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"app_first"}
+{"query":"create meeting on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_target"}
+{"query":"Splunk create meeting","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_target"}
+{"query":"create calendar event on Splunk","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_target"}
+{"query":"Splunk create calendar event","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"alt_target"}
+{"query":"create a splunk event","expected_action_key":"splunk-create-event","expected_app_slug":"splunk","app_name":"Splunk","test_type":"contextual"}

@@ -1,0 +1,51 @@
+{"query":"Create Organization on Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Create Organization in Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Agendor create organization","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"create a organization on Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"Agendor create a organization","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"make a organization on Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"Agendor make a organization","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"create organization via Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"create organization using Agendor","expected_action_key":"agendor-create-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"Find Person on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Find Person in Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Agendor find person","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"search for person on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"look for person on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"search person on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"locate person on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"search for person in Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"search for person via Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"search for person using Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"search for person with Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"Agendor search for person","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"Agendor look for person","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"search for member on Agendor","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_target"}
+{"query":"Agendor search for member","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_target"}
+{"query":"search for a agendor person","expected_action_key":"agendor-find-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"contextual"}
+{"query":"Find Organization on Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Find Organization in Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Agendor find organization","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"search for organization on Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"Agendor search for organization","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"look for organization on Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"Agendor look for organization","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"search for organization in Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"search for organization via Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"search for organization using Agendor","expected_action_key":"agendor-find-organization","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"Create Person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Create Person in Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"Agendor create person","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"action_name"}
+{"query":"create a person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"make a person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"new person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"open a person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"start a person on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"canonical"}
+{"query":"create person via Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"create person using Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"create person with Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_prep"}
+{"query":"Agendor create a person","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"Agendor make a person","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"app_first"}
+{"query":"create member on Agendor","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_target"}
+{"query":"Agendor create member","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"alt_target"}
+{"query":"create a agendor person","expected_action_key":"agendor-create-person","expected_app_slug":"agendor","app_name":"Agendor","test_type":"contextual"}

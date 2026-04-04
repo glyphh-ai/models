@@ -1,0 +1,249 @@
+{"query":"Update Issue on Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Update Issue in Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira update issue","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"update the issue on Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"edit the issue on Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"modify the issue on Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"change the issue on Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"update issue via Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"update issue using Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"update issue with Jira","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira update the issue","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira edit the issue","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"update a jira issue","expected_action_key":"jira-update-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Update Comment on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Update Comment in Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira update comment","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"update the comment on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"edit the comment on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"modify the comment on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"change the comment on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"update comment via Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"update comment using Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"update comment with Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira update the comment","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira edit the comment","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"update note on Jira","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira update note","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"update a jira comment","expected_action_key":"jira-update-comment","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Transition Issue on Jira","expected_action_key":"jira-transition-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Transition Issue in Jira","expected_action_key":"jira-transition-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira transition issue","expected_action_key":"jira-transition-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Search Issues with JQL on Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Search Issues with JQL in Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira search issues with jql","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"search for issues jql on Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira search for issues jql","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"find issues jql on Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira find issues jql","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"look for issues jql on Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira look for issues jql","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"search for issues jql in Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"search for issues jql via Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"search for issues jql using Jira","expected_action_key":"jira-search-issues-with-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Search Issues with JQL on Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Search Issues with JQL in Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira search issues with jql","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"search for issues jql on Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira search for issues jql","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"find issues jql on Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira find issues jql","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"look for issues jql on Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira look for issues jql","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"search for issues jql in Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"search for issues jql via Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"search for issues jql using Jira","expected_action_key":"jira-search-issues-with-jql-post","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"List Issue Comments on Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"List Issue Comments in Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira list issue comments","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"list all issue comments on Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira list all issue comments","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"show all issue comments on Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira show all issue comments","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"list issue comments via Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"list issue comments using Jira","expected_action_key":"jira-list-issue-comments","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Get Users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get Users in Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get users","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"retrieve users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"fetch users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"show me the users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"pull users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"check users on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"get users via Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get users using Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get users with Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira get the users","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira retrieve users","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get member on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira get member","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"get person on Jira","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira get person","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"get a jira users","expected_action_key":"jira-get-users","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Get User on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get User in Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get user","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"retrieve user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"fetch user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"show me the user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"pull user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"check user on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"get user via Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get user using Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get user with Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira get the user","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira retrieve user","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get member on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira get member","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"get person on Jira","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira get person","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"get a jira user","expected_action_key":"jira-get-user","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Get Transitions on Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get Transitions in Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get transitions","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the transitions on Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira get the transitions","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"retrieve transitions on Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira retrieve transitions","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get transitions via Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get transitions using Jira","expected_action_key":"jira-get-transitions","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Get Task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get Task in Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get task","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"retrieve task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"fetch task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"show me the task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"pull task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"check task on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"get task via Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get task using Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get task with Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira get the task","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira retrieve task","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get story on Jira","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"Jira get story","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_target"}
+{"query":"get a jira task","expected_action_key":"jira-get-task","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Get Issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get Issue in Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get issue","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"retrieve issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"fetch issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"show me the issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"pull issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"check issue on Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"get issue via Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get issue using Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get issue with Jira","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira get the issue","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira retrieve issue","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get a jira issue","expected_action_key":"jira-get-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Get Issue Picker Suggestions on Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get Issue Picker Suggestions in Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get issue picker suggestions","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the issue picker suggestions on Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira get the issue picker suggestions","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"retrieve issue picker suggestions on Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira retrieve issue picker suggestions","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get issue picker suggestions via Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get issue picker suggestions using Jira","expected_action_key":"jira-get-issue-picker-suggestions","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Get All Projects on Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Get All Projects in Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira get all projects","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"get the all projects on Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira get the all projects","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"retrieve all projects on Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira retrieve all projects","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"get all projects via Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"get all projects using Jira","expected_action_key":"jira-get-all-projects","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Delete Project on Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Delete Project in Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira delete project","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"delete the project on Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira delete the project","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"remove the project on Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira remove the project","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"delete project via Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"delete project using Jira","expected_action_key":"jira-delete-project","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Create Jira Version in Project on Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Create Jira Version in Project in Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira create jira version in project","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"create jira version project on Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira create jira version project","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"create a jira version project on Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira create a jira version project","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"make a jira version project on Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira make a jira version project","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"create jira version project in Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"create jira version project via Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"create jira version project using Jira","expected_action_key":"jira-create-version","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Create Issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Create Issue in Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira create issue","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"create a issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"make a issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"new issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"open a issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"start a issue on Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"create issue via Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"create issue using Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"create issue with Jira","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira create a issue","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira make a issue","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"create a jira issue","expected_action_key":"jira-create-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Count Issues Using JQL on Jira","expected_action_key":"jira-count-issues-using-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Count Issues Using JQL in Jira","expected_action_key":"jira-count-issues-using-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira count issues using jql","expected_action_key":"jira-count-issues-using-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Check Issues Against JQL on Jira","expected_action_key":"jira-check-issues-against-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Check Issues Against JQL in Jira","expected_action_key":"jira-check-issues-against-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira check issues against jql","expected_action_key":"jira-check-issues-against-jql","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Assign Issue on Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Assign Issue in Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira assign issue","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"assign the issue on Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"assign a issue on Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"assign issue via Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"assign issue using Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"assign issue with Jira","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Jira assign the issue","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"Jira assign a issue","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"assign a jira issue","expected_action_key":"jira-assign-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"contextual"}
+{"query":"Add Watcher To Issue on Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Add Watcher To Issue in Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira add watcher to issue","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"add watcher issue on Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add watcher issue","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add a watcher issue on Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add a watcher issue","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add new watcher issue on Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add new watcher issue","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add watcher issue in Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add watcher issue via Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add watcher issue using Jira","expected_action_key":"jira-add-watcher-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Add Comment To Issue on Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Add Comment To Issue in Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira add comment to issue","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"add comment issue on Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add comment issue","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add a comment issue on Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add a comment issue","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add new comment issue on Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add new comment issue","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add comment issue in Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add comment issue via Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add comment issue using Jira","expected_action_key":"jira-add-comment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"Add Attachment To Issue on Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Add Attachment To Issue in Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"Jira add attachment to issue","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"action_name"}
+{"query":"add attachment issue on Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add attachment issue","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add a attachment issue on Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add a attachment issue","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add new attachment issue on Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"canonical"}
+{"query":"Jira add new attachment issue","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"app_first"}
+{"query":"add attachment issue in Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add attachment issue via Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}
+{"query":"add attachment issue using Jira","expected_action_key":"jira-add-attachment-to-issue","expected_app_slug":"jira","app_name":"Jira","test_type":"alt_prep"}

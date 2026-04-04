@@ -1,0 +1,9 @@
+{"query":"Create Shipping Order on Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"action_name"}
+{"query":"Create Shipping Order in Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"action_name"}
+{"query":"Shipday create shipping order","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"action_name"}
+{"query":"create a shipping order on Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"canonical"}
+{"query":"Shipday create a shipping order","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"app_first"}
+{"query":"make a shipping order on Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"canonical"}
+{"query":"Shipday make a shipping order","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"app_first"}
+{"query":"create shipping order via Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"alt_prep"}
+{"query":"create shipping order using Shipday","expected_action_key":"shipday-create-order","expected_app_slug":"shipday","app_name":"Shipday","test_type":"alt_prep"}

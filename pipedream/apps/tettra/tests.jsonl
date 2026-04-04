@@ -1,0 +1,19 @@
+{"query":"Suggest Page on Tettra","expected_action_key":"tettra-suggest-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"Suggest Page in Tettra","expected_action_key":"tettra-suggest-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"Tettra suggest page","expected_action_key":"tettra-suggest-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"Create Page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"Create Page in Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"Tettra create page","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"action_name"}
+{"query":"create a page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"canonical"}
+{"query":"make a page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"canonical"}
+{"query":"new page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"canonical"}
+{"query":"open a page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"canonical"}
+{"query":"start a page on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"canonical"}
+{"query":"create page via Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"alt_prep"}
+{"query":"create page using Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"alt_prep"}
+{"query":"create page with Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"alt_prep"}
+{"query":"Tettra create a page","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"app_first"}
+{"query":"Tettra make a page","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"app_first"}
+{"query":"create document on Tettra","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"alt_target"}
+{"query":"Tettra create document","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"alt_target"}
+{"query":"create a tettra page","expected_action_key":"tettra-create-page","expected_app_slug":"tettra","app_name":"Tettra","test_type":"contextual"}

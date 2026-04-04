@@ -1,0 +1,14 @@
+{"query":"Create Note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"action_name"}
+{"query":"Create Note in Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"action_name"}
+{"query":"Cloze create note","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"action_name"}
+{"query":"create a note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"canonical"}
+{"query":"make a note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"canonical"}
+{"query":"new note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"canonical"}
+{"query":"open a note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"canonical"}
+{"query":"start a note on Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"canonical"}
+{"query":"create note via Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"alt_prep"}
+{"query":"create note using Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"alt_prep"}
+{"query":"create note with Cloze","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"alt_prep"}
+{"query":"Cloze create a note","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"app_first"}
+{"query":"Cloze make a note","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"app_first"}
+{"query":"create a cloze note","expected_action_key":"cloze-create-note","expected_app_slug":"cloze","app_name":"Cloze","test_type":"contextual"}

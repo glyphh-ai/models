@@ -1,0 +1,35 @@
+{"query":"Update Customer on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Update Customer in Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Customer Fields update customer","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Update Customer on customer_fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"update the customer on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"edit the customer on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"modify the customer on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"change the customer on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"update customer via Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"update customer using Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"update customer with Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"Customer Fields update the customer","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"app_first"}
+{"query":"Customer Fields edit the customer","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"app_first"}
+{"query":"update account on Customer Fields","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_target"}
+{"query":"Customer Fields update account","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_target"}
+{"query":"customer_fields update customer","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_app_name"}
+{"query":"update a customer fields customer","expected_action_key":"customer_fields-update-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"contextual"}
+{"query":"Create Customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Create Customer in Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Customer Fields create customer","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"Create Customer on customer_fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"action_name"}
+{"query":"create a customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"make a customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"new customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"open a customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"start a customer on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"canonical"}
+{"query":"create customer via Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"create customer using Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"create customer with Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_prep"}
+{"query":"Customer Fields create a customer","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"app_first"}
+{"query":"Customer Fields make a customer","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"app_first"}
+{"query":"create account on Customer Fields","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_target"}
+{"query":"Customer Fields create account","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_target"}
+{"query":"customer_fields create customer","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"alt_app_name"}
+{"query":"create a customer fields customer","expected_action_key":"customer_fields-create-customer","expected_app_slug":"customer_fields","app_name":"Customer Fields","test_type":"contextual"}

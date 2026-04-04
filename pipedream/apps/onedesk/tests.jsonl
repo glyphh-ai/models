@@ -1,0 +1,96 @@
+{"query":"Update Item on OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Update Item in OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk update item","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"update the item on OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"edit the item on OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"modify the item on OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"change the item on OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"update item via OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"update item using OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"update item with OneDesk","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"OneDesk update the item","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"OneDesk edit the item","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"update a onedesk item","expected_action_key":"onedesk-update-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"contextual"}
+{"query":"Find Project on OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Find Project in OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk find project","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"search for project on OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"OneDesk search for project","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"look for project on OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"OneDesk look for project","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"search for project in OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"search for project via OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"search for project using OneDesk","expected_action_key":"onedesk-find-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"Find Item on OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Find Item in OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk find item","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"search for item on OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"look for item on OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"search item on OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"locate item on OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"search for item in OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"search for item via OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"search for item using OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"search for item with OneDesk","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"OneDesk search for item","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"OneDesk look for item","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"search for a onedesk item","expected_action_key":"onedesk-find-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"contextual"}
+{"query":"Create User on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Create User in OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk create user","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"create a user on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"make a user on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"new user on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"open a user on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"start a user on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"create user via OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create user using OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create user with OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"OneDesk create a user","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"OneDesk make a user","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"create member on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"OneDesk create member","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"create person on OneDesk","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"OneDesk create person","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"create a onedesk user","expected_action_key":"onedesk-create-user","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"contextual"}
+{"query":"Create Project on OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Create Project in OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk create project","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"create a project on OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"OneDesk create a project","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"make a project on OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"OneDesk make a project","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"create project via OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create project using OneDesk","expected_action_key":"onedesk-create-project","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"Create Message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Create Message in OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk create message","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"create a message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"make a message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"new message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"open a message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"start a message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"create message via OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create message using OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create message with OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"OneDesk create a message","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"OneDesk make a message","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"create msg on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"OneDesk create msg","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"create chat message on OneDesk","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"OneDesk create chat message","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_target"}
+{"query":"create a onedesk message","expected_action_key":"onedesk-create-message","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"contextual"}
+{"query":"Create Item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"Create Item in OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"OneDesk create item","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"action_name"}
+{"query":"create a item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"make a item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"new item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"open a item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"start a item on OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"canonical"}
+{"query":"create item via OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create item using OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"create item with OneDesk","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"alt_prep"}
+{"query":"OneDesk create a item","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"OneDesk make a item","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"app_first"}
+{"query":"create a onedesk item","expected_action_key":"onedesk-create-item","expected_app_slug":"onedesk","app_name":"OneDesk","test_type":"contextual"}

@@ -1,0 +1,135 @@
+{"query":"Update Issue on GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Update Issue in GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab update issue","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"update the issue on GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"edit the issue on GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"modify the issue on GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"change the issue on GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"update issue via GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"update issue using GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"update issue with GitLab","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab update the issue","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab edit the issue","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"update a gitlab issue","expected_action_key":"gitlab-update-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Update Epic on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Update Epic in GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab update epic","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"update the epic on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"edit the epic on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"modify the epic on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"change the epic on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"update epic via GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"update epic using GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"update epic with GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab update the epic","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab edit the epic","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"update story on GitLab","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"GitLab update story","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"update a gitlab epic","expected_action_key":"gitlab-update-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Search Issues on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Search Issues in GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab search issues","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"search for issues on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"find issues on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"look for issues on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"locate issues on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"search for issues in GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"search for issues via GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"search for issues using GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"search for issues with GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab search for issues","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab find issues","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab look for issues","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"search for issue on GitLab","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"GitLab search for issue","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"search for a gitlab issues","expected_action_key":"gitlab-search-issues","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"List Repo Branches on GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"List Repo Branches in GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab list repo branches","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"list all repo branches on GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"GitLab list all repo branches","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"show all repo branches on GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"GitLab show all repo branches","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"list repo branches via GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"list repo branches using GitLab","expected_action_key":"gitlab-list-repo-branches","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"List Commits on GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"List Commits in GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab list commits","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"list all commits on GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"show all commits on GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"get all commits on GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"show me all commits on GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"list commits via GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"list commits using GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"list commits with GitLab","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab list all commits","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab show all commits","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"list a gitlab commits","expected_action_key":"gitlab-list-commits","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Get Repo Branch on GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Get Repo Branch in GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab get repo branch","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"get the repo branch on GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"GitLab get the repo branch","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"retrieve repo branch on GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"GitLab retrieve repo branch","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"get repo branch via GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"get repo branch using GitLab","expected_action_key":"gitlab-get-repo-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"Get Issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Get Issue in GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab get issue","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"get the issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"retrieve issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"fetch issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"show me the issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"pull issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"check issue on GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"get issue via GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"get issue using GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"get issue with GitLab","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab get the issue","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab retrieve issue","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"get a gitlab issue","expected_action_key":"gitlab-get-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Create issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Create issue in GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab create issue","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"create a issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"make a issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"new issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"open a issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"start a issue on GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"create issue via GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create issue using GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create issue with GitLab","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab create a issue","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab make a issue","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"create a gitlab issue","expected_action_key":"gitlab-create-issue","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Create Epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Create Epic in GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab create epic","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"create a epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"make a epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"new epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"open a epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"start a epic on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"create epic via GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create epic using GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create epic with GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab create a epic","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab make a epic","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"create story on GitLab","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"GitLab create story","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_target"}
+{"query":"create a gitlab epic","expected_action_key":"gitlab-create-epic","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}
+{"query":"Create Branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"Create Branch in GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"GitLab create branch","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"action_name"}
+{"query":"create a branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"make a branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"new branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"open a branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"start a branch on GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"canonical"}
+{"query":"create branch via GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create branch using GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"create branch with GitLab","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"alt_prep"}
+{"query":"GitLab create a branch","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"GitLab make a branch","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"app_first"}
+{"query":"create a gitlab branch","expected_action_key":"gitlab-create-branch","expected_app_slug":"gitlab","app_name":"GitLab","test_type":"contextual"}

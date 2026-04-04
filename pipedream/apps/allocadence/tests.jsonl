@@ -1,0 +1,18 @@
+{"query":"Create Purchase Order on Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"Create Purchase Order in Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"Allocadence create purchase order","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"create a purchase order on Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"canonical"}
+{"query":"Allocadence create a purchase order","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"app_first"}
+{"query":"make a purchase order on Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"canonical"}
+{"query":"Allocadence make a purchase order","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"app_first"}
+{"query":"create purchase order via Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"alt_prep"}
+{"query":"create purchase order using Allocadence","expected_action_key":"allocadence-create-purchase-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"alt_prep"}
+{"query":"Create Customer Order on Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"Create Customer Order in Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"Allocadence create customer order","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"action_name"}
+{"query":"create a customer order on Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"canonical"}
+{"query":"Allocadence create a customer order","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"app_first"}
+{"query":"make a customer order on Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"canonical"}
+{"query":"Allocadence make a customer order","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"app_first"}
+{"query":"create customer order via Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"alt_prep"}
+{"query":"create customer order using Allocadence","expected_action_key":"allocadence-create-customer-order","expected_app_slug":"allocadence","app_name":"Allocadence","test_type":"alt_prep"}

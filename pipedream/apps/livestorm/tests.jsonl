@@ -1,0 +1,104 @@
+{"query":"Update Event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Update Event in Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm update event","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"update the event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"edit the event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"modify the event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"change the event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"update event via Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"update event using Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"update event with Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"Livestorm update the event","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"Livestorm edit the event","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"update meeting on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm update meeting","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"update calendar event on Livestorm","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm update calendar event","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"update a livestorm event","expected_action_key":"livestorm-update-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"contextual"}
+{"query":"Register Someone For A Session on Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Register Someone For A Session in Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm register someone for a session","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"create someone session on Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm create someone session","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"create a someone session on Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm create a someone session","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"make a someone session on Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm make a someone session","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"create someone session in Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"create someone session via Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"create someone session using Livestorm","expected_action_key":"livestorm-register-someone-for-session","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"List Sessions on Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"List Sessions in Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm list sessions","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"list all sessions on Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm list all sessions","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"show all sessions on Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm show all sessions","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"list sessions via Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"list sessions using Livestorm","expected_action_key":"livestorm-list-sessions","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"List Events on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"List Events in Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm list events","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"list all events on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"show all events on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"get all events on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"show me all events on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"list events via Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"list events using Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"list events with Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"Livestorm list all events","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"Livestorm show all events","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"list meeting on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm list meeting","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"list calendar event on Livestorm","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm list calendar event","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"list a livestorm events","expected_action_key":"livestorm-list-events","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"contextual"}
+{"query":"List Attendees From Event on Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"List Attendees From Event in Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm list attendees from event","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"list attendees event on Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm list attendees event","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"list all attendees event on Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm list all attendees event","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"show all attendees event on Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"Livestorm show all attendees event","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"list attendees event in Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"list attendees event via Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"list attendees event using Livestorm","expected_action_key":"livestorm-list-attendees-from-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"Get Event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Get Event in Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm get event","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"get the event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"retrieve event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"fetch event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"show me the event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"pull event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"check event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"get event via Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"get event using Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"get event with Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"Livestorm get the event","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"Livestorm retrieve event","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"get meeting on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm get meeting","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"get calendar event on Livestorm","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm get calendar event","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"get a livestorm event","expected_action_key":"livestorm-get-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"contextual"}
+{"query":"Create Event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Create Event in Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"Livestorm create event","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"action_name"}
+{"query":"create a event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"make a event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"new event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"open a event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"start a event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"canonical"}
+{"query":"create event via Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"create event using Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"create event with Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_prep"}
+{"query":"Livestorm create a event","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"Livestorm make a event","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"app_first"}
+{"query":"create meeting on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm create meeting","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"create calendar event on Livestorm","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"Livestorm create calendar event","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"alt_target"}
+{"query":"create a livestorm event","expected_action_key":"livestorm-create-event","expected_app_slug":"livestorm","app_name":"Livestorm","test_type":"contextual"}

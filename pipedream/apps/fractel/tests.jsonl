@@ -1,0 +1,12 @@
+{"query":"Send SMS or MMS on FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}
+{"query":"Send SMS or MMS in FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}
+{"query":"FracTEL send sms or mms","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}
+{"query":"send a sms or mms on FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"canonical"}
+{"query":"FracTEL send a sms or mms","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"app_first"}
+{"query":"post a sms or mms on FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"canonical"}
+{"query":"FracTEL post a sms or mms","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"app_first"}
+{"query":"send sms or mms via FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"alt_prep"}
+{"query":"send sms or mms using FracTEL","expected_action_key":"fractel-send-sms-mms","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"alt_prep"}
+{"query":"Call Phone on FracTEL","expected_action_key":"fractel-call-phone","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}
+{"query":"Call Phone in FracTEL","expected_action_key":"fractel-call-phone","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}
+{"query":"FracTEL call phone","expected_action_key":"fractel-call-phone","expected_app_slug":"fractel","app_name":"FracTEL","test_type":"action_name"}

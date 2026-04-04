@@ -1,0 +1,21 @@
+{"query":"Grant User Access on Uscreen","expected_action_key":"uscreen-grant-user-access","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"Grant User Access in Uscreen","expected_action_key":"uscreen-grant-user-access","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"Uscreen grant user access","expected_action_key":"uscreen-grant-user-access","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"Create User on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"Create User in Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"Uscreen create user","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"action_name"}
+{"query":"create a user on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"canonical"}
+{"query":"make a user on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"canonical"}
+{"query":"new user on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"canonical"}
+{"query":"open a user on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"canonical"}
+{"query":"start a user on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"canonical"}
+{"query":"create user via Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_prep"}
+{"query":"create user using Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_prep"}
+{"query":"create user with Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_prep"}
+{"query":"Uscreen create a user","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"app_first"}
+{"query":"Uscreen make a user","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"app_first"}
+{"query":"create member on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_target"}
+{"query":"Uscreen create member","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_target"}
+{"query":"create person on Uscreen","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_target"}
+{"query":"Uscreen create person","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"alt_target"}
+{"query":"create a uscreen user","expected_action_key":"uscreen-create-user","expected_app_slug":"uscreen","app_name":"Uscreen","test_type":"contextual"}

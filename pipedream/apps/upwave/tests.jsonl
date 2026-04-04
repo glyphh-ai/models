@@ -1,0 +1,9 @@
+{"query":"Create Card on Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"action_name"}
+{"query":"Create Card in Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"action_name"}
+{"query":"Upwave create card","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"action_name"}
+{"query":"create a card on Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"canonical"}
+{"query":"Upwave create a card","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"app_first"}
+{"query":"make a card on Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"canonical"}
+{"query":"Upwave make a card","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"app_first"}
+{"query":"create card via Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"alt_prep"}
+{"query":"create card using Upwave","expected_action_key":"upwave-create-card","expected_app_slug":"upwave","app_name":"Upwave","test_type":"alt_prep"}

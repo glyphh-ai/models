@@ -1,0 +1,169 @@
+{"query":"Send SMS Verification on Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Send SMS Verification in Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio send sms verification","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"send a sms verification on Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio send a sms verification","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"post a sms verification on Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio post a sms verification","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"send sms verification via Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"send sms verification using Twilio","expected_action_key":"twilio-send-sms-verification","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Send Message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Send Message in Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio send message","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"send a message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"post a message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"send out message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"fire off message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"send message via Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"send message using Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"send message with Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Twilio send a message","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"Twilio post a message","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"send msg on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio send msg","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"send chat message on Twilio","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio send chat message","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"send a twilio message","expected_action_key":"twilio-send-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"contextual"}
+{"query":"Phone Number Lookup on Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Phone Number Lookup in Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio phone number lookup","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"get number lookup on Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio get number lookup","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"get the number lookup on Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio get the number lookup","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"retrieve number lookup on Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio retrieve number lookup","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"get number lookup in Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get number lookup via Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get number lookup using Twilio","expected_action_key":"twilio-phone-number-lookup","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Make a Phone Call on Twilio","expected_action_key":"twilio-make-phone-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Make a Phone Call in Twilio","expected_action_key":"twilio-make-phone-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio make a phone call","expected_action_key":"twilio-make-phone-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"List Transcripts on Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"List Transcripts in Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio list transcripts","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"list all transcripts on Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio list all transcripts","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"show all transcripts on Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio show all transcripts","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"list transcripts via Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"list transcripts using Twilio","expected_action_key":"twilio-list-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"List Messages on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"List Messages in Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio list messages","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"list all messages on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"show all messages on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"get all messages on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"show me all messages on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"list messages via Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"list messages using Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"list messages with Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Twilio list all messages","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"Twilio show all messages","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"list msg on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio list msg","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"list chat message on Twilio","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio list chat message","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"list a twilio messages","expected_action_key":"twilio-list-messages","expected_app_slug":"twilio","app_name":"Twilio","test_type":"contextual"}
+{"query":"List Message Media on Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"List Message Media in Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio list message media","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"list all message media on Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio list all message media","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"show all message media on Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio show all message media","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"list message media via Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"list message media using Twilio","expected_action_key":"twilio-list-message-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"List Calls on Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"List Calls in Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio list calls","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"list all calls on Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio list all calls","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"show all calls on Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio show all calls","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"list calls via Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"list calls using Twilio","expected_action_key":"twilio-list-calls","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Get Transcripts on Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Get Transcripts in Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio get transcripts","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"get the transcripts on Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio get the transcripts","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"retrieve transcripts on Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio retrieve transcripts","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"get transcripts via Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get transcripts using Twilio","expected_action_key":"twilio-get-transcripts","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Get Message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Get Message in Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio get message","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"get the message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"retrieve message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"fetch message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"show me the message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"pull message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"check message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"get message via Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get message using Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get message with Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Twilio get the message","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"Twilio retrieve message","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"get msg on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio get msg","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"get chat message on Twilio","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio get chat message","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"get a twilio message","expected_action_key":"twilio-get-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"contextual"}
+{"query":"Get Call on Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Get Call in Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio get call","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"get the call on Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio get the call","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"retrieve call on Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio retrieve call","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"get call via Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"get call using Twilio","expected_action_key":"twilio-get-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Download Recording Media on Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Download Recording Media in Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio download recording media","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"export recording media on Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio export recording media","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"export the recording media on Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio export the recording media","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"export recording media in Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"export recording media via Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"export recording media using Twilio","expected_action_key":"twilio-download-recording-media","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Delete Message on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Delete Message in Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio delete message","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"delete the message on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"remove the message on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"destroy the message on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"delete message via Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"delete message using Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"delete message with Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Twilio delete the message","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"Twilio remove the message","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"delete msg on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio delete msg","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"delete chat message on Twilio","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"Twilio delete chat message","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_target"}
+{"query":"delete a twilio message","expected_action_key":"twilio-delete-message","expected_app_slug":"twilio","app_name":"Twilio","test_type":"contextual"}
+{"query":"Delete Call on Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Delete Call in Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio delete call","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"delete the call on Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio delete the call","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"remove the call on Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio remove the call","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"delete call via Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"delete call using Twilio","expected_action_key":"twilio-delete-call","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Create Verification Service on Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Create Verification Service in Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio create verification service","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"create a verification service on Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio create a verification service","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"make a verification service on Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"canonical"}
+{"query":"Twilio make a verification service","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"app_first"}
+{"query":"create verification service via Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"create verification service using Twilio","expected_action_key":"twilio-create-verification-service","expected_app_slug":"twilio","app_name":"Twilio","test_type":"alt_prep"}
+{"query":"Check Verification Token on Twilio","expected_action_key":"twilio-check-verification-token","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Check Verification Token in Twilio","expected_action_key":"twilio-check-verification-token","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}
+{"query":"Twilio check verification token","expected_action_key":"twilio-check-verification-token","expected_app_slug":"twilio","app_name":"Twilio","test_type":"action_name"}

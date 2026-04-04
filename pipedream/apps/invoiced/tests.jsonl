@@ -1,0 +1,48 @@
+{"query":"Create Payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Create Payment in Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Invoiced create payment","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"create a payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"make a payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"new payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"open a payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"start a payment on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"create payment via Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create payment using Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create payment with Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"Invoiced create a payment","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"Invoiced make a payment","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"create charge on Invoiced","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"Invoiced create charge","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"create a invoiced payment","expected_action_key":"invoiced-create-payment","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"contextual"}
+{"query":"Create Invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Create Invoice in Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Invoiced create invoice","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"create a invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"make a invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"new invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"open a invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"start a invoice on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"create invoice via Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create invoice using Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create invoice with Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"Invoiced create a invoice","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"Invoiced make a invoice","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"create bill on Invoiced","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"Invoiced create bill","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"create a invoiced invoice","expected_action_key":"invoiced-create-invoice","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"contextual"}
+{"query":"Create Customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Create Customer in Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"Invoiced create customer","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"action_name"}
+{"query":"create a customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"make a customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"new customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"open a customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"start a customer on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"canonical"}
+{"query":"create customer via Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create customer using Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"create customer with Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_prep"}
+{"query":"Invoiced create a customer","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"Invoiced make a customer","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"app_first"}
+{"query":"create account on Invoiced","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"Invoiced create account","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"alt_target"}
+{"query":"create a invoiced customer","expected_action_key":"invoiced-create-customer","expected_app_slug":"invoiced","app_name":"Invoiced","test_type":"contextual"}

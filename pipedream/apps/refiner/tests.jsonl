@@ -1,0 +1,19 @@
+{"query":"Track Event on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}
+{"query":"Track Event in Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}
+{"query":"Refiner track event","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}
+{"query":"track a event on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"canonical"}
+{"query":"log event on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"canonical"}
+{"query":"record event on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"canonical"}
+{"query":"track event via Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_prep"}
+{"query":"track event using Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_prep"}
+{"query":"track event with Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_prep"}
+{"query":"Refiner track a event","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"app_first"}
+{"query":"Refiner log event","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"app_first"}
+{"query":"track meeting on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_target"}
+{"query":"Refiner track meeting","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_target"}
+{"query":"track calendar event on Refiner","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_target"}
+{"query":"Refiner track calendar event","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"alt_target"}
+{"query":"track a refiner event","expected_action_key":"refiner-track-event","expected_app_slug":"refiner","app_name":"Refiner","test_type":"contextual"}
+{"query":"Identify User on Refiner","expected_action_key":"refiner-identify-user","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}
+{"query":"Identify User in Refiner","expected_action_key":"refiner-identify-user","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}
+{"query":"Refiner identify user","expected_action_key":"refiner-identify-user","expected_app_slug":"refiner","app_name":"Refiner","test_type":"action_name"}

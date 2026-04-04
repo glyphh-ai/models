@@ -1,0 +1,17 @@
+{"query":"Send Message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"action_name"}
+{"query":"Send Message in Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"action_name"}
+{"query":"Botstar send message","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"action_name"}
+{"query":"send a message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"canonical"}
+{"query":"post a message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"canonical"}
+{"query":"send out message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"canonical"}
+{"query":"fire off message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"canonical"}
+{"query":"send message via Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_prep"}
+{"query":"send message using Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_prep"}
+{"query":"send message with Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_prep"}
+{"query":"Botstar send a message","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"app_first"}
+{"query":"Botstar post a message","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"app_first"}
+{"query":"send msg on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_target"}
+{"query":"Botstar send msg","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_target"}
+{"query":"send chat message on Botstar","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_target"}
+{"query":"Botstar send chat message","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"alt_target"}
+{"query":"send a botstar message","expected_action_key":"botstar-send-message","expected_app_slug":"botstar","app_name":"Botstar","test_type":"contextual"}

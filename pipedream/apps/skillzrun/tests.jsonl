@@ -1,0 +1,15 @@
+{"query":"Upsert User on SkillzRun","expected_action_key":"skillzrun-upsert-user","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"Upsert User in SkillzRun","expected_action_key":"skillzrun-upsert-user","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"SkillzRun upsert user","expected_action_key":"skillzrun-upsert-user","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"Create User With Offers on SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"Create User With Offers in SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"SkillzRun create user with offers","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"action_name"}
+{"query":"create user offers on SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"canonical"}
+{"query":"SkillzRun create user offers","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"app_first"}
+{"query":"create a user offers on SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"canonical"}
+{"query":"SkillzRun create a user offers","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"app_first"}
+{"query":"make a user offers on SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"canonical"}
+{"query":"SkillzRun make a user offers","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"app_first"}
+{"query":"create user offers in SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"alt_prep"}
+{"query":"create user offers via SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"alt_prep"}
+{"query":"create user offers using SkillzRun","expected_action_key":"skillzrun-create-user-with-offers","expected_app_slug":"skillzrun","app_name":"SkillzRun","test_type":"alt_prep"}

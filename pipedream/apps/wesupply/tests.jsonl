@@ -1,0 +1,13 @@
+{"query":"Import Order on WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"action_name"}
+{"query":"Import Order in WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"action_name"}
+{"query":"WeSupply import order","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"action_name"}
+{"query":"import the order on WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"canonical"}
+{"query":"import a order on WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"canonical"}
+{"query":"import order via WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"alt_prep"}
+{"query":"import order using WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"alt_prep"}
+{"query":"import order with WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"alt_prep"}
+{"query":"WeSupply import the order","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"app_first"}
+{"query":"WeSupply import a order","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"app_first"}
+{"query":"import purchase on WeSupply","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"alt_target"}
+{"query":"WeSupply import purchase","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"alt_target"}
+{"query":"import a wesupply order","expected_action_key":"wesupply-import-order","expected_app_slug":"wesupply","app_name":"WeSupply","test_type":"contextual"}

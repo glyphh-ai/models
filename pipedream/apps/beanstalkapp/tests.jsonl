@@ -1,0 +1,47 @@
+{"query":"Create User on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create User in Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Beanstalk create user","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create User on Beanstalkapp","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"create a user on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"make a user on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"new user on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"open a user on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"start a user on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"create user via Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"create user using Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"create user with Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"Beanstalk create a user","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"Beanstalk make a user","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"create member on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_target"}
+{"query":"Beanstalk create member","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_target"}
+{"query":"create person on Beanstalk","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_target"}
+{"query":"Beanstalk create person","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_target"}
+{"query":"Beanstalkapp create user","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_app_name"}
+{"query":"create a beanstalk user","expected_action_key":"beanstalkapp-create-user","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"contextual"}
+{"query":"Create Repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create Repository in Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Beanstalk create repository","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create Repository on Beanstalkapp","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"create a repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"make a repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"new repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"open a repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"start a repository on Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"create repository via Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"create repository using Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"create repository with Beanstalk","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"Beanstalk create a repository","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"Beanstalk make a repository","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"Beanstalkapp create repository","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_app_name"}
+{"query":"create a beanstalk repository","expected_action_key":"beanstalkapp-create-repository","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"contextual"}
+{"query":"Create Code Review on Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create Code Review in Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Beanstalk create code review","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"Create Code Review on Beanstalkapp","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"action_name"}
+{"query":"create a code review on Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"Beanstalk create a code review","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"make a code review on Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"canonical"}
+{"query":"Beanstalk make a code review","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"app_first"}
+{"query":"create code review via Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"create code review using Beanstalk","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_prep"}
+{"query":"Beanstalkapp create code review","expected_action_key":"beanstalkapp-create-code-review","expected_app_slug":"beanstalkapp","app_name":"Beanstalk","test_type":"alt_app_name"}

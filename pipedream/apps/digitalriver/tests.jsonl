@@ -1,0 +1,37 @@
+{"query":"Update Customer Information on DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"Update Customer Information in DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"DigitalRiver update customer information","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"update the customer information on DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"DigitalRiver update the customer information","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"app_first"}
+{"query":"edit the customer information on DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"DigitalRiver edit the customer information","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"app_first"}
+{"query":"update customer information via DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"update customer information using DigitalRiver","expected_action_key":"digitalriver-update-customer-information","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"Create a Product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"Create a Product in DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"DigitalRiver create a product","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"create product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"make a product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"new product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"open a product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"start a product on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"create product in DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"create product via DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"create product using DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"create product with DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"DigitalRiver create product","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"app_first"}
+{"query":"DigitalRiver make a product","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"app_first"}
+{"query":"create item on DigitalRiver","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_target"}
+{"query":"DigitalRiver create item","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_target"}
+{"query":"create a digitalriver product","expected_action_key":"digitalriver-create-product","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"contextual"}
+{"query":"Cancel Order on DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"Cancel Order in DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"DigitalRiver cancel order","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"action_name"}
+{"query":"cancel the order on DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"canonical"}
+{"query":"cancel order via DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"cancel order using DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"cancel order with DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_prep"}
+{"query":"DigitalRiver cancel the order","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"app_first"}
+{"query":"cancel purchase on DigitalRiver","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_target"}
+{"query":"DigitalRiver cancel purchase","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"alt_target"}
+{"query":"cancel a digitalriver order","expected_action_key":"digitalriver-cancel-order","expected_app_slug":"digitalriver","app_name":"DigitalRiver","test_type":"contextual"}

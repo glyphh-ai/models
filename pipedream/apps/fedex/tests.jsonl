@@ -1,0 +1,57 @@
+{"query":"Validate Shipment on FedEx","expected_action_key":"fedex-validate-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Validate Shipment in FedEx","expected_action_key":"fedex-validate-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx validate shipment","expected_action_key":"fedex-validate-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Track Multi-Piece Shipment on FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Track Multi-Piece Shipment in FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx track multi-piece shipment","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"track a multi-piece shipment on FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track a multi-piece shipment","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"log multi-piece shipment on FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx log multi-piece shipment","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track multi-piece shipment via FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track multi-piece shipment using FedEx","expected_action_key":"fedex-track-multi-piece-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"Track by Tracking Number on FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Track by Tracking Number in FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx track by tracking number","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"track tracking number on FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track tracking number","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track a tracking number on FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track a tracking number","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"log tracking number on FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx log tracking number","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track tracking number in FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track tracking number via FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track tracking number using FedEx","expected_action_key":"fedex-track-by-tracking-number","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"Track by TCN on FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Track by TCN in FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx track by tcn","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"track tcn on FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track tcn","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track a tcn on FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track a tcn","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"log tcn on FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx log tcn","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track tcn in FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track tcn via FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track tcn using FedEx","expected_action_key":"fedex-track-by-tcn","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"Track by Reference on FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Track by Reference in FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx track by reference","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"track reference on FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track reference","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track a reference on FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx track a reference","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"log reference on FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx log reference","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"track reference in FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track reference via FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"track reference using FedEx","expected_action_key":"fedex-track-by-reference","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"Create Shipment on FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"Create Shipment in FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"FedEx create shipment","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"action_name"}
+{"query":"create a shipment on FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx create a shipment","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"make a shipment on FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"canonical"}
+{"query":"FedEx make a shipment","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"app_first"}
+{"query":"create shipment via FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}
+{"query":"create shipment using FedEx","expected_action_key":"fedex-create-shipment","expected_app_slug":"fedex","app_name":"FedEx","test_type":"alt_prep"}

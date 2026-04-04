@@ -1,0 +1,54 @@
+{"query":"Update Customer on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Update Customer in Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Unthread update customer","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"update the customer on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"edit the customer on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"modify the customer on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"change the customer on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"update customer via Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"update customer using Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"update customer with Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"Unthread update the customer","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"Unthread edit the customer","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"update account on Unthread","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"Unthread update account","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"update a unthread customer","expected_action_key":"unthread-update-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"contextual"}
+{"query":"Delete Customer on Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Delete Customer in Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Unthread delete customer","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"delete the customer on Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"remove the customer on Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"destroy the customer on Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"delete customer via Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"delete customer using Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"delete customer with Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"Unthread delete the customer","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"Unthread remove the customer","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"delete account on Unthread","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"Unthread delete account","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"delete a unthread customer","expected_action_key":"unthread-delete-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"contextual"}
+{"query":"Create Customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Create Customer in Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Unthread create customer","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"create a customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"make a customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"new customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"open a customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"start a customer on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"create customer via Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"create customer using Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"create customer with Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"Unthread create a customer","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"Unthread make a customer","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"create account on Unthread","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"Unthread create account","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_target"}
+{"query":"create a unthread customer","expected_action_key":"unthread-create-customer","expected_app_slug":"unthread","app_name":"Unthread","test_type":"contextual"}
+{"query":"Create Conversation on Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Create Conversation in Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"Unthread create conversation","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"action_name"}
+{"query":"create a conversation on Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"Unthread create a conversation","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"make a conversation on Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"canonical"}
+{"query":"Unthread make a conversation","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"app_first"}
+{"query":"create conversation via Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}
+{"query":"create conversation using Unthread","expected_action_key":"unthread-create-conversation","expected_app_slug":"unthread","app_name":"Unthread","test_type":"alt_prep"}

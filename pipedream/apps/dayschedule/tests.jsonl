@@ -1,0 +1,51 @@
+{"query":"Update Event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"Update Event in DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"DaySchedule update event","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"update the event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"edit the event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"modify the event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"change the event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"update event via DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"update event using DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"update event with DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"DaySchedule update the event","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"DaySchedule edit the event","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"update meeting on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule update meeting","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"update calendar event on DaySchedule","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule update calendar event","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"update a dayschedule event","expected_action_key":"dayschedule-update-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"contextual"}
+{"query":"Delete Event on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"Delete Event in DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"DaySchedule delete event","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"delete the event on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"remove the event on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"destroy the event on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"delete event via DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"delete event using DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"delete event with DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"DaySchedule delete the event","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"DaySchedule remove the event","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"delete meeting on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule delete meeting","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"delete calendar event on DaySchedule","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule delete calendar event","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"delete a dayschedule event","expected_action_key":"dayschedule-delete-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"contextual"}
+{"query":"Create Event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"Create Event in DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"DaySchedule create event","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"action_name"}
+{"query":"create a event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"make a event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"new event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"open a event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"start a event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"canonical"}
+{"query":"create event via DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"create event using DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"create event with DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_prep"}
+{"query":"DaySchedule create a event","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"DaySchedule make a event","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"app_first"}
+{"query":"create meeting on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule create meeting","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"create calendar event on DaySchedule","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"DaySchedule create calendar event","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"alt_target"}
+{"query":"create a dayschedule event","expected_action_key":"dayschedule-create-event","expected_app_slug":"dayschedule","app_name":"DaySchedule","test_type":"contextual"}

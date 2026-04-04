@@ -1,0 +1,9 @@
+{"query":"List Campaigns on DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"action_name"}
+{"query":"List Campaigns in DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"action_name"}
+{"query":"DitLead list campaigns","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"action_name"}
+{"query":"list all campaigns on DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"canonical"}
+{"query":"DitLead list all campaigns","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"app_first"}
+{"query":"show all campaigns on DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"canonical"}
+{"query":"DitLead show all campaigns","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"app_first"}
+{"query":"list campaigns via DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"alt_prep"}
+{"query":"list campaigns using DitLead","expected_action_key":"ditlead-list-campaigns","expected_app_slug":"ditlead","app_name":"DitLead","test_type":"alt_prep"}

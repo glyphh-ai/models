@@ -1,0 +1,21 @@
+{"query":"Upload Receipt on Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Upload Receipt in Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Ramp upload receipt","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"upload a receipt on Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"canonical"}
+{"query":"Ramp upload a receipt","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"app_first"}
+{"query":"upload the receipt on Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"canonical"}
+{"query":"Ramp upload the receipt","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"app_first"}
+{"query":"upload receipt via Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"alt_prep"}
+{"query":"upload receipt using Ramp","expected_action_key":"ramp-upload-receipt","expected_app_slug":"ramp","app_name":"Ramp","test_type":"alt_prep"}
+{"query":"Issue Virtual Card on Ramp","expected_action_key":"ramp-issue-virtual-card","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Issue Virtual Card in Ramp","expected_action_key":"ramp-issue-virtual-card","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Ramp issue virtual card","expected_action_key":"ramp-issue-virtual-card","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Create User Invite on Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Create User Invite in Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"Ramp create user invite","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"action_name"}
+{"query":"create a user invite on Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"canonical"}
+{"query":"Ramp create a user invite","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"app_first"}
+{"query":"make a user invite on Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"canonical"}
+{"query":"Ramp make a user invite","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"app_first"}
+{"query":"create user invite via Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"alt_prep"}
+{"query":"create user invite using Ramp","expected_action_key":"ramp-create-user-invite","expected_app_slug":"ramp","app_name":"Ramp","test_type":"alt_prep"}

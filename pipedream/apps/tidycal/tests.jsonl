@@ -1,0 +1,27 @@
+{"query":"List Contacts on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"List Contacts in TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"TidyCal list contacts","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"list all contacts on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"show all contacts on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"get all contacts on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"show me all contacts on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"list contacts via TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_prep"}
+{"query":"list contacts using TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_prep"}
+{"query":"list contacts with TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_prep"}
+{"query":"TidyCal list all contacts","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"app_first"}
+{"query":"TidyCal show all contacts","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"app_first"}
+{"query":"list contact record on TidyCal","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_target"}
+{"query":"TidyCal list contact record","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_target"}
+{"query":"list a tidycal contacts","expected_action_key":"tidycal-list-contacts","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"contextual"}
+{"query":"List Bookings on TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"List Bookings in TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"TidyCal list bookings","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"list all bookings on TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"TidyCal list all bookings","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"app_first"}
+{"query":"show all bookings on TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"canonical"}
+{"query":"TidyCal show all bookings","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"app_first"}
+{"query":"list bookings via TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_prep"}
+{"query":"list bookings using TidyCal","expected_action_key":"tidycal-list-bookings","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"alt_prep"}
+{"query":"Account Information on TidyCal","expected_action_key":"tidycal-account-information","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"Account Information in TidyCal","expected_action_key":"tidycal-account-information","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}
+{"query":"TidyCal account information","expected_action_key":"tidycal-account-information","expected_app_slug":"tidycal","app_name":"TidyCal","test_type":"action_name"}

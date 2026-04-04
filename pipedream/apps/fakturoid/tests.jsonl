@@ -1,0 +1,35 @@
+{"query":"Pay or Remove Payment for Invoice on Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Pay or Remove Payment for Invoice in Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Fakturoid pay or remove payment for invoice","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"remove or remove payment invoice on Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"Fakturoid remove or remove payment invoice","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"remove the or remove payment invoice on Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"Fakturoid remove the or remove payment invoice","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"take out or remove payment invoice on Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"Fakturoid take out or remove payment invoice","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"remove or remove payment invoice in Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"remove or remove payment invoice via Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"remove or remove payment invoice using Fakturoid","expected_action_key":"fakturoid-pay-remove-payment-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"Create Invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Create Invoice in Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Fakturoid create invoice","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"create a invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"make a invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"new invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"open a invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"start a invoice on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"create invoice via Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"create invoice using Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"create invoice with Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"Fakturoid create a invoice","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"Fakturoid make a invoice","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"create bill on Fakturoid","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_target"}
+{"query":"Fakturoid create bill","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_target"}
+{"query":"create a fakturoid invoice","expected_action_key":"fakturoid-create-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"contextual"}
+{"query":"Cancel or Uncancel Invoice on Fakturoid","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Cancel or Uncancel Invoice in Fakturoid","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"Fakturoid cancel or uncancel invoice","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"action_name"}
+{"query":"cancel the or uncancel invoice on Fakturoid","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"canonical"}
+{"query":"Fakturoid cancel the or uncancel invoice","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"app_first"}
+{"query":"cancel or uncancel invoice via Fakturoid","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}
+{"query":"cancel or uncancel invoice using Fakturoid","expected_action_key":"fakturoid-cancel-uncancel-invoice","expected_app_slug":"fakturoid","app_name":"Fakturoid","test_type":"alt_prep"}

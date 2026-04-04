@@ -1,0 +1,75 @@
+{"query":"Update Issue Comment on Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Update Issue Comment in Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket update issue comment","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"update the issue comment on Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket update the issue comment","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"edit the issue comment on Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket edit the issue comment","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"update issue comment via Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"update issue comment using Bitbucket","expected_action_key":"bitbucket-update-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Get snippet on Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Get snippet in Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket get snippet","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"get the snippet on Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket get the snippet","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"retrieve snippet on Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket retrieve snippet","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"get snippet via Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"get snippet using Bitbucket","expected_action_key":"bitbucket-get-snippet","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Get issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Get issue in Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket get issue","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"get the issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"retrieve issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"fetch issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"show me the issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"pull issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"check issue on Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"get issue via Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"get issue using Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"get issue with Bitbucket","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Bitbucket get the issue","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"Bitbucket retrieve issue","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"get a bitbucket issue","expected_action_key":"bitbucket-get-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"contextual"}
+{"query":"Get File From Repository on Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Get File From Repository in Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket get file from repository","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"get file repository on Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket get file repository","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"get the file repository on Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket get the file repository","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"retrieve file repository on Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket retrieve file repository","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"get file repository in Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"get file repository via Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"get file repository using Bitbucket","expected_action_key":"bitbucket-get-file-from-repository","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Create Snippet Comment on Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Create Snippet Comment in Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket create snippet comment","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"create a snippet comment on Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket create a snippet comment","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"make a snippet comment on Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket make a snippet comment","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"create snippet comment via Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"create snippet comment using Bitbucket","expected_action_key":"bitbucket-create-snippet-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Creates a new issue on Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Creates a new issue in Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket creates a new issue","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"create new issue on Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket create new issue","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"create a new issue on Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket create a new issue","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"make a new issue on Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket make a new issue","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"create new issue in Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"create new issue via Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"create new issue using Bitbucket","expected_action_key":"bitbucket-create-issue","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"Create Issue Comment on Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Create Issue Comment in Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"Bitbucket create issue comment","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"action_name"}
+{"query":"create a issue comment on Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket create a issue comment","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"make a issue comment on Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"canonical"}
+{"query":"Bitbucket make a issue comment","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"app_first"}
+{"query":"create issue comment via Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}
+{"query":"create issue comment using Bitbucket","expected_action_key":"bitbucket-create-issue-comment","expected_app_slug":"bitbucket","app_name":"Bitbucket","test_type":"alt_prep"}

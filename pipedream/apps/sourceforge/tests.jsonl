@@ -1,0 +1,40 @@
+{"query":"Update Ticket on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"Update Ticket in Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"Sourceforge update ticket","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"update the ticket on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"edit the ticket on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"modify the ticket on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"change the ticket on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"update ticket via Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"update ticket using Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"update ticket with Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"Sourceforge update the ticket","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"Sourceforge edit the ticket","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"update issue on Sourceforge","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_target"}
+{"query":"Sourceforge update issue","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_target"}
+{"query":"update a sourceforge ticket","expected_action_key":"sourceforge-update-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"contextual"}
+{"query":"List Projects on Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"List Projects in Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"Sourceforge list projects","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"list all projects on Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"Sourceforge list all projects","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"show all projects on Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"Sourceforge show all projects","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"list projects via Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"list projects using Sourceforge","expected_action_key":"sourceforge-list-projects","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"Create Ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"Create Ticket in Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"Sourceforge create ticket","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"action_name"}
+{"query":"create a ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"make a ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"new ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"open a ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"start a ticket on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"canonical"}
+{"query":"create ticket via Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"create ticket using Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"create ticket with Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_prep"}
+{"query":"Sourceforge create a ticket","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"Sourceforge make a ticket","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"app_first"}
+{"query":"create issue on Sourceforge","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_target"}
+{"query":"Sourceforge create issue","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"alt_target"}
+{"query":"create a sourceforge ticket","expected_action_key":"sourceforge-create-ticket","expected_app_slug":"sourceforge","app_name":"Sourceforge","test_type":"contextual"}

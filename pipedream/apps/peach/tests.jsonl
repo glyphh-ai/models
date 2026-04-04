@@ -1,0 +1,25 @@
+{"query":"Send Template Message on Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"Send Template Message in Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"Peach send template message","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"send a template message on Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"Peach send a template message","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"app_first"}
+{"query":"post a template message on Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"Peach post a template message","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"app_first"}
+{"query":"send template message via Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_prep"}
+{"query":"send template message using Peach","expected_action_key":"peach-send-template-message","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_prep"}
+{"query":"Create Contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"Create Contact in Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"Peach create contact","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"action_name"}
+{"query":"create a contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"make a contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"new contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"open a contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"start a contact on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"canonical"}
+{"query":"create contact via Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_prep"}
+{"query":"create contact using Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_prep"}
+{"query":"create contact with Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_prep"}
+{"query":"Peach create a contact","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"app_first"}
+{"query":"Peach make a contact","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"app_first"}
+{"query":"create contact record on Peach","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_target"}
+{"query":"Peach create contact record","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"alt_target"}
+{"query":"create a peach contact","expected_action_key":"peach-create-contact","expected_app_slug":"peach","app_name":"Peach","test_type":"contextual"}

@@ -1,0 +1,42 @@
+{"query":"Create Prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Create Prospect in Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Greenhouse create prospect","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"create a prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"make a prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"new prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"open a prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"start a prospect on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"create prospect via Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"create prospect using Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"create prospect with Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"Greenhouse create a prospect","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"Greenhouse make a prospect","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"create contact record on Greenhouse","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_target"}
+{"query":"Greenhouse create contact record","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_target"}
+{"query":"create a greenhouse prospect","expected_action_key":"greenhouse-create-prospect","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"contextual"}
+{"query":"Create Candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Create Candidate in Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Greenhouse create candidate","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"create a candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"make a candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"new candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"open a candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"start a candidate on Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"create candidate via Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"create candidate using Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"create candidate with Greenhouse","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"Greenhouse create a candidate","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"Greenhouse make a candidate","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"create a greenhouse candidate","expected_action_key":"greenhouse-create-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"contextual"}
+{"query":"Add Attachment to Candidate on Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Add Attachment to Candidate in Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"Greenhouse add attachment to candidate","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"action_name"}
+{"query":"add attachment candidate on Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"Greenhouse add attachment candidate","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"add a attachment candidate on Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"Greenhouse add a attachment candidate","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"add new attachment candidate on Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"canonical"}
+{"query":"Greenhouse add new attachment candidate","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"app_first"}
+{"query":"add attachment candidate in Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"add attachment candidate via Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}
+{"query":"add attachment candidate using Greenhouse","expected_action_key":"greenhouse-add-attachment-to-candidate","expected_app_slug":"greenhouse","app_name":"Greenhouse","test_type":"alt_prep"}

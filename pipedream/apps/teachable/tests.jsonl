@@ -1,0 +1,37 @@
+{"query":"Update Student on Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Update Student in Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Teachable update student","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"update the student on Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"Teachable update the student","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"edit the student on Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"Teachable edit the student","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"update student via Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"update student using Teachable","expected_action_key":"teachable-update-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"Search Users on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Search Users in Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Teachable search users","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"search for users on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"find users on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"look for users on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"locate users on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"search for users in Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"search for users via Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"search for users using Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"search for users with Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"Teachable search for users","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"Teachable find users","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"Teachable look for users","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"search for member on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_target"}
+{"query":"Teachable search for member","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_target"}
+{"query":"search for person on Teachable","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_target"}
+{"query":"Teachable search for person","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_target"}
+{"query":"search for a teachable users","expected_action_key":"teachable-search-users","expected_app_slug":"teachable","app_name":"Teachable","test_type":"contextual"}
+{"query":"Create Student on Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Create Student in Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"Teachable create student","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"action_name"}
+{"query":"create a student on Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"Teachable create a student","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"make a student on Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"canonical"}
+{"query":"Teachable make a student","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"app_first"}
+{"query":"create student via Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}
+{"query":"create student using Teachable","expected_action_key":"teachable-create-student","expected_app_slug":"teachable","app_name":"Teachable","test_type":"alt_prep"}

@@ -1,0 +1,54 @@
+{"query":"Update User on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Update User in Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Namely update user","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"update the user on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"edit the user on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"modify the user on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"change the user on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"update user via Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"update user using Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"update user with Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"Namely update the user","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"Namely edit the user","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"update member on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely update member","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"update person on Namely","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely update person","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"update a namely user","expected_action_key":"namely-update-user","expected_app_slug":"namely","app_name":"Namely","test_type":"contextual"}
+{"query":"Get User on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Get User in Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Namely get user","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"get the user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"retrieve user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"fetch user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"show me the user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"pull user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"check user on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"get user via Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"get user using Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"get user with Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"Namely get the user","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"Namely retrieve user","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"get member on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely get member","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"get person on Namely","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely get person","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"get a namely user","expected_action_key":"namely-get-user","expected_app_slug":"namely","app_name":"Namely","test_type":"contextual"}
+{"query":"Create User on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Create User in Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"Namely create user","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"action_name"}
+{"query":"create a user on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"make a user on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"new user on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"open a user on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"start a user on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"canonical"}
+{"query":"create user via Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"create user using Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"create user with Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_prep"}
+{"query":"Namely create a user","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"Namely make a user","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"app_first"}
+{"query":"create member on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely create member","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"create person on Namely","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"Namely create person","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"alt_target"}
+{"query":"create a namely user","expected_action_key":"namely-create-user","expected_app_slug":"namely","app_name":"Namely","test_type":"contextual"}

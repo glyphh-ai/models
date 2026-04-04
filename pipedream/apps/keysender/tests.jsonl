@@ -1,0 +1,9 @@
+{"query":"Create Transaction on Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"action_name"}
+{"query":"Create Transaction in Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"action_name"}
+{"query":"Keysender create transaction","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"action_name"}
+{"query":"create a transaction on Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"canonical"}
+{"query":"Keysender create a transaction","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"app_first"}
+{"query":"make a transaction on Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"canonical"}
+{"query":"Keysender make a transaction","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"app_first"}
+{"query":"create transaction via Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"alt_prep"}
+{"query":"create transaction using Keysender","expected_action_key":"keysender-create-transaction","expected_app_slug":"keysender","app_name":"Keysender","test_type":"alt_prep"}

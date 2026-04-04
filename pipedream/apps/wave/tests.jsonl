@@ -1,0 +1,32 @@
+{"query":"Create Invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"Create Invoice in Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"Wave create invoice","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"create a invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"make a invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"new invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"open a invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"start a invoice on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"create invoice via Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"create invoice using Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"create invoice with Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"Wave create a invoice","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"app_first"}
+{"query":"Wave make a invoice","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"app_first"}
+{"query":"create bill on Wave","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_target"}
+{"query":"Wave create bill","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_target"}
+{"query":"create a wave invoice","expected_action_key":"wave-create-invoice","expected_app_slug":"wave","app_name":"Wave","test_type":"contextual"}
+{"query":"Create Customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"Create Customer in Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"Wave create customer","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"action_name"}
+{"query":"create a customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"make a customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"new customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"open a customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"start a customer on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"canonical"}
+{"query":"create customer via Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"create customer using Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"create customer with Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_prep"}
+{"query":"Wave create a customer","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"app_first"}
+{"query":"Wave make a customer","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"app_first"}
+{"query":"create account on Wave","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_target"}
+{"query":"Wave create account","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"alt_target"}
+{"query":"create a wave customer","expected_action_key":"wave-create-customer","expected_app_slug":"wave","app_name":"Wave","test_type":"contextual"}

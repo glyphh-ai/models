@@ -1,0 +1,75 @@
+{"query":"Submit a Post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Submit a Post in Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Reddit submit a post","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"send post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"send a post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"post a post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"send out post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"fire off post on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"send post in Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"send post via Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"send post using Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"send post with Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"Reddit send post","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit send a post","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit post a post","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"send status update on Reddit","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"Reddit send status update","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"send a reddit post","expected_action_key":"reddit-submit-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"contextual"}
+{"query":"Submit a Comment on Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Submit a Comment in Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Reddit submit a comment","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"comment on comment on Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"add a comment to comment on Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"leave a comment on comment on Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"comment on comment in Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"comment on comment via Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"comment on comment using Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"comment on comment with Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"Reddit comment on comment","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit add a comment to comment","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit leave a comment on comment","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"comment on note on Reddit","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"Reddit comment on note","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"comment on a reddit comment","expected_action_key":"reddit-submit-a-comment","expected_app_slug":"reddit","app_name":"Reddit","test_type":"contextual"}
+{"query":"Search Post on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Search Post in Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Reddit search post","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"search for post on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"find post on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"look for post on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"locate post on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"search for post in Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"search for post via Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"search for post using Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"search for post with Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"Reddit search for post","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit find post","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"Reddit look for post","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"search for status update on Reddit","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"Reddit search for status update","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_target"}
+{"query":"search for a reddit post","expected_action_key":"reddit-search-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"contextual"}
+{"query":"List Subreddits by Query on Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"List Subreddits by Query in Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Reddit list subreddits by query","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"list subreddits query on Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit list subreddits query","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"list all subreddits query on Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit list all subreddits query","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"show all subreddits query on Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit show all subreddits query","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"list subreddits query in Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"list subreddits query via Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"list subreddits query using Reddit","expected_action_key":"reddit-list-subreddits-by-query","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"List Comments in a Post on Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"List Comments in a Post in Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"Reddit list comments in a post","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"action_name"}
+{"query":"list comments post on Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit list comments post","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"list all comments post on Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit list all comments post","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"show all comments post on Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"canonical"}
+{"query":"Reddit show all comments post","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"app_first"}
+{"query":"list comments post in Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"list comments post via Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}
+{"query":"list comments post using Reddit","expected_action_key":"reddit-list-comments-in-a-post","expected_app_slug":"reddit","app_name":"Reddit","test_type":"alt_prep"}

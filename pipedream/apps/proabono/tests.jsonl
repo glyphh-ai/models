@@ -1,0 +1,34 @@
+{"query":"Retrieve Customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"Retrieve Customer in ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"ProAbono retrieve customer","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"get customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"get the customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"fetch customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"show me the customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"pull customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"check customer on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"get customer in ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"get customer via ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"get customer using ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"get customer with ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"ProAbono get customer","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"app_first"}
+{"query":"ProAbono get the customer","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"app_first"}
+{"query":"get account on ProAbono","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_target"}
+{"query":"ProAbono get account","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_target"}
+{"query":"get a proabono customer","expected_action_key":"proabono-retrieve-customer","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"contextual"}
+{"query":"Create Subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"Create Subscription in ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"ProAbono create subscription","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"action_name"}
+{"query":"create a subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"make a subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"new subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"open a subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"start a subscription on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"canonical"}
+{"query":"create subscription via ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"create subscription using ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"create subscription with ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_prep"}
+{"query":"ProAbono create a subscription","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"app_first"}
+{"query":"ProAbono make a subscription","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"app_first"}
+{"query":"create plan on ProAbono","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_target"}
+{"query":"ProAbono create plan","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"alt_target"}
+{"query":"create a proabono subscription","expected_action_key":"proabono-create-subscription","expected_app_slug":"proabono","app_name":"ProAbono","test_type":"contextual"}

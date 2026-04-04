@@ -1,0 +1,9 @@
+{"query":"Send Prompt on Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"action_name"}
+{"query":"Send Prompt in Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"action_name"}
+{"query":"Writer send prompt","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"action_name"}
+{"query":"send a prompt on Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"canonical"}
+{"query":"Writer send a prompt","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"app_first"}
+{"query":"post a prompt on Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"canonical"}
+{"query":"Writer post a prompt","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"app_first"}
+{"query":"send prompt via Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"alt_prep"}
+{"query":"send prompt using Writer","expected_action_key":"writer-send-prompt","expected_app_slug":"writer","app_name":"Writer","test_type":"alt_prep"}

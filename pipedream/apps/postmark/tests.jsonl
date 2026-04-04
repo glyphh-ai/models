@@ -1,0 +1,190 @@
+{"query":"Verify Return-Path DNS on Postmark","expected_action_key":"postmark-verify-return-path","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Verify Return-Path DNS in Postmark","expected_action_key":"postmark-verify-return-path","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark verify return-path dns","expected_action_key":"postmark-verify-return-path","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Verify DKIM on Postmark","expected_action_key":"postmark-verify-dkim","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Verify DKIM in Postmark","expected_action_key":"postmark-verify-dkim","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark verify dkim","expected_action_key":"postmark-verify-dkim","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Update Sender Signature on Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Update Sender Signature in Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark update sender signature","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"update the sender signature on Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark update the sender signature","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"edit the sender signature on Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark edit the sender signature","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"update sender signature via Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"update sender signature using Postmark","expected_action_key":"postmark-update-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Send Single Email on Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Send Single Email in Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark send single email","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"send a single email on Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark send a single email","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"post a single email on Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark post a single email","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"send single email via Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"send single email using Postmark","expected_action_key":"postmark-send-single-email","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Send Email With Template on Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Send Email With Template in Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark send email with template","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"send email template on Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark send email template","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"send a email template on Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark send a email template","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"post a email template on Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark post a email template","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"send email template in Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"send email template via Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"send email template using Postmark","expected_action_key":"postmark-send-email-with-template","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Rotate DKIM Keys on Postmark","expected_action_key":"postmark-rotate-dkim-keys","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Rotate DKIM Keys in Postmark","expected_action_key":"postmark-rotate-dkim-keys","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark rotate dkim keys","expected_action_key":"postmark-rotate-dkim-keys","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Resend Confirmation on Postmark","expected_action_key":"postmark-resend-confirmation","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Resend Confirmation in Postmark","expected_action_key":"postmark-resend-confirmation","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark resend confirmation","expected_action_key":"postmark-resend-confirmation","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"List Sender Signatures on Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"List Sender Signatures in Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark list sender signatures","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"list all sender signatures on Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark list all sender signatures","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"show all sender signatures on Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark show all sender signatures","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"list sender signatures via Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"list sender signatures using Postmark","expected_action_key":"postmark-list-sender-signatures","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"List Domains on Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"List Domains in Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark list domains","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"list all domains on Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"show all domains on Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"get all domains on Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"show me all domains on Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"list domains via Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"list domains using Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"list domains with Postmark","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Postmark list all domains","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"Postmark show all domains","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"list a postmark domains","expected_action_key":"postmark-list-domains","expected_app_slug":"postmark","app_name":"Postmark","test_type":"contextual"}
+{"query":"Get Tracked Email Counts on Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Tracked Email Counts in Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get tracked email counts","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the tracked email counts on Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the tracked email counts","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve tracked email counts on Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve tracked email counts","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get tracked email counts via Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get tracked email counts using Postmark","expected_action_key":"postmark-get-tracked-email-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Spam Complaints on Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Spam Complaints in Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get spam complaints","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the spam complaints on Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the spam complaints","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve spam complaints on Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve spam complaints","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get spam complaints via Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get spam complaints using Postmark","expected_action_key":"postmark-get-spam-complaints","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Sent Counts on Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Sent Counts in Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get sent counts","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the sent counts on Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the sent counts","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve sent counts on Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve sent counts","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get sent counts via Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get sent counts using Postmark","expected_action_key":"postmark-get-sent-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Outbound Overview on Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Outbound Overview in Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get outbound overview","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the outbound overview on Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the outbound overview","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve outbound overview on Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve outbound overview","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get outbound overview via Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get outbound overview using Postmark","expected_action_key":"postmark-get-outbound-overview","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Email Platform Usage on Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Email Platform Usage in Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get email platform usage","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the email platform usage on Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the email platform usage","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve email platform usage on Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve email platform usage","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get email platform usage via Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get email platform usage using Postmark","expected_action_key":"postmark-get-email-platform-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Email Open Counts on Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Email Open Counts in Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get email open counts","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the email open counts on Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the email open counts","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve email open counts on Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve email open counts","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get email open counts via Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get email open counts using Postmark","expected_action_key":"postmark-get-email-open-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Domain on Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Domain in Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get domain","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the domain on Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the domain","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve domain on Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve domain","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get domain via Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get domain using Postmark","expected_action_key":"postmark-get-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Click Counts on Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Click Counts in Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get click counts","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the click counts on Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the click counts","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve click counts on Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve click counts","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get click counts via Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get click counts using Postmark","expected_action_key":"postmark-get-click-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Browser Usage on Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Browser Usage in Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get browser usage","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the browser usage on Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the browser usage","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve browser usage on Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve browser usage","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get browser usage via Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get browser usage using Postmark","expected_action_key":"postmark-get-browser-usage","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Get Bounce Counts on Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Get Bounce Counts in Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark get bounce counts","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"get the bounce counts on Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark get the bounce counts","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"retrieve bounce counts on Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark retrieve bounce counts","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"get bounce counts via Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"get bounce counts using Postmark","expected_action_key":"postmark-get-bounce-counts","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Delete Sender Signature on Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Delete Sender Signature in Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark delete sender signature","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"delete the sender signature on Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark delete the sender signature","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"remove the sender signature on Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark remove the sender signature","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"delete sender signature via Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"delete sender signature using Postmark","expected_action_key":"postmark-delete-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Delete Domain on Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Delete Domain in Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark delete domain","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"delete the domain on Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark delete the domain","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"remove the domain on Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark remove the domain","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"delete domain via Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"delete domain using Postmark","expected_action_key":"postmark-delete-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Create Sender Signature on Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Create Sender Signature in Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark create sender signature","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"create a sender signature on Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark create a sender signature","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"make a sender signature on Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark make a sender signature","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"create sender signature via Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"create sender signature using Postmark","expected_action_key":"postmark-create-signature","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"Create Domain on Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Create Domain in Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"Postmark create domain","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"action_name"}
+{"query":"create a domain on Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark create a domain","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"make a domain on Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"canonical"}
+{"query":"Postmark make a domain","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"app_first"}
+{"query":"create domain via Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}
+{"query":"create domain using Postmark","expected_action_key":"postmark-create-domain","expected_app_slug":"postmark","app_name":"Postmark","test_type":"alt_prep"}

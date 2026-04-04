@@ -1,0 +1,45 @@
+{"query":"Create Timesheet on Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Create Timesheet in Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Procore create timesheet","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"create a timesheet on Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore create a timesheet","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"make a timesheet on Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore make a timesheet","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"create timesheet via Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"create timesheet using Procore","expected_action_key":"procore-create-timesheet","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"Create Submittal on Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Create Submittal in Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Procore create submittal","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"create a submittal on Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore create a submittal","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"make a submittal on Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore make a submittal","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"create submittal via Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"create submittal using Procore","expected_action_key":"procore-create-submittal","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"Create RFI on Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Create RFI in Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Procore create rfi","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"create a rfi on Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore create a rfi","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"make a rfi on Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore make a rfi","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"create rfi via Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"create rfi using Procore","expected_action_key":"procore-create-rfi","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"Create Manpower Log on Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Create Manpower Log in Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Procore create manpower log","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"create a manpower log on Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore create a manpower log","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"make a manpower log on Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore make a manpower log","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"create manpower log via Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"create manpower log using Procore","expected_action_key":"procore-create-manpower-log","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"Create Incident on Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Create Incident in Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"Procore create incident","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"action_name"}
+{"query":"create a incident on Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore create a incident","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"make a incident on Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"canonical"}
+{"query":"Procore make a incident","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"app_first"}
+{"query":"create incident via Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}
+{"query":"create incident using Procore","expected_action_key":"procore-create-incident","expected_app_slug":"procore","app_name":"Procore","test_type":"alt_prep"}

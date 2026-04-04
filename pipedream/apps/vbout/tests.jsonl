@@ -1,0 +1,78 @@
+{"query":"Update Contact on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Update Contact in VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT update contact","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"update the contact on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"edit the contact on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"modify the contact on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"change the contact on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"update contact via VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"update contact using VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"update contact with VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"VBOUT update the contact","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"VBOUT edit the contact","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"update contact record on VBOUT","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_target"}
+{"query":"VBOUT update contact record","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_target"}
+{"query":"update a vbout contact","expected_action_key":"vbout-update-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"contextual"}
+{"query":"Unsubscribe Contact on VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Unsubscribe Contact in VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT unsubscribe contact","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"unsubscribe from contact on VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"unsubscribe from contact in VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"unsubscribe from contact via VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"unsubscribe from contact using VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"unsubscribe from contact with VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"VBOUT unsubscribe from contact","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"unsubscribe from contact record on VBOUT","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_target"}
+{"query":"VBOUT unsubscribe from contact record","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_target"}
+{"query":"unsubscribe from a vbout contact","expected_action_key":"vbout-unsubscribe-contact","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"contextual"}
+{"query":"Create Social Media Message on VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Create Social Media Message in VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT create social media message","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"create a social media message on VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT create a social media message","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"make a social media message on VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT make a social media message","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"create social media message via VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"create social media message using VBOUT","expected_action_key":"vbout-create-social-media-message","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"Create Email Marketing Campaign on VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Create Email Marketing Campaign in VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT create email marketing campaign","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"create a email marketing campaign on VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT create a email marketing campaign","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"make a email marketing campaign on VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT make a email marketing campaign","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"create email marketing campaign via VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"create email marketing campaign using VBOUT","expected_action_key":"vbout-create-email-marketing-campaign","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"Create Email List on VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Create Email List in VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT create email list","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"create a email list on VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT create a email list","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"make a email list on VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT make a email list","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"create email list via VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"create email list using VBOUT","expected_action_key":"vbout-create-email-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"Add Contact To List on VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Add Contact To List in VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT add contact to list","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"add contact list on VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add contact list","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add a contact list on VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add a contact list","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add new contact list on VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add new contact list","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add contact list in VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"add contact list via VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"add contact list using VBOUT","expected_action_key":"vbout-add-contact-to-list","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"Add Contact To List By Email on VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"Add Contact To List By Email in VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"VBOUT add contact to list by email","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"action_name"}
+{"query":"add contact list email on VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add contact list email","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add a contact list email on VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add a contact list email","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add new contact list email on VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"canonical"}
+{"query":"VBOUT add new contact list email","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"app_first"}
+{"query":"add contact list email in VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"add contact list email via VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}
+{"query":"add contact list email using VBOUT","expected_action_key":"vbout-add-contact-to-list-by-email","expected_app_slug":"vbout","app_name":"VBOUT","test_type":"alt_prep"}

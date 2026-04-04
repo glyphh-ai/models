@@ -1,0 +1,21 @@
+{"query":"Shorten URL on U301","expected_action_key":"u301-shorten-link","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"Shorten URL in U301","expected_action_key":"u301-shorten-link","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"U301 shorten url","expected_action_key":"u301-shorten-link","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"List Domains on U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"List Domains in U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"U301 list domains","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"list all domains on U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"canonical"}
+{"query":"U301 list all domains","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"app_first"}
+{"query":"show all domains on U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"canonical"}
+{"query":"U301 show all domains","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"app_first"}
+{"query":"list domains via U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"alt_prep"}
+{"query":"list domains using U301","expected_action_key":"u301-list-domains","expected_app_slug":"u301","app_name":"U301","test_type":"alt_prep"}
+{"query":"Create QR Code on U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"Create QR Code in U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"U301 create qr code","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"action_name"}
+{"query":"create a qr code on U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"canonical"}
+{"query":"U301 create a qr code","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"app_first"}
+{"query":"make a qr code on U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"canonical"}
+{"query":"U301 make a qr code","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"app_first"}
+{"query":"create qr code via U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"alt_prep"}
+{"query":"create qr code using U301","expected_action_key":"u301-create-qrcode","expected_app_slug":"u301","app_name":"U301","test_type":"alt_prep"}

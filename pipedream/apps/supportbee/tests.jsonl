@@ -1,0 +1,16 @@
+{"query":"Create Ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"action_name"}
+{"query":"Create Ticket in SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"action_name"}
+{"query":"SupportBee create ticket","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"action_name"}
+{"query":"create a ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"canonical"}
+{"query":"make a ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"canonical"}
+{"query":"new ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"canonical"}
+{"query":"open a ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"canonical"}
+{"query":"start a ticket on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"canonical"}
+{"query":"create ticket via SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"alt_prep"}
+{"query":"create ticket using SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"alt_prep"}
+{"query":"create ticket with SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"alt_prep"}
+{"query":"SupportBee create a ticket","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"app_first"}
+{"query":"SupportBee make a ticket","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"app_first"}
+{"query":"create issue on SupportBee","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"alt_target"}
+{"query":"SupportBee create issue","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"alt_target"}
+{"query":"create a supportbee ticket","expected_action_key":"supportbee-create-ticket","expected_app_slug":"supportbee","app_name":"SupportBee","test_type":"contextual"}

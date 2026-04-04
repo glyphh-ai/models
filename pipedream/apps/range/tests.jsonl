@@ -1,0 +1,18 @@
+{"query":"Find User on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"action_name"}
+{"query":"Find User in Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"action_name"}
+{"query":"Range find user","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"action_name"}
+{"query":"search for user on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"canonical"}
+{"query":"look for user on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"canonical"}
+{"query":"search user on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"canonical"}
+{"query":"locate user on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"canonical"}
+{"query":"search for user in Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_prep"}
+{"query":"search for user via Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_prep"}
+{"query":"search for user using Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_prep"}
+{"query":"search for user with Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_prep"}
+{"query":"Range search for user","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"app_first"}
+{"query":"Range look for user","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"app_first"}
+{"query":"search for member on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_target"}
+{"query":"Range search for member","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_target"}
+{"query":"search for person on Range","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_target"}
+{"query":"Range search for person","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"alt_target"}
+{"query":"search for a range user","expected_action_key":"range-find-user","expected_app_slug":"range","app_name":"Range","test_type":"contextual"}

@@ -1,0 +1,30 @@
+{"query":"List Domains on ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"List Domains in ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"ipbase list domains","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"list all domains on ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase list all domains","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"show all domains on ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase show all domains","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"list domains via ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"list domains using ipbase","expected_action_key":"ipbase-list-domains","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"Get ASN Info on ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"Get ASN Info in ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"ipbase get asn info","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"get the asn info on ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase get the asn info","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"retrieve asn info on ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase retrieve asn info","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"get asn info via ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"get asn info using ipbase","expected_action_key":"ipbase-get-asn-info","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"Check IP Address on ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"Check IP Address in ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"ipbase check ip address","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"action_name"}
+{"query":"add ip address on ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase add ip address","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"add a ip address on ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase add a ip address","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"add new ip address on ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"canonical"}
+{"query":"ipbase add new ip address","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"app_first"}
+{"query":"add ip address in ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"add ip address via ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}
+{"query":"add ip address using ipbase","expected_action_key":"ipbase-check-ip-address","expected_app_slug":"ipbase","app_name":"ipbase","test_type":"alt_prep"}

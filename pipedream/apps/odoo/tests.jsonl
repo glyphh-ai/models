@@ -1,0 +1,47 @@
+{"query":"Update Record on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Update Record in Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Odoo update record","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"update the record on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"edit the record on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"modify the record on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"change the record on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"update record via Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"update record using Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"update record with Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"Odoo update the record","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"Odoo edit the record","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"update row on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"Odoo update row","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"update entry on Odoo","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"Odoo update entry","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"update a odoo record","expected_action_key":"odoo-update-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"contextual"}
+{"query":"Search and Read Records on Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Search and Read Records in Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Odoo search and read records","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"search for and read records on Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"Odoo search for and read records","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"find and read records on Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"Odoo find and read records","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"look for and read records on Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"Odoo look for and read records","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"search for and read records in Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"search for and read records via Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"search for and read records using Odoo","expected_action_key":"odoo-search-read-records","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"Create Record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Create Record in Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"Odoo create record","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"action_name"}
+{"query":"create a record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"make a record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"new record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"open a record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"start a record on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"canonical"}
+{"query":"create record via Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"create record using Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"create record with Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_prep"}
+{"query":"Odoo create a record","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"Odoo make a record","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"app_first"}
+{"query":"create row on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"Odoo create row","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"create entry on Odoo","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"Odoo create entry","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"alt_target"}
+{"query":"create a odoo record","expected_action_key":"odoo-create-record","expected_app_slug":"odoo","app_name":"Odoo","test_type":"contextual"}

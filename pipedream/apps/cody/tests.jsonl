@@ -1,0 +1,31 @@
+{"query":"Send Message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"Send Message in Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"Cody send message","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"send a message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"post a message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"send out message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"fire off message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"send message via Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"send message using Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"send message with Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"Cody send a message","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"app_first"}
+{"query":"Cody post a message","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"app_first"}
+{"query":"send msg on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_target"}
+{"query":"Cody send msg","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_target"}
+{"query":"send chat message on Cody","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_target"}
+{"query":"Cody send chat message","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_target"}
+{"query":"send a cody message","expected_action_key":"cody-send-message","expected_app_slug":"cody","app_name":"Cody","test_type":"contextual"}
+{"query":"Create Document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"Create Document in Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"Cody create document","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"action_name"}
+{"query":"create a document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"make a document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"new document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"open a document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"start a document on Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"canonical"}
+{"query":"create document via Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"create document using Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"create document with Cody","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"alt_prep"}
+{"query":"Cody create a document","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"app_first"}
+{"query":"Cody make a document","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"app_first"}
+{"query":"create a cody document","expected_action_key":"cody-create-document","expected_app_slug":"cody","app_name":"Cody","test_type":"contextual"}

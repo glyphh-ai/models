@@ -1,0 +1,49 @@
+{"query":"Search Posts on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"Search Posts in Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"Slab search posts","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"search for posts on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"find posts on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"look for posts on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"locate posts on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"search for posts in Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"search for posts via Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"search for posts using Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"search for posts with Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"Slab search for posts","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"Slab find posts","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"Slab look for posts","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"search for status update on Slab","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"Slab search for status update","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"search for a slab posts","expected_action_key":"slab-search-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"contextual"}
+{"query":"List Posts on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"List Posts in Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"Slab list posts","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"list all posts on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"show all posts on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"get all posts on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"show me all posts on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"list posts via Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"list posts using Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"list posts with Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"Slab list all posts","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"Slab show all posts","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"list status update on Slab","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"Slab list status update","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"list a slab posts","expected_action_key":"slab-list-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"contextual"}
+{"query":"Get Posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"Get Posts in Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"Slab get posts","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"action_name"}
+{"query":"get the posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"retrieve posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"fetch posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"show me the posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"pull posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"check posts on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"canonical"}
+{"query":"get posts via Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"get posts using Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"get posts with Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_prep"}
+{"query":"Slab get the posts","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"Slab retrieve posts","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"app_first"}
+{"query":"get status update on Slab","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"Slab get status update","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"alt_target"}
+{"query":"get a slab posts","expected_action_key":"slab-get-posts","expected_app_slug":"slab","app_name":"Slab","test_type":"contextual"}

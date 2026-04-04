@@ -1,0 +1,9 @@
+{"query":"Get Account Information on Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"action_name"}
+{"query":"Get Account Information in Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"action_name"}
+{"query":"Mercury get account information","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"action_name"}
+{"query":"get the account information on Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"canonical"}
+{"query":"Mercury get the account information","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"app_first"}
+{"query":"retrieve account information on Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"canonical"}
+{"query":"Mercury retrieve account information","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"app_first"}
+{"query":"get account information via Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"alt_prep"}
+{"query":"get account information using Mercury","expected_action_key":"mercury-get-account-info","expected_app_slug":"mercury","app_name":"Mercury","test_type":"alt_prep"}

@@ -1,0 +1,57 @@
+{"query":"Find Task on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Find Task in Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Paymo find task","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"search for task on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"look for task on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"search task on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"locate task on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"search for task in Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"search for task via Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"search for task using Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"search for task with Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"Paymo search for task","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"Paymo look for task","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"search for story on Paymo","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"Paymo search for story","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"search for a paymo task","expected_action_key":"paymo-find-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"contextual"}
+{"query":"Create Task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Create Task in Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Paymo create task","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"create a task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"make a task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"new task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"open a task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"start a task on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"create task via Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"create task using Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"create task with Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"Paymo create a task","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"Paymo make a task","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"create story on Paymo","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"Paymo create story","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"create a paymo task","expected_action_key":"paymo-create-task","expected_app_slug":"paymo","app_name":"Paymo","test_type":"contextual"}
+{"query":"Create Project on Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Create Project in Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Paymo create project","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"create a project on Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"Paymo create a project","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"make a project on Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"Paymo make a project","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"create project via Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"create project using Paymo","expected_action_key":"paymo-create-project","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"Create Client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Create Client in Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"Paymo create client","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"action_name"}
+{"query":"create a client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"make a client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"new client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"open a client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"start a client on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"canonical"}
+{"query":"create client via Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"create client using Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"create client with Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_prep"}
+{"query":"Paymo create a client","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"Paymo make a client","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"app_first"}
+{"query":"create account on Paymo","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"Paymo create account","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"alt_target"}
+{"query":"create a paymo client","expected_action_key":"paymo-create-client","expected_app_slug":"paymo","app_name":"Paymo","test_type":"contextual"}

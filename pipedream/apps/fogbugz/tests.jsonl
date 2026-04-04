@@ -1,0 +1,33 @@
+{"query":"Update Person on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"Update Person in FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"FogBugz update person","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"update the person on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"edit the person on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"modify the person on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"change the person on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"update person via FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"update person using FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"update person with FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"FogBugz update the person","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"FogBugz edit the person","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"update member on FogBugz","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_target"}
+{"query":"FogBugz update member","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_target"}
+{"query":"update a fogbugz person","expected_action_key":"fogbugz-update-person","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"contextual"}
+{"query":"List Projects on FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"List Projects in FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"FogBugz list projects","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"list all projects on FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"FogBugz list all projects","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"show all projects on FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"FogBugz show all projects","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"list projects via FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"list projects using FogBugz","expected_action_key":"fogbugz-list-projects","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"Create Case on FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"Create Case in FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"FogBugz create case","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"action_name"}
+{"query":"create a case on FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"FogBugz create a case","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"make a case on FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"canonical"}
+{"query":"FogBugz make a case","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"app_first"}
+{"query":"create case via FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
+{"query":"create case using FogBugz","expected_action_key":"fogbugz-create-case","expected_app_slug":"fogbugz","app_name":"FogBugz","test_type":"alt_prep"}
