@@ -15,42 +15,21 @@ Built on [**Glyphh Ada 1.1**](https://www.glyphh.ai/products/runtime) · **[Docs
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
-# Install with runtime dependencies (includes FastAPI, SQLAlchemy, pgvector)
-pip install 'glyphh[runtime]'
+# Install Glyphh (includes runtime)
+pip install glyphh
 ```
 
-### 2. Clone and start the model
-
-This model requires PostgreSQL + pgvector for similarity search.
+### 2. Install the model
 
 ```bash
-git clone https://github.com/glyphh-ai/model-deals.git
-cd model-deals
-
 # Start the Glyphh shell (prompts login on first run)
 glyphh
 
 # Inside the shell:
-# glyphh> docker init            # generates docker-compose.yml + init.sql
-# glyphh> exit
-
-# Start PostgreSQL + pgvector and the Glyphh runtime
-docker compose up -d --wait
+# glyphh> hub install model-deals
 ```
 
-This starts:
-- **PostgreSQL 16 + pgvector** on port 5432 (with HNSW indexing)
-- **Glyphh Runtime** on port 8002 (auto-deploys the model via volume mount)
-
-### 3. Deploy the model
-
-```bash
-glyphh
-# glyphh> model package                              # build .glyphh package
-# glyphh> model deploy model-deals.glyphh            # deploy to runtime
-```
-
-### 4. Query the model
+### 3. Query the model
 
 ```bash
 # Text queries (intent extraction → HDC encode → cosine search)
