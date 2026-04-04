@@ -3,7 +3,7 @@ name: Publish Model
 on:
   push:
     tags:
-      - "*/v*"  # e.g. actions/v0.1.0, assistant/v0.2.0
+      - "*/v*"  # e.g. firewall/v0.9.0, code/v0.1.0
 
 permissions:
   contents: write
@@ -13,12 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: pip install pyyaml
@@ -33,16 +31,23 @@ jobs:
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
 
+      - name: Validate model directory
+        run: |
+          if [ ! -f "${{ steps.tag.outputs.model_dir }}/manifest.yaml" ]; then
+            echo "Error: ${{ steps.tag.outputs.model_dir }}/manifest.yaml not found"
+            exit 1
+          fi
+
       - name: Read manifest
         id: manifest
         run: |
           python -c "
-          import yaml, json
+          import yaml
           m = yaml.safe_load(open('${{ steps.tag.outputs.model_dir }}/manifest.yaml'))
           print(f\"name={m.get('name', '')}\")" >> "$GITHUB_OUTPUT"
 
       - name: Package .glyphh
-        run: python scripts/publish.py ${{ steps.tag.outputs.model_dir }} --version ${{ steps.tag.outputs.version }}
+        run: python scripts/publish.py ${{ steps.tag.outputs.model_dir }} --version ${{ steps.tag.outputs.version }} --skip-build
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
