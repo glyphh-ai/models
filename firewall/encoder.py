@@ -61,6 +61,7 @@ ENCODER_CONFIG = EncoderConfig(
                             lexicons=[
                                 "query", "instruct", "override",
                                 "extract", "jailbreak", "benign",
+                                "harmful", "abuse", "manipulate",
                             ],
                         ),
                     ],
@@ -127,9 +128,17 @@ ENCODER_CONFIG = EncoderConfig(
                             name="attack_family",
                             similarity_weight=1.0,
                             lexicons=[
-                                "none", "role_assumption", "instruction_override",
+                                "none",
+                                # Original 6 families
+                                "role_assumption", "instruction_override",
                                 "context_manipulation", "delimiter_injection",
                                 "extraction", "indirect_injection",
+                                # Expanded families (v0.9+)
+                                "encoding_obfuscation", "logic_exploitation",
+                                "harmful_content", "social_engineering",
+                                "tool_abuse", "resource_abuse",
+                                "multi_turn", "compliance_violation",
+                                "agentic_exploit", "output_manipulation",
                             ],
                         ),
                     ],
@@ -192,6 +201,11 @@ ENCODER_CONFIG = EncoderConfig(
 # ---------------------------------------------------------------------------
 # encode_prompt — NL text -> Concept dict
 # ---------------------------------------------------------------------------
+
+def encode_prompt(text: str) -> dict:
+    """Alias for encode_query (backward compat)."""
+    return encode_query(text)
+
 
 def encode_query(text: str) -> dict:
     """Convert raw prompt text into a Concept-compatible dict for similarity search.
@@ -422,6 +436,25 @@ async def handle_mcp_tool(tool_name: str, arguments: dict, context: dict) -> dic
 
     elapsed_ms = round((time.time() - t0) * 1000, 1)
 
+    # Log event for shield dashboard
+    try:
+        from pathlib import Path
+        import json as _json
+        log_dir = Path.home() / ".glyphh" / "firewall"
+        log_dir.mkdir(parents=True, exist_ok=True)
+        with open(log_dir / "events.jsonl", "a") as _f:
+            _f.write(_json.dumps({
+                "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S"),
+                "text": text[:200],
+                "verdict": result["verdict"],
+                "threat_score": result["threat_score"],
+                "intent_type": features.get("intent_type", "benign"),
+                "matched_family": result.get("matched_family", "none"),
+                "latency_ms": elapsed_ms,
+            }) + "\n")
+    except Exception:
+        pass
+
     return {
         "state": "DONE",
         "confidence": result["threat_score"],
@@ -445,6 +478,7 @@ def _heuristic_score(features: dict) -> dict:
 
     threat_map = {
         "override": 0.85, "jailbreak": 0.80, "extract": 0.75,
+        "harmful": 0.80, "abuse": 0.70, "manipulate": 0.65,
         "instruct": 0.40, "query": 0.0, "benign": 0.0,
     }
     threat = threat_map.get(intent_type, 0.0)

@@ -3,20 +3,23 @@
 # No LLM in the loop — pure deterministic vector operations.
 
 name: prompt-injection-firewall
-version: 0.1.0
+version: 1.0.0
 description: |
-  Detects prompt injection attacks across 6 attack families
+  Detects prompt injection attacks across 16 attack families
   (role assumption, instruction override, context manipulation,
-  delimiter injection, extraction, indirect injection) using
-  4-layer HDC encoding with full per-layer explainability.
-  Sub-millisecond inference, zero tokens, no recursive vulnerability.
+  delimiter injection, extraction, indirect injection, encoding obfuscation,
+  logic exploitation, harmful content, social engineering, tool abuse,
+  resource abuse, multi-turn, compliance violation, agentic exploit,
+  output manipulation) using 4-layer HDC encoding with full per-layer
+  explainability. 200+ distinct threat types. Sub-millisecond inference,
+  zero tokens, no recursive vulnerability.
 
 author: Glyphh AI
 license: AGPL-3.0
 
 # --- Main model (seed=42) ---
 encoder:
-  dimensions: 10000
+  dimensions: 2000
   seed: 42
 
 auto_load_concepts: true
@@ -34,6 +37,9 @@ layers:
           - extract
           - jailbreak
           - benign
+          - harmful
+          - abuse
+          - manipulate
 
       intent_signals:
         type: bag_of_words
@@ -71,12 +77,24 @@ layers:
         type: categorical
         values:
           - none
+          # Original 6 families
           - role_assumption
           - instruction_override
           - context_manipulation
           - delimiter_injection
           - extraction
           - indirect_injection
+          # Expanded families (v0.9+)
+          - encoding_obfuscation
+          - logic_exploitation
+          - harmful_content
+          - social_engineering
+          - tool_abuse
+          - resource_abuse
+          - multi_turn
+          - compliance_violation
+          - agentic_exploit
+          - output_manipulation
 
       semantic_tokens:
         type: bag_of_words

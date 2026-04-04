@@ -1,7 +1,7 @@
 model_id: model-firewall
 name: Prompt Injection Firewall
-description: Detects prompt injection attacks deterministically in microseconds using HDC cosine similarity. 4-layer analysis (intent, structure, semantic, adversarial) with full explainability. No LLM in the loop — pure vector operations.
-version: 0.9.0
+description: Detects 200+ prompt injection threat types across 16 attack families deterministically in microseconds using HDC cosine similarity. 4-layer analysis (intent, structure, semantic, adversarial) with full explainability. No LLM in the loop — pure vector operations.
+version: 1.0.0
 author: Glyphh AI
 license: AGPL-3.0
 icon: "\U0001F6E1"
@@ -15,3 +15,6 @@ tags:
   - safety
   - adversarial
   - detection
+  - social-engineering
+  - harmful-content
+  - agentic-security

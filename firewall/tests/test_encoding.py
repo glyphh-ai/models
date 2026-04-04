@@ -104,4 +104,4 @@ def test_glyph_dimension():
     attrs = encode_prompt("Hello world")["attributes"]
     concept = Concept(name="test", attributes=attrs)
     glyph = encoder.encode(concept)
-    assert glyph.global_cortex.dimension == 10000
+    assert glyph.global_cortex.dimension == 2000

@@ -4,9 +4,9 @@ Intent extraction for the Prompt Injection Firewall model.
 Pure deterministic feature extraction — no LLM, no external API.
 Classifies prompt text across 4 dimensions:
 
-  Intent:      What is this prompt trying to do? (query/instruct/override/extract/jailbreak/benign)
+  Intent:      What is this prompt trying to do? (query/instruct/override/extract/jailbreak/harmful/abuse/manipulate/benign)
   Structure:   Syntactic patterns indicating injection (delimiters, nesting, tags)
-  Semantic:    Attack family classification (6 families + none)
+  Semantic:    Attack family classification (16 families + none)
   Adversarial: Obfuscation and evasion signals (encoding, unicode tricks, mixed scripts)
 
 Exports:
@@ -170,6 +170,238 @@ _CONTEXT_MANIPULATION_PATTERNS = [
 ]
 
 # ---------------------------------------------------------------------------
+# Harmful content patterns — requests for dangerous/illegal information
+# ---------------------------------------------------------------------------
+
+_HARMFUL_CONTENT_PATTERNS = [
+    # Weapons and explosives
+    r"(how\s+to|steps?\s+to|instructions?\s+for|guide\s+to|teach\s+me\s+to)\s+(make|build|create|construct|assemble|manufacture|synthesize|produce)\s+.{0,30}(bomb|explosive|weapon|grenade|detonator|incendiary|molotov|pipe\s+bomb|ied|improvised)",
+    r"(recipe|formula|blueprint|schematic|diagram)\s+(for|of|to\s+make)\s+.{0,20}(bomb|explosive|weapon|poison|toxin|chemical\s+weapon|biological\s+weapon)",
+    r"(how\s+to|guide\s+to|teach|show)\s+.{0,20}(3d\s+print|manufacture|build|ghost)\s+.{0,10}(gun|firearm|weapon)",
+    # Drugs and chemicals
+    r"(how\s+to|steps?\s+to|instructions?\s+for|guide\s+to)\s+(make|cook|synthesize|produce|manufacture|brew|extract|distill|purify)\s+.{0,30}(meth|methamphetamine|fentanyl|cocaine|heroin|mdma|lsd|crack|ricin|sarin|vx\s+gas|mustard\s+gas|cyanide|anthrax)",
+    r"(synthesis|production|manufacturing|preparation)\s+(of|for|process)\s+.{0,20}(meth|methamphetamine|fentanyl|cocaine|heroin|mdma|lsd|ricin|sarin|cyanide)",
+    # Violence and harm
+    r"(how\s+to|ways?\s+to|methods?\s+to|best\s+way\s+to)\s+(kill|murder|assassinate|poison|harm|injure|torture|kidnap|traffic|stalk|terrorize|attack)",
+    r"(plan|planning|blueprint|strategy)\s+(for|to)\s+(attack|bomb|shoot|kill|poison|terrorize|massacre)",
+    r"(how\s+to|ways?\s+to)\s+(get\s+away\s+with|cover\s+up|hide\s+evidence\s+of)\s+.{0,20}(murder|killing|crime|assault|fraud|theft)",
+    # CSAM and exploitation
+    r"(sexual|nude|naked|explicit)\s+.{0,20}(child|minor|underage|teen|kid|infant|toddler|pre-?teen|adolescent)",
+    r"(child|minor|underage)\s+.{0,20}(porn|sexual|explicit|nude|naked|exploitation|abuse|trafficking)",
+    # Self-harm
+    r"(how\s+to|methods?\s+for|ways?\s+to|best\s+way\s+to)\s+(commit\s+)?suicide",
+    r"(most\s+)?(painless|effective|quick|easy)\s+(ways?\s+to|methods?\s+(for|of))\s+(die|end\s+.{0,10}life|kill\s+(my|your|one)self)",
+    # Hacking and cyber attacks (actual harmful intent)
+    r"(how\s+to|guide\s+to|teach\s+me\s+to)\s+(hack\s+into|break\s+into|compromise|exploit|breach)\s+.{0,30}(bank|hospital|government|military|power\s+grid|water\s+system|infrastructure|election)",
+    r"(create|write|generate|build)\s+.{0,20}(ransomware|malware|virus|trojan|rootkit|keylogger|spyware|worm|botnet|zero-?day\s+exploit)",
+    r"(how\s+to|guide\s+to)\s+(ddos|dos|denial\s+of\s+service|flood|take\s+down)\s+.{0,20}(server|website|network|service|infrastructure)",
+    # Fraud and financial crimes
+    r"(how\s+to|guide\s+to|teach\s+me\s+to)\s+(counterfeit|forge|fake|clone)\s+.{0,20}(money|currency|bills?|credit\s+cards?|documents?|id|passport|license|diploma)",
+    r"(how\s+to|guide\s+to)\s+(launder|wash)\s+(money|funds|proceeds|cash)",
+    # Bioweapons and radiological
+    r"(how\s+to|steps?\s+to|instructions?\s+for)\s+.{0,20}(weaponize|aerosolize|disperse|release)\s+.{0,20}(pathogen|virus|bacteria|toxin|biological|chemical|radioactive|nuclear)",
+    r"(dirty\s+bomb|radiological\s+dispersal|nuclear\s+device)\s+(construction|assembly|build|make|design)",
+]
+
+# ---------------------------------------------------------------------------
+# Social engineering patterns — manipulation and deception
+# ---------------------------------------------------------------------------
+
+_SOCIAL_ENGINEERING_PATTERNS = [
+    # Phishing generation
+    r"(write|create|generate|compose|draft)\s+.{0,20}(phishing|spear-?phishing|whale-?phishing)\s*(email|message|page|template|campaign)",
+    r"(write|create|generate|compose)\s+.{0,20}(convincing|realistic|believable)\s+.{0,20}(scam|fraud|fake)\s+(email|message|letter|page)",
+    r"(impersonate|pretend\s+to\s+be|pose\s+as)\s+.{0,20}(bank|paypal|amazon|apple|google|microsoft|irs|fbi|police|government|ceo|executive|hr|it\s+department)",
+    # Identity fraud
+    r"(how\s+to|ways?\s+to|guide\s+to)\s+(steal|harvest|collect|gather|scrape|phish\s+for)\s+.{0,20}(credentials?|passwords?|credit\s+card|social\s+security|ssn|identity|personal\s+data|pii)",
+    r"(create|generate|write)\s+.{0,20}(fake|fraudulent|forged)\s+.{0,20}(website|login\s+page|portal|form)\s+.{0,30}(harvest|steal|capture|collect|phish)",
+    # Pretexting and manipulation
+    r"(how\s+to|ways?\s+to)\s+(manipulate|deceive|trick|con|scam|defraud|gaslight|groom|catfish|catfishing)\s+(someone|people|victim|target|user|employee|customer)",
+    r"(script|dialogue|template)\s+(for|to)\s+(social\s+engineer|manipulate|trick|deceive|scam)\s+.{0,30}(into\s+giving|into\s+revealing|into\s+clicking|into\s+downloading|into\s+transferring)",
+    # Deepfake and impersonation
+    r"(create|generate|make)\s+.{0,20}(deepfake|fake\s+video|fake\s+audio|voice\s+clone|synthetic\s+voice)\s+.{0,20}(of|impersonating|mimicking)",
+    r"(how\s+to|guide\s+to)\s+.{0,20}(clone|replicate|spoof|fake)\s+.{0,20}(someone.?s\s+)?(voice|face|identity|signature|handwriting)",
+    # Disinformation
+    r"(write|create|generate)\s+.{0,20}(disinformation|misinformation|propaganda|fake\s+news|false\s+narrative|conspiracy\s+theory)\s+(campaign|article|post|content)",
+    r"(how\s+to|ways?\s+to)\s+(spread|amplify|promote|seed)\s+.{0,20}(disinformation|misinformation|propaganda|fake\s+news|false\s+narrative|conspiracy)",
+    # Emotional manipulation for harmful purposes
+    r"(how\s+to|ways?\s+to|techniques?\s+for)\s+(psychologically\s+)?(manipulate|coerce|pressure|guilt\s+trip|blackmail|extort|bribe|intimidate)\s+(someone|people|a\s+person|victims?|targets?)",
+]
+
+# ---------------------------------------------------------------------------
+# Tool abuse patterns — misusing AI capabilities and tools
+# ---------------------------------------------------------------------------
+
+_TOOL_ABUSE_PATTERNS = [
+    # Using AI to attack other systems
+    r"(use|make|have)\s+(this\s+)?(ai|you|assistant|model|chatbot)\s+(to\s+)?(hack|attack|exploit|compromise|breach|pentest|scan|enumerate)\s+.{0,30}(server|system|network|website|database|api|endpoint)",
+    r"(use|make|have)\s+(this\s+)?(ai|you|assistant|model)\s+(to\s+)?(send|execute|run|perform|launch)\s+.{0,20}(attack|exploit|payload|injection|command|script)\s+(on|against|to|at)",
+    # Function/API abuse
+    r"(call|invoke|execute|trigger|use)\s+(the\s+)?(function|api|tool|endpoint|command|method)\s+.{0,30}(repeatedly|infinite|loop|flood|spam|exhaust|overload|overwhelm)",
+    r"(make|force|trick|have)\s+(the\s+)?(ai|model|assistant|system)\s+(to\s+)?(execute|run|call)\s+(arbitrary|malicious|unauthorized|unintended)\s+(code|commands?|scripts?|functions?|programs?)",
+    # Data exfiltration via tools
+    r"(use|abuse|exploit)\s+(the\s+)?(tool|function|api|search|browse|fetch|read|file)\s+.{0,30}(to\s+)?(steal|exfiltrate|extract|leak|expose|copy|dump|download)\s+.{0,20}(data|information|files?|credentials?|secrets?|keys?|tokens?|database)",
+    r"(list|enumerate|dump|download|read|access)\s+(all|every)\s+.{0,20}(file|directory|folder|database|table|record|user|credential|secret|key|token|password)",
+    # Privilege escalation
+    r"(escalate|elevate|gain|obtain|get)\s+.{0,10}(privileges?|permissions?|access|admin|root|sudo|superuser)\s+(to|for|on|in)\s+.{0,20}(system|server|network|database|cloud|aws|azure|gcp)",
+    r"(bypass|circumvent|evade|avoid)\s+(the\s+)?(authentication|authorization|access\s+control|permission|firewall|waf|rate\s+limit|sandbox)",
+    # Chaining tools for unauthorized purposes
+    r"(chain|combine|sequence|orchestrate|automate)\s+.{0,20}(tool|function|api|action|step)\s+.{0,30}(to\s+)?(bypass|circumvent|evade|escalate|exfiltrate|attack|exploit|compromise|damage)",
+]
+
+# ---------------------------------------------------------------------------
+# Resource abuse patterns — denial of service and resource exhaustion
+# ---------------------------------------------------------------------------
+
+_RESOURCE_ABUSE_PATTERNS = [
+    # Token/compute exhaustion
+    r"(repeat|generate|output|write|print|produce)\s+.{0,20}(token|word|character|letter|sentence|paragraph|page)\s+.{0,20}(forever|infinitely|endlessly|million|billion|unlimited|maximum|as\s+many\s+as|until\s+you\s+run\s+out)",
+    r"(write|generate|output|produce)\s+.{0,10}(the\s+)?(longest|maximum|most|biggest)\s+(possible\s+)?(response|output|text|answer|message)",
+    r"(keep\s+going|continue|don.?t\s+stop|never\s+stop|repeat\s+forever|loop\s+forever|infinite\s+loop|write\s+until)",
+    # Rate limit evasion
+    r"(bypass|circumvent|evade|avoid|get\s+around)\s+(the\s+)?(rate\s+limit|throttle|quota|api\s+limit|request\s+limit|usage\s+limit|token\s+limit|context\s+limit)",
+    # Cost attacks
+    r"(maximize|increase|inflate|spike|run\s+up)\s+.{0,20}(cost|bill|charges?|usage|compute|tokens?|api\s+calls?|expenses?)",
+    r"(cause|create|trigger|generate)\s+.{0,20}(maximum|excessive|extreme|massive)\s+(cost|expense|compute|usage|tokens?|billing|charges?)",
+    # Recursive/amplification
+    r"(recursive|recursion|amplif|multiply|replicate|fork\s+bomb|infinite\s+recursion|stack\s+overflow|memory\s+exhaustion)",
+    r"(call\s+yourself|invoke\s+yourself|prompt\s+yourself|query\s+yourself|ask\s+yourself)\s+(repeatedly|again|in\s+a\s+loop|recursively|infinitely)",
+    # Scraping and bulk extraction
+    r"(scrape|crawl|spider|harvest|download|rip|mirror)\s+(all|every|entire|complete|full)\s+.{0,20}(website|site|page|database|api|dataset|catalog|listing|content|article|product)",
+]
+
+# ---------------------------------------------------------------------------
+# Multi-turn patterns — attacks spread across conversation turns
+# ---------------------------------------------------------------------------
+
+_MULTI_TURN_PATTERNS = [
+    # Building up context for later attack
+    r"(remember|keep\s+in\s+mind|note\s+that|store\s+this|save\s+this)\s+.{0,30}(for\s+later|for\s+the\s+next|i.?ll\s+need\s+this|we.?ll\s+use\s+this|important\s+for\s+later)",
+    r"(now|ok|okay|good|great|perfect)\s+.{0,10}(that\s+you.?ve\s+)?(confirmed|agreed|accepted|acknowledged|said\s+yes|established)\s+.{0,30}(now\s+)?(let.?s|please|go\s+ahead|you\s+can|you\s+should|you\s+must)",
+    # Incremental policy erosion
+    r"(just\s+a\s+little|tiny|small|slight|minor)\s+(exception|adjustment|modification|change|relaxation|bending)\s+(of|to|in)\s+(the\s+)?(rules?|policies|guidelines?|restrictions?|safety)",
+    r"(you\s+already|you\s+just|you\s+did|earlier\s+you)\s+(said|agreed|confirmed|did|provided|showed|told|helped)\s+.{0,30}(so\s+)?(why\s+not|now\s+just|just\s+do|you\s+can|go\s+further|go\s+a\s+step|take\s+it\s+further)",
+    # Reference to fictional prior agreement
+    r"(we\s+already|we\s+previously|earlier\s+we|last\s+time\s+we|you\s+already)\s+(agreed|decided|established|confirmed|discussed)\s+(that|to)\s+.{0,40}(restrictions?|filters?|rules?|safety|guidelines?)\s+(don.?t|do\s+not|wouldn.?t|are\s+not)\s+apply",
+    r"(as\s+we|as\s+you)\s+(discussed|agreed|established)\s+(earlier|before|previously|last\s+time)\s*,?\s+(you|the|all)\s+.{0,30}(restrictions?|filters?|rules?|safety|guidelines?)",
+    # Conditioning through repetition
+    r"(say|type|write|repeat|output)\s+(after\s+me|this|the\s+following)\s*[:;]?\s*.{0,50}(ignore|forget|disregard|override|bypass|no\s+restrictions?)",
+    # Conversational trust building
+    r"(i\s+thought\s+we|we\s+had\s+an|we\s+have\s+an|there\s+was\s+an)\s+(understanding|agreement|arrangement|deal)\s+that\s+you\s+would",
+    r"(we.?re|we\s+are)\s+(friends?|colleagues?|partners?|collaborators?)\s+.{0,30}(trust|help|no\s+need\s+for|don.?t\s+need)\s+(restrictions?|filters?|rules?|formality|barriers?)",
+]
+
+# ---------------------------------------------------------------------------
+# Compliance violation patterns — regulatory and policy circumvention
+# ---------------------------------------------------------------------------
+
+_COMPLIANCE_VIOLATION_PATTERNS = [
+    # Privacy violations
+    r"(find|lookup|search|get|retrieve|give\s+me)\s+.{0,20}(personal|private|confidential|sensitive)\s+(information|data|details?|records?)\s+(about|for|of|on)\s+.{0,20}(person|individual|someone|user|employee|citizen|patient|student|customer)",
+    r"(dox|doxx|doxing|doxxing)\s+(someone|this\s+person|them|him|her|a\s+person|the\s+user|target)",
+    r"(how\s+to|ways?\s+to)\s+(track|trace|locate|find|stalk|monitor|surveil)\s+(someone|a\s+person|people|an\s+individual|a\s+target|their|his|her)\s+(without|with\s+no)\s+(their\s+)?(knowledge|consent|permission|awareness)",
+    # Medical/legal/financial advice beyond scope
+    r"(diagnose|prescribe|treat|medicate)\s+.{0,30}(this\s+)?(condition|illness|disease|symptom|pain|cancer|depression|anxiety)\s+.{0,20}(without|skip|bypass|instead\s+of)\s+.{0,20}(doctor|physician|professional|medical)",
+    r"(legal\s+advice|represent\s+me|file\s+a\s+lawsuit|draft\s+a\s+(legal\s+)?contract)\s+.{0,30}(without|skip|bypass|instead\s+of)\s+.{0,20}(lawyer|attorney|counsel|legal\s+professional)",
+    # Age-restricted content access
+    r"(i.?m|i\s+am)\s+(not\s+)?\d+\s+(years?\s+old|yo)\s+.{0,30}(show|give|provide|tell|generate|create)\s+.{0,20}(adult|mature|18\+|nsfw|explicit|graphic|violent)",
+    r"(bypass|circumvent|skip|get\s+around|avoid)\s+(the\s+)?(age\s+verification|age\s+check|age\s+gate|age\s+restriction|parental\s+control|content\s+rating)",
+    # Regulatory circumvention
+    r"(help|assist|guide)\s+me\s+.{0,20}(evade|avoid|circumvent|bypass|violate|break|skirt)\s+.{0,20}(regulation|law|compliance|sanction|embargo|tax|reporting\s+requirement|gdpr|hipaa|sox|pci|ccpa|ferpa)",
+    r"(how\s+to|ways?\s+to)\s+(hide|conceal|disguise|obfuscate|offshore|shelter)\s+.{0,20}(income|money|assets?|funds?|revenue|transaction|payment)\s+.{0,20}(from\s+)?(tax|irs|government|authorities?|regulators?|auditors?)",
+    # Terms of service violations
+    r"(how\s+to|ways?\s+to|help\s+me)\s+(violate|breach|break|circumvent|bypass|evade)\s+(the\s+)?(terms?\s+of\s+service|tos|eula|acceptable\s+use|community\s+guidelines?|platform\s+rules?|content\s+policy)",
+    # Unauthorized surveillance
+    r"(how\s+to|ways?\s+to|guide\s+to)\s+(spy\s+on|surveil|wiretap|eavesdrop|intercept|monitor)\s+.{0,20}(someone|employee|spouse|partner|person|phone|email|communication|conversation)\s+(without|with\s+no)\s+(their\s+)?(consent|knowledge|permission|awareness)",
+]
+
+# ---------------------------------------------------------------------------
+# Agentic exploit patterns — attacks on autonomous AI agents
+# ---------------------------------------------------------------------------
+
+_AGENTIC_EXPLOIT_PATTERNS = [
+    # Instruction injection into agent context
+    r"(when\s+the|if\s+the|once\s+the)\s+(ai|agent|assistant|model|bot|system)\s+(reads?|processes?|sees?|encounters?|receives?|fetches?|loads?)\s+(this|the\s+following|these\s+instructions?)\s*,?\s*(it\s+should|it\s+must|it\s+will|make\s+it|have\s+it|tell\s+it\s+to)",
+    r"(hidden|invisible|embedded|injected)\s+(instructions?|commands?|prompts?|directives?|payload)\s+(for|to|aimed\s+at|targeting|designed\s+for)\s+(the\s+)?(ai|agent|assistant|model|bot|system|crawler|scraper|reader)",
+    # Goal hijacking
+    r"(abandon|forget|disregard|ignore|drop|stop)\s+(your|the)\s+(current|original|primary|main|assigned)\s+(goal|task|objective|mission|purpose|assignment)\s+(and|then|now)\s+(instead\s+)?(do|perform|execute|accomplish|work\s+on|focus\s+on|switch\s+to)",
+    r"(your|the)\s+(new|real|actual|true|updated|revised)\s+(goal|task|objective|mission|purpose|assignment)\s+(is|should\s+be|will\s+be)\s+(to\s+)?(instead|now|actually)",
+    # Prompt injection via data sources
+    r"(note\s+to\s+(ai|assistant|model|agent|system|self)|attention\s+(ai|assistant|model|agent|system))\s*[:;]?\s*(ignore|forget|disregard|override|bypass|new\s+instructions?)",
+    r"(if\s+you\s+are|you\s+are|this\s+is\s+for)\s+(an?\s+)?(ai|language\s+model|llm|chatbot|assistant|agent|gpt|claude)\s+.{0,30}(reading|processing|parsing|analyzing|scanning|crawling)\s+this",
+    # Indirect prompt injection (content designed to be consumed by agents)
+    r"<\s*(ai[-_\s]?instruction|agent[-_\s]?instruction|model[-_\s]?instruction|system[-_\s]?override|hidden[-_\s]?prompt)\s*>",
+    r"\[INST\]|\[/INST\]|<<SYS>>|<</SYS>>|\[SYSTEM\]|\[/SYSTEM\]",
+    # Agent loop exploitation
+    r"(create|trigger|cause|induce)\s+.{0,20}(infinite|endless|perpetual|unbounded)\s+(loop|cycle|recursion|iteration)\s+.{0,20}(agent|assistant|model|system|process|workflow)",
+    # Capability probing
+    r"(what\s+)?(tools?|functions?|capabilities?|actions?|apis?|endpoints?|permissions?|access)\s+(do\s+you\s+have|are\s+available|can\s+you\s+(use|access|call|invoke)|are\s+you\s+allowed)",
+    r"(list|enumerate|show|display|reveal|dump)\s+(all|every|each)\s+(of\s+)?(your|the)\s+(\w+\s+)*(tools?|functions?|capabilities?|actions?|apis?|endpoints?|commands?|plugins?|extensions?|permissions?)",
+]
+
+# ---------------------------------------------------------------------------
+# Output manipulation patterns — poisoning, formatting attacks, UI spoofing
+# ---------------------------------------------------------------------------
+
+_OUTPUT_MANIPULATION_PATTERNS = [
+    # Response format injection
+    r"(format|structure|display|render|output|present)\s+(your|the)\s+(response|answer|reply|output)\s+(as|like|in\s+the\s+form\s+of)\s+.{0,30}(json|xml|html|markdown|code|script|executable|sql|javascript|css)",
+    r"(include|inject|embed|insert|add|put)\s+.{0,20}(html|javascript|css|script|iframe|img\s+src|svg|xss|link|meta|style)\s+.{0,20}(in|into|within)\s+(your|the)\s+(response|output|answer|reply|message)",
+    # Hallucination inducement
+    r"(make\s+up|fabricate|invent|imagine|hallucinate|confabulate|generate\s+fake)\s+.{0,20}(facts?|data|statistics?|studies?|citations?|references?|quotes?|evidence|sources?|research|papers?|articles?|numbers?|results?)",
+    r"(cite|reference|quote|provide)\s+(fake|false|fabricated|made-?up|nonexistent|fictional|imaginary)\s+(sources?|studies?|papers?|articles?|books?|journals?|data|statistics?|research|evidence)",
+    # Misleading framing
+    r"(respond|answer|reply)\s+(as\s+if|as\s+though|like|pretending)\s+(you\s+are|this\s+is|it\s+is)\s+(an?\s+)?(official|authoritative|verified|trusted|government|medical|legal|expert)\s+(source|authority|channel|spokesperson|representative)",
+    r"(present|frame|phrase|word|write)\s+(your\s+)?(response|answer|output)\s+(so\s+that|in\s+a\s+way\s+that|to\s+make\s+it)\s+(looks?|appears?|seems?|sounds?)\s+(like|as\s+if|as\s+though)\s+(it\s+)?(came\s+from|is\s+from|was\s+written\s+by|is\s+an?\s+official)",
+    # Token smuggling / invisible text
+    r"(hide|conceal|embed|inject|encode|insert)\s+.{0,20}(text|message|instructions?|content|data|payload|information)\s+.{0,20}(in|into|within|using)\s+.{0,20}(whitespace|unicode|zero-?width|invisible|hidden|markup|html|metadata|comments?|alt\s+text)",
+    r"(add|include|insert|put)\s+.{0,20}(invisible|hidden|zero-?width|whitespace|off-?screen|tiny|microscopic|transparent|same-?colou?r)\s+(text|characters?|content|message|instructions?|payload)",
+    # Watermark/safety label removal
+    r"(remove|strip|delete|erase|hide|conceal|omit|suppress)\s+(the\s+)?(watermark|safety\s+label|disclaimer|warning|content\s+warning|trigger\s+warning|ai-?generated|disclosure|attribution|provenance|source\s+attribution)",
+    # UI/UX confusion
+    r"(respond|output|display|format)\s+.{0,20}(to\s+make\s+.{0,10}(look|appear|seem)|that\s+(looks?|appears?|mimics?|resembles?|simulates?))\s+.{0,20}(like|as)\s+(an?\s+)?(system\s+message|error\s+message|notification|alert|pop-?up|dialog|login\s+page|button|link|official)",
+]
+
+# ---------------------------------------------------------------------------
+# Encoding/obfuscation attack patterns — attacks hidden via encoding
+# ---------------------------------------------------------------------------
+
+_ENCODING_OBFUSCATION_PATTERNS = [
+    # Instructions to decode and execute
+    r"(decode|decrypt|decipher|translate|convert)\s+(this|the\s+following|these|my|the)\s+.{0,20}(and|then)\s+(follow|execute|obey|comply|do\s+what|act\s+on|perform|carry\s+out|respond\s+to)",
+    r"(the\s+)?(real|actual|true|hidden|secret|encoded|encrypted)\s+(instructions?|message|prompt|commands?|task|request)\s+(is|are)\s+(encoded|hidden|encrypted|base64|hex|rot13)",
+    # Payload delivery via encoding
+    r"(base64|hex|rot13|ascii|unicode|utf-?8|latin-?1|url-?encoded?)\s*[:=]\s*[A-Za-z0-9+/=]{10,}",
+    r"(eval|execute|run|decode|interpret)\s*\(\s*['\"]?(atob|btoa|decode|unhex|fromCharCode|String\.fromCharCode)",
+    # Character-level obfuscation instructions
+    r"(read|interpret|decode|parse)\s+(every|each|the)\s+(first|second|third|last|nth|alternate|odd|even|capital|uppercase|bold|italic)\s+(letter|character|word|line)\s+.{0,30}(to\s+get|to\s+find|to\s+reveal|for\s+the\s+(real|true|hidden|secret|actual))",
+    r"(first|capital|uppercase|bold|italic|highlighted|underlined)\s+(letters?|characters?|words?)\s+(of|in|from)\s+(each|every|the)\s+(word|sentence|line|paragraph)\s+(spell|form|reveal|contain|encode|hide)",
+    # Steganographic instructions
+    r"(hidden|secret|embedded|encoded|steganograph)\s+(in|within|inside)\s+(the|this|these)\s+(image|picture|photo|file|document|audio|video|text|whitespace|metadata|exif|comment)",
+]
+
+# ---------------------------------------------------------------------------
+# Logic exploitation patterns — reasoning/logic attacks on the model
+# ---------------------------------------------------------------------------
+
+_LOGIC_EXPLOITATION_PATTERNS = [
+    # Paradox and contradiction
+    r"(if\s+you\s+)?(refuse|can.?t|cannot|won.?t|are\s+unable)\s+.{0,20}(then\s+)?(you.?re|you\s+are|that\s+proves?|that\s+means?|it\s+means?)\s+.{0,20}(censored|biased|broken|flawed|limited|controlled|not\s+intelligent|not\s+really\s+ai|not\s+helpful)",
+    r"(a\s+truly|a\s+real|a\s+good|an?\s+uncensored|an?\s+intelligent|an?\s+honest)\s+(\w+\s+)?(ai|assistant|model|system)\s+(would|should|could|can|must|will)\s+(always\s+)?(answer|respond|help|comply|provide|give|tell|explain)\s+(any|every|all)\s+(question|request|query|prompt)",
+    # Logical coercion
+    r"(you\s+must|you\s+have\s+to|you\s+are\s+required\s+to|you\s+are\s+obligated\s+to)\s+(answer|respond\s+to|help\s+with|comply\s+with|provide|fulfill)\s+(any|every|all)\s+(request|question|prompt|query|instruction|command)",
+    r"(by\s+definition|logically|mathematically|by\s+your\s+own\s+logic|by\s+your\s+own\s+rules?)\s+.{0,30}(you\s+must|you\s+should|you\s+have\s+to|it\s+follows\s+that|therefore|thus|hence|ergo)\s+.{0,30}(answer|respond|help|comply|provide|ignore|bypass|override)",
+    # False dichotomy / forced choice
+    r"(either|choose|pick)\s+.{0,10}(answer|respond|comply|help|provide)\s+.{0,20}(or|otherwise)\s+.{0,20}(prove|admit|confirm|show|demonstrate)\s+(that\s+)?(you.?re|you\s+are|you)\s+.{0,20}(useless|broken|biased|censored|controlled|not\s+ai|not\s+helpful|inferior)",
+    r"(if\s+you\s+)?(don.?t|do\s+not|won.?t|refuse\s+to|can.?t)\s+(answer|respond|help|comply|provide)\s*,?\s+(i.?ll|i\s+will)\s+.{0,30}(report|complain|give\s+.{0,10}bad\s+review|tell\s+everyone|switch\s+to|unsubscribe|sue|cancel)",
+    # Definition manipulation
+    r"(define|redefine|let.?s\s+define|consider|assume|suppose|let|say\s+that)\s+.{0,10}(that\s+)?(safe|harmful|dangerous|illegal|allowed|restricted|forbidden|toxic|acceptable)\s+(means?|is|refers?\s+to|includes?|equals?|is\s+the\s+same\s+as|now\s+means?)",
+    r"(in\s+my|for\s+our|in\s+this)\s+(context|framework|definition|vocabulary|language|world|scenario)\s*,?\s*(safe|harmful|dangerous|illegal|allowed|restricted|forbidden|toxic|acceptable)\s+(means?|is|refers?\s+to|includes?)",
+    # Reductio ad absurdum abuse
+    r"(if\s+you\s+can\s+)?(tell\s+me|explain|discuss|describe)\s+.{0,20}(water|cooking|chemistry|physics|biology|history|science)\s+.{0,10}(then\s+)?(you\s+can\s+also|you\s+should\s+also|why\s+can.?t\s+you\s+also|surely\s+you\s+can|by\s+that\s+logic)\s+.{0,30}(explain|tell|teach|show|describe|help\s+with)\s+.{0,20}(how\s+to\s+)?(make|build|create|synthesize|produce|hack)",
+]
+
+# ---------------------------------------------------------------------------
 # Delimiter / structural patterns
 # ---------------------------------------------------------------------------
 
@@ -302,20 +534,58 @@ _STOP_WORDS = frozenset({
 
 # Intent-bearing keywords for BoW signal extraction
 _INTENT_KEYWORDS = frozenset({
+    # Override / instruction manipulation
     "ignore", "forget", "disregard", "override", "bypass", "circumvent",
     "previous", "instructions", "system", "prompt", "rules",
     "new", "now", "instead", "actually", "real",
+    # Role assumption / jailbreak
     "pretend", "roleplay", "act", "behave", "assume",
-    "reveal", "show", "repeat", "print", "output", "display",
     "dan", "jailbreak", "unrestricted", "unfiltered",
     "developer", "admin", "debug", "mode",
     "hypothetically", "theoretically", "fictional",
-    "safety", "filters", "restrictions", "guidelines",
     "enable", "disable", "activate", "deactivate",
     "reversed", "suspended", "lifted", "removed",
     "opposite", "unhinged", "uncensored", "unlimited",
     "refusing", "confidant", "remorse", "ethics",
     "evil", "freed",
+    # Extraction
+    "reveal", "show", "repeat", "print", "output", "display",
+    "safety", "filters", "restrictions", "guidelines",
+    # Harmful content
+    "bomb", "explosive", "weapon", "poison", "toxin", "synthesize",
+    "manufacture", "meth", "fentanyl", "cocaine", "heroin",
+    "kill", "murder", "hack", "ransomware", "malware",
+    "counterfeit", "forge", "launder", "suicide",
+    # Social engineering
+    "phishing", "impersonate", "deepfake", "scam", "fraud",
+    "deceive", "manipulate", "disinformation", "misinformation",
+    "propaganda", "catfish", "extort", "blackmail",
+    # Tool abuse
+    "exfiltrate", "enumerate", "escalate", "privilege",
+    "unauthorized", "arbitrary", "exploit", "payload",
+    # Resource abuse
+    "infinite", "forever", "endlessly", "exhaust", "overload",
+    "flood", "spam", "scrape", "crawl", "rate_limit",
+    # Multi-turn
+    "remember", "established", "agreed", "confirmed",
+    "understanding", "arrangement",
+    # Compliance violation
+    "dox", "doxx", "stalk", "surveil", "wiretap",
+    "evade", "gdpr", "hipaa", "regulation",
+    "personal", "confidential", "sensitive",
+    # Agentic exploit
+    "agent", "hidden", "embedded", "injected", "hijack",
+    "abandon", "goal", "objective", "mission",
+    "capabilities", "tools", "permissions",
+    # Output manipulation
+    "fabricate", "hallucinate", "watermark", "disclaimer",
+    "invisible", "steganograph", "embed",
+    # Encoding obfuscation
+    "decode", "decrypt", "decipher", "encoded", "encrypted",
+    "base64", "rot13", "hex", "obfuscate",
+    # Logic exploitation
+    "paradox", "redefine", "logically", "obligated",
+    "coerce", "biased", "censored", "prove",
 })
 
 
@@ -338,7 +608,8 @@ def _count_unicode_anomalies(text: str) -> int:
 def detect_intent_type(text: str) -> str:
     """Classify the intent of the prompt.
 
-    Returns one of: query, instruct, override, extract, jailbreak, benign
+    Returns one of: query, instruct, override, extract, jailbreak,
+    harmful, abuse, manipulate, benign
     """
     text_lower = text.lower()
 
@@ -357,6 +628,54 @@ def detect_intent_type(text: str) -> str:
     for pattern in _EXTRACTION_PATTERNS:
         if re.search(pattern, text_lower):
             return "extract"
+
+    # Harmful content — requests for dangerous/illegal information
+    for pattern in _HARMFUL_CONTENT_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "harmful"
+
+    # Social engineering — manipulation and deception
+    for pattern in _SOCIAL_ENGINEERING_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "manipulate"
+
+    # Tool/resource abuse
+    for pattern in _TOOL_ABUSE_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "abuse"
+    for pattern in _RESOURCE_ABUSE_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "abuse"
+
+    # Agentic exploits
+    for pattern in _AGENTIC_EXPLOIT_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "manipulate"
+
+    # Output manipulation
+    for pattern in _OUTPUT_MANIPULATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "manipulate"
+
+    # Logic exploitation
+    for pattern in _LOGIC_EXPLOITATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "manipulate"
+
+    # Compliance violations
+    for pattern in _COMPLIANCE_VIOLATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "abuse"
+
+    # Multi-turn attacks
+    for pattern in _MULTI_TURN_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "manipulate"
+
+    # Encoding obfuscation
+    for pattern in _ENCODING_OBFUSCATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "override"
 
     # Check role assumption (broader than jailbreak)
     for pattern in _ROLE_ASSUMPTION_PATTERNS:
@@ -387,41 +706,94 @@ def detect_attack_family(text: str) -> str:
     """Classify the attack family.
 
     Returns one of: none, role_assumption, instruction_override,
-    context_manipulation, delimiter_injection, extraction, indirect_injection
+    context_manipulation, delimiter_injection, extraction, indirect_injection,
+    encoding_obfuscation, logic_exploitation, harmful_content,
+    social_engineering, tool_abuse, resource_abuse, multi_turn,
+    compliance_violation, agentic_exploit, output_manipulation
     """
     text_lower = text.lower()
 
-    # Jailbreak (rule reversal, game framing, persona) → role_assumption family
+    # --- Harmful content (highest severity, check first) ---
+    for pattern in _HARMFUL_CONTENT_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "harmful_content"
+
+    # --- Social engineering ---
+    for pattern in _SOCIAL_ENGINEERING_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "social_engineering"
+
+    # --- Jailbreak → role_assumption family ---
     for pattern in _JAILBREAK_PATTERNS:
         if re.search(pattern, text_lower):
             return "role_assumption"
 
-    # Role assumption
+    # --- Role assumption ---
     for pattern in _ROLE_ASSUMPTION_PATTERNS:
         if re.search(pattern, text_lower):
             return "role_assumption"
 
-    # Instruction override
+    # --- Encoding obfuscation (before context_manipulation — "real instructions are encoded") ---
+    for pattern in _ENCODING_OBFUSCATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "encoding_obfuscation"
+
+    # --- Instruction override ---
     for pattern in _OVERRIDE_PATTERNS:
         if re.search(pattern, text_lower):
             return "instruction_override"
 
-    # Context manipulation
+    # --- Context manipulation ---
     for pattern in _CONTEXT_MANIPULATION_PATTERNS:
         if re.search(pattern, text_lower):
             return "context_manipulation"
 
-    # Delimiter injection
+    # --- Tool abuse ---
+    for pattern in _TOOL_ABUSE_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "tool_abuse"
+
+    # --- Resource abuse ---
+    for pattern in _RESOURCE_ABUSE_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "resource_abuse"
+
+    # --- Agentic exploit ---
+    for pattern in _AGENTIC_EXPLOIT_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "agentic_exploit"
+
+    # --- Output manipulation ---
+    for pattern in _OUTPUT_MANIPULATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "output_manipulation"
+
+    # --- Logic exploitation ---
+    for pattern in _LOGIC_EXPLOITATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "logic_exploitation"
+
+    # --- Compliance violation ---
+    for pattern in _COMPLIANCE_VIOLATION_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "compliance_violation"
+
+    # --- Multi-turn ---
+    for pattern in _MULTI_TURN_PATTERNS:
+        if re.search(pattern, text_lower):
+            return "multi_turn"
+
+    # --- Delimiter injection ---
     if detect_delimiter_type(text) != "none":
         if detect_intent_type(text) != "benign":
             return "delimiter_injection"
 
-    # Extraction
+    # --- Extraction ---
     for pattern in _EXTRACTION_PATTERNS:
         if re.search(pattern, text_lower):
             return "extraction"
 
-    # Indirect injection (hidden in data-like content)
+    # --- Indirect injection (hidden in data-like content) ---
     if detect_encoding_type(text) != "none" and detect_intent_type(text) != "benign":
         return "indirect_injection"
 
