@@ -15,8 +15,8 @@ Built on [**Glyphh Ada 1.1**](https://www.glyphh.ai/products/runtime) · **[Docs
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
-# Install with runtime dependencies (includes FastAPI, SQLAlchemy, pgvector)
-pip install 'glyphh[runtime]'
+# Install Glyphh (includes runtime)
+pip install glyphh
 ```
 
 ### 2. Install audio dependencies
@@ -31,18 +31,14 @@ pip install librosa soundfile
 
 Both backends extract the same feature roles. openSMILE uses the standardized eGeMAPS v02 feature set. The librosa fallback computes equivalent features using LPC (formants), pyin (F0/jitter), and autocorrelation (HNR).
 
-### 3. Clone and start the model
+### 3. Install the model
 
 ```bash
-git clone https://github.com/glyphh-ai/model-voice.git
-cd model-voice
-
 # Start the Glyphh shell (prompts login on first run)
 glyphh
 
 # Inside the shell:
-# glyphh> model package                           # build .glyphh package
-# glyphh> model deploy model-voice.glyphh         # deploy to runtime
+# glyphh> hub install model-voice
 ```
 
 ### 4. Enroll and identify speakers
