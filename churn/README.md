@@ -15,35 +15,21 @@ Built on [**Glyphh Ada 1.1**](https://www.glyphh.ai/products/runtime) · **[Docs
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
-# Install with runtime dependencies (includes FastAPI, SQLAlchemy, pgvector)
-pip install 'glyphh[runtime]'
+# Install Glyphh (includes runtime)
+pip install glyphh
 ```
 
-### 2. Clone and start the model
+### 2. Install the model
 
 ```bash
-git clone https://github.com/glyphh-ai/model-churn.git
-cd model-churn
-
 # Start the Glyphh shell (prompts login on first run)
 glyphh
 
 # Inside the shell:
-# glyphh> dev start              # starts local dev server
+# glyphh> hub install model-churn
 ```
 
-### 3. Deploy the model
-
-```bash
-glyphh
-# glyphh> model package                              # build .glyphh package
-# glyphh> model deploy model-churn.glyphh            # deploy to runtime
-
-# Load demo customer data
-# glyphh> model load demo/customers.jsonl
-```
-
-### 4. Query the model
+### 3. Query the model
 
 ```bash
 # Inside the shell:
@@ -315,9 +301,6 @@ Customer records are ingested separately via the listener API — the same path 
 ```bash
 # 1. Start the Glyphh shell (prompts login on first run)
 glyphh
-
-# Inside the shell:
-# glyphh> dev start --daemon   # start dev server in background
 
 # 2. Seed 25 demo customers (from a separate terminal)
 python seed_demo.py
