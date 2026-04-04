@@ -15,22 +15,18 @@ Built on [**Glyphh Ada 1.1**](https://www.glyphh.ai/products/runtime) · **[Docs
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
-# Install with runtime dependencies (includes FastAPI, SQLAlchemy, pgvector)
-pip install 'glyphh[runtime]'
+# Install Glyphh (includes runtime)
+pip install glyphh
 ```
 
-### 2. Clone and start the model
+### 2. Install the model
 
 ```bash
-git clone https://github.com/glyphh-ai/model-firewall.git
-cd model-firewall
-
 # Start the Glyphh shell (prompts login on first run)
 glyphh
 
 # Inside the shell:
-# glyphh> model package                              # build .glyphh package
-# glyphh> model deploy model-firewall.glyphh         # deploy to runtime
+# glyphh> hub install model-firewall
 ```
 
 ### 3. Scan prompts
