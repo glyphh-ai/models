@@ -1,0 +1,95 @@
+name: models
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  # library.json is the discovery manifest — keep it honest and consistent.
+  validate-library:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate library.json against the repo
+        run: |
+          python3 - <<'EOF'
+          import json, sys
+          from pathlib import Path
+
+          lib = json.load(open("library.json"))
+          assert lib.get("library_version") == 1, "unknown library_version"
+          models = lib["models"]
+          states = set(lib["states"])
+          bad = []
+          for name, entry in models.items():
+              if entry.get("state") not in states:
+                  bad.append(f"{name}: unknown state {entry.get('state')!r}")
+              src = Path(entry.get("source", name))
+              if not src.is_dir():
+                  bad.append(f"{name}: source dir '{src}' missing")
+              elif entry.get("state") in ("buildable", "source", "incomplete") \
+                      and not (src / "manifest.yaml").is_file():
+                  bad.append(f"{name}: no manifest.yaml in '{src}'")
+          # every model dir with a manifest must be listed
+          listed = {e.get("source", n) for n, e in models.items()}
+          for d in sorted(Path(".").iterdir()):
+              if d.is_dir() and (d / "manifest.yaml").is_file() \
+                      and d.name not in listed:
+                  bad.append(f"unlisted model dir: {d.name}")
+          if bad:
+              print("\n".join(bad)); sys.exit(1)
+          print(f"library.json OK — {len(models)} models")
+          EOF
+
+  # The golden path: bfcl (and toolrouter) build end-to-end with only
+  # `pip install glyphh`. Advisory until the runtime v3 wheel ships to PyPI
+  # (the name currently still hosts the retired 2.x SDK) — flip
+  # continue-on-error off once `pip install "glyphh>=3"` resolves.
+  build-golden-path:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the glyphh runtime
+        run: pip install "glyphh>=3.0.0"
+      - name: Build bfcl (the golden path)
+        run: glyphh models build bfcl/ -o bfcl-function-caller.glyphh
+      - name: Build toolrouter
+        run: glyphh models build toolrouter/ -o saas-tool-router.glyphh
+      - name: Install + route (runtime smoke)
+        run: |
+          glyphh models install ./bfcl-function-caller.glyphh
+          glyphh models list
+          glyphh models route bfcl-function-caller \
+            "Move 'final_report.pdf' within document directory to 'temp' directory in document"
+
+  # Per-model test suites, where present. Most target the retired SDK —
+  # advisory (allow-failure) until each model is ported; library.json marks
+  # every model's actual state.
+  model-tests:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        model: [churn, code, deals, faq, firewall, marketing, pipedream,
+                sentinel, toolrouter, voice]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run ${{ matrix.model }} tests (advisory — legacy SDK)
+        run: |
+          if [ -d "${{ matrix.model }}/tests" ]; then
+            pip install pytest pyyaml numpy
+            [ -f "${{ matrix.model }}/requirements.txt" ] && \
+              pip install -r "${{ matrix.model }}/requirements.txt" || true
+            cd "${{ matrix.model }}" && python -m pytest tests -q
+          else
+            echo "no tests/ in ${{ matrix.model }} — skipping"
+          fi

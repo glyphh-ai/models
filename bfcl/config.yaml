@@ -46,3 +46,19 @@ cognitive_loop:
   enabled: true
   dimension: 10000
   confidence_threshold: 0.10
+
+# ── glyphh models v1 build mapping (runtime-declarative; see runtime docs/models.md)
+# `glyphh models build bfcl/` reads this: each eval case becomes one exemplar —
+# the NL query routes to the FIRST ground-truth function call's name. Built
+# with the runtime's own HDC encoder; encoder.py (retired SDK) is not executed.
+build:
+  data: [data/eval_cases.jsonl]
+  label:
+    field: ground_truth
+    extract: "^\\s*([A-Za-z_][A-Za-z0-9_.]*)"
+  roles:
+    signature.function_name: { from: label }
+    semantics.description:   { from: query }
+
+query:
+  roles: [semantics.description]
