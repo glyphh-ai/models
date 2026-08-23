@@ -13,8 +13,7 @@
       "version": "0.2.0",
       "state": "buildable",
       "source": "bfcl",
-      "description": "BFCL function router — routes NL queries to the correct function via weighted-layer HDC cosine. 2724 exemplars, 75 functions. The golden path.",
-      "download": "https://github.com/glyphh-ai/models/releases/download/bfcl-v0.2.0/bfcl-function-caller.glyphh",
+      "description": "BFCL function router — routes NL queries to the correct function via weighted-layer HDC cosine. 2724 exemplars, 75 functions. The golden path: builds end-to-end with `glyphh models build bfcl/`.",
       "package": "bfcl-function-caller"
     },
     "toolrouter": {

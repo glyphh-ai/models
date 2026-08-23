@@ -37,8 +37,8 @@ lifecycle are specified in the runtime repo's `docs/models.md`.
 **`library.json`** at the repo root is the discovery manifest
 (`glyphh models install <name>` reads it) and records each model's honest
 state: `buildable` · `source` (needs a `build:` mapping) · `incomplete` ·
-`placeholder`. `bfcl` is the golden path — buildable end-to-end, with a
-prebuilt package attached to a GitHub release.
+`placeholder`. `bfcl` is the golden path — buildable end-to-end. (Prebuilt release
+assets can back a `download` URL per entry once published.)
 
 ---
 
