@@ -1,0 +1,15 @@
+name: English
+description: The English base for Ada. One record per word from WordNet 3.0, its synonyms and its neighbours as sets, so any Ada model whose text roles name this base takes a word's neighbours from here and never from a language model.
+version: 1.0.0
+author: Glyphh AI
+license: MIT
+icon: 📖
+category: base
+public: true
+kind: ada
+tags:
+  - ada
+  - base
+  - english
+  - wordnet
+  - lexicon
