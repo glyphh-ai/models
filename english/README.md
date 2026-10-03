@@ -35,7 +35,7 @@ this folder whenever `version` here changes.
 ```bash
 # 1. the model, with an Ada API key from the Glyphh app
 curl https://api.glyphh.ai/ada -H "x-glyphh-api-key: Bearer $GLYPHH_API_KEY" -H "content-type: application/json" \
-  -d "$(jq -n --slurpfile spec spec.json '{op: "create_model", name: "english", storage: "cloud", spec: $spec[0]}')"
+  -d "$(jq -n --slurpfile spec spec.json '{op: "create_model", name: "english", spec: $spec[0]}')"
 # -> {"data": {"model_id": "am_…", ...}}
 
 # 2. the words, streamed; the first line names the model
@@ -43,8 +43,8 @@ curl https://api.glyphh.ai/ada -H "x-glyphh-api-key: Bearer $GLYPHH_API_KEY" -H 
   curl https://api.glyphh.ai/ada/load -H "x-glyphh-api-key: Bearer $GLYPHH_API_KEY" -H "content-type: application/x-ndjson" --data-binary @-
 ```
 
-Or with the SDK: `ada.createModel({ name: "english", storage: "cloud", spec })`,
-then `model.stream(records)` (TypeScript) / `model.stream(records)` (Python).
+Or with the SDK: `ada.createModel({ name: "english", spec })`, then
+`model.stream(records)` (TypeScript) / `model.stream(records)` (Python).
 
 ## Use it
 

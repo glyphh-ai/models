@@ -21,6 +21,17 @@
       ],
       "row": "glyphh-ada-eng-1.0"
     },
+    "pos": {
+      "version": "1.0.0",
+      "state": "hosted",
+      "source": "pos",
+      "description": "The parts-of-speech base for Ada: 192,960 English word forms from the Moby Part-of-Speech list, each with its parts of speech as a set and its function-word class. A text role that names it as `base` reads a word's grammatical place with no language model in the path.",
+      "spec": "pos/spec.json",
+      "data": [
+        "pos/data/words.jsonl"
+      ],
+      "row": "glyphh-ada-pos-1.0"
+    },
     "bfcl": {
       "version": "0.2.0",
       "state": "buildable",
