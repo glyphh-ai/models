@@ -7,6 +7,9 @@ icon: 📖
 category: base
 public: true
 kind: ada
+# The catalog row Glyphh publishes it under; the server's deploy loads a new
+# version from here and lists it there (glyphh/scripts/publish_models.py).
+row: glyphh-ada-eng-1.0
 tags:
   - ada
   - base

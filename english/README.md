@@ -23,7 +23,14 @@ ceiling (0.95), so a word is never exactly another word.
 
 77,818 single words. Phrases are left out: a text role scores words.
 
-## Load it
+## Published as `glyphh-ada-eng-1.0`
+
+Glyphh hosts this model for every organization under the catalog row
+`glyphh-ada-eng-1.0`, priced at almost nothing. Name it as a base by that row:
+`"base": "glyphh-ada-eng-1.0"`. The server's deploy loads a new version from
+this folder whenever `version` here changes.
+
+## Load it yourself
 
 ```bash
 # 1. the model, with an Ada API key from the Glyphh app
