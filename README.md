@@ -1,3 +1,7 @@
+# Glyphh Ada
+
+> **Discontinued (October 2026).** Ada is no longer part of Glyphh. The `/ada` endpoint, the `ada_*` tools, the `@glyphh-ai/ada` npm package and the `glyphh-ada` PyPI package have been withdrawn. The product is [Glyphh Desktop](https://glyphh.ai/products/desktop) and the Model Router. This repository is kept for the record.
+
 # Glyphh Models
 
 Open source HDC models for the [Glyphh](https://glyphh.ai) runtime — compiled
