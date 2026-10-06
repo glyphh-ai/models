@@ -1,40 +1,41 @@
 {
   "library_version": 1,
   "updated": "2026-10-03",
-  "docs": "https://github.com/glyphh-ai/runtime \u2014 docs/models.md (format + lifecycle)",
+  "docs": "https://github.com/glyphh-ai/runtime — docs/models.md (format + lifecycle)",
   "states": {
     "buildable": "builds end-to-end with `glyphh models build <dir>` (runtime >= 3.0)",
     "source": "has exemplar data; needs a `build:` mapping (or query tuning) in config.yaml",
-    "incomplete": "missing exemplar data or a layer schema \u2014 not yet buildable",
-    "placeholder": "name reserved; no model content yet"
+    "incomplete": "missing exemplar data or a layer schema — not yet buildable",
+    "placeholder": "name reserved; no model content yet",
+    "hosted": "a hosted Ada model: create it from spec.json with ada_create_model and stream data/*.jsonl through POST /ada/load (or the SDK's stream); nothing runs locally"
   },
   "models": {
     "bfcl": {
       "version": "0.2.0",
       "state": "buildable",
       "source": "bfcl",
-      "description": "BFCL function router \u2014 routes NL queries to the correct function via weighted-layer HDC cosine. 2724 exemplars, 75 functions. The golden path: builds end-to-end with `glyphh models build bfcl/`.",
+      "description": "BFCL function router — routes NL queries to the correct function via weighted-layer HDC cosine. 2724 exemplars, 75 functions. The golden path: builds end-to-end with `glyphh models build bfcl/`.",
       "package": "bfcl-function-caller"
     },
     "toolrouter": {
       "version": "3.4.0",
       "state": "buildable",
       "source": "toolrouter",
-      "description": "SaaS tool router \u2014 routes NL requests to 38 SaaS tool functions (slack, stripe, jira, \u2026). Builds by convention; routes correctly on spot checks.",
+      "description": "SaaS tool router — routes NL requests to 38 SaaS tool functions (slack, stripe, jira, …). Builds by convention; routes correctly on spot checks.",
       "package": "saas-tool-router"
     },
     "firewall": {
       "version": "1.0.0",
       "state": "source",
       "source": "firewall",
-      "description": "Prompt-injection firewall \u2014 232 attack/benign exemplars over 18 labels. Builds, but its query mapping needs tuning before scores are meaningful.",
+      "description": "Prompt-injection firewall — 232 attack/benign exemplars over 18 labels. Builds, but its query mapping needs tuning before scores are meaningful.",
       "package": "prompt-injection-firewall"
     },
     "churn": {
       "version": "0.3.3",
       "state": "source",
       "source": "churn",
-      "description": "Churn-risk classifier. Exemplar fields don't match role names \u2014 needs a `build:` mapping in config.yaml."
+      "description": "Churn-risk classifier. Exemplar fields don't match role names — needs a `build:` mapping in config.yaml."
     },
     "deals": {
       "version": "0.1.0",
@@ -58,31 +59,31 @@
       "version": "0.2.0",
       "state": "incomplete",
       "source": "faq",
-      "description": "FAQ matcher \u2014 config.yaml predates the layer schema (no layers declared)."
+      "description": "FAQ matcher — config.yaml predates the layer schema (no layers declared)."
     },
     "code": {
       "version": "0.1.0",
       "state": "incomplete",
       "source": "code",
-      "description": "Code navigation model \u2014 no layer schema and no committed exemplar data."
+      "description": "Code navigation model — no layer schema and no committed exemplar data."
     },
     "sentinel": {
       "version": "0.1.0",
       "state": "incomplete",
       "source": "sentinel",
-      "description": "Sentinel anomaly model \u2014 layer schema present, no exemplar data committed."
+      "description": "Sentinel anomaly model — layer schema present, no exemplar data committed."
     },
     "voice": {
       "version": "0.12.0",
       "state": "incomplete",
       "source": "voice",
-      "description": "Voice intent model \u2014 layer schema present, no exemplar data committed."
+      "description": "Voice intent model — layer schema present, no exemplar data committed."
     },
     "iris": {
       "version": "0.0.0",
       "state": "placeholder",
       "source": "iris",
-      "description": "README only \u2014 no model content yet."
+      "description": "README only — no model content yet."
     }
   }
 }

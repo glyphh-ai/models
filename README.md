@@ -42,6 +42,16 @@ assets can back a `download` URL per entry once published.)
 
 ---
 
+## Hosted Ada models
+
+Some entries are not runtime builds but hosted [Ada](https://docs.glyphh.ai/ada)
+models (`state: hosted` in `library.json`, `kind: ada` in the manifest). They
+carry a `spec.json` for `ada_create_model` and `data/*.jsonl` of records to
+stream through `POST /ada/load`; the kernel runs on Glyphh's servers and
+nothing is built locally. The server's deploy publishes each one under the
+catalog row its manifest names. English and grammar are not among them: Ada
+reads English by itself, as part of the runtime.
+
 ## Repository Structure
 
 Each model lives as a git submodule under this repo. The structure is the same
